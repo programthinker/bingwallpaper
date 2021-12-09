@@ -32,9 +32,11 @@ jobs:
       - name: Run Java Application
         run: java -jar target/bingwallpaper-jar-with-dependencies.jar
       - name: Commit files
-        run:
+        run: |
+         git config --local user.email "zgycareer@126.com"
+         git config --local user.name "zgycareer"
          git add README.md
-         git commit -m "update README.md"
+         git commit -m "update readme.md"
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:
