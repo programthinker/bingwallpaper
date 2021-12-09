@@ -43,7 +43,7 @@ public class BingWallPaperDownload {
 
         //图片的版权信息描述，可用于图片名
         String copyright = (String) jsonObject.get("copyright");
-        String imageName = "todaybing_FHD-" + copyright.split("\\(")[0] + "_" + DateFormat.getDateInstance().format(new Date()) + "_4K" + suffix;
+        String imageName = "todaybing_FHD-" + copyright.split("\\(")[0] + "_" + LocalDate.now() + "_4K" + suffix;
 
         String imageUrl = realDownLoadUrl + suffix;
 
