@@ -1,0 +1,1 @@
+hello，这是一个基于GitHub的actions，实现每天定时更新必应壁纸的Java脚本。
