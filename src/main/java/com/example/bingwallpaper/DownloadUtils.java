@@ -24,7 +24,7 @@ import java.util.List;
 
 public class DownloadUtils {
 
-    private static Path readmePath = Paths.get("README.md");
+    private static Path readmePath = Paths.get("READ.md");
 
     private static String downloadLocation = "";
 
