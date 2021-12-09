@@ -1,8 +1,6 @@
 package com.example.bingwallpaper;
 
-import org.apache.commons.io.FileUtils;
 
-import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -29,7 +27,6 @@ public class ReadMeUtils {
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, url.getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-
     }
 
 }

@@ -49,7 +49,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.wdbyte.bing.Wallpaper</mainClass>
+                            <mainClass>com.example.bingwallpaper.BingWallPaperDownload</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
