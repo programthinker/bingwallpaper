@@ -6,7 +6,7 @@ name: CI
 on:
   schedule:
     # 定时执行，Runs at 17:00 UTC every day
-    - cron:  '0 17 * * *'
+    - cron:  '0 19 * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 
   # Allows you to run this workflow manually from the Actions tab
