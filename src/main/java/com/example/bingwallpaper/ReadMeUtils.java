@@ -17,7 +17,7 @@ import java.nio.file.StandardOpenOption;
  */
 
 public class ReadMeUtils {
-    private static Path readmePath = Paths.get("README.md");
+    private static Path readmePath = Paths.get("READ.md");
 
     public static void writeToReadme(String imageName, String url) throws Exception {
         if (!Files.exists(readmePath)) {
