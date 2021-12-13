@@ -38,10 +38,8 @@ public class DownloadUtils {
             hashMap.put(strings.get(i), strings.get(i + 1));
             i++;
         }
-        System.out.println(hashMap);
 
-        for (String s : hashMap.keySet()) {
-            String name = s;
+        for (String name : hashMap.keySet()) {
             String url = hashMap.get(name);
             ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
 
