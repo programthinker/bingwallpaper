@@ -14,7 +14,7 @@ import java.time.LocalDate;
  * @Date 2021-12-09 17:00
  * @Description
  * @Version 1.0
- */ 
+ */
 
 public class BingWallPaperDownload {
 
@@ -42,7 +42,7 @@ public class BingWallPaperDownload {
 
         //图片的版权信息描述，可用于图片名
         String copyright = (String) jsonObject.get("copyright");
-        String imageName = "todaybing_FHD-" + copyright.split("\\(")[0] + "_" + LocalDate.now() + "_4K" + suffix;
+        String imageName = "BingWallPaper-" + LocalDate.now() + "-" + copyright.split("\\(")[0].trim() + "-4K" + suffix;
 
         String imageUrl = realDownLoadUrl + suffix;
 
