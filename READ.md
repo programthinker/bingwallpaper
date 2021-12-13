@@ -1,5 +1,3 @@
-BingWallPaper-2021-12-13-暮色中的面包山和老城区，厄瓜多尔基多-4K.jpg
-https://cn.bing.com/th?id=OHR.ElPanecilloHill_ZH-CN0527709139_UHD.jpg
 BingWallPaper-2021-12-09-蓝山国家公园里的萤火虫，澳大利亚-4K.jpg
 https://cn.bing.com/th?id=OHR.GlowWormBMNP_ZH-CN9173680006_UHD.jpg
 BingWallPaper-2021-12-10-北极狐，挪威多弗勒山-松达尔国家-4K.jpg
