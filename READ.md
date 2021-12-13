@@ -8,3 +8,5 @@ BingWallPaper-2021-12-11-珠穆朗玛峰的影子，尼泊尔喜马拉雅西部-
 https://cn.bing.com/th?id=OHR.ShadowEverest_ZH-CN9951649290_UHD.jpg
 BingWallPaper-2021-12-12-别致的柳条田野，西班牙Cañamares-4K.jpg
 https://cn.bing.com/th?id=OHR.WickerCultivation_ZH-CN0310713697_UHD.jpg
+BingWallPaper-2021-12-13-暮色中的面包山和老城区，厄瓜多尔基多-4K.jpg
+https://cn.bing.com/th?id=OHR.ElPanecilloHill_ZH-CN0527709139_UHD.jpg
