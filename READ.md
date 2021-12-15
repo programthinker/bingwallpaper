@@ -12,3 +12,5 @@ BingWallPaper-2021-12-13-暮色中的面包山和老城区，厄瓜多尔基多-
 https://cn.bing.com/th?id=OHR.ElPanecilloHill_ZH-CN0527709139_UHD.jpg
 BingWallPaper-2021-12-14-伫立枝头的旅鸫鸟，加拿大-4K.jpg
 https://cn.bing.com/th?id=OHR.AmericanRobin_ZH-CN0667508209_UHD.jpg
+BingWallPaper-2021-12-15-坎塔布里亚的小教堂，西班牙-4K.jpg
+https://cn.bing.com/th?id=OHR.SantaJusta_ZH-CN0849826455_UHD.jpg
