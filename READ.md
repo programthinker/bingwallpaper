@@ -14,3 +14,5 @@ BingWallPaper-2021-12-14-伫立枝头的旅鸫鸟，加拿大-4K.jpg
 https://cn.bing.com/th?id=OHR.AmericanRobin_ZH-CN0667508209_UHD.jpg
 BingWallPaper-2021-12-15-坎塔布里亚的小教堂，西班牙-4K.jpg
 https://cn.bing.com/th?id=OHR.SantaJusta_ZH-CN0849826455_UHD.jpg
+BingWallPaper-2021-12-16-韦尼格罗德的圣诞市场，德国萨克��-安哈尔特州-4K.jpg
+https://cn.bing.com/th?id=OHR.WernigerodeWeihnachtsmarkt_ZH-CN1081480865_UHD.jpg
