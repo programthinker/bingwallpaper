@@ -20,3 +20,5 @@ BingWallPaper-2021-12-17-圣诞主题的海滩小屋，英国伯恩茅斯-4K.jpg
 https://cn.bing.com/th?id=OHR.XmasBeachHuts_ZH-CN6195800613_UHD.jpg
 BingWallPaper-2021-12-18-阿尔萨斯的葡萄酒村，法国上莱茵省-4K.jpg
 https://cn.bing.com/th?id=OHR.WinterRoofs_ZH-CN5091303265_UHD.jpg
+BingWallPaper-2021-12-19-布鲁克斯山脉上空的极光，美国阿拉斯加州-4K.jpg
+https://cn.bing.com/th?id=OHR.AtigunPassAurora_ZH-CN5486073819_UHD.jpg
