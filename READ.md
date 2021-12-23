@@ -28,3 +28,5 @@ BingWallPaper-2021-12-21-西西伯利亚森林中的阳光，俄罗斯拉杜日�
 https://cn.bing.com/th?id=OHR.SiberianSunset_ZH-CN5711093662_UHD.jpg
 BingWallPaper-2021-12-22-投射在安纳西中皇岛墙上的雪景影像，法国���萨瓦省-4K.jpg
 https://cn.bing.com/th?id=OHR.AnnecyFrance_ZH-CN5773797252_UHD.jpg
+BingWallPaper-2021-12-23-两只玩耍的北极熊，加拿大丘吉尔镇-4K.jpg
+https://cn.bing.com/th?id=OHR.ManitobaBears_ZH-CN5877672648_UHD.jpg
