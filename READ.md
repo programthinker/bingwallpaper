@@ -30,3 +30,5 @@ BingWallPaper-2021-12-22-投射在安纳西中皇岛墙上的雪景影像，法�
 https://cn.bing.com/th?id=OHR.AnnecyFrance_ZH-CN5773797252_UHD.jpg
 BingWallPaper-2021-12-23-两只玩耍的北极熊，加拿大丘吉尔镇-4K.jpg
 https://cn.bing.com/th?id=OHR.ManitobaBears_ZH-CN5877672648_UHD.jpg
+BingWallPaper-2021-12-24-湖畔的一棵小圣诞树，奥地利魏森湖-4K.jpg
+https://cn.bing.com/th?id=OHR.Rauchnachte_ZH-CN6061051054_UHD.jpg
