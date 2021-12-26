@@ -34,3 +34,5 @@ BingWallPaper-2021-12-24-湖畔的一棵小圣诞树，奥地利魏森湖-4K.jpg
 https://cn.bing.com/th?id=OHR.Rauchnachte_ZH-CN6061051054_UHD.jpg
 BingWallPaper-2021-12-25-宛如圣诞精灵的树干，乌克兰喀尔巴阡山脉-4K.jpg
 https://cn.bing.com/th?id=OHR.KhomyakMountain_ZH-CN6296455717_UHD.jpg
+BingWallPaper-2021-12-26-日光下的村落，英格兰东萨塞克斯郡-4K.jpg
+https://cn.bing.com/th?id=OHR.SalehurstChurch_ZH-CN6419013724_UHD.jpg
