@@ -44,3 +44,5 @@ BingWallPaper-2021-12-29-育空地区的落基山羊，加拿大-4K.jpg
 https://cn.bing.com/th?id=OHR.OreamnosAmericanus_ZH-CN6731612431_UHD.jpg
 BingWallPaper-2021-12-30-星空下的灯塔，德国Westerhever镇-4K.jpg
 https://cn.bing.com/th?id=OHR.WesterheverLight_ZH-CN6827035695_UHD.jpg
+BingWallPaper-2021-12-31-跨年夜的篝火晚会，冰岛雷克雅未克-4K.jpg
+https://cn.bing.com/th?id=OHR.IcelandBonfire_ZH-CN9270966209_UHD.jpg
