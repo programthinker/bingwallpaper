@@ -46,3 +46,5 @@ BingWallPaper-2021-12-30-星空下的灯塔，德国Westerhever镇-4K.jpg
 https://cn.bing.com/th?id=OHR.WesterheverLight_ZH-CN6827035695_UHD.jpg
 BingWallPaper-2021-12-31-跨年夜的篝火晚会，冰岛雷克雅未克-4K.jpg
 https://cn.bing.com/th?id=OHR.IcelandBonfire_ZH-CN9270966209_UHD.jpg
+BingWallPaper-2022-01-01-睡在海滩上的竖琴海豹，纽约长岛-4K.jpg
+https://cn.bing.com/th?id=OHR.JonesBeachHarpSeal_ZH-CN9584238333_UHD.jpg
