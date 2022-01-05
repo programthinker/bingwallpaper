@@ -54,3 +54,5 @@ BingWallPaper-2022-01-03-汉密尔顿山顶的利克天文台，美国加利福�
 https://cn.bing.com/th?id=OHR.LickObservatory_ZH-CN9676762110_UHD.jpg
 BingWallPaper-2022-01-04-安沙波利哥沙漠州立公园，美国加利福尼亚州-4K.jpg
 https://cn.bing.com/th?id=OHR.BorregoBadlands_ZH-CN9913349081_UHD.jpg
+BingWallPaper-2022-01-05-树干上的扁嘴山巨嘴鸟，厄瓜多尔-4K.jpg
+https://cn.bing.com/th?id=OHR.MountainToucan_ZH-CN9939482570_UHD.jpg
