@@ -58,3 +58,5 @@ BingWallPaper-2022-01-05-树干上的扁嘴山巨嘴鸟，厄瓜多尔-4K.jpg
 https://cn.bing.com/th?id=OHR.MountainToucan_ZH-CN9939482570_UHD.jpg
 BingWallPaper-2022-01-06-冬日里的科赫尔湖，德国巴伐利亚州-4K.jpg
 https://cn.bing.com/th?id=OHR.LakeKochelsee_ZH-CN0004970986_UHD.jpg
+BingWallPaper-2022-01-07-纳扎雷灯塔，葡萄牙-4K.jpg
+https://cn.bing.com/th?id=OHR.FortedeSao_ZH-CN0093358703_UHD.jpg
