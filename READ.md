@@ -62,3 +62,5 @@ BingWallPaper-2022-01-07-纳扎雷灯塔，葡萄牙-4K.jpg
 https://cn.bing.com/th?id=OHR.FortedeSao_ZH-CN0093358703_UHD.jpg
 BingWallPaper-2022-01-08-黄石国家公园的美洲野牛，美国怀俄明州-4K.jpg
 https://cn.bing.com/th?id=OHR.WinterBison_ZH-CN0120689382_UHD.jpg
+BingWallPaper-2022-01-09-正在晾晒的大米，孟加拉国达卡-4K.jpg
+https://cn.bing.com/th?id=OHR.RiceBangladesh_ZH-CN0196473460_UHD.jpg
