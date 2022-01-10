@@ -9,7 +9,7 @@ import java.net.URLConnection;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
 
 /**
@@ -26,19 +26,17 @@ public class DownloadUtils {
 
     private static Path readmePath = Paths.get("READ.md");
 
-    private static String downloadLocation = "";
+    private static String downloadLocation = "/Users/zhanggeyang/Pictures/BingWallPaper/";
 
     //解析readme，下载到本地
     public static void downloadImage() throws Exception {
 
         List<String> strings = Files.readAllLines(readmePath);
-        HashMap<String, String> hashMap = new HashMap<>();
-
+        LinkedHashMap<String, String> hashMap = new LinkedHashMap<>();
         for (int i = 0; i < strings.size(); i++) {
             hashMap.put(strings.get(i), strings.get(i + 1));
             i++;
         }
-
         for (String name : hashMap.keySet()) {
             String url = hashMap.get(name);
             ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
