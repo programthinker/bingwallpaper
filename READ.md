@@ -68,3 +68,5 @@ BingWallPaper-2022-01-10-在高地陶恩山脉的滑雪旅行，奥地利巴德�
 https://cn.bing.com/th?id=OHR.SkiTouring_ZH-CN0237169285_UHD.jpg
 BingWallPaper-2022-01-11-爬上柳树枝头的豪猪，美国阿拉斯加-4K.jpg
 https://cn.bing.com/th?id=OHR.PorcupineWillow_ZH-CN0280041973_UHD.jpg
+BingWallPaper-2022-01-12-梵净山，中国西南部-4K.jpg
+https://cn.bing.com/th?id=OHR.FanjingStairs_ZH-CN0360402048_UHD.jpg
