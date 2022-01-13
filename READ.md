@@ -70,3 +70,5 @@ BingWallPaper-2022-01-11-爬上柳树枝头的豪猪，美国阿拉斯加-4K.jpg
 https://cn.bing.com/th?id=OHR.PorcupineWillow_ZH-CN0280041973_UHD.jpg
 BingWallPaper-2022-01-12-梵净山，中国西南部-4K.jpg
 https://cn.bing.com/th?id=OHR.FanjingStairs_ZH-CN0360402048_UHD.jpg
+BingWallPaper-2022-01-13-搁浅船只上空的极光，格陵兰岛塔西拉克-4K.jpg
+https://cn.bing.com/th?id=OHR.TasiilaqAurora_ZH-CN0330057121_UHD.jpg
