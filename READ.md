@@ -72,3 +72,5 @@ BingWallPaper-2022-01-12-梵净山，中国西南部-4K.jpg
 https://cn.bing.com/th?id=OHR.FanjingStairs_ZH-CN0360402048_UHD.jpg
 BingWallPaper-2022-01-13-搁浅船只上空的极光，格陵兰岛塔西拉克-4K.jpg
 https://cn.bing.com/th?id=OHR.TasiilaqAurora_ZH-CN0330057121_UHD.jpg
+BingWallPaper-2022-01-13-通往萨卡洛布拉湾的路，西班牙马约卡岛-4K.jpg
+https://cn.bing.com/th?id=OHR.SaCalobra_ZH-CN0945855556_UHD.jpg
