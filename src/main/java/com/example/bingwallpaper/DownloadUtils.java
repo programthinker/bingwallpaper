@@ -1,6 +1,5 @@
 package com.example.bingwallpaper;
 
-import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
@@ -12,6 +11,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 import java.util.List;
+import java.util.Objects;
 
 /**
  * @ProjectName bingwallpaper
@@ -28,6 +28,7 @@ public class DownloadUtils {
     private static Path readmePath = Paths.get("READ.md");
 
     private static String downloadLocation = "/Users/zhanggeyang/Pictures/BingWallPaper/";
+    private static String downloadLocation1 = "/Users/zhanggeyang/Pictures/";
 
     //解析readme，下载到本地
     public static void downloadImage() throws Exception {
@@ -35,14 +36,16 @@ public class DownloadUtils {
         List<String> strings = Files.readAllLines(readmePath);
 
         for (String string : strings) {
-            String name = string.split("&&")[0];
-            String url = string.split("&&")[1];
-            HttpGet httpGet = new HttpGet(url);
-            CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
-            InputStream content = httpResponse.getEntity().getContent();
-            Path path = Paths.get(downloadLocation + name);
-            Files.copy(content,path, StandardCopyOption.REPLACE_EXISTING);
-            IOUtils.closeQuietly(content);
+            if (!Objects.isNull(string)){
+                String name = string.split("&&")[0];
+                String url = string.split("&&")[1];
+                HttpGet httpGet = new HttpGet(url);
+                CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
+                InputStream content = httpResponse.getEntity().getContent();
+                Path path = Paths.get(downloadLocation + name);
+                Files.copy(content, path, StandardCopyOption.REPLACE_EXISTING);
+                IOUtils.closeQuietly(content);
+            }
         }
     }
 
