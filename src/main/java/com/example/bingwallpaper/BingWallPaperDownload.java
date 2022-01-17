@@ -22,6 +22,7 @@ import java.time.LocalDate;
 
 public class BingWallPaperDownload {
 
+    //dadasdasdsadsa
     //官方壁纸API，包含下载地址，壁纸中文简介，
     private static String BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN";
     //自定义的下载地址前缀
