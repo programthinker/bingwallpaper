@@ -72,7 +72,6 @@ BingWallPaper-2022-01-12-梵净山，中国西南部-4K.jpg
 https://cn.bing.com/th?id=OHR.FanjingStairs_ZH-CN0360402048_UHD.jpg
 BingWallPaper-2022-01-13-搁浅船只上空的极光，格陵兰岛塔西拉克-4K.jpg
 https://cn.bing.com/th?id=OHR.TasiilaqAurora_ZH-CN0330057121_UHD.jpg
-
 BingWallPaper-2022-01-13-通往萨卡洛布拉湾的路，西班牙马约卡岛-4K.jpg
 https://cn.bing.com/th?id=OHR.SaCalobra_ZH-CN0945855556_UHD.jpg
 BingWallPaper-2022-01-14-通往萨卡洛布拉湾的路，西班牙马约卡岛-4K.jpg
@@ -83,5 +82,4 @@ BingWallPaper-2022-01-16-农场上晾晒的红辣椒，孟加拉国博格拉县-
 https://cn.bing.com/th?id=OHR.BoguraChili_ZH-CN2707755390_UHD.jpg
 BingWallPaper-2022-01-17-莱达尔湖, 英格兰坎布里亚郡湖区-4K.jpg
 https://cn.bing.com/th?id=OHR.RydalWater_ZH-CN2787617470_UHD.jpg
-BingWallPaper-2022-01-17-莱达尔湖, 英格兰坎布里亚郡湖区-4K.jpg
-https://cn.bing.com/th?id=OHR.RydalWater_ZH-CN2787617470_UHD.jpg
+
