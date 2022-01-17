@@ -1,14 +1,14 @@
 package com.example.bingwallpaper;
 
-import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.InputStream;
+import org.apache.commons.io.IOUtils;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.HttpClientBuilder;
+
+import java.io.*;
 import java.net.URL;
 import java.net.URLConnection;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.util.LinkedHashMap;
 import java.util.List;
 
@@ -32,37 +32,21 @@ public class DownloadUtils {
     public static void downloadImage() throws Exception {
 
         List<String> strings = Files.readAllLines(readmePath);
-        LinkedHashMap<String, String> hashMap = new LinkedHashMap<>();
-        for (int i = 0; i < strings.size(); i++) {
-            hashMap.put(strings.get(i), strings.get(i + 1));
-            i++;
-        }
-        for (String name : hashMap.keySet()) {
-            String url = hashMap.get(name);
-            ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
 
-            URL url1 = new URL(url);
-            URLConnection urlConnection = url1.openConnection();
-            urlConnection.setConnectTimeout(5000);
-            InputStream inputStream = urlConnection.getInputStream();
-
-            byte[] bytes = new byte[2048];
-            int len = 0;
-            while ((len = inputStream.read(bytes)) != -1) {
-                byteArrayOutputStream.write(bytes, 0, len);
-            }
-            inputStream.close();
-            byte[] imageData = byteArrayOutputStream.toByteArray();
-
-            File file = new File(downloadLocation + name);
-
-            FileOutputStream fileOutputStream = new FileOutputStream(file);
-            fileOutputStream.write(imageData);
-            fileOutputStream.close();
+        for (String string : strings) {
+            String name = string.split("&&")[0];
+            String url = string.split("&&")[1];
+            HttpGet httpGet = new HttpGet(url);
+            CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
+            InputStream content = httpResponse.getEntity().getContent();
+            Path path = Paths.get(downloadLocation + name);
+            Files.copy(content,path, StandardCopyOption.REPLACE_EXISTING);
+            IOUtils.closeQuietly(content);
         }
     }
 
     public static void main(String[] args) throws Exception {
         downloadImage();
     }
+
 }
