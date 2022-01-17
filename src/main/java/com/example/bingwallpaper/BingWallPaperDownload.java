@@ -3,6 +3,10 @@ package com.example.bingwallpaper;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.http.util.EntityUtils;
 
 import java.time.LocalDate;
 
@@ -24,17 +28,18 @@ public class BingWallPaperDownload {
     private static String BING_URL = "https://cn.bing.com";
 
     public static void main(String[] args) throws Exception {
-        String httpContent = HttpUtls.getHttpContent(BING_API);
-        JSONObject jsonObject = JSON.parseObject(httpContent);
+        HttpGet httpGet = new HttpGet(BING_API);
+        CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
+        String content = EntityUtils.toString(httpResponse.getEntity());
+
+        JSONObject jsonObject = JSON.parseObject(content);
         JSONArray jsonArray = jsonObject.getJSONArray("images");
 
         jsonObject = (JSONObject) jsonArray.get(0);
         // 图片地址
         String url = BING_URL + (String) jsonObject.get("url");
-        jsonObject = (JSONObject) jsonArray.get(0);
         // 图片地址
         String realDownLoadUrl = BING_URL + (String) jsonObject.get("urlbase") + "_UHD";
-
 
         //获取图片的后缀名
         String split = url.split("&")[0];

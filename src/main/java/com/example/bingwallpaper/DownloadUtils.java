@@ -5,11 +5,11 @@ import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
 
-import java.io.*;
-import java.net.URL;
-import java.net.URLConnection;
-import java.nio.file.*;
-import java.util.LinkedHashMap;
+import java.io.InputStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 import java.util.List;
 
 /**

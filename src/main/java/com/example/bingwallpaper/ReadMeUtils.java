@@ -23,8 +23,8 @@ public class ReadMeUtils {
         if (!Files.exists(readmePath)) {
             Files.createFile(readmePath);
         }
+        Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, (imageName + "&&" + url).getBytes(), StandardOpenOption.APPEND);
-
     }
 
 }
