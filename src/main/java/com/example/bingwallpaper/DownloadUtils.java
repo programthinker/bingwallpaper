@@ -28,7 +28,6 @@ public class DownloadUtils {
     private static Path readmePath = Paths.get("READ.md");
 
     private static String downloadLocation = "/Users/zhanggeyang/Pictures/BingWallPaper/";
-    private static String downloadLocation1 = "/Users/zhanggeyang/Pictures/";
 
     //解析readme，下载到本地
     public static void downloadImage() throws Exception {
