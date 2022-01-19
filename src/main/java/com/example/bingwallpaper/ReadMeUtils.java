@@ -1,6 +1,7 @@
 package com.example.bingwallpaper;
 
 
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -23,8 +24,8 @@ public class ReadMeUtils {
         if (!Files.exists(readmePath)) {
             Files.createFile(readmePath);
         }
-        Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(readmePath, (imageName + "&&" + url).getBytes(), StandardOpenOption.APPEND);
+        Files.write(readmePath, System.lineSeparator().getBytes(StandardCharsets.UTF_8), StandardOpenOption.APPEND);
+        Files.write(readmePath, (imageName + "&&" + url).getBytes(StandardCharsets.UTF_8), StandardOpenOption.APPEND);
     }
 
 }

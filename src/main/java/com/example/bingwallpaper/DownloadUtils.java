@@ -5,7 +5,9 @@ import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
 
+import java.io.File;
 import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -32,7 +34,7 @@ public class DownloadUtils {
     //解析readme，下载到本地
     public static void downloadImage() throws Exception {
 
-        List<String> strings = Files.readAllLines(readmePath);
+        List<String> strings = Files.readAllLines(readmePath, StandardCharsets.UTF_8);
 
         for (String string : strings) {
             if (!Objects.isNull(string)){
