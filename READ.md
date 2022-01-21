@@ -43,3 +43,4 @@ BingWallPaper-2022-01-17-莱达尔湖, 英格兰坎布里亚郡湖区-4K.jpg&&ht
 BingWallPaper-2022-01-18-博格豪森镇和萨尔察赫河，德国巴伐利亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.BurghausenWinter_ZH-CN2822501718_UHD.jpg
 BingWallPaper-2022-01-19-克卢恩国家公园保护区的山脉和冰川，加拿大育空地区-4K.jpg&&https://cn.bing.com/th?id=OHR.SaintElias_ZH-CN2861097596_UHD.jpg
 BingWallPaper-2022-01-20-格雷厄姆海峡的阿德利企鹅，南极洲南极半岛-4K.jpg&&https://cn.bing.com/th?id=OHR.GrahamAdelie_ZH-CN2945763969_UHD.jpg
+BingWallPaper-2022-01-21-草丛中的母狮和它的幼崽，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.HuggingDay_ZH-CN2984681593_UHD.jpg
