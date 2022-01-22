@@ -44,3 +44,4 @@ BingWallPaper-2022-01-18-博格豪森镇和萨尔察赫河，德国巴伐利亚�
 BingWallPaper-2022-01-19-克卢恩国家公园保护区的山脉和冰川，加拿大育空地区-4K.jpg&&https://cn.bing.com/th?id=OHR.SaintElias_ZH-CN2861097596_UHD.jpg
 BingWallPaper-2022-01-20-格雷厄姆海峡的阿德利企鹅，南极洲南极半岛-4K.jpg&&https://cn.bing.com/th?id=OHR.GrahamAdelie_ZH-CN2945763969_UHD.jpg
 BingWallPaper-2022-01-21-草丛中的母狮和它的幼崽，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.HuggingDay_ZH-CN2984681593_UHD.jpg
+BingWallPaper-2022-01-22-蔚蓝海域中的马提尼克岛，加勒比海-4K.jpg&&https://cn.bing.com/th?id=OHR.LesserAntilles_ZH-CN3012679657_UHD.jpg
