@@ -46,3 +46,4 @@ BingWallPaper-2022-01-20-格雷厄姆海峡的阿德利企鹅，南极洲南极�
 BingWallPaper-2022-01-21-草丛中的母狮和它的幼崽，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.HuggingDay_ZH-CN2984681593_UHD.jpg
 BingWallPaper-2022-01-22-蔚蓝海域中的马提尼克岛，加勒比海-4K.jpg&&https://cn.bing.com/th?id=OHR.LesserAntilles_ZH-CN3012679657_UHD.jpg
 BingWallPaper-2022-01-23-海岸旁的二见浦夫妇岩，日本三重县-4K.jpg&&https://cn.bing.com/th?id=OHR.MeotoIwa_ZH-CN3126370410_UHD.jpg
+BingWallPaper-2022-01-24-灯光璀璨的曼哈顿下城，美国纽约-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanView_ZH-CN3156325644_UHD.jpg
