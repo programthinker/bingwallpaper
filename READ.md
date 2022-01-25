@@ -47,3 +47,4 @@ BingWallPaper-2022-01-21-草丛中的母狮和它的幼崽，南非-4K.jpg&&http
 BingWallPaper-2022-01-22-蔚蓝海域中的马提尼克岛，加勒比海-4K.jpg&&https://cn.bing.com/th?id=OHR.LesserAntilles_ZH-CN3012679657_UHD.jpg
 BingWallPaper-2022-01-23-海岸旁的二见浦夫妇岩，日本三重县-4K.jpg&&https://cn.bing.com/th?id=OHR.MeotoIwa_ZH-CN3126370410_UHD.jpg
 BingWallPaper-2022-01-24-灯光璀璨的曼哈顿下城，美国纽约-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanView_ZH-CN3156325644_UHD.jpg
+BingWallPaper-2022-01-25-安格尔西岛上的Tŵr Mawr 灯塔，英国威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.StDwynwensDay_ZH-CN3187096355_UHD.jpg
