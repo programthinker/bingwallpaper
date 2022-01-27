@@ -49,3 +49,4 @@ BingWallPaper-2022-01-23-海岸旁的二见浦夫妇岩，日本三重县-4K.jpg
 BingWallPaper-2022-01-24-灯光璀璨的曼哈顿下城，美国纽约-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanView_ZH-CN3156325644_UHD.jpg
 BingWallPaper-2022-01-25-安格尔西岛上的Tŵr Mawr 灯塔，英国威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.StDwynwensDay_ZH-CN3187096355_UHD.jpg
 BingWallPaper-2022-01-26-梅兰加尔堡，印度焦特布尔-4K.jpg&&https://cn.bing.com/th?id=OHR.MehrangarhCourtyard_ZH-CN3216739355_UHD.jpg
+BingWallPaper-2022-01-27-珀斯附近海域的蓝斑条尾魟，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.RibbontailStingray_ZH-CN3248204214_UHD.jpg
