@@ -53,3 +53,4 @@ BingWallPaper-2022-01-27-珀斯附近海域的蓝斑条尾魟，澳大利亚-4K.
 BingWallPaper-2022-01-28-正在狩猎的短耳鸮，英格兰林肯郡-4K.jpg&&https://cn.bing.com/th?id=OHR.WinteringFowl_ZH-CN8158075445_UHD.jpg
 BingWallPaper-2022-01-29-加勒比海的片脑纹珊瑚，开曼群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.BrainCoral_ZH-CN8354100992_UHD.jpg
 BingWallPaper-2022-01-30-厄尔士山脉上的光晕，德国萨克森州-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterHalo_ZH-CN0666553211_UHD.jpg
+BingWallPaper-2022-01-31-烟花绽放的除夕夜，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg
