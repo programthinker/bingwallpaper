@@ -57,3 +57,4 @@ BingWallPaper-2022-01-31-烟花绽放的除夕夜，中国-4K.jpg&&https://cn.bi
 BingWallPaper-2022-02-01-寓意幸福和团圆的春节灯笼，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChineseNewYear_ZH-CN5844255626_UHD.jpg
 BingWallPaper-2022-02-02-阿尔卑斯旱獭，奥地利陶恩山国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.GHDMarmot_ZH-CN5983212280_UHD.jpg
 BingWallPaper-2022-02-03-Corjuem堡垒，印度果阿邦-4K.jpg&&https://cn.bing.com/th?id=OHR.FortCorjuem_ZH-CN7295613217_UHD.jpg
+BingWallPaper-2022-02-04-亚运村夜景，北京-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterOlymics_ZH-CN7384614076_UHD.jpg
