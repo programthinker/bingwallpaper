@@ -60,3 +60,4 @@ BingWallPaper-2022-02-03-Corjuem堡垒，印度果阿邦-4K.jpg&&https://cn.bing
 BingWallPaper-2022-02-04-亚运村夜景，北京-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterOlymics_ZH-CN7384614076_UHD.jpg
 BingWallPaper-2022-02-05-漫天飞舞的黑脉金斑蝶，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.MexicoMonarchs_ZH-CN7526758236_UHD.jpg
 BingWallPaper-2022-02-06-奥伊米亚康的冬天，俄罗斯-4K.jpg&&https://cn.bing.com/th?id=OHR.Oymyakon_ZH-CN7758768574_UHD.jpg
+BingWallPaper-2022-02-07-冰雪节上的冰雕艺术作品，加拿大渥太华-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterludeIce_ZH-CN7868524911_UHD.jpg
