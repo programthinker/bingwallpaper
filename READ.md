@@ -65,3 +65,4 @@ BingWallPaper-2022-02-08-科西嘉岛上的Speloncato市，法国-4K.jpg&&https:
 BingWallPaper-2022-02-09-七姐妹悬崖上的警卫小屋，英国东萨塞克斯郡-4K.jpg&&https://cn.bing.com/th?id=OHR.SevenSistersCliffs_ZH-CN5362127173_UHD.jpg
 BingWallPaper-2022-02-10-静谧的伯尔尼古城区，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowyBern_ZH-CN5472524801_UHD.jpg
 BingWallPaper-2022-02-11-慕那尔山区的茶园，印度喀拉拉邦-4K.jpg&&https://cn.bing.com/th?id=OHR.TeaGardensMunnar_ZH-CN9587720369_UHD.jpg
+BingWallPaper-2022-02-12-达尔文岛的达尔文拱门，厄瓜多尔加拉帕戈斯-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinsArch_ZH-CN9740478501_UHD.jpg
