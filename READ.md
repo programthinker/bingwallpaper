@@ -66,3 +66,4 @@ BingWallPaper-2022-02-09-七姐妹悬崖上的警卫小屋，英国东萨塞克�
 BingWallPaper-2022-02-10-静谧的伯尔尼古城区，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowyBern_ZH-CN5472524801_UHD.jpg
 BingWallPaper-2022-02-11-慕那尔山区的茶园，印度喀拉拉邦-4K.jpg&&https://cn.bing.com/th?id=OHR.TeaGardensMunnar_ZH-CN9587720369_UHD.jpg
 BingWallPaper-2022-02-12-达尔文岛的达尔文拱门，厄瓜多尔加拉帕戈斯-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinsArch_ZH-CN9740478501_UHD.jpg
+BingWallPaper-2022-02-13-黄石国家公园的美洲野牛，美国怀俄明州-4K.jpg&&https://cn.bing.com/th?id=OHR.FaceOff_ZH-CN9969100257_UHD.jpg
