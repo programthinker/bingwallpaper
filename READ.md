@@ -68,3 +68,4 @@ BingWallPaper-2022-02-11-慕那尔山区的茶园，印度喀拉拉邦-4K.jpg&&h
 BingWallPaper-2022-02-12-达尔文岛的达尔文拱门，厄瓜多尔加拉帕戈斯-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinsArch_ZH-CN9740478501_UHD.jpg
 BingWallPaper-2022-02-13-黄石国家公园的美洲野牛，美国怀俄明州-4K.jpg&&https://cn.bing.com/th?id=OHR.FaceOff_ZH-CN9969100257_UHD.jpg
 BingWallPaper-2022-02-14-心形小岛和白沙滩，印度洋马尔代夫-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesHeart_ZH-CN0032539727_UHD.jpg
+BingWallPaper-2022-02-15-成都街头的红灯笼，中国四川省（© kiszon pascal/Moment/Getty Images）-4K.jpg&&https://cn.bing.com/th?id=OHR.Latern2022_ZH-CN0112710917_UHD.jpg
