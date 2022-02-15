@@ -29,7 +29,7 @@ public class BingWallPaperDownload {
     public static void main(String[] args) throws Exception {
         String[] imageAPI = {
                 "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN",
-                "https://bing.com/HPImageArchive.aspx?format=js&cc=us&idx=0&n=1"
+                "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=EN-US"
         };
 
         for (int i = 0; i < imageAPI.length; i++) {
