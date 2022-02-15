@@ -71,3 +71,5 @@ BingWallPaper-2022-02-14-心形小岛和白沙滩，印度洋马尔代夫-4K.jpg
 BingWallPaper-2022-02-15-成都街头的红灯笼，中国四川省（© kiszon pascal/Moment/Getty Images）-4K.jpg&&https://cn.bing.com/th?id=OHR.Latern2022_ZH-CN0112710917_UHD.jpg
 BingWallPaper-2022-02-15-成都街头的红灯笼，中国四川省（© kiszon pascal-Moment-Getty Images）-4K.jpg&&https://bing.com/th?id=OHR.Latern2022_ZH-CN0112710917_UHD.jpg
 BingWallPaper-2022-02-15-Red lanterns hanging on trees during the Lantern Festival in Chengdu, Sichuan, China-4K.jpg&&https://bing.com/th?id=OHR.ChengduLanterns_EN-US7601052983_UHD.jpg
+BingWallPaper-2022-02-15-成都街头的红灯笼，中国四川省（© kiszon pascal-Moment-Getty Images）-4K.jpg&&https://bing.com/th?id=OHR.Latern2022_ZH-CN0112710917_UHD.jpg
+BingWallPaper-2022-02-15-Red lanterns hanging on trees during the Lantern Festival in Chengdu, Sichuan, China-4K.jpg&&https://bing.com/th?id=OHR.ChengduLanterns_EN-US7601052983_UHD.jpg
