@@ -32,7 +32,6 @@ public class BingWallPaperDownload {
         HttpGet httpGet = new HttpGet(BING_API);
         CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
         String content = EntityUtils.toString(httpResponse.getEntity());
-
         JSONObject jsonObject = JSON.parseObject(content);
         JSONArray jsonArray = jsonObject.getJSONArray("images");
 
@@ -48,7 +47,7 @@ public class BingWallPaperDownload {
 
         //图片的版权信息描述，可用于图片名
         String copyright = (String) jsonObject.get("copyright");
-        String imageName = "BingWallPaper-" + LocalDate.now() + "-" + copyright.split("\\(")[0].trim() + "-4K" + suffix;
+        String imageName = ("BingWallPaper-" + LocalDate.now() + "-" + copyright.split("\\(")[0].trim() + "-4K" + suffix).replaceAll("/","-");
 
         String imageUrl = realDownLoadUrl + suffix;
 
