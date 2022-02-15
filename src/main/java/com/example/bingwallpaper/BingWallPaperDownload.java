@@ -23,11 +23,6 @@ import java.util.ArrayList;
 
 public class BingWallPaperDownload {
 
-    //dadasdasdsadsa
-    //官方壁纸API，包含下载地址，壁纸中文简介，
-    private static String CN_BING_API = "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN";
-    private static String EN_BING_API = "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=EN-US";
-
     //自定义的下载地址前缀
     private static String CN_BING_URL = "https://bing.com";
 
@@ -37,7 +32,6 @@ public class BingWallPaperDownload {
                 "https://bing.com/HPImageArchive.aspx?format=js&cc=us&idx=0&n=1"
         };
 
-        ArrayList<String> list = new ArrayList<>();
         for (int i = 0; i < imageAPI.length; i++) {
             HttpGet httpGet = new HttpGet(imageAPI[i]);
             CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
@@ -61,13 +55,12 @@ public class BingWallPaperDownload {
 
             String imageUrl = realDownLoadUrl + suffix;
 
-            list.add(imageUrl);
 
             //将每一天的下载链接和对应的图片名称保存到README.md
 
             ReadMeUtils.writeToReadme(imageName, imageUrl);
         }
-        System.out.println(list);
+
     }
 
 }
