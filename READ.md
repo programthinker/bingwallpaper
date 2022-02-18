@@ -75,3 +75,5 @@ BingWallPaper-2022-02-16-白霜覆盖下的山毛榉林，英格兰多塞特郡-
 BingWallPaper-2022-02-16-Beech woodland in hoarfrost, Cranborne Chase, Dorset, England-4K.jpg&&https://bing.com/th?id=OHR.CranborneChase_EN-US7744531561_UHD.jpg
 BingWallPaper-2022-02-17-里士满公园的雄鹿，英国伦敦-4K.jpg&&https://bing.com/th?id=OHR.RichmondDeer_ZH-CN0408206629_UHD.jpg
 BingWallPaper-2022-02-17-Flamenco dancers outside Palma de Majorca, Spain-4K.jpg&&https://bing.com/th?id=OHR.FlamencoDance_EN-US9399847343_UHD.jpg
+BingWallPaper-2022-02-18-冬天树枝上的大山雀，法国-4K.jpg&&https://bing.com/th?id=OHR.GreatTits_ZH-CN0546267922_UHD.jpg
+BingWallPaper-2022-02-18-Great tits on a branch during winter in France-4K.jpg&&https://bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg
