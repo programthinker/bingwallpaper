@@ -77,3 +77,5 @@ BingWallPaper-2022-02-17-里士满公园的雄鹿，英国伦敦-4K.jpg&&https:/
 BingWallPaper-2022-02-17-Flamenco dancers outside Palma de Majorca, Spain-4K.jpg&&https://bing.com/th?id=OHR.FlamencoDance_EN-US9399847343_UHD.jpg
 BingWallPaper-2022-02-18-冬天树枝上的大山雀，法国-4K.jpg&&https://bing.com/th?id=OHR.GreatTits_ZH-CN0546267922_UHD.jpg
 BingWallPaper-2022-02-18-Great tits on a branch during winter in France-4K.jpg&&https://bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg
+BingWallPaper-2022-02-19-贝希特斯加登阿尔卑斯山脉全景，德国巴伐利亚州-4K.jpg&&https://bing.com/th?id=OHR.BerchtesgadenerAlpen_ZH-CN0740088231_UHD.jpg
+BingWallPaper-2022-02-19-Mount Logan in Kluane National Park and Reserve, Yukon, Canada-4K.jpg&&https://bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg
