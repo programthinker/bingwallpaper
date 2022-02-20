@@ -79,3 +79,5 @@ BingWallPaper-2022-02-18-冬天树枝上的大山雀，法国-4K.jpg&&https://bi
 BingWallPaper-2022-02-18-Great tits on a branch during winter in France-4K.jpg&&https://bing.com/th?id=OHR.GreatTits_EN-US6474534267_UHD.jpg
 BingWallPaper-2022-02-19-贝希特斯加登阿尔卑斯山脉全景，德国巴伐利亚州-4K.jpg&&https://bing.com/th?id=OHR.BerchtesgadenerAlpen_ZH-CN0740088231_UHD.jpg
 BingWallPaper-2022-02-19-Mount Logan in Kluane National Park and Reserve, Yukon, Canada-4K.jpg&&https://bing.com/th?id=OHR.LoganClouds_EN-US6578910655_UHD.jpg
+BingWallPaper-2022-02-20-在海洋里畅游的座头鲸和海豚，美国夏威夷州-4K.jpg&&https://bing.com/th?id=OHR.WhalesDolphins_ZH-CN0636695997_UHD.jpg
+BingWallPaper-2022-02-20-Humpback whales and dolphins, Hawaii-4K.jpg&&https://bing.com/th?id=OHR.WhalesDolphins_EN-US8179813228_UHD.jpg
