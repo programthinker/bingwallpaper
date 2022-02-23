@@ -85,3 +85,5 @@ BingWallPaper-2022-02-21-哈德良长城上空的北极光，英格兰诺森伯�
 BingWallPaper-2022-02-21-The Washington Monument seen from the Lincoln Memorial in Washington, DC-4K.jpg&&https://bing.com/th?id=OHR.PrezMonument_EN-US6640683728_UHD.jpg
 BingWallPaper-2022-02-22-两只双峰骆驼-4K.jpg&&https://bing.com/th?id=OHR.BactrianCamels_ZH-CN1072425996_UHD.jpg
 BingWallPaper-2022-02-22-Two Bactrian camels in Kazakhstan for Twosday-4K.jpg&&https://bing.com/th?id=OHR.BactrianCamels_EN-US6701629967_UHD.jpg
+BingWallPaper-2022-02-23-雷斯岬国家海岸公园里的柏树隧道，美国加利福尼亚州-4K.jpg&&https://bing.com/th?id=OHR.CypressTunnel_ZH-CN1174542149_UHD.jpg
+BingWallPaper-2022-02-23-The cypress tunnel at Point Reyes National Seashore in California-4K.jpg&&https://bing.com/th?id=OHR.CypressTunnel_EN-US8549840019_UHD.jpg
