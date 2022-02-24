@@ -87,3 +87,5 @@ BingWallPaper-2022-02-22-两只双峰骆驼-4K.jpg&&https://bing.com/th?id=OHR.B
 BingWallPaper-2022-02-22-Two Bactrian camels in Kazakhstan for Twosday-4K.jpg&&https://bing.com/th?id=OHR.BactrianCamels_EN-US6701629967_UHD.jpg
 BingWallPaper-2022-02-23-雷斯岬国家海岸公园里的柏树隧道，美国加利福尼亚州-4K.jpg&&https://bing.com/th?id=OHR.CypressTunnel_ZH-CN1174542149_UHD.jpg
 BingWallPaper-2022-02-23-The cypress tunnel at Point Reyes National Seashore in California-4K.jpg&&https://bing.com/th?id=OHR.CypressTunnel_EN-US8549840019_UHD.jpg
+BingWallPaper-2022-02-24-冰川洞穴里流动的河流，冰岛瓦特纳冰原-4K.jpg&&https://bing.com/th?id=OHR.CrystalCave_ZH-CN1284839856_UHD.jpg
+BingWallPaper-2022-02-24-Flowing river inside a glacier cave, Vatnajökull, Iceland-4K.jpg&&https://bing.com/th?id=OHR.CrystalCave_EN-US8679086426_UHD.jpg
