@@ -91,3 +91,5 @@ BingWallPaper-2022-02-24-冰川洞穴里流动的河流，冰岛瓦特纳冰原-
 BingWallPaper-2022-02-24-Flowing river inside a glacier cave, Vatnajökull, Iceland-4K.jpg&&https://bing.com/th?id=OHR.CrystalCave_EN-US8679086426_UHD.jpg
 BingWallPaper-2022-02-25-怀特霍斯市的落日余晖，加拿大育空地区-4K.jpg&&https://bing.com/th?id=OHR.WheatonYukon_ZH-CN5573629391_UHD.jpg
 BingWallPaper-2022-02-25-'Legacy' mural painted by Josh Sarantitis and Eric Okdeh within the Mural Arts Program in Philadelphia, Pennsylvania-4K.jpg&&https://bing.com/th?id=OHR.LegacyMural_EN-US8368318184_UHD.jpg
+BingWallPaper-2022-02-26-冰川湾国家公园里的兰普鲁冰川，美国阿拉斯加州-4K.jpg&&https://bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg
+BingWallPaper-2022-02-26-Lamplugh Glacier in Glacier Bay National Park, Alaska-4K.jpg&&https://bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg
