@@ -24,7 +24,7 @@ import java.util.ArrayList;
 public class BingWallPaperDownload {
 
     //自定义的下载地址前缀
-    private static String CN_BING_URL = "https://bing.com";
+    private static String CN_BING_URL = "https://cn.bing.com";
 
     public static void main(String[] args) throws Exception {
         String[] imageAPI = {
