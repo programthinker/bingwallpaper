@@ -94,3 +94,6 @@ BingWallPaper-2022-02-26-冰川湾国家公园里的兰普鲁冰川，美国阿�
 BingWallPaper-2022-02-26-Lamplugh Glacier in Glacier Bay National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg
 BingWallPaper-2022-02-27-在妈妈身旁玩耍的北极熊宝宝们，加拿大曼尼托巴省-4K.jpg&&https://cn.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg
 BingWallPaper-2022-02-27-Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg
+
+BingWallPaper-2022-02-28-霜雪覆盖下的科茨沃尔德，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg
+BingWallPaper-2022-02-28-Hoarfrost and snow in the Cotswolds, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterCotswolds_EN-US6070178452_UHD.jpg
