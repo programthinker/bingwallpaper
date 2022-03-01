@@ -97,3 +97,5 @@ BingWallPaper-2022-02-27-Polar bear mother with cubs in Wapusk National Park, Ma
 
 BingWallPaper-2022-02-28-霜雪覆盖下的科茨沃尔德，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg
 BingWallPaper-2022-02-28-Hoarfrost and snow in the Cotswolds, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterCotswolds_EN-US6070178452_UHD.jpg
+BingWallPaper-2022-03-01-楚格峰山顶的缆车站，德国格赖瑙市-4K.jpg&&https://cn.bing.com/th?id=OHR.ZugspitzeGipfelstation_ZH-CN6120971585_UHD.jpg
+BingWallPaper-2022-03-01-US Army Nurse Corps personnel, 1944-4K.jpg&&https://cn.bing.com/th?id=OHR.USArmyNurse_EN-US6247095196_UHD.jpg
