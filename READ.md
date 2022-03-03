@@ -101,3 +101,5 @@ BingWallPaper-2022-03-01-楚格峰山顶的缆车站，德国格赖瑙市-4K.jpg
 BingWallPaper-2022-03-01-US Army Nurse Corps personnel, 1944-4K.jpg&&https://cn.bing.com/th?id=OHR.USArmyNurse_EN-US6247095196_UHD.jpg
 BingWallPaper-2022-03-02-雷尼尔山上空的银河星系，美国华盛顿州-4K.jpg&&https://cn.bing.com/th?id=OHR.MoonlightRainier_ZH-CN6263832605_UHD.jpg
 BingWallPaper-2022-03-02-Moonlight and the Milky Way over Mount Rainier in Mount Rainier National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.MoonlightRainier_EN-US6336057354_UHD.jpg
+BingWallPaper-2022-03-03-加济兰加国家公园里的两头印度犀，印度阿萨姆邦-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinocerosUnicornis_ZH-CN6380546992_UHD.jpg
+BingWallPaper-2022-03-03-Greater one-horned rhinoceroses in Kaziranga National Park, Assam, India-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinocerosUnicornis_EN-US6415146430_UHD.jpg
