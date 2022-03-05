@@ -105,3 +105,5 @@ BingWallPaper-2022-03-03-加济兰加国家公园里的两头印度犀，印度�
 BingWallPaper-2022-03-03-Greater one-horned rhinoceroses in Kaziranga National Park, Assam, India-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinocerosUnicornis_EN-US6415146430_UHD.jpg
 BingWallPaper-2022-03-04-佩格尼茨河上的葡萄酒窖，德国纽伦堡-4K.jpg&&https://cn.bing.com/th?id=OHR.WeinstadelNuernberg_ZH-CN6448054345_UHD.jpg
 BingWallPaper-2022-03-04-The National Aquatics Center in Beijing, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ParalympicCurling_EN-US6499596752_UHD.jpg
+BingWallPaper-2022-03-05-圣米歇尔山，法国诺曼底-4K.jpg&&https://cn.bing.com/th?id=OHR.NormandyMont_ZH-CN6657762215_UHD.jpg
+BingWallPaper-2022-03-05-The island of Mont-Saint-Michel in Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.NormandyMont_EN-US8981907834_UHD.jpg
