@@ -107,3 +107,5 @@ BingWallPaper-2022-03-04-佩格尼茨河上的葡萄酒窖，德国纽伦堡-4K.
 BingWallPaper-2022-03-04-The National Aquatics Center in Beijing, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ParalympicCurling_EN-US6499596752_UHD.jpg
 BingWallPaper-2022-03-05-圣米歇尔山，法国诺曼底-4K.jpg&&https://cn.bing.com/th?id=OHR.NormandyMont_ZH-CN6657762215_UHD.jpg
 BingWallPaper-2022-03-05-The island of Mont-Saint-Michel in Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.NormandyMont_EN-US8981907834_UHD.jpg
+BingWallPaper-2022-03-06-在暴风雪中畅游的鸬鹚，德国黑森州-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatCormorants_ZH-CN6811149253_UHD.jpg
+BingWallPaper-2022-03-06-Great cormorants gliding through a snowstorm in Hesse, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatCormorants_EN-US6757700805_UHD.jpg
