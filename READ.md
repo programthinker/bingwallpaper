@@ -109,3 +109,5 @@ BingWallPaper-2022-03-05-圣米歇尔山，法国诺曼底-4K.jpg&&https://cn.bi
 BingWallPaper-2022-03-05-The island of Mont-Saint-Michel in Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.NormandyMont_EN-US8981907834_UHD.jpg
 BingWallPaper-2022-03-06-在暴风雪中畅游的鸬鹚，德国黑森州-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatCormorants_ZH-CN6811149253_UHD.jpg
 BingWallPaper-2022-03-06-Great cormorants gliding through a snowstorm in Hesse, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatCormorants_EN-US6757700805_UHD.jpg
+BingWallPaper-2022-03-07-以新西兰南岛奥拉基-库克山国家公园为背景的特卡波湖-4K.jpg&&https://cn.bing.com/th?id=OHR.NZTekapo_ZH-CN6919300257_UHD.jpg
+BingWallPaper-2022-03-07-Lake Tekapo with Aoraki-Mount Cook National Park in the background on New Zealand's South Island-4K.jpg&&https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg
