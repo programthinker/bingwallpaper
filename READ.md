@@ -111,3 +111,5 @@ BingWallPaper-2022-03-06-在暴风雪中畅游的鸬鹚，德国黑森州-4K.jpg
 BingWallPaper-2022-03-06-Great cormorants gliding through a snowstorm in Hesse, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatCormorants_EN-US6757700805_UHD.jpg
 BingWallPaper-2022-03-07-以新西兰南岛奥拉基-库克山国家公园为背景的特卡波湖-4K.jpg&&https://cn.bing.com/th?id=OHR.NZTekapo_ZH-CN6919300257_UHD.jpg
 BingWallPaper-2022-03-07-Lake Tekapo with Aoraki-Mount Cook National Park in the background on New Zealand's South Island-4K.jpg&&https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg
+BingWallPaper-2022-03-08-蒂内河畔圣艾蒂安小镇，法国阿尔卑斯省-4K.jpg&&https://cn.bing.com/th?id=OHR.Mercantour_ZH-CN7208180454_UHD.jpg
+BingWallPaper-2022-03-08-The 'Fearless Girl' statue outside the New York Stock Exchange in New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg
