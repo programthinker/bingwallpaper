@@ -113,3 +113,5 @@ BingWallPaper-2022-03-07-以新西兰南岛奥拉基-库克山国家公园为背
 BingWallPaper-2022-03-07-Lake Tekapo with Aoraki-Mount Cook National Park in the background on New Zealand's South Island-4K.jpg&&https://cn.bing.com/th?id=OHR.NZTekapo_EN-US6844591784_UHD.jpg
 BingWallPaper-2022-03-08-蒂内河畔圣艾蒂安小镇，法国阿尔卑斯省-4K.jpg&&https://cn.bing.com/th?id=OHR.Mercantour_ZH-CN7208180454_UHD.jpg
 BingWallPaper-2022-03-08-The 'Fearless Girl' statue outside the New York Stock Exchange in New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg
+BingWallPaper-2022-03-09-纳加尔霍雷国家公园的孔雀，印度卡纳塔克邦-4K.jpg&&https://cn.bing.com/th?id=OHR.PeacockNagarahole_ZH-CN7404674152_UHD.jpg
+BingWallPaper-2022-03-09-The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg
