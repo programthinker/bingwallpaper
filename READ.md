@@ -115,3 +115,5 @@ BingWallPaper-2022-03-08-蒂内河畔圣艾蒂安小镇，法国阿尔卑斯省-
 BingWallPaper-2022-03-08-The 'Fearless Girl' statue outside the New York Stock Exchange in New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.BrokenGlass_EN-US4411138843_UHD.jpg
 BingWallPaper-2022-03-09-纳加尔霍雷国家公园的孔雀，印度卡纳塔克邦-4K.jpg&&https://cn.bing.com/th?id=OHR.PeacockNagarahole_ZH-CN7404674152_UHD.jpg
 BingWallPaper-2022-03-09-The 'Flower of Life' symbol drawn in the snow by artist Michael Uy, Jacobsdorf, Brandenburg, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FlowerofLife_EN-US7000703872_UHD.jpg
+BingWallPaper-2022-03-10-Ponte Gobbo桥，意大利博比奥-4K.jpg&&https://cn.bing.com/th?id=OHR.BobbioItaly_ZH-CN7993515424_UHD.jpg
+BingWallPaper-2022-03-10-The Ponte Vecchio, a bridge near Bobbio, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.BobbioItaly_EN-US7115321929_UHD.jpg
