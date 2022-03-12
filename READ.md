@@ -119,3 +119,5 @@ BingWallPaper-2022-03-10-Ponte Gobbo桥，意大利博比奥-4K.jpg&&https://cn.
 BingWallPaper-2022-03-10-The Ponte Vecchio, a bridge near Bobbio, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.BobbioItaly_EN-US7115321929_UHD.jpg
 BingWallPaper-2022-03-11-奥卡拉国家森林中的杜松泉，美国佛罗里达州-4K.jpg&&https://cn.bing.com/th?id=OHR.OcalaNF_ZH-CN1112502059_UHD.jpg
 BingWallPaper-2022-03-11-Field of sunflowers, Ukraine's national flower-4K.jpg&&https://cn.bing.com/th?id=OHR.UkraineSolidarity_EN-US5145726986_UHD.jpg
+BingWallPaper-2022-03-12-鸟瞰视角下的布雷阿岛，法国阿摩尔滨海省-4K.jpg&&https://cn.bing.com/th?id=OHR.BrehatIsland_ZH-CN6015596530_UHD.jpg
+BingWallPaper-2022-03-12-Girl Scouts camping on the shore of Todd Lake in 1960, Deschutes National Forest, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.GirlScouts_EN-US8024158740_UHD.jpg
