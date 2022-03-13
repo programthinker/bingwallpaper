@@ -121,3 +121,5 @@ BingWallPaper-2022-03-11-奥卡拉国家森林中的杜松泉，美国佛罗里�
 BingWallPaper-2022-03-11-Field of sunflowers, Ukraine's national flower-4K.jpg&&https://cn.bing.com/th?id=OHR.UkraineSolidarity_EN-US5145726986_UHD.jpg
 BingWallPaper-2022-03-12-鸟瞰视角下的布雷阿岛，法国阿摩尔滨海省-4K.jpg&&https://cn.bing.com/th?id=OHR.BrehatIsland_ZH-CN6015596530_UHD.jpg
 BingWallPaper-2022-03-12-Girl Scouts camping on the shore of Todd Lake in 1960, Deschutes National Forest, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.GirlScouts_EN-US8024158740_UHD.jpg
+BingWallPaper-2022-03-13-在湿地中跳跃的欧洲野兔，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringForward_ZH-CN6154174266_UHD.jpg
+BingWallPaper-2022-03-13-A European hare jumps through a wetland in the Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringForward_EN-US1766679331_UHD.jpg
