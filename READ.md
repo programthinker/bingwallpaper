@@ -123,3 +123,5 @@ BingWallPaper-2022-03-12-鸟瞰视角下的布雷阿岛，法国阿摩尔滨海�
 BingWallPaper-2022-03-12-Girl Scouts camping on the shore of Todd Lake in 1960, Deschutes National Forest, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.GirlScouts_EN-US8024158740_UHD.jpg
 BingWallPaper-2022-03-13-在湿地中跳跃的欧洲野兔，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringForward_ZH-CN6154174266_UHD.jpg
 BingWallPaper-2022-03-13-A European hare jumps through a wetland in the Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringForward_EN-US1766679331_UHD.jpg
+BingWallPaper-2022-03-14-兰洋夸特墓室，英国康沃尔郡-4K.jpg&&https://cn.bing.com/th?id=OHR.LanyonQuoit_ZH-CN6278576563_UHD.jpg
+BingWallPaper-2022-03-14-Lanyon Quoit burial chamber, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.LanyonQuoit_EN-US8594676410_UHD.jpg
