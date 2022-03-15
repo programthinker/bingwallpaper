@@ -125,3 +125,5 @@ BingWallPaper-2022-03-13-在湿地中跳跃的欧洲野兔，荷兰-4K.jpg&&http
 BingWallPaper-2022-03-13-A European hare jumps through a wetland in the Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringForward_EN-US1766679331_UHD.jpg
 BingWallPaper-2022-03-14-兰洋夸特墓室，英国康沃尔郡-4K.jpg&&https://cn.bing.com/th?id=OHR.LanyonQuoit_ZH-CN6278576563_UHD.jpg
 BingWallPaper-2022-03-14-Lanyon Quoit burial chamber, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.LanyonQuoit_EN-US8594676410_UHD.jpg
+BingWallPaper-2022-03-15-古罗马广场，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanView_ZH-CN6469652448_UHD.jpg
+BingWallPaper-2022-03-15-The Roman Forum, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanView_EN-US8748621183_UHD.jpg
