@@ -127,3 +127,5 @@ BingWallPaper-2022-03-14-兰洋夸特墓室，英国康沃尔郡-4K.jpg&&https:/
 BingWallPaper-2022-03-14-Lanyon Quoit burial chamber, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.LanyonQuoit_EN-US8594676410_UHD.jpg
 BingWallPaper-2022-03-15-古罗马广场，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanView_ZH-CN6469652448_UHD.jpg
 BingWallPaper-2022-03-15-The Roman Forum, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanView_EN-US8748621183_UHD.jpg
+BingWallPaper-2022-03-16-扶着树干的大熊猫，四川卧龙国家级自然保护区-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaDay_ZH-CN6584061291_UHD.jpg
+BingWallPaper-2022-03-16-Giant panda in Wolong National Nature Reserve, Sichuan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaDay_EN-US8900387316_UHD.jpg
