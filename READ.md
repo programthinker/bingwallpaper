@@ -129,3 +129,5 @@ BingWallPaper-2022-03-15-古罗马广场，意大利-4K.jpg&&https://cn.bing.com
 BingWallPaper-2022-03-15-The Roman Forum, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanView_EN-US8748621183_UHD.jpg
 BingWallPaper-2022-03-16-扶着树干的大熊猫，四川卧龙国家级自然保护区-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaDay_ZH-CN6584061291_UHD.jpg
 BingWallPaper-2022-03-16-Giant panda in Wolong National Nature Reserve, Sichuan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaDay_EN-US8900387316_UHD.jpg
+BingWallPaper-2022-03-17-生机盎然的酢浆草和红杉树，美国大草原溪红杉州立公园-4K.jpg&&https://cn.bing.com/th?id=OHR.Shamrocks_ZH-CN6712957522_UHD.jpg
+BingWallPaper-2022-03-17-Coastal redwoods and wood sorrel, Prairie Creek Redwoods State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.Shamrocks_EN-US9111259398_UHD.jpg
