@@ -131,3 +131,5 @@ BingWallPaper-2022-03-16-扶着树干的大熊猫，四川卧龙国家级自然�
 BingWallPaper-2022-03-16-Giant panda in Wolong National Nature Reserve, Sichuan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaDay_EN-US8900387316_UHD.jpg
 BingWallPaper-2022-03-17-生机盎然的酢浆草和红杉树，美国大草原溪红杉州立公园-4K.jpg&&https://cn.bing.com/th?id=OHR.Shamrocks_ZH-CN6712957522_UHD.jpg
 BingWallPaper-2022-03-17-Coastal redwoods and wood sorrel, Prairie Creek Redwoods State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.Shamrocks_EN-US9111259398_UHD.jpg
+BingWallPaper-2022-03-18-洒红节期间售卖的五彩粉末-4K.jpg&&https://cn.bing.com/th?id=OHR.Holi2022_ZH-CN2265496434_UHD.jpg
+BingWallPaper-2022-03-18-Multicolored powders for sale during Holi-4K.jpg&&https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg
