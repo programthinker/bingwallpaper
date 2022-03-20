@@ -135,3 +135,5 @@ BingWallPaper-2022-03-18-洒红节期间售卖的五彩粉末-4K.jpg&&https://cn
 BingWallPaper-2022-03-18-Multicolored powders for sale during Holi-4K.jpg&&https://cn.bing.com/th?id=OHR.Holi2022_EN-US9217068703_UHD.jpg
 BingWallPaper-2022-03-19-日落时的悬日现象，美国芝加哥-4K.jpg&&https://cn.bing.com/th?id=OHR.Chicagohenge_ZH-CN7070361892_UHD.jpg
 BingWallPaper-2022-03-19-Chicagohenge sunset, Chicago, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg
+BingWallPaper-2022-03-20-鲜艳多彩的爪哇树蛙，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldFrogDay_ZH-CN7191299445_UHD.jpg
+BingWallPaper-2022-03-20-Javan tree frog, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldFrogDay_EN-US9497103821_UHD.jpg
