@@ -137,3 +137,5 @@ BingWallPaper-2022-03-19-日落时的悬日现象，美国芝加哥-4K.jpg&&http
 BingWallPaper-2022-03-19-Chicagohenge sunset, Chicago, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.Chicagohenge_EN-US9296950779_UHD.jpg
 BingWallPaper-2022-03-20-鲜艳多彩的爪哇树蛙，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldFrogDay_ZH-CN7191299445_UHD.jpg
 BingWallPaper-2022-03-20-Javan tree frog, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldFrogDay_EN-US9497103821_UHD.jpg
+BingWallPaper-2022-03-21-圣三一教堂，英国埃文河畔斯特拉特福-4K.jpg&&https://cn.bing.com/th?id=OHR.TheBard_ZH-CN7318156185_UHD.jpg
+BingWallPaper-2022-03-21-Holy Trinity Church, Stratford-upon-Avon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg
