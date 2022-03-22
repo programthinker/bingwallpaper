@@ -139,3 +139,5 @@ BingWallPaper-2022-03-20-鲜艳多彩的爪哇树蛙，印度尼西亚-4K.jpg&&h
 BingWallPaper-2022-03-20-Javan tree frog, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldFrogDay_EN-US9497103821_UHD.jpg
 BingWallPaper-2022-03-21-圣三一教堂，英国埃文河畔斯特拉特福-4K.jpg&&https://cn.bing.com/th?id=OHR.TheBard_ZH-CN7318156185_UHD.jpg
 BingWallPaper-2022-03-21-Holy Trinity Church, Stratford-upon-Avon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg
+BingWallPaper-2022-03-22-千泉州立公园的瀑布，美国爱达荷州-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandSprings_ZH-CN7431323804_UHD.jpg
+BingWallPaper-2022-03-22-Waterfalls in Thousand Springs State Park, Hagerman Valley, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg
