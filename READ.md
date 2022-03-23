@@ -141,3 +141,5 @@ BingWallPaper-2022-03-21-圣三一教堂，英国埃文河畔斯特拉特福-4K.
 BingWallPaper-2022-03-21-Holy Trinity Church, Stratford-upon-Avon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TheBard_EN-US9600542823_UHD.jpg
 BingWallPaper-2022-03-22-千泉州立公园的瀑布，美国爱达荷州-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandSprings_ZH-CN7431323804_UHD.jpg
 BingWallPaper-2022-03-22-Waterfalls in Thousand Springs State Park, Hagerman Valley, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg
+BingWallPaper-2022-03-23-雷暴下的大峡谷国家公园，亚利桑那州-4K.jpg&&https://cn.bing.com/th?id=OHR.GCThunderstorm_ZH-CN7535350453_UHD.jpg
+BingWallPaper-2022-03-23-Grand Canyon National Park during a thunderstorm, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GCThunderstorm_EN-US9801749958_UHD.jpg
