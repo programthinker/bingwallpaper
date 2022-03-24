@@ -143,3 +143,5 @@ BingWallPaper-2022-03-22-千泉州立公园的瀑布，美国爱达荷州-4K.jpg
 BingWallPaper-2022-03-22-Waterfalls in Thousand Springs State Park, Hagerman Valley, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandSprings_EN-US9722040396_UHD.jpg
 BingWallPaper-2022-03-23-雷暴下的大峡谷国家公园，亚利桑那州-4K.jpg&&https://cn.bing.com/th?id=OHR.GCThunderstorm_ZH-CN7535350453_UHD.jpg
 BingWallPaper-2022-03-23-Grand Canyon National Park during a thunderstorm, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GCThunderstorm_EN-US9801749958_UHD.jpg
+BingWallPaper-2022-03-24-小窝中安睡的欧亚红松鼠，苏格兰高地-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNesting_ZH-CN7673817247_UHD.jpg
+BingWallPaper-2022-03-24-Red squirrel in a nest of lichen and pine needles, Scottish Highlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNesting_EN-US9878096346_UHD.jpg
