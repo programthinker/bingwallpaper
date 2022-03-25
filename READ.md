@@ -145,3 +145,5 @@ BingWallPaper-2022-03-23-雷暴下的大峡谷国家公园，亚利桑那州-4K.
 BingWallPaper-2022-03-23-Grand Canyon National Park during a thunderstorm, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GCThunderstorm_EN-US9801749958_UHD.jpg
 BingWallPaper-2022-03-24-小窝中安睡的欧亚红松鼠，苏格兰高地-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNesting_ZH-CN7673817247_UHD.jpg
 BingWallPaper-2022-03-24-Red squirrel in a nest of lichen and pine needles, Scottish Highlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNesting_EN-US9878096346_UHD.jpg
+BingWallPaper-2022-03-25-劳特布龙嫩山谷，瑞士阿尔卑斯山-4K.jpg&&https://cn.bing.com/th?id=OHR.Rivendell_ZH-CN6669549862_UHD.jpg
+BingWallPaper-2022-03-25-Lauterbrunnen Valley in the Swiss Alps-4K.jpg&&https://cn.bing.com/th?id=OHR.Rivendell_EN-US9228594102_UHD.jpg
