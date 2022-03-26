@@ -147,3 +147,5 @@ BingWallPaper-2022-03-24-小窝中安睡的欧亚红松鼠，苏格兰高地-4K.
 BingWallPaper-2022-03-24-Red squirrel in a nest of lichen and pine needles, Scottish Highlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNesting_EN-US9878096346_UHD.jpg
 BingWallPaper-2022-03-25-劳特布龙嫩山谷，瑞士阿尔卑斯山-4K.jpg&&https://cn.bing.com/th?id=OHR.Rivendell_ZH-CN6669549862_UHD.jpg
 BingWallPaper-2022-03-25-Lauterbrunnen Valley in the Swiss Alps-4K.jpg&&https://cn.bing.com/th?id=OHR.Rivendell_EN-US9228594102_UHD.jpg
+BingWallPaper-2022-03-26-黄番红花和翩翩起舞的大山雀-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowCrocuses_ZH-CN6617862337_UHD.jpg
+BingWallPaper-2022-03-26-Great tit and yellow crocuses-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowCrocuses_EN-US9416168776_UHD.jpg
