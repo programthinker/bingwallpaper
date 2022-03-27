@@ -149,3 +149,5 @@ BingWallPaper-2022-03-25-劳特布龙嫩山谷，瑞士阿尔卑斯山-4K.jpg&&h
 BingWallPaper-2022-03-25-Lauterbrunnen Valley in the Swiss Alps-4K.jpg&&https://cn.bing.com/th?id=OHR.Rivendell_EN-US9228594102_UHD.jpg
 BingWallPaper-2022-03-26-黄番红花和翩翩起舞的大山雀-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowCrocuses_ZH-CN6617862337_UHD.jpg
 BingWallPaper-2022-03-26-Great tit and yellow crocuses-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowCrocuses_EN-US9416168776_UHD.jpg
+BingWallPaper-2022-03-27-陶尔米纳古剧院，意大利西西里岛-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroAntico_ZH-CN7370959605_UHD.jpg
+BingWallPaper-2022-03-27-Ancient theater of Taormina in Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroAntico_EN-US9864647927_UHD.jpg
