@@ -151,3 +151,5 @@ BingWallPaper-2022-03-26-黄番红花和翩翩起舞的大山雀-4K.jpg&&https:/
 BingWallPaper-2022-03-26-Great tit and yellow crocuses-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowCrocuses_EN-US9416168776_UHD.jpg
 BingWallPaper-2022-03-27-陶尔米纳古剧院，意大利西西里岛-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroAntico_ZH-CN7370959605_UHD.jpg
 BingWallPaper-2022-03-27-Ancient theater of Taormina in Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroAntico_EN-US9864647927_UHD.jpg
+BingWallPaper-2022-03-28-河内藤园里梦幻的紫藤花，日本北九州市-4K.jpg&&https://cn.bing.com/th?id=OHR.Kawachi_ZH-CN6964965791_UHD.jpg
+BingWallPaper-2022-03-28-Wisteria blooms at Kawachi Fuji Garden in Kitakyushu, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg
