@@ -153,3 +153,5 @@ BingWallPaper-2022-03-27-陶尔米纳古剧院，意大利西西里岛-4K.jpg&&h
 BingWallPaper-2022-03-27-Ancient theater of Taormina in Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroAntico_EN-US9864647927_UHD.jpg
 BingWallPaper-2022-03-28-河内藤园里梦幻的紫藤花，日本北九州市-4K.jpg&&https://cn.bing.com/th?id=OHR.Kawachi_ZH-CN6964965791_UHD.jpg
 BingWallPaper-2022-03-28-Wisteria blooms at Kawachi Fuji Garden in Kitakyushu, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.Kawachi_EN-US0111381625_UHD.jpg
+BingWallPaper-2022-03-29-风景秀丽的加勒比海岸，哥伦比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.Buritaca_ZH-CN7178457066_UHD.jpg
+BingWallPaper-2022-03-29-Caribbean coast near Parque Nacional Natural Tayrona, Colombia-4K.jpg&&https://cn.bing.com/th?id=OHR.Buritaca_EN-US0256425153_UHD.jpg
