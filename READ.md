@@ -157,3 +157,5 @@ BingWallPaper-2022-03-29-风景秀丽的加勒比海岸，哥伦比亚-4K.jpg&&h
 BingWallPaper-2022-03-29-Caribbean coast near Parque Nacional Natural Tayrona, Colombia-4K.jpg&&https://cn.bing.com/th?id=OHR.Buritaca_EN-US0256425153_UHD.jpg
 BingWallPaper-2022-03-30-黑白相间的腰带盖洛韦牛，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BeltedGalloway_ZH-CN8570849064_UHD.jpg
 BingWallPaper-2022-03-30-Belted Galloway cows in Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg
+BingWallPaper-2022-03-31-埃菲尔铁塔，法国巴黎-4K.jpg&&https://cn.bing.com/th?id=OHR.AnniEiffel_ZH-CN1786932808_UHD.jpg
+BingWallPaper-2022-03-31-Eiffel Tower in Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg
