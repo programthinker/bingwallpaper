@@ -159,3 +159,5 @@ BingWallPaper-2022-03-30-黑白相间的腰带盖洛韦牛，苏格兰-4K.jpg&&h
 BingWallPaper-2022-03-30-Belted Galloway cows in Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.BeltedGalloway_EN-US0423647307_UHD.jpg
 BingWallPaper-2022-03-31-埃菲尔铁塔，法国巴黎-4K.jpg&&https://cn.bing.com/th?id=OHR.AnniEiffel_ZH-CN1786932808_UHD.jpg
 BingWallPaper-2022-03-31-Eiffel Tower in Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg
+BingWallPaper-2022-04-01-哈瓦泰姬陵，印度拉贾斯坦邦，斋浦尔市-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaMahalJaipur_ZH-CN3863273823_UHD.jpg
+BingWallPaper-2022-04-01-'Greetings from Giza,' an installation by the artist JR, Cairo, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg
