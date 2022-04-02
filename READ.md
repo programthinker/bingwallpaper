@@ -161,3 +161,5 @@ BingWallPaper-2022-03-31-埃菲尔铁塔，法国巴黎-4K.jpg&&https://cn.bing.
 BingWallPaper-2022-03-31-Eiffel Tower in Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.AnniEiffel_EN-US0532501564_UHD.jpg
 BingWallPaper-2022-04-01-哈瓦泰姬陵，印度拉贾斯坦邦，斋浦尔市-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaMahalJaipur_ZH-CN3863273823_UHD.jpg
 BingWallPaper-2022-04-01-'Greetings from Giza,' an installation by the artist JR, Cairo, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg
+BingWallPaper-2022-04-02-旺阿雷自然保护区里的旺阿雷瀑布，新西兰北岛-4K.jpg&&https://cn.bing.com/th?id=OHR.WhangareiFalls_ZH-CN9150162556_UHD.jpg
+BingWallPaper-2022-04-02-Whangārei Falls near the city of Whangārei, North Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhangareiFalls_EN-US0789271044_UHD.jpg
