@@ -165,3 +165,5 @@ BingWallPaper-2022-04-02-旺阿雷自然保护区里的旺阿雷瀑布，新西�
 BingWallPaper-2022-04-02-Whangārei Falls near the city of Whangārei, North Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhangareiFalls_EN-US0789271044_UHD.jpg
 BingWallPaper-2022-04-03-太湖边盛开的樱花，无锡-4K.jpg&&https://cn.bing.com/th?id=OHR.TaihuCherry_ZH-CN9040685764_UHD.jpg
 BingWallPaper-2022-04-03-Cherry blossoms at Lake Tai at Wuxi, China-4K.jpg&&https://cn.bing.com/th?id=OHR.TaihuCherry_EN-US0871129862_UHD.jpg
+BingWallPaper-2022-04-04-裂缝中的谢拉格伯顿石，挪威谢格拉山-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBoulder_ZH-CN8749661500_UHD.jpg
+BingWallPaper-2022-04-04-The Kjeragbolten boulder on the mountain Kjerag in Rogaland county, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBoulder_EN-US1049217849_UHD.jpg
