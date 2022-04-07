@@ -171,3 +171,5 @@ BingWallPaper-2022-04-05-北极光下的众神瀑布，冰岛-4K.jpg&&https://cn
 BingWallPaper-2022-04-05-Goðafoss waterfall under the northern lights, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.Godafoss_EN-US1167261968_UHD.jpg
 BingWallPaper-2022-04-06-正在求偶的凤头卡拉鹰，美国德克萨斯州-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthernCaracara_ZH-CN9538371843_UHD.jpg
 BingWallPaper-2022-04-06-Crested caracara birds courting in Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg
+BingWallPaper-2022-04-07-黄昏下的马拉加老城，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.Malaga_ZH-CN9644862917_UHD.jpg
+BingWallPaper-2022-04-07-Old town of Málaga, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg
