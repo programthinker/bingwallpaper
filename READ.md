@@ -173,3 +173,5 @@ BingWallPaper-2022-04-06-正在求偶的凤头卡拉鹰，美国德克萨斯州-
 BingWallPaper-2022-04-06-Crested caracara birds courting in Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthernCaracara_EN-US1355888776_UHD.jpg
 BingWallPaper-2022-04-07-黄昏下的马拉加老城，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.Malaga_ZH-CN9644862917_UHD.jpg
 BingWallPaper-2022-04-07-Old town of Málaga, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg
+BingWallPaper-2022-04-08-蓬塔德尔加达附近的海岸，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PontaDelgada_ZH-CN8596828822_UHD.jpg
+BingWallPaper-2022-04-08-Coast near Ponta Delgada, Madeira, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg
