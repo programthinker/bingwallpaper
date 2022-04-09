@@ -175,3 +175,5 @@ BingWallPaper-2022-04-07-黄昏下的马拉加老城，西班牙-4K.jpg&&https:/
 BingWallPaper-2022-04-07-Old town of Málaga, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.Malaga_EN-US1459419942_UHD.jpg
 BingWallPaper-2022-04-08-蓬塔德尔加达附近的海岸，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PontaDelgada_ZH-CN8596828822_UHD.jpg
 BingWallPaper-2022-04-08-Coast near Ponta Delgada, Madeira, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg
+BingWallPaper-2022-04-09-光绘摄影下的滑板公园，美国阿瓦达市-4K.jpg&&https://cn.bing.com/th?id=OHR.LightPainting_ZH-CN8824196181_UHD.jpg
+BingWallPaper-2022-04-09-Arvada Skatepark, Arvada, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.LightPainting_EN-US4249414714_UHD.jpg
