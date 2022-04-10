@@ -177,3 +177,5 @@ BingWallPaper-2022-04-08-蓬塔德尔加达附近的海岸，葡萄牙-4K.jpg&&h
 BingWallPaper-2022-04-08-Coast near Ponta Delgada, Madeira, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PontaDelgada_EN-US4010436071_UHD.jpg
 BingWallPaper-2022-04-09-光绘摄影下的滑板公园，美国阿瓦达市-4K.jpg&&https://cn.bing.com/th?id=OHR.LightPainting_ZH-CN8824196181_UHD.jpg
 BingWallPaper-2022-04-09-Arvada Skatepark, Arvada, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.LightPainting_EN-US4249414714_UHD.jpg
+BingWallPaper-2022-04-10-三只狞猫宝宝-4K.jpg&&https://cn.bing.com/th?id=OHR.Caracal_ZH-CN7086185498_UHD.jpg
+BingWallPaper-2022-04-10-Caracal cubs-4K.jpg&&https://cn.bing.com/th?id=OHR.Caracal_EN-US4384489380_UHD.jpg
