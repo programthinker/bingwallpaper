@@ -179,3 +179,5 @@ BingWallPaper-2022-04-09-光绘摄影下的滑板公园，美国阿瓦达市-4K.
 BingWallPaper-2022-04-09-Arvada Skatepark, Arvada, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.LightPainting_EN-US4249414714_UHD.jpg
 BingWallPaper-2022-04-10-三只狞猫宝宝-4K.jpg&&https://cn.bing.com/th?id=OHR.Caracal_ZH-CN7086185498_UHD.jpg
 BingWallPaper-2022-04-10-Caracal cubs-4K.jpg&&https://cn.bing.com/th?id=OHR.Caracal_EN-US4384489380_UHD.jpg
+BingWallPaper-2022-04-11-卷曲的蕨菜叶，加拿大魁北克-4K.jpg&&https://cn.bing.com/th?id=OHR.FernFronds_ZH-CN9338280267_UHD.jpg
+BingWallPaper-2022-04-11-Fiddlehead fern fronds in Quebec, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.FernFronds_EN-US4495822186_UHD.jpg
