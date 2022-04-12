@@ -181,3 +181,5 @@ BingWallPaper-2022-04-10-三只狞猫宝宝-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2022-04-10-Caracal cubs-4K.jpg&&https://cn.bing.com/th?id=OHR.Caracal_EN-US4384489380_UHD.jpg
 BingWallPaper-2022-04-11-卷曲的蕨菜叶，加拿大魁北克-4K.jpg&&https://cn.bing.com/th?id=OHR.FernFronds_ZH-CN9338280267_UHD.jpg
 BingWallPaper-2022-04-11-Fiddlehead fern fronds in Quebec, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.FernFronds_EN-US4495822186_UHD.jpg
+BingWallPaper-2022-04-12-从国际空间站拍摄到的地球上方的渐亏凸月-4K.jpg&&https://cn.bing.com/th?id=OHR.WaningGibbous_ZH-CN9648865417_UHD.jpg
+BingWallPaper-2022-04-12-Waning gibbous moon above the Earth's horizon, photographed from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.WaningGibbous_EN-US4639615556_UHD.jpg
