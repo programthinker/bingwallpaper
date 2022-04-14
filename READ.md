@@ -185,3 +185,5 @@ BingWallPaper-2022-04-12-从国际空间站拍摄到的地球上方的渐亏凸�
 BingWallPaper-2022-04-12-Waning gibbous moon above the Earth's horizon, photographed from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.WaningGibbous_EN-US4639615556_UHD.jpg
 BingWallPaper-2022-04-13-森林中的结香花，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.Mitsumata_ZH-CN9794271032_UHD.jpg
 BingWallPaper-2022-04-13-Mitsumata-4K.jpg&&https://cn.bing.com/th?id=OHR.Mitsumata_EN-US4759994973_UHD.jpg
+BingWallPaper-2022-04-14-科罗拉多河上的马蹄湾，美国亚利桑那州-4K.jpg&&https://cn.bing.com/th?id=OHR.AZBend_ZH-CN9943469006_UHD.jpg
+BingWallPaper-2022-04-14-Horseshoe Bend, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.AZBend_EN-US5187337431_UHD.jpg
