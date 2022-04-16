@@ -189,3 +189,5 @@ BingWallPaper-2022-04-14-科罗拉多河上的马蹄湾，美国亚利桑那州-
 BingWallPaper-2022-04-14-Horseshoe Bend, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.AZBend_EN-US5187337431_UHD.jpg
 BingWallPaper-2022-04-15-达特穆尔国家公园的薄雾，英格兰德文郡-4K.jpg&&https://cn.bing.com/th?id=OHR.DartmoorMist_ZH-CN0317898466_UHD.jpg
 BingWallPaper-2022-04-15-'L'Arc de Triomphe, Wrapped,' an art installation by Christo and Jeanne-Claude on September 24, 2021, in Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristoJeanneClaude_EN-US5281746588_UHD.jpg
+BingWallPaper-2022-04-16-黄石国家公园的大棱镜泉鸟瞰图，美国怀俄明州-4K.jpg&&https://cn.bing.com/th?id=OHR.Yellowstone150_ZH-CN0551084440_UHD.jpg
+BingWallPaper-2022-04-16-Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg
