@@ -193,3 +193,5 @@ BingWallPaper-2022-04-16-黄石国家公园的大棱镜泉鸟瞰图，美国怀�
 BingWallPaper-2022-04-16-Aerial view of Grand Prismatic Spring, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.Yellowstone150_EN-US5394661102_UHD.jpg
 BingWallPaper-2022-04-17-蓝色的美洲知更鸟蛋，新泽西州-4K.jpg&&https://cn.bing.com/th?id=OHR.RobinsEgg_ZH-CN0838507211_UHD.jpg
 BingWallPaper-2022-04-17-The blue eggs of an American robin in New Jersey-4K.jpg&&https://cn.bing.com/th?id=OHR.RobinsEgg_EN-US5615411748_UHD.jpg
+BingWallPaper-2022-04-18-梅萨维德国家公园的方形塔楼，美国科罗拉多州-4K.jpg&&https://cn.bing.com/th?id=OHR.SquareTowerHouse_ZH-CN1203640326_UHD.jpg
+BingWallPaper-2022-04-18-Square Tower House in Mesa Verde National Park, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg
