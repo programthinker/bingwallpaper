@@ -195,3 +195,5 @@ BingWallPaper-2022-04-17-蓝色的美洲知更鸟蛋，新泽西州-4K.jpg&&http
 BingWallPaper-2022-04-17-The blue eggs of an American robin in New Jersey-4K.jpg&&https://cn.bing.com/th?id=OHR.RobinsEgg_EN-US5615411748_UHD.jpg
 BingWallPaper-2022-04-18-梅萨维德国家公园的方形塔楼，美国科罗拉多州-4K.jpg&&https://cn.bing.com/th?id=OHR.SquareTowerHouse_ZH-CN1203640326_UHD.jpg
 BingWallPaper-2022-04-18-Square Tower House in Mesa Verde National Park, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg
+BingWallPaper-2022-04-19-十六湖国家公园，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_ZH-CN1370384104_UHD.jpg
+BingWallPaper-2022-04-19-Plitvice Lakes National Park, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg
