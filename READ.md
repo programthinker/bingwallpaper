@@ -197,3 +197,5 @@ BingWallPaper-2022-04-18-梅萨维德国家公园的方形塔楼，美国科罗�
 BingWallPaper-2022-04-18-Square Tower House in Mesa Verde National Park, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.SquareTowerHouse_EN-US5990660612_UHD.jpg
 BingWallPaper-2022-04-19-十六湖国家公园，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_ZH-CN1370384104_UHD.jpg
 BingWallPaper-2022-04-19-Plitvice Lakes National Park, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg
+BingWallPaper-2022-04-20-两只躲在妈妈尾羽下的疣鼻小天鹅，纽约长岛-4K.jpg&&https://cn.bing.com/th?id=OHR.MuteSwan_ZH-CN1554957153_UHD.jpg
+BingWallPaper-2022-04-20-Mute swan chicks shelter under mom's tail feathers, Massapequa Preserve, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg
