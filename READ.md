@@ -199,3 +199,5 @@ BingWallPaper-2022-04-19-十六湖国家公园，克罗地亚-4K.jpg&&https://cn
 BingWallPaper-2022-04-19-Plitvice Lakes National Park, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceBoardwalk_EN-US6264296543_UHD.jpg
 BingWallPaper-2022-04-20-两只躲在妈妈尾羽下的疣鼻小天鹅，纽约长岛-4K.jpg&&https://cn.bing.com/th?id=OHR.MuteSwan_ZH-CN1554957153_UHD.jpg
 BingWallPaper-2022-04-20-Mute swan chicks shelter under mom's tail feathers, Massapequa Preserve, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.MuteSwan_EN-US6400507861_UHD.jpg
+BingWallPaper-2022-04-21-在公路上吃草的绵羊，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandicSummer_ZH-CN1779278033_UHD.jpg
+BingWallPaper-2022-04-21-Sheep graze along a road, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandicSummer_EN-US6680616324_UHD.jpg
