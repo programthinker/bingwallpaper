@@ -205,3 +205,5 @@ BingWallPaper-2022-04-22-卡鲁拉国家公园里的小湖，爱沙尼亚-4K.jpg
 BingWallPaper-2022-04-22-Small lake in Karula National Park, Valgamaa County, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDay2022_EN-US1806321261_UHD.jpg
 BingWallPaper-2022-04-23-维多利亚纪念堂，印度加尔各答-4K.jpg&&https://cn.bing.com/th?id=OHR.VictoriaMemorialKolkata_ZH-CN5801450386_UHD.jpg
 BingWallPaper-2022-04-23-Tianjin Binhai New Area Library in Tianjin, China-4K.jpg&&https://cn.bing.com/th?id=OHR.TheEye_EN-US1955504804_UHD.jpg
+BingWallPaper-2022-04-24-半穹顶景观点上空的银河，优胜美地国家公园，加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteNightSky_ZH-CN5864740024_UHD.jpg
+BingWallPaper-2022-04-24-Milky Way rising above Half Dome in Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg
