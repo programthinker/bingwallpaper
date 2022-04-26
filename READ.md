@@ -209,3 +209,5 @@ BingWallPaper-2022-04-24-半穹顶景观点上空的银河，优胜美地国家�
 BingWallPaper-2022-04-24-Milky Way rising above Half Dome in Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteNightSky_EN-US2099671650_UHD.jpg
 BingWallPaper-2022-04-25-圣安德鲁斯湾岸边的三只王企鹅，南乔治亚岛-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeKings_ZH-CN5954425982_UHD.jpg
 BingWallPaper-2022-04-25-Three king penguins on the shore of St. Andrew's Bay, South Georgia Island-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg
+BingWallPaper-2022-04-26-下莱茵省的胡内城堡，法国阿尔萨斯大区-4K.jpg&&https://cn.bing.com/th?id=OHR.Hunebourg_ZH-CN6038786751_UHD.jpg
+BingWallPaper-2022-04-26-Central Park, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg
