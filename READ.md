@@ -211,3 +211,5 @@ BingWallPaper-2022-04-25-圣安德鲁斯湾岸边的三只王企鹅，南乔治�
 BingWallPaper-2022-04-25-Three king penguins on the shore of St. Andrew's Bay, South Georgia Island-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeKings_EN-US2202898186_UHD.jpg
 BingWallPaper-2022-04-26-下莱茵省的胡内城堡，法国阿尔萨斯大区-4K.jpg&&https://cn.bing.com/th?id=OHR.Hunebourg_ZH-CN6038786751_UHD.jpg
 BingWallPaper-2022-04-26-Central Park, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.WalkingCentral_EN-US2266373197_UHD.jpg
+BingWallPaper-2022-04-27-午夜的太阳，挪威斯瓦尔巴群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.SvalbardSun_ZH-CN6108396467_UHD.jpg
+BingWallPaper-2022-04-27-Midnight sun in Svalbard, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.SvalbardSun_EN-US2348209213_UHD.jpg
