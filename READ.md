@@ -217,3 +217,5 @@ BingWallPaper-2022-04-28-大脊山，英格兰峰区国家公园-4K.jpg&&https:/
 BingWallPaper-2022-04-28-Fox kits practice their hunting skills, Quebec, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.FoxSkills_EN-US2404818455_UHD.jpg
 BingWallPaper-2022-04-29-巨型红杉的小萌芽，加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg
 BingWallPaper-2022-04-29-A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg
+BingWallPaper-2022-04-30-正在投喂幼鸟的戴胜鸟，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg
+BingWallPaper-2022-04-30-The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_UHD.jpg
