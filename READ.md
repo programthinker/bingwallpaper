@@ -219,3 +219,5 @@ BingWallPaper-2022-04-29-巨型红杉的小萌芽，加利福尼亚州-4K.jpg&&h
 BingWallPaper-2022-04-29-A young coast redwood sprouting out of an old log in Prairie Creek Redwoods State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodSprout_EN-US2459675162_UHD.jpg
 BingWallPaper-2022-04-30-正在投喂幼鸟的戴胜鸟，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg
 BingWallPaper-2022-04-30-The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_UHD.jpg
+BingWallPaper-2022-05-01-盛开的金链花树和紫色葱属植物，加拿大温哥华范度森植物园-4K.jpg&&https://cn.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_UHD.jpg
+BingWallPaper-2022-05-01-Dancers on the site of a lele-4K.jpg&&https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg
