@@ -221,3 +221,5 @@ BingWallPaper-2022-04-30-正在投喂幼鸟的戴胜鸟，德国-4K.jpg&&https:/
 BingWallPaper-2022-04-30-The North Beach Jazz Mural created by Bay Area artist Bill Weber in San Francisco-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthBeachJazz_EN-US2507879013_UHD.jpg
 BingWallPaper-2022-05-01-盛开的金链花树和紫色葱属植物，加拿大温哥华范度森植物园-4K.jpg&&https://cn.bing.com/th?id=OHR.VanBlooms_ZH-CN6370306779_UHD.jpg
 BingWallPaper-2022-05-01-Dancers on the site of a lele-4K.jpg&&https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg
+BingWallPaper-2022-05-02-土耳其棉花堡的石灰华梯田-4K.jpg&&https://cn.bing.com/th?id=OHR.TravertineTurkey_ZH-CN6430409651_UHD.jpg
+BingWallPaper-2022-05-02-Travertine terraces of Pamukkale, Turkey-4K.jpg&&https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg
