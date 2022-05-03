@@ -223,3 +223,5 @@ BingWallPaper-2022-05-01-盛开的金链花树和紫色葱属植物，加拿大�
 BingWallPaper-2022-05-01-Dancers on the site of a lele-4K.jpg&&https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg
 BingWallPaper-2022-05-02-土耳其棉花堡的石灰华梯田-4K.jpg&&https://cn.bing.com/th?id=OHR.TravertineTurkey_ZH-CN6430409651_UHD.jpg
 BingWallPaper-2022-05-02-Travertine terraces of Pamukkale, Turkey-4K.jpg&&https://cn.bing.com/th?id=OHR.TravertineTurkey_EN-US2604407895_UHD.jpg
+BingWallPaper-2022-05-03-鸳鸯妈妈和小鸳鸯们，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.DuckHen_ZH-CN6493617016_UHD.jpg
+BingWallPaper-2022-05-03-Mandarin duck hen with ducklings in South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg
