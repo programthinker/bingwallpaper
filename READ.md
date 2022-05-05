@@ -227,3 +227,5 @@ BingWallPaper-2022-05-03-鸳鸯妈妈和小鸳鸯们，韩国-4K.jpg&&https://cn
 BingWallPaper-2022-05-03-Mandarin duck hen with ducklings in South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.DuckHen_EN-US2672519159_UHD.jpg
 BingWallPaper-2022-05-04-托菲诺的麦肯齐海滩，加拿大不列颠哥伦比亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.TofinoOcean_ZH-CN6555392161_UHD.jpg
 BingWallPaper-2022-05-04-Wadi Rum, Jordan-4K.jpg&&https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg
+BingWallPaper-2022-05-05-蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区-4K.jpg&&https://cn.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg
+BingWallPaper-2022-05-05-Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg
