@@ -229,3 +229,5 @@ BingWallPaper-2022-05-04-托菲诺的麦肯齐海滩，加拿大不列颠哥伦�
 BingWallPaper-2022-05-04-Wadi Rum, Jordan-4K.jpg&&https://cn.bing.com/th?id=OHR.WadiRum_EN-US2725530460_UHD.jpg
 BingWallPaper-2022-05-05-蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰酒产区-4K.jpg&&https://cn.bing.com/th?id=OHR.JaliscoAgave_ZH-CN6612544241_UHD.jpg
 BingWallPaper-2022-05-05-Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg
+BingWallPaper-2022-05-06-一条蜿蜒穿过开满蓝铃花森林的小径，英格兰赫特福德郡-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_UHD.jpg
+BingWallPaper-2022-05-06-A path winding through a forest carpeted with bluebells in Hertfordshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_UHD.jpg
