@@ -231,3 +231,5 @@ BingWallPaper-2022-05-05-蓝色龙舌兰田，墨西哥哈利斯科州龙舌兰�
 BingWallPaper-2022-05-05-Tree in blue agave field in the tequila-producing region near Atotonilco el Alto, Jalisco, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.JaliscoAgave_EN-US2800710188_UHD.jpg
 BingWallPaper-2022-05-06-一条蜿蜒穿过开满蓝铃花森林的小径，英格兰赫特福德郡-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireBluebells_ZH-CN1027832085_UHD.jpg
 BingWallPaper-2022-05-06-A path winding through a forest carpeted with bluebells in Hertfordshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_UHD.jpg
+BingWallPaper-2022-05-07-拉西拉ESO天文台上的天文望远镜设备，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_UHD.jpg
+BingWallPaper-2022-05-07-Swedish telescope at La Silla ESO Observatory, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedishAntenna_EN-US4697496933_UHD.jpg
