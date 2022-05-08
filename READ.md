@@ -233,3 +233,5 @@ BingWallPaper-2022-05-06-一条蜿蜒穿过开满蓝铃花森林的小径，英�
 BingWallPaper-2022-05-06-A path winding through a forest carpeted with bluebells in Hertfordshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireBluebells_EN-US4578338154_UHD.jpg
 BingWallPaper-2022-05-07-拉西拉ESO天文台上的天文望远镜设备，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedishAntenna_ZH-CN9163420082_UHD.jpg
 BingWallPaper-2022-05-07-Swedish telescope at La Silla ESO Observatory, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedishAntenna_EN-US4697496933_UHD.jpg
+BingWallPaper-2022-05-08-考拉熊妈妈和8个月大的宝宝，澳大利亚昆士兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MomJoey_ZH-CN1642006600_UHD.jpg
+BingWallPaper-2022-05-08-Koala mother and 8-month-old joey, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MomJoey_EN-US7006938352_UHD.jpg
