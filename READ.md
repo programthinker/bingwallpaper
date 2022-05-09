@@ -235,3 +235,5 @@ BingWallPaper-2022-05-07-拉西拉ESO天文台上的天文望远镜设备，智�
 BingWallPaper-2022-05-07-Swedish telescope at La Silla ESO Observatory, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedishAntenna_EN-US4697496933_UHD.jpg
 BingWallPaper-2022-05-08-考拉熊妈妈和8个月大的宝宝，澳大利亚昆士兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MomJoey_ZH-CN1642006600_UHD.jpg
 BingWallPaper-2022-05-08-Koala mother and 8-month-old joey, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MomJoey_EN-US7006938352_UHD.jpg
+BingWallPaper-2022-05-09-从观景台俯瞰格雷梅，格雷梅国家公园，土耳其卡帕多西亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_UHD.jpg
+BingWallPaper-2022-05-09-View of Göreme from an observation deck, Göreme National Park, Cappadocia, Turkey-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeNationalPark_EN-US4875441908_UHD.jpg
