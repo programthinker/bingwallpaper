@@ -237,3 +237,5 @@ BingWallPaper-2022-05-08-考拉熊妈妈和8个月大的宝宝，澳大利亚昆
 BingWallPaper-2022-05-08-Koala mother and 8-month-old joey, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MomJoey_EN-US7006938352_UHD.jpg
 BingWallPaper-2022-05-09-从观景台俯瞰格雷梅，格雷梅国家公园，土耳其卡帕多西亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeNationalPark_ZH-CN1861727385_UHD.jpg
 BingWallPaper-2022-05-09-View of Göreme from an observation deck, Göreme National Park, Cappadocia, Turkey-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeNationalPark_EN-US4875441908_UHD.jpg
+BingWallPaper-2022-05-10-春天的豹溪瀑布，吉福德·平肖国家森林，美国华盛顿州-4K.jpg&&https://cn.bing.com/th?id=OHR.GiffordPinchot_ZH-CN2050686223_UHD.jpg
+BingWallPaper-2022-05-10-Panther Creek Falls in spring, Gifford Pinchot National Forest, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_UHD.jpg
