@@ -36,8 +36,7 @@ public class DownloadUtils {
     public static void downloadImage() throws Exception {
 
         List<String> strings = Files.readAllLines(readmePath, StandardCharsets.UTF_8);
-
-        strings.parallelStream().forEach(s -> {
+        strings.parallelStream().forEachOrdered(s -> {
             String name = s.split("&&")[0];
             String url = s.split("&&")[1];
             HttpGet get = new HttpGet(url);
