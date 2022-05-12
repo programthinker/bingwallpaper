@@ -241,3 +241,5 @@ BingWallPaper-2022-05-10-春天的豹溪瀑布，吉福德·平肖国家森林�
 BingWallPaper-2022-05-10-Panther Creek Falls in spring, Gifford Pinchot National Forest, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.GiffordPinchot_EN-US4980175686_UHD.jpg
 BingWallPaper-2022-05-11-圣托里尼岛上的伊亚镇，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.OiaVillage_ZH-CN2495652522_UHD.jpg
 BingWallPaper-2022-05-11-The village of Oia on the island of Santorini, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.OiaVillage_EN-US5240840248_UHD.jpg
+BingWallPaper-2022-05-12-布拉塞河上的雾天黎明，英国湖区国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.RiverBrathay_ZH-CN2718424663_UHD.jpg
+BingWallPaper-2022-05-12-Nurses serving with the American Red Cross in Paris, France, in May 1919-4K.jpg&&https://cn.bing.com/th?id=OHR.RedCross_EN-US5698722803_UHD.jpg
