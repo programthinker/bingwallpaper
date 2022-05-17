@@ -3,6 +3,8 @@ package com.example.bingwallpaper;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClientBuilder;
@@ -27,6 +29,9 @@ public class BingWallPaperDownload {
     private static String CN_BING_URL = "https://cn.bing.com";
 
     public static void main(String[] args) throws Exception {
+        //idx:0：到今天，-1：到明天，1：到昨天
+        //n:返回的图片数量，最多8张
+        //mkt:地区
         String[] imageAPI = {
                 "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN",
                 "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=EN-US"
@@ -36,29 +41,25 @@ public class BingWallPaperDownload {
             HttpGet httpGet = new HttpGet(imageAPI[i]);
             CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
             String content = EntityUtils.toString(httpResponse.getEntity());
-            JSONObject jsonObject = JSON.parseObject(content);
-            JSONArray jsonArray = jsonObject.getJSONArray("images");
+            ObjectMapper objectMapper = new ObjectMapper();
+            JsonNode node = objectMapper.readTree(content);
+            JsonNode images = node.get("images");
 
-            jsonObject = (JSONObject) jsonArray.get(0);
-            // 图片地址
-            String url = CN_BING_URL + (String) jsonObject.get("url");
-            // 图片地址
-            String realDownLoadUrl = CN_BING_URL + (String) jsonObject.get("urlbase") + "_UHD";
-
-            //获取图片的后缀名
-            String split = url.split("&")[0];
-            String suffix = split.substring(split.length() - 4, split.length());
-
-            //图片的版权信息描述，可用于图片名
-            String copyright = (String) jsonObject.get("copyright");
-            String imageName = ("BingWallPaper-" + LocalDate.now() + "-" + copyright.split("\\(")[0].trim() + "-4K" + suffix).replaceAll("/", "-");
-
-            String imageUrl = realDownLoadUrl + suffix;
-
-
-            //将每一天的下载链接和对应的图片名称保存到README.md
-
-            ReadMeUtils.writeToReadme(imageName, imageUrl);
+            for (long l = 0; l < images.size(); l++) {
+                JsonNode image = images.get((int) l);
+                String enddate = image.get("enddate").asText();
+                String year = enddate.substring(0, 4);
+                String month = enddate.substring(4, 6);
+                String day = enddate.substring(6);
+                String url = CN_BING_URL + image.get("url").asText();
+                String realDownLoadUrl = CN_BING_URL + image.get("urlbase").asText() + "_UHD";
+                String split = url.split("&")[0];
+                String suffix = split.substring(split.length() - 4, split.length());
+                String copyright = image.get("copyright").asText();
+                String imageName = ("BingWallPaper-" + year + "-" + month + "-" + day + "-" + copyright.split("\\(")[0].trim() + "-4K" + suffix).replaceAll("/", "-");
+                String imageUrl = realDownLoadUrl + suffix;
+                ReadMeUtils.writeToReadme(imageName, imageUrl);
+            }
         }
 
     }
