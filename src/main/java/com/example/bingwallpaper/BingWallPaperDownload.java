@@ -36,12 +36,11 @@ public class BingWallPaperDownload {
                 "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN",
                 "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=EN-US"
         };
-
+        ObjectMapper objectMapper = new ObjectMapper();
         for (int i = 0; i < imageAPI.length; i++) {
             HttpGet httpGet = new HttpGet(imageAPI[i]);
             CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
             String content = EntityUtils.toString(httpResponse.getEntity());
-            ObjectMapper objectMapper = new ObjectMapper();
             JsonNode node = objectMapper.readTree(content);
             JsonNode images = node.get("images");
 
