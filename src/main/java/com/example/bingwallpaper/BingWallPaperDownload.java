@@ -27,8 +27,8 @@ public class BingWallPaperDownload {
         //n:返回的图片数量，最多8张
         //mkt:地区
         String[] imageAPI = {
-                "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt=zh-CN",
-                "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=8&mkt=EN-US"
+                "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=zh-CN",
+                "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=EN-US"
         };
         ObjectMapper objectMapper = new ObjectMapper();
         for (int i = 0; i < imageAPI.length; i++) {
