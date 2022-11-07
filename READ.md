@@ -11,3 +11,5 @@ BingWallPaper-2022-11-05-阿赫雷湖畔的泰莫特罗萨克斯城堡酒店，�
 BingWallPaper-2022-11-06-Tigh Mor Trossachs on Loch Achray, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg
 BingWallPaper-2022-11-06-1990年纽约市马拉松比赛，参赛者穿过韦拉扎诺海峡大桥-4K.jpg&&https://cn.bing.com/th?id=OHR.MarathonSunday_ZH-CN9833453732_UHD.jpg
 BingWallPaper-2022-11-07-Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge-4K.jpg&&https://cn.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg
+BingWallPaper-2022-11-07-庐山冬季美景，中国江西省-4K.jpg&&https://cn.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg
+BingWallPaper-2022-11-08-Lunar eclipse above Mount Crested Butte, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg
