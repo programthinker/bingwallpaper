@@ -13,3 +13,5 @@ BingWallPaper-2022-11-06-1990年纽约市马拉松比赛，参赛者穿过韦拉
 BingWallPaper-2022-11-07-Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge-4K.jpg&&https://cn.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg
 BingWallPaper-2022-11-07-庐山冬季美景，中国江西省-4K.jpg&&https://cn.bing.com/th?id=OHR.LiDong2022_ZH-CN9929478283_UHD.jpg
 BingWallPaper-2022-11-08-Lunar eclipse above Mount Crested Butte, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg
+BingWallPaper-2022-11-08-清迈易鹏节升起的天灯，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg
+BingWallPaper-2022-11-09-Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg
