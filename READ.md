@@ -15,3 +15,5 @@ BingWallPaper-2022-11-07-庐山冬季美景，中国江西省-4K.jpg&&https://cn
 BingWallPaper-2022-11-08-Lunar eclipse above Mount Crested Butte, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg
 BingWallPaper-2022-11-08-清迈易鹏节升起的天灯，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.YiPeng_ZH-CN0652265903_UHD.jpg
 BingWallPaper-2022-11-09-Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg
+BingWallPaper-2022-11-09-萨塞克斯郡的西欧刺猬，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.HedgehogNest_ZH-CN0781850458_UHD.jpg
+BingWallPaper-2022-11-10-European hedgehog in Sussex, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg
