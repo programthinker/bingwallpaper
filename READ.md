@@ -19,3 +19,5 @@ BingWallPaper-2022-11-09-萨塞克斯郡的西欧刺猬，英国-4K.jpg&&https:/
 BingWallPaper-2022-11-10-European hedgehog in Sussex, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg
 BingWallPaper-2022-11-10-雷暴中恶地国家公园的岩层，美国南达科他州-4K.jpg&&https://cn.bing.com/th?id=OHR.BadLightning_ZH-CN1049646409_UHD.jpg
 BingWallPaper-2022-11-11-Rock formations in Badlands National Park during a lightning storm, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BadLightning_EN-US0865590962_UHD.jpg
+BingWallPaper-2022-11-11-阿拉瓦利山脉的阿布山，印度拉贾斯坦邦-4K.jpg&&https://cn.bing.com/th?id=OHR.MountAbu_ZH-CN1348295593_UHD.jpg
+BingWallPaper-2022-11-12-The Vietnam Women's Memorial in Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg
