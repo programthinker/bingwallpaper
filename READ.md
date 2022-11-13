@@ -23,3 +23,5 @@ BingWallPaper-2022-11-11-阿拉瓦利山脉的阿布山，印度拉贾斯坦邦-
 BingWallPaper-2022-11-12-The Vietnam Women's Memorial in Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg
 BingWallPaper-2022-11-12-阿拉斯加州海恩斯附近的秃鹰群，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HainesEagle_ZH-CN1542376030_UHD.jpg
 BingWallPaper-2022-11-13-Bald eagles near Haines, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg
+BingWallPaper-2022-11-13-伊萨尔河鸟瞰图，德国伦格里斯-4K.jpg&&https://cn.bing.com/th?id=OHR.IsarwinkelSylvenstein_ZH-CN2963187862_UHD.jpg
+BingWallPaper-2022-11-14-The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg
