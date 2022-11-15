@@ -26,3 +26,5 @@ BingWallPaper-2022-11-13-伊萨尔河鸟瞰图，德国伦格里斯-4K.jpg&&http
 BingWallPaper-2022-11-14-The Punch Bowl on the River Quoich in the Cairngorms, Aberdeenshire, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.PunchBowl_EN-US0351920520_UHD.jpg
 BingWallPaper-2022-11-14-哈尔基岛的圣约翰骑士中世纪城堡遗址，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.SanGiovanni_ZH-CN3184593519_UHD.jpg
 BingWallPaper-2022-11-15-Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg
+BingWallPaper-2022-11-15-北美水獭在阿卡迪亚国家公园游泳，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LontraCanadensis_ZH-CN3359002168_UHD.jpg
+BingWallPaper-2022-11-16-North American river otters swimming in Acadia National Park, Maine-4K.jpg&&https://cn.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg
