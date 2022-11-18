@@ -32,3 +32,5 @@ BingWallPaper-2022-11-16-梅萨维德国家公园的悬崖宫，美国-4K.jpg&&h
 BingWallPaper-2022-11-17-Cliff dwellings in Mesa Verde National Park, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg
 BingWallPaper-2022-11-17-威拉米特国家森林麦肯齐河步道上的桥，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_ZH-CN3786429850_UHD.jpg
 BingWallPaper-2022-11-18-Bridge on the McKenzie River Trail, Willamette National Forest, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg
+BingWallPaper-2022-11-18-菲斯皇宫的大门，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg
+BingWallPaper-2022-11-19-The gates of the Royal Palace-4K.jpg&&https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg
