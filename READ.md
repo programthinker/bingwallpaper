@@ -34,3 +34,5 @@ BingWallPaper-2022-11-17-威拉米特国家森林麦肯齐河步道上的桥，�
 BingWallPaper-2022-11-18-Bridge on the McKenzie River Trail, Willamette National Forest, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.McKenzieRiverTrail_EN-US2967958579_UHD.jpg
 BingWallPaper-2022-11-18-菲斯皇宫的大门，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.IslamicArt_ZH-CN9972614185_UHD.jpg
 BingWallPaper-2022-11-19-The gates of the Royal Palace-4K.jpg&&https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg
+BingWallPaper-2022-11-19-犹他州锡安国家公园的维尔京河，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg
+BingWallPaper-2022-11-20-Virgin River in Zion National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg
