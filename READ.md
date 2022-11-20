@@ -36,3 +36,5 @@ BingWallPaper-2022-11-18-菲斯皇宫的大门，摩洛哥-4K.jpg&&https://cn.bi
 BingWallPaper-2022-11-19-The gates of the Royal Palace-4K.jpg&&https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg
 BingWallPaper-2022-11-19-犹他州锡安国家公园的维尔京河，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ZNPVR_ZH-CN0123954914_UHD.jpg
 BingWallPaper-2022-11-20-Virgin River in Zion National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg
+BingWallPaper-2022-11-20-船底星云中的宇宙悬崖-4K.jpg&&https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg
+BingWallPaper-2022-11-21-'World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg
