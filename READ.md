@@ -38,3 +38,5 @@ BingWallPaper-2022-11-19-犹他州锡安国家公园的维尔京河，美国-4K.
 BingWallPaper-2022-11-20-Virgin River in Zion National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg
 BingWallPaper-2022-11-20-船底星云中的宇宙悬崖-4K.jpg&&https://cn.bing.com/th?id=OHR.CosmicCliffs_ZH-CN9555199651_UHD.jpg
 BingWallPaper-2022-11-21-'World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg
+BingWallPaper-2022-11-21-伊索拉贝拉岛，意大利马焦雷湖-4K.jpg&&https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg
+BingWallPaper-2022-11-22-Ahmad Bin Ali Stadium in Doha, Qatar-4K.jpg&&https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg
