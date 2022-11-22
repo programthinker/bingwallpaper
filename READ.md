@@ -40,3 +40,5 @@ BingWallPaper-2022-11-20-船底星云中的宇宙悬崖-4K.jpg&&https://cn.bing.
 BingWallPaper-2022-11-21-'World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg
 BingWallPaper-2022-11-21-伊索拉贝拉岛，意大利马焦雷湖-4K.jpg&&https://cn.bing.com/th?id=OHR.BorromeanIslands_ZH-CN0480730115_UHD.jpg
 BingWallPaper-2022-11-22-Ahmad Bin Ali Stadium in Doha, Qatar-4K.jpg&&https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg
+BingWallPaper-2022-11-22-阿姆斯特丹供水沙丘自然保护区的赤狐，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.Waterleidingduinen_ZH-CN1430683267_UHD.jpg
+BingWallPaper-2022-11-23-Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg
