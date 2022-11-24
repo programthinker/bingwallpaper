@@ -44,3 +44,5 @@ BingWallPaper-2022-11-22-阿姆斯特丹供水沙丘自然保护区的赤狐，�
 BingWallPaper-2022-11-23-Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg
 BingWallPaper-2022-11-23-向日葵-4K.jpg&&https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg
 BingWallPaper-2022-11-24-Sunflower-4K.jpg&&https://cn.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg
+BingWallPaper-2022-11-24-坎彭万德山，基姆高地区阿绍，德国巴伐利亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg
+BingWallPaper-2022-11-25-Cranberry bog-4K.jpg&&https://cn.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg
