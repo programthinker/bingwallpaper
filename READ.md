@@ -50,3 +50,5 @@ BingWallPaper-2022-11-25-日出时分的蒂雷纳村庄，法国新阿基坦大�
 BingWallPaper-2022-11-26-Monks Mound at the Cahokia Mounds UNESCO World Heritage Site near Collinsville, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg
 BingWallPaper-2022-11-26-意大利西西里岛康科迪亚神庙前的一棵橄榄树-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_UHD.jpg
 BingWallPaper-2022-11-27-An olive tree in front of the Temple of Concordia on the island of Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg
+BingWallPaper-2022-11-27-一片飘落在龙虾爪瓣上的号角树树叶，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg
+BingWallPaper-2022-11-28-Cecropia leaf atop lobster claw petals, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg
