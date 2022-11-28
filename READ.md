@@ -52,3 +52,5 @@ BingWallPaper-2022-11-26-意大利西西里岛康科迪亚神庙前的一棵橄�
 BingWallPaper-2022-11-27-An olive tree in front of the Temple of Concordia on the island of Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg
 BingWallPaper-2022-11-27-一片飘落在龙虾爪瓣上的号角树树叶，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg
 BingWallPaper-2022-11-28-Cecropia leaf atop lobster claw petals, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg
+BingWallPaper-2022-11-28-火星（© NASA-Alamy）-4K.jpg&&https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg
+BingWallPaper-2022-11-29-Mars-4K.jpg&&https://cn.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg
