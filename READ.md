@@ -54,3 +54,5 @@ BingWallPaper-2022-11-27-一片飘落在龙虾爪瓣上的号角树树叶，墨�
 BingWallPaper-2022-11-28-Cecropia leaf atop lobster claw petals, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.Cecropia_EN-US9602789937_UHD.jpg
 BingWallPaper-2022-11-28-火星（© NASA-Alamy）-4K.jpg&&https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg
 BingWallPaper-2022-11-29-Mars-4K.jpg&&https://cn.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg
+BingWallPaper-2022-11-29-正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg
+BingWallPaper-2022-11-30-Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg
