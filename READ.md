@@ -56,3 +56,5 @@ BingWallPaper-2022-11-28-火星（© NASA-Alamy）-4K.jpg&&https://cn.bing.com/t
 BingWallPaper-2022-11-29-Mars-4K.jpg&&https://cn.bing.com/th?id=OHR.RedPlanetDay_EN-US9693219784_UHD.jpg
 BingWallPaper-2022-11-29-正在筑巢的大蓝鹭，佛罗里达州瓦可达哈齐湿地，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HeronGiving_ZH-CN5229629007_UHD.jpg
 BingWallPaper-2022-11-30-Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg
+BingWallPaper-2022-11-30-罗维尼老城，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg
+BingWallPaper-2022-12-01-The Old Town of Rovinj, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg
