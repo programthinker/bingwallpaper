@@ -58,3 +58,5 @@ BingWallPaper-2022-11-29-正在筑巢的大蓝鹭，佛罗里达州瓦可达哈�
 BingWallPaper-2022-11-30-Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HeronGiving_EN-US9774285216_UHD.jpg
 BingWallPaper-2022-11-30-罗维尼老城，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg
 BingWallPaper-2022-12-01-The Old Town of Rovinj, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg
+BingWallPaper-2022-12-01-天堂湾，南极洲-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5878485421_UHD.jpg
+BingWallPaper-2022-12-02-Paradise Harbour, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg
