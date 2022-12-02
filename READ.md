@@ -60,3 +60,5 @@ BingWallPaper-2022-11-30-罗维尼老城，克罗地亚-4K.jpg&&https://cn.bing.
 BingWallPaper-2022-12-01-The Old Town of Rovinj, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg
 BingWallPaper-2022-12-01-天堂湾，南极洲-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5878485421_UHD.jpg
 BingWallPaper-2022-12-02-Paradise Harbour, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg
+BingWallPaper-2022-12-02-特里卡基拉河三角洲，阿拉斯加州克拉克湖国家公园，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BraidedRiverDelta_ZH-CN3352462511_UHD.jpg
+BingWallPaper-2022-12-03-Tlikakila River Delta in Lake Clark National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg
