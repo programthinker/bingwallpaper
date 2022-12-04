@@ -64,3 +64,5 @@ BingWallPaper-2022-12-02-特里卡基拉河三角洲，阿拉斯加州克拉克�
 BingWallPaper-2022-12-03-Tlikakila River Delta in Lake Clark National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.BraidedRiverDelta_EN-US0693594934_UHD.jpg
 BingWallPaper-2022-12-03-迈阿密海滩海洋大道，美国佛罗里达州-4K.jpg&&https://cn.bing.com/th?id=OHR.MiamiDT_ZH-CN3528760113_UHD.jpg
 BingWallPaper-2022-12-04-Miami Beach, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg
+BingWallPaper-2022-12-04-乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_UHD.jpg
+BingWallPaper-2022-12-05-Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg
