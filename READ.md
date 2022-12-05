@@ -66,3 +66,5 @@ BingWallPaper-2022-12-03-迈阿密海滩海洋大道，美国佛罗里达州-4K.
 BingWallPaper-2022-12-04-Miami Beach, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg
 BingWallPaper-2022-12-04-乞力马扎罗山附近的大象，安波塞利国家公园，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KilimanjaroElephants_ZH-CN3779609103_UHD.jpg
 BingWallPaper-2022-12-05-Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg
+BingWallPaper-2022-12-05-古瓦哈提的竹子，印度阿萨姆邦-4K.jpg&&https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg
+BingWallPaper-2022-12-06-Saint Nicholas Day in Verbier, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg
