@@ -68,3 +68,5 @@ BingWallPaper-2022-12-04-乞力马扎罗山附近的大象，安波塞利国家�
 BingWallPaper-2022-12-05-Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg
 BingWallPaper-2022-12-05-古瓦哈提的竹子，印度阿萨姆邦-4K.jpg&&https://cn.bing.com/th?id=OHR.BambooTreesIndia_ZH-CN3943852151_UHD.jpg
 BingWallPaper-2022-12-06-Saint Nicholas Day in Verbier, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg
+BingWallPaper-2022-12-06-大沼泽国家公园里的一只大白鹭，美国佛罗里达州-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg
+BingWallPaper-2022-12-07-A great egret in Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg
