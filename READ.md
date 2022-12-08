@@ -72,3 +72,5 @@ BingWallPaper-2022-12-06-大沼泽国家公园里的一只大白鹭，美国佛�
 BingWallPaper-2022-12-07-A great egret in Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg
 BingWallPaper-2022-12-07-贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg
 BingWallPaper-2022-12-08-Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg
+BingWallPaper-2022-12-08-威斯特曼森林，达特穆尔国家公园，英格兰德文郡-4K.jpg&&https://cn.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_UHD.jpg
+BingWallPaper-2022-12-09-The Cathedral of Florence, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg
