@@ -74,3 +74,5 @@ BingWallPaper-2022-12-07-贾斯珀国家公园纠结溪瀑布，阿尔伯塔省�
 BingWallPaper-2022-12-08-Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg
 BingWallPaper-2022-12-08-威斯特曼森林，达特穆尔国家公园，英格兰德文郡-4K.jpg&&https://cn.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_UHD.jpg
 BingWallPaper-2022-12-09-The Cathedral of Florence, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg
+BingWallPaper-2022-12-09-多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg
+BingWallPaper-2022-12-10-Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg
