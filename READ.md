@@ -76,3 +76,5 @@ BingWallPaper-2022-12-08-威斯特曼森林，达特穆尔国家公园，英格�
 BingWallPaper-2022-12-09-The Cathedral of Florence, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg
 BingWallPaper-2022-12-09-多弗勒山-松达尔国家公园的麝牛与她的宝宝，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayMuskox_ZH-CN6137934745_UHD.jpg
 BingWallPaper-2022-12-10-Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg
+BingWallPaper-2022-12-10-玻利维亚的乌尤尼盐沼-4K.jpg&&https://cn.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg
+BingWallPaper-2022-12-11-Salar de Uyuni in Bolivia-4K.jpg&&https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg
