@@ -78,3 +78,5 @@ BingWallPaper-2022-12-09-多弗勒山-松达尔国家公园的麝牛与她的宝
 BingWallPaper-2022-12-10-Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg
 BingWallPaper-2022-12-10-玻利维亚的乌尤尼盐沼-4K.jpg&&https://cn.bing.com/th?id=OHR.SaltDesert_ZH-CN4728398785_UHD.jpg
 BingWallPaper-2022-12-11-Salar de Uyuni in Bolivia-4K.jpg&&https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg
+BingWallPaper-2022-12-11-泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg
+BingWallPaper-2022-12-12-Tangle Creek Falls in Jasper National Park, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg
