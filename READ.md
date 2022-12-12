@@ -80,3 +80,5 @@ BingWallPaper-2022-12-10-玻利维亚的乌尤尼盐沼-4K.jpg&&https://cn.bing.
 BingWallPaper-2022-12-11-Salar de Uyuni in Bolivia-4K.jpg&&https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg
 BingWallPaper-2022-12-11-泰根塞山脉Roßstein山顶的景色，德国巴伐利亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.BuchsteinRossstein_ZH-CN4924477552_UHD.jpg
 BingWallPaper-2022-12-12-Tangle Creek Falls in Jasper National Park, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg
+BingWallPaper-2022-12-12-一品红-4K.jpg&&https://cn.bing.com/th?id=OHR.PoinsettiaDay_ZH-CN5115071992_UHD.jpg
+BingWallPaper-2022-12-13-Poinsettia plants-4K.jpg&&https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg
