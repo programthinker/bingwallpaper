@@ -84,3 +84,5 @@ BingWallPaper-2022-12-12-一品红-4K.jpg&&https://cn.bing.com/th?id=OHR.Poinset
 BingWallPaper-2022-12-13-Poinsettia plants-4K.jpg&&https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg
 BingWallPaper-2022-12-13-哈尔施塔特，奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.InstagramHallstatt_ZH-CN5309282641_UHD.jpg
 BingWallPaper-2022-12-14-Hallstatt, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg
+BingWallPaper-2022-12-14-大帕拉迪索国家公园，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg
+BingWallPaper-2022-12-15-Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg
