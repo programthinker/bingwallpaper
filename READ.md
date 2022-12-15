@@ -86,3 +86,5 @@ BingWallPaper-2022-12-13-哈尔施塔特，奥地利-4K.jpg&&https://cn.bing.com
 BingWallPaper-2022-12-14-Hallstatt, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg
 BingWallPaper-2022-12-14-大帕拉迪索国家公园，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.GranParadiso100th_ZH-CN5744961532_UHD.jpg
 BingWallPaper-2022-12-15-Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg
+BingWallPaper-2022-12-15-博罗韦茨，保加利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg
+BingWallPaper-2022-12-16-Borovets, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg
