@@ -88,3 +88,5 @@ BingWallPaper-2022-12-14-大帕拉迪索国家公园，意大利-4K.jpg&&https:/
 BingWallPaper-2022-12-15-Great horned owls and a gilded flicker on a saguaro cactus in the Sonoran Desert, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GildedFlicker_EN-US2911251361_UHD.jpg
 BingWallPaper-2022-12-15-博罗韦茨，保加利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.Borovets_ZH-CN5914681811_UHD.jpg
 BingWallPaper-2022-12-16-Borovets, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg
+BingWallPaper-2022-12-16-杜德萨加尔瀑布，印度果阿-4K.jpg&&https://cn.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg
+BingWallPaper-2022-12-17-Holiday lights in the Atlanta Botanical Garden, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg
