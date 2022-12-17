@@ -90,3 +90,5 @@ BingWallPaper-2022-12-15-博罗韦茨，保加利亚-4K.jpg&&https://cn.bing.com
 BingWallPaper-2022-12-16-Borovets, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg
 BingWallPaper-2022-12-16-杜德萨加尔瀑布，印度果阿-4K.jpg&&https://cn.bing.com/th?id=OHR.DudhsagarFallsGoa_ZH-CN0466471017_UHD.jpg
 BingWallPaper-2022-12-17-Holiday lights in the Atlanta Botanical Garden, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg
+BingWallPaper-2022-12-17-冰川国家公园的山羊，美国蒙大拿州-4K.jpg&&https://cn.bing.com/th?id=OHR.GlacierGoats_ZH-CN0764810245_UHD.jpg
+BingWallPaper-2022-12-18-Mountain goats at Glacier National Park in Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg
