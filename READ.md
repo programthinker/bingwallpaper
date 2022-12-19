@@ -94,3 +94,5 @@ BingWallPaper-2022-12-17-冰川国家公园的山羊，美国蒙大拿州-4K.jpg
 BingWallPaper-2022-12-18-Mountain goats at Glacier National Park in Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg
 BingWallPaper-2022-12-18-迈阿密南海滩，美国佛罗里达州-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthBeach_ZH-CN0989287734_UHD.jpg
 BingWallPaper-2022-12-19-South Beach in Miami Beach, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg
+BingWallPaper-2022-12-19-栖息在北美冬青上的北美红雀，美国伊利诺伊州-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg
+BingWallPaper-2022-12-20-A northern cardinal perched in a common winterberry bush in Marion County, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg
