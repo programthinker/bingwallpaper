@@ -96,3 +96,5 @@ BingWallPaper-2022-12-18-迈阿密南海滩，美国佛罗里达州-4K.jpg&&http
 BingWallPaper-2022-12-19-South Beach in Miami Beach, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg
 BingWallPaper-2022-12-19-栖息在北美冬青上的北美红雀，美国伊利诺伊州-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterberryBush_ZH-CN1414026440_UHD.jpg
 BingWallPaper-2022-12-20-A northern cardinal perched in a common winterberry bush in Marion County, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg
+BingWallPaper-2022-12-20-维也纳美景宫的圣诞市场，奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.PalaceBelvedere_ZH-CN1818163173_UHD.jpg
+BingWallPaper-2022-12-21-Christmas market at Belvedere in Vienna, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg
