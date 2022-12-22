@@ -100,3 +100,5 @@ BingWallPaper-2022-12-20-维也纳美景宫的圣诞市场，奥地利-4K.jpg&&h
 BingWallPaper-2022-12-21-Christmas market at Belvedere in Vienna, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg
 BingWallPaper-2022-12-21-多洛米蒂山脉安特莫亚湖上的日晕，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SolarHalo_ZH-CN2320274967_UHD.jpg
 BingWallPaper-2022-12-22-Sun halo over Lake Antermoia in the Dolomite Mountains of Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg
+BingWallPaper-2022-12-22-安纳西，法国上瓦萨省-4K.jpg&&https://cn.bing.com/th?id=OHR.AnnecyXmas_ZH-CN2540694929_UHD.jpg
+BingWallPaper-2022-12-23-Christmas tree of the Galeries Lafayette in Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg
