@@ -104,3 +104,5 @@ BingWallPaper-2022-12-22-安纳西，法国上瓦萨省-4K.jpg&&https://cn.bing.
 BingWallPaper-2022-12-23-Christmas tree of the Galeries Lafayette in Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg
 BingWallPaper-2022-12-23-南极洲的巴布亚企鹅-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooGrievances_ZH-CN2875292726_UHD.jpg
 BingWallPaper-2022-12-24-Gentoo penguins in Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg
+BingWallPaper-2022-12-24-狍子，特伦蒂诺-上阿迪杰大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg
+BingWallPaper-2022-12-25-Amalga Harbor, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg
