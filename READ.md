@@ -106,3 +106,5 @@ BingWallPaper-2022-12-23-南极洲的巴布亚企鹅-4K.jpg&&https://cn.bing.com
 BingWallPaper-2022-12-24-Gentoo penguins in Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg
 BingWallPaper-2022-12-24-狍子，特伦蒂诺-上阿迪杰大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.RoeTrentinoSnow_ZH-CN3122890500_UHD.jpg
 BingWallPaper-2022-12-25-Amalga Harbor, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg
+BingWallPaper-2022-12-25-黑梳山附近的惠斯勒小镇，加拿大不列颠哥伦比亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.WhistlerVillage_ZH-CN3451305723_UHD.jpg
+BingWallPaper-2022-12-26-Miniature holiday scene in Strasbourg, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasSouvenir_EN-US6355954352_UHD.jpg
