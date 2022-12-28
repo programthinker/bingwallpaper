@@ -112,3 +112,5 @@ BingWallPaper-2022-12-26-贝弗利·韦斯特伍德，东约克郡，英格兰-4
 BingWallPaper-2022-12-27-Beverley Westwood Common, East Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BeverleyWestwood_EN-US6464100653_UHD.jpg
 BingWallPaper-2022-12-27-格林达维克的蓝湖，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueLagoon_ZH-CN3874240119_UHD.jpg
 BingWallPaper-2022-12-28-Blue Lagoon, Grindavík, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg
+BingWallPaper-2022-12-28-马洛亚，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg
+BingWallPaper-2022-12-29-Maloja, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg
