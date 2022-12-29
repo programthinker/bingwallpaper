@@ -114,3 +114,5 @@ BingWallPaper-2022-12-27-格林达维克的蓝湖，冰岛-4K.jpg&&https://cn.bi
 BingWallPaper-2022-12-28-Blue Lagoon, Grindavík, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg
 BingWallPaper-2022-12-28-马洛亚，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.ChiesaBianca_ZH-CN4208333975_UHD.jpg
 BingWallPaper-2022-12-29-Maloja, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg
+BingWallPaper-2022-12-29-斯托尔石山，天空之岛，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg
+BingWallPaper-2022-12-30-A pair of silver-studded blue butterflies-4K.jpg&&https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg
