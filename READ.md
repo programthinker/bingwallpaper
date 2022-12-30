@@ -116,3 +116,5 @@ BingWallPaper-2022-12-28-马洛亚，瑞士-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2022-12-29-Maloja, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg
 BingWallPaper-2022-12-29-斯托尔石山，天空之岛，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg
 BingWallPaper-2022-12-30-A pair of silver-studded blue butterflies-4K.jpg&&https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg
+BingWallPaper-2022-12-30-白沙漠中的岩石，埃及-4K.jpg&&https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg
+BingWallPaper-2022-12-31-Rock formations in the White Desert, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg
