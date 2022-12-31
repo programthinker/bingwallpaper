@@ -118,3 +118,5 @@ BingWallPaper-2022-12-29-斯托尔石山，天空之岛，苏格兰-4K.jpg&&http
 BingWallPaper-2022-12-30-A pair of silver-studded blue butterflies-4K.jpg&&https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg
 BingWallPaper-2022-12-30-白沙漠中的岩石，埃及-4K.jpg&&https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg
 BingWallPaper-2022-12-31-Rock formations in the White Desert, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg
+BingWallPaper-2022-12-31-一起迎接2023年-4K.jpg&&https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg
+BingWallPaper-2023-01-01-New Year's Eve fireworks, Sydney Harbour Bridge, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg
