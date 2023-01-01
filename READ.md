@@ -120,3 +120,5 @@ BingWallPaper-2022-12-30-白沙漠中的岩石，埃及-4K.jpg&&https://cn.bing.
 BingWallPaper-2022-12-31-Rock formations in the White Desert, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg
 BingWallPaper-2022-12-31-一起迎接2023年-4K.jpg&&https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg
 BingWallPaper-2023-01-01-New Year's Eve fireworks, Sydney Harbour Bridge, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg
+BingWallPaper-2023-01-01-北极熊斯瓦尔巴群岛，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg
+BingWallPaper-2023-01-02-Polar bear in Svalbard, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg
