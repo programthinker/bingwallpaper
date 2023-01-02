@@ -122,3 +122,5 @@ BingWallPaper-2022-12-31-一起迎接2023年-4K.jpg&&https://cn.bing.com/th?id=O
 BingWallPaper-2023-01-01-New Year's Eve fireworks, Sydney Harbour Bridge, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg
 BingWallPaper-2023-01-01-北极熊斯瓦尔巴群岛，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg
 BingWallPaper-2023-01-02-Polar bear in Svalbard, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg
+BingWallPaper-2023-01-02-霍亨索伦城堡，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_UHD.jpg
+BingWallPaper-2023-01-03-Hohenzollern Castle, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg
