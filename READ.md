@@ -126,3 +126,5 @@ BingWallPaper-2023-01-02-霍亨索伦城堡，德国-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-01-03-Hohenzollern Castle, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg
 BingWallPaper-2023-01-03-博斯克·德尔·阿帕奇国家野生动物保护区的沙丘鹤，美国新墨西哥州-4K.jpg&&https://cn.bing.com/th?id=OHR.SandhillSleeping_ZH-CN8483997851_UHD.jpg
 BingWallPaper-2023-01-04-Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg
+BingWallPaper-2023-01-04-从国际空间站看到的地球-4K.jpg&&https://cn.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_UHD.jpg
+BingWallPaper-2023-01-05-Earth as seen from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg
