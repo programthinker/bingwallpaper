@@ -128,3 +128,5 @@ BingWallPaper-2023-01-03-博斯克·德尔·阿帕奇国家野生动物保护区
 BingWallPaper-2023-01-04-Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg
 BingWallPaper-2023-01-04-从国际空间站看到的地球-4K.jpg&&https://cn.bing.com/th?id=OHR.Perihelion_ZH-CN8681537155_UHD.jpg
 BingWallPaper-2023-01-05-Earth as seen from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg
+BingWallPaper-2023-01-05-白鼬-4K.jpg&&https://cn.bing.com/th?id=OHR.HermelinSchnee_ZH-CN8839783506_UHD.jpg
+BingWallPaper-2023-01-06-Harbin International Ice and Snow Sculpture Festival, Harbin, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg
