@@ -132,3 +132,5 @@ BingWallPaper-2023-01-05-白鼬-4K.jpg&&https://cn.bing.com/th?id=OHR.HermelinSc
 BingWallPaper-2023-01-06-Harbin International Ice and Snow Sculpture Festival, Harbin, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg
 BingWallPaper-2023-01-06-英格兰湖区的Black Fell-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg
 BingWallPaper-2023-01-07-Black Fell, Lake District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg
+BingWallPaper-2023-01-07-羊毛和马海毛纱线-4K.jpg&&https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg
+BingWallPaper-2023-01-08-Wool and mohair yarn-4K.jpg&&https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg
