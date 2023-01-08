@@ -134,3 +134,5 @@ BingWallPaper-2023-01-06-英格兰湖区的Black Fell-4K.jpg&&https://cn.bing.co
 BingWallPaper-2023-01-07-Black Fell, Lake District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg
 BingWallPaper-2023-01-07-羊毛和马海毛纱线-4K.jpg&&https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg
 BingWallPaper-2023-01-08-Wool and mohair yarn-4K.jpg&&https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg
+BingWallPaper-2023-01-08-科罗拉多州布雷肯里奇-4K.jpg&&https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg
+BingWallPaper-2023-01-09-Breckenridge, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg
