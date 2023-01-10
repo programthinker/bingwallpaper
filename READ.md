@@ -138,3 +138,5 @@ BingWallPaper-2023-01-08-科罗拉多州布雷肯里奇-4K.jpg&&https://cn.bing.
 BingWallPaper-2023-01-09-Breckenridge, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg
 BingWallPaper-2023-01-09-南达科他州风洞国家公园的水牛-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg
 BingWallPaper-2023-01-10-Bison in Wind Cave National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg
+BingWallPaper-2023-01-10-爱沙尼亚佩普斯湖上的小冰丘-4K.jpg&&https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg
+BingWallPaper-2023-01-11-Hummock ice on Lake Peipus in Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg
