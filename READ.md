@@ -140,3 +140,5 @@ BingWallPaper-2023-01-09-南达科他州风洞国家公园的水牛-4K.jpg&&http
 BingWallPaper-2023-01-10-Bison in Wind Cave National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg
 BingWallPaper-2023-01-10-爱沙尼亚佩普斯湖上的小冰丘-4K.jpg&&https://cn.bing.com/th?id=OHR.HummockIce_ZH-CN9917832145_UHD.jpg
 BingWallPaper-2023-01-11-Hummock ice on Lake Peipus in Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg
+BingWallPaper-2023-01-11-戈德雷维灯塔，英国康沃尔郡-4K.jpg&&https://cn.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg
+BingWallPaper-2023-01-12-'Umschreibung,' a sculpture by artist Olafur Eliasson in Munich, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg
