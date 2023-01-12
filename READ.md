@@ -142,3 +142,5 @@ BingWallPaper-2023-01-10-爱沙尼亚佩普斯湖上的小冰丘-4K.jpg&&https:/
 BingWallPaper-2023-01-11-Hummock ice on Lake Peipus in Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg
 BingWallPaper-2023-01-11-戈德雷维灯塔，英国康沃尔郡-4K.jpg&&https://cn.bing.com/th?id=OHR.GodrevyRocks_ZH-CN0051118926_UHD.jpg
 BingWallPaper-2023-01-12-'Umschreibung,' a sculpture by artist Olafur Eliasson in Munich, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.Umschreibung_EN-US4693850900_UHD.jpg
+BingWallPaper-2023-01-12-博斯普鲁斯海峡的如梅利堡垒，土耳其伊斯坦布尔-4K.jpg&&https://cn.bing.com/th?id=OHR.RumeliHisari_ZH-CN0185820275_UHD.jpg
+BingWallPaper-2023-01-13-Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg
