@@ -148,3 +148,5 @@ BingWallPaper-2023-01-13-海峡群岛国家公园的巨藻，美国加利福尼�
 BingWallPaper-2023-01-14-Giant kelp in the Channel Islands National Marine Sanctuary, California-4K.jpg&&https://cn.bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg
 BingWallPaper-2023-01-14-吃樱桃树枝的毛驴-4K.jpg&&https://cn.bing.com/th?id=OHR.DonkeyFeast_ZH-CN5880627132_UHD.jpg
 BingWallPaper-2023-01-15-Domestic donkey feeding on cherry twigs-4K.jpg&&https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg
+BingWallPaper-2023-01-15-横贯图尔库的奥拉河, 芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_UHD.jpg
+BingWallPaper-2023-01-16-Aura River in Turku, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.Turku_EN-US1258814703_UHD.jpg
