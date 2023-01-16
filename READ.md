@@ -150,3 +150,5 @@ BingWallPaper-2023-01-14-吃樱桃树枝的毛驴-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2023-01-15-Domestic donkey feeding on cherry twigs-4K.jpg&&https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg
 BingWallPaper-2023-01-15-横贯图尔库的奥拉河, 芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.Turku_ZH-CN6008877545_UHD.jpg
 BingWallPaper-2023-01-16-Aura River in Turku, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.Turku_EN-US1258814703_UHD.jpg
+BingWallPaper-2023-01-16-麦切纳山和结冰的亚伯拉罕湖，加拿大艾伯塔省-4K.jpg&&https://cn.bing.com/th?id=OHR.FrozenBubblesAlberta_ZH-CN6154214678_UHD.jpg
+BingWallPaper-2023-01-17-Inscription Wall at the Martin Luther King Jr. Memorial in Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.InscriptionWall_EN-US1392173431_UHD.jpg
