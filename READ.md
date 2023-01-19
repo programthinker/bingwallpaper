@@ -156,3 +156,5 @@ BingWallPaper-2023-01-17-穆涅略斯自然保护区，西班牙-4K.jpg&&https:/
 BingWallPaper-2023-01-18-Muniellos Nature Reserve in Asturias, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SessileOaks_EN-US1487454928_UHD.jpg
 BingWallPaper-2023-01-18-白沙国家公园，美国新墨西哥州-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSands_ZH-CN6500188005_UHD.jpg
 BingWallPaper-2023-01-19-White Sands National Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg
+BingWallPaper-2023-01-19-帕克城, 美国犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_UHD.jpg
+BingWallPaper-2023-01-20-Park City, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg
