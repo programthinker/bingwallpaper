@@ -158,3 +158,5 @@ BingWallPaper-2023-01-18-白沙国家公园，美国新墨西哥州-4K.jpg&&http
 BingWallPaper-2023-01-19-White Sands National Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg
 BingWallPaper-2023-01-19-帕克城, 美国犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.SFFParkCity_ZH-CN6707019061_UHD.jpg
 BingWallPaper-2023-01-20-Park City, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg
+BingWallPaper-2023-01-20-王企鹅，福克兰群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.FalklandKings_ZH-CN6891102487_UHD.jpg
+BingWallPaper-2023-01-21-King penguins in the Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg
