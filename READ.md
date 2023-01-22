@@ -162,3 +162,5 @@ BingWallPaper-2023-01-20-王企鹅，福克兰群岛-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-01-21-King penguins in the Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg
 BingWallPaper-2023-01-21-除夕夜的中国新年灯笼-4K.jpg&&https://cn.bing.com/th?id=OHR.ChineseNewYearEve2023_ZH-CN7188893388_UHD.jpg
 BingWallPaper-2023-01-22-Kangaroo mother and baby-4K.jpg&&https://cn.bing.com/th?id=OHR.HuggingKanga_EN-US2086666028_UHD.jpg
+BingWallPaper-2023-01-22-春节的桃花和红灯笼-4K.jpg&&https://cn.bing.com/th?id=OHR.ChineseSpringFestival2023_ZH-CN7281854882_UHD.jpg
+BingWallPaper-2023-01-23-Mountain hare in Derbyshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg
