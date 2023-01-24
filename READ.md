@@ -166,3 +166,5 @@ BingWallPaper-2023-01-22-春节的桃花和红灯笼-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-01-23-Mountain hare in Derbyshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg
 BingWallPaper-2023-01-23-复活节岛上的摩艾石像，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_UHD.jpg
 BingWallPaper-2023-01-24-Moai statues on Easter Island, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg
+BingWallPaper-2023-01-24-多洛米蒂山谷中的科莱圣卢恰小镇，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_UHD.jpg
+BingWallPaper-2023-01-25-Colle Santa Lucia in the Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg
