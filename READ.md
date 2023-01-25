@@ -168,3 +168,5 @@ BingWallPaper-2023-01-23-复活节岛上的摩艾石像，智利-4K.jpg&&https:/
 BingWallPaper-2023-01-24-Moai statues on Easter Island, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg
 BingWallPaper-2023-01-24-多洛米蒂山谷中的科莱圣卢恰小镇，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ColleSantaLucia_ZH-CN7638164714_UHD.jpg
 BingWallPaper-2023-01-25-Colle Santa Lucia in the Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg
+BingWallPaper-2023-01-25-位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_UHD.jpg
+BingWallPaper-2023-01-26-Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg
