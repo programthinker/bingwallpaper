@@ -170,3 +170,5 @@ BingWallPaper-2023-01-24-多洛米蒂山谷中的科莱圣卢恰小镇，意大�
 BingWallPaper-2023-01-25-Colle Santa Lucia in the Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg
 BingWallPaper-2023-01-25-位于阿伯费尔迪桦树林中的罗伯特·彭斯雕像, 苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BirksofAberfeldy_ZH-CN7810226692_UHD.jpg
 BingWallPaper-2023-01-26-Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg
+BingWallPaper-2023-01-26-天门洞，湖南天门山国家森林公园，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_UHD.jpg
+BingWallPaper-2023-01-27-Heaven's Gate Cave in Tianmen Mountain National Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg
