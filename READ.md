@@ -172,3 +172,5 @@ BingWallPaper-2023-01-25-位于阿伯费尔迪桦树林中的罗伯特·彭斯�
 BingWallPaper-2023-01-26-Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg
 BingWallPaper-2023-01-26-天门洞，湖南天门山国家森林公园，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.HighArchChina_ZH-CN8170154553_UHD.jpg
 BingWallPaper-2023-01-27-Heaven's Gate Cave in Tianmen Mountain National Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg
+BingWallPaper-2023-01-27-瓜纳阿卡维韦斯半岛国家公园的红树林，古巴-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_UHD.jpg
+BingWallPaper-2023-01-28-Red mangrove tree seedlings in Guanahacabibes National Park, Cuba-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg
