@@ -174,3 +174,5 @@ BingWallPaper-2023-01-26-天门洞，湖南天门山国家森林公园，中国-
 BingWallPaper-2023-01-27-Heaven's Gate Cave in Tianmen Mountain National Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg
 BingWallPaper-2023-01-27-瓜纳阿卡维韦斯半岛国家公园的红树林，古巴-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMangrove_ZH-CN4083989028_UHD.jpg
 BingWallPaper-2023-01-28-Red mangrove tree seedlings in Guanahacabibes National Park, Cuba-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg
+BingWallPaper-2023-01-28-从国际空间站看到的巴哈马周围的蓝绿色水域-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueBahamas_ZH-CN2083290847_UHD.jpg
+BingWallPaper-2023-01-29-Blue-green waters around the Bahamas as seen from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg
