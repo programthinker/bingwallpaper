@@ -178,3 +178,5 @@ BingWallPaper-2023-01-28-从国际空间站看到的巴哈马周围的蓝绿色�
 BingWallPaper-2023-01-29-Blue-green waters around the Bahamas as seen from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg
 BingWallPaper-2023-01-29-埃塞克斯的乌鸫，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackbirdDay_ZH-CN2291101162_UHD.jpg
 BingWallPaper-2023-01-30-Blackbird in Essex, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg
+BingWallPaper-2023-01-30-纳加尔霍雷国家公园，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN4165452163_UHD.jpg
+BingWallPaper-2023-01-31-Ice and Snow Sailing European Championships on Lake Balaton in Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg
