@@ -180,3 +180,5 @@ BingWallPaper-2023-01-29-埃塞克斯的乌鸫，英国-4K.jpg&&https://cn.bing.
 BingWallPaper-2023-01-30-Blackbird in Essex, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg
 BingWallPaper-2023-01-30-纳加尔霍雷国家公园，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.NagarholeNationalPark_ZH-CN4165452163_UHD.jpg
 BingWallPaper-2023-01-31-Ice and Snow Sailing European Championships on Lake Balaton in Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg
+BingWallPaper-2023-01-31-南非自然保护区的斑马-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_UHD.jpg
+BingWallPaper-2023-02-01-Burchell's zebras, Rietvlei Nature Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg
