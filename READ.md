@@ -182,3 +182,5 @@ BingWallPaper-2023-01-30-纳加尔霍雷国家公园，卡纳塔克邦，印度-
 BingWallPaper-2023-01-31-Ice and Snow Sailing European Championships on Lake Balaton in Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg
 BingWallPaper-2023-01-31-南非自然保护区的斑马-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_UHD.jpg
 BingWallPaper-2023-02-01-Burchell's zebras, Rietvlei Nature Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg
+BingWallPaper-2023-02-01-皮埃尔丰城堡，皮卡第大区，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg
+BingWallPaper-2023-02-02-'Testament: The Little Rock Nine Monument,' Little Rock, Arkansas-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg
