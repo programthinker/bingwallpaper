@@ -184,3 +184,5 @@ BingWallPaper-2023-01-31-南非自然保护区的斑马-4K.jpg&&https://cn.bing.
 BingWallPaper-2023-02-01-Burchell's zebras, Rietvlei Nature Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg
 BingWallPaper-2023-02-01-皮埃尔丰城堡，皮卡第大区，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg
 BingWallPaper-2023-02-02-'Testament: The Little Rock Nine Monument,' Little Rock, Arkansas-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg
+BingWallPaper-2023-02-02-高地陶恩国家公园内的高山土拨鼠，奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg
+BingWallPaper-2023-02-03-Alpine marmots in Hohe Tauern National Park, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg
