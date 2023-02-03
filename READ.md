@@ -186,3 +186,5 @@ BingWallPaper-2023-02-01-皮埃尔丰城堡，皮卡第大区，法国-4K.jpg&&h
 BingWallPaper-2023-02-02-'Testament: The Little Rock Nine Monument,' Little Rock, Arkansas-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg
 BingWallPaper-2023-02-02-高地陶恩国家公园内的高山土拨鼠，奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg
 BingWallPaper-2023-02-03-Alpine marmots in Hohe Tauern National Park, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg
+BingWallPaper-2023-02-03-费尔蒙芳堤娜城堡酒店，魁北克省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg
+BingWallPaper-2023-02-04-Château Frontenac, Quebec City, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg
