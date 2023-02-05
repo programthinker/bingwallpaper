@@ -190,3 +190,5 @@ BingWallPaper-2023-02-03-费尔蒙芳堤娜城堡酒店，魁北克省，加拿�
 BingWallPaper-2023-02-04-Château Frontenac, Quebec City, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg
 BingWallPaper-2023-02-04-永福樱花园，福建省龙岩市, 中国-4K.jpg&&https://cn.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg
 BingWallPaper-2023-02-05-Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956-4K.jpg&&https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg
+BingWallPaper-2023-02-05-毛茸茸又可爱的山兔-4K.jpg&&https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg
+BingWallPaper-2023-02-06-Monarch butterflies at Pismo Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg
