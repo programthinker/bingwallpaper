@@ -192,3 +192,5 @@ BingWallPaper-2023-02-04-永福樱花园，福建省龙岩市, 中国-4K.jpg&&ht
 BingWallPaper-2023-02-05-Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956-4K.jpg&&https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg
 BingWallPaper-2023-02-05-毛茸茸又可爱的山兔-4K.jpg&&https://cn.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg
 BingWallPaper-2023-02-06-Monarch butterflies at Pismo Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg
+BingWallPaper-2023-02-06-峡湾国家公园，新西兰南岛-4K.jpg&&https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_UHD.jpg
+BingWallPaper-2023-02-07-Fiordland National Park in South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg
