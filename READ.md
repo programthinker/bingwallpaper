@@ -194,3 +194,5 @@ BingWallPaper-2023-02-05-毛茸茸又可爱的山兔-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-02-06-Monarch butterflies at Pismo Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg
 BingWallPaper-2023-02-06-峡湾国家公园，新西兰南岛-4K.jpg&&https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_ZH-CN9436140228_UHD.jpg
 BingWallPaper-2023-02-07-Fiordland National Park in South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg
+BingWallPaper-2023-02-07-拉布罗小镇，列蒂省，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MedievalLabro_ZH-CN0015356188_UHD.jpg
+BingWallPaper-2023-02-08-Village of Labro, Rieti Province, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg
