@@ -198,3 +198,5 @@ BingWallPaper-2023-02-07-拉布罗小镇，列蒂省，意大利-4K.jpg&&https:/
 BingWallPaper-2023-02-08-Village of Labro, Rieti Province, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg
 BingWallPaper-2023-02-08-艾琳多南堡，苏格兰高地-4K.jpg&&https://cn.bing.com/th?id=OHR.EileanDonanDawn_ZH-CN0383017858_UHD.jpg
 BingWallPaper-2023-02-09-Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg
+BingWallPaper-2023-02-09-下羚羊峡谷，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_ZH-CN4758496750_UHD.jpg
+BingWallPaper-2023-02-10-Lower Antelope Canyon near Page, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg
