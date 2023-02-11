@@ -202,3 +202,5 @@ BingWallPaper-2023-02-09-下羚羊峡谷，亚利桑那州，美国-4K.jpg&&http
 BingWallPaper-2023-02-10-Lower Antelope Canyon near Page, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg
 BingWallPaper-2023-02-10-埃庇道鲁斯剧场, 希腊阿尔戈利斯省-4K.jpg&&https://cn.bing.com/th?id=OHR.EpidaurusGreece_ZH-CN0640135476_UHD.jpg
 BingWallPaper-2023-02-11-Ancient theater of Epidaurus in Argolis province, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg
+BingWallPaper-2023-02-11-死亡谷扎布里斯基角上空的银河，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.DarkSkiesDV_ZH-CN1076500221_UHD.jpg
+BingWallPaper-2023-02-12-The Milky Way over Zabriskie Point, Death Valley, California-4K.jpg&&https://cn.bing.com/th?id=OHR.DarkSkiesDV_EN-US5129041284_UHD.jpg
