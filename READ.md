@@ -206,3 +206,5 @@ BingWallPaper-2023-02-11-死亡谷扎布里斯基角上空的银河，美国加�
 BingWallPaper-2023-02-12-The Milky Way over Zabriskie Point, Death Valley, California-4K.jpg&&https://cn.bing.com/th?id=OHR.DarkSkiesDV_EN-US5129041284_UHD.jpg
 BingWallPaper-2023-02-12-一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.BoobyDarwinDay_ZH-CN9917306809_UHD.jpg
 BingWallPaper-2023-02-13-Blue-footed booby, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg
+BingWallPaper-2023-02-13-阿卡切斯瞭望台，月亮谷，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg
+BingWallPaper-2023-02-14-Achaches lookout, El Valle de la Luna, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg
