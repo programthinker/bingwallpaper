@@ -208,3 +208,5 @@ BingWallPaper-2023-02-12-一对蓝脚鲣鸟，加拉帕戈斯群岛，厄瓜多�
 BingWallPaper-2023-02-13-Blue-footed booby, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg
 BingWallPaper-2023-02-13-阿卡切斯瞭望台，月亮谷，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.MoonValley_ZH-CN1906470869_UHD.jpg
 BingWallPaper-2023-02-14-Achaches lookout, El Valle de la Luna, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg
+BingWallPaper-2023-02-14-日本北海道小樽雪灯之路的冰屋-4K.jpg&&https://cn.bing.com/th?id=OHR.OtaruIgloo_ZH-CN2078929256_UHD.jpg
+BingWallPaper-2023-02-15-Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg
