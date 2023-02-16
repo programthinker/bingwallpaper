@@ -212,3 +212,5 @@ BingWallPaper-2023-02-14-日本北海道小樽雪灯之路的冰屋-4K.jpg&&http
 BingWallPaper-2023-02-15-Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg
 BingWallPaper-2023-02-15-河马妈妈和宝宝，乔贝国家公园，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.HippoDayChobe_ZH-CN2883647954_UHD.jpg
 BingWallPaper-2023-02-16-Hippopotamus mother and baby, Chobe National Park, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg
+BingWallPaper-2023-02-16-“火流”马尾瀑布，约塞米蒂国家公园，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.FireFallYosemite_ZH-CN3351604820_UHD.jpg
+BingWallPaper-2023-02-17-'Firefall' on Horsetail Fall, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg
