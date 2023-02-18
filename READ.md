@@ -216,3 +216,5 @@ BingWallPaper-2023-02-16-“火流”马尾瀑布，约塞米蒂国家公园，�
 BingWallPaper-2023-02-17-'Firefall' on Horsetail Fall, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.FireFallYosemite_EN-US1696286356_UHD.jpg
 BingWallPaper-2023-02-17-栖息在红袋鼠爪枝干上的艾氏煌蜂鸟-4K.jpg&&https://cn.bing.com/th?id=OHR.BirdcountAllen_ZH-CN4029022734_UHD.jpg
 BingWallPaper-2023-02-18-Allen's hummingbird perched on a red kangaroo paw plant-4K.jpg&&https://cn.bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg
+BingWallPaper-2023-02-18-埃本冰洞，密歇根上半岛，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg
+BingWallPaper-2023-02-19-Eben Ice Caves, Upper Peninsula, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg
