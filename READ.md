@@ -218,3 +218,5 @@ BingWallPaper-2023-02-17-栖息在红袋鼠爪枝干上的艾氏煌蜂鸟-4K.jpg
 BingWallPaper-2023-02-18-Allen's hummingbird perched on a red kangaroo paw plant-4K.jpg&&https://cn.bing.com/th?id=OHR.BirdcountAllen_EN-US1766542066_UHD.jpg
 BingWallPaper-2023-02-18-埃本冰洞，密歇根上半岛，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.EbenIceCave_ZH-CN6035107581_UHD.jpg
 BingWallPaper-2023-02-19-Eben Ice Caves, Upper Peninsula, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg
+BingWallPaper-2023-02-19-毛伊岛附近的座头鲸，美国夏威夷-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg
+BingWallPaper-2023-02-20-Humpback whales, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg
