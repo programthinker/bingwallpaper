@@ -220,3 +220,5 @@ BingWallPaper-2023-02-18-埃本冰洞，密歇根上半岛，美国-4K.jpg&&http
 BingWallPaper-2023-02-19-Eben Ice Caves, Upper Peninsula, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg
 BingWallPaper-2023-02-19-毛伊岛附近的座头鲸，美国夏威夷-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiWhale_ZH-CN6664793962_UHD.jpg
 BingWallPaper-2023-02-20-Humpback whales, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg
+BingWallPaper-2023-02-20-Itaimbezinho峡谷，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg
+BingWallPaper-2023-02-21-Washington Monument and Capitol Building on the National Mall, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg
