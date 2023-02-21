@@ -222,3 +222,5 @@ BingWallPaper-2023-02-19-毛伊岛附近的座头鲸，美国夏威夷-4K.jpg&&h
 BingWallPaper-2023-02-20-Humpback whales, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg
 BingWallPaper-2023-02-20-Itaimbezinho峡谷，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.Itaimbezinho_ZH-CN5641449623_UHD.jpg
 BingWallPaper-2023-02-21-Washington Monument and Capitol Building on the National Mall, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg
+BingWallPaper-2023-02-21-新奥尔良法语区，路易斯安那州-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_UHD.jpg
+BingWallPaper-2023-02-22-French Quarter, New Orleans, Louisiana-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg
