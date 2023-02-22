@@ -224,3 +224,5 @@ BingWallPaper-2023-02-20-Itaimbezinho峡谷，巴西-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-02-21-Washington Monument and Capitol Building on the National Mall, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg
 BingWallPaper-2023-02-21-新奥尔良法语区，路易斯安那州-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasNOLA_ZH-CN9628788934_UHD.jpg
 BingWallPaper-2023-02-22-French Quarter, New Orleans, Louisiana-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg
+BingWallPaper-2023-02-22-菲希特尔山脉上的和平钟，萨克森州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg
+BingWallPaper-2023-02-23-Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966-4K.jpg&&https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg
