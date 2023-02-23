@@ -226,3 +226,5 @@ BingWallPaper-2023-02-21-新奥尔良法语区，路易斯安那州-4K.jpg&&http
 BingWallPaper-2023-02-22-French Quarter, New Orleans, Louisiana-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg
 BingWallPaper-2023-02-22-菲希特尔山脉上的和平钟，萨克森州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FriedensglockeFichtelberg_ZH-CN5510489151_UHD.jpg
 BingWallPaper-2023-02-23-Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966-4K.jpg&&https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg
+BingWallPaper-2023-02-23-克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg
+BingWallPaper-2023-02-24-Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg
