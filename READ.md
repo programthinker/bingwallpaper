@@ -228,3 +228,5 @@ BingWallPaper-2023-02-22-菲希特尔山脉上的和平钟，萨克森州，德�
 BingWallPaper-2023-02-23-Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966-4K.jpg&&https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg
 BingWallPaper-2023-02-23-克罗索尔山谷，斯诺多尼亚国家公园，英国威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.BabblingBrook_ZH-CN9371346787_UHD.jpg
 BingWallPaper-2023-02-24-Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueWinterParis_EN-US2358774284_UHD.jpg
+BingWallPaper-2023-02-24-里士满公园的鸳鸯，伦敦，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.RichmondParkDuck_ZH-CN4956127005_UHD.jpg
+BingWallPaper-2023-02-25-Mandarin duck, Richmond Park, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg
