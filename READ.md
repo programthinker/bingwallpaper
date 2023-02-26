@@ -232,3 +232,5 @@ BingWallPaper-2023-02-24-里士满公园的鸳鸯，伦敦，英国-4K.jpg&&http
 BingWallPaper-2023-02-25-Mandarin duck, Richmond Park, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg
 BingWallPaper-2023-02-25-布莱斯峡谷国家公园的石林，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceAnniv_ZH-CN5305245786_UHD.jpg
 BingWallPaper-2023-02-26-Hoodoos at Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg
+BingWallPaper-2023-02-26-亚马孙雨林的树冠探险，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg
+BingWallPaper-2023-02-27-Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg
