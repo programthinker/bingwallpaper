@@ -234,3 +234,5 @@ BingWallPaper-2023-02-25-布莱斯峡谷国家公园的石林，犹他州，美�
 BingWallPaper-2023-02-26-Hoodoos at Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg
 BingWallPaper-2023-02-26-亚马孙雨林的树冠探险，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.CanopyPeru_ZH-CN5659581553_UHD.jpg
 BingWallPaper-2023-02-27-Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg
+BingWallPaper-2023-02-27-北极熊在加拿大沉睡-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_UHD.jpg
+BingWallPaper-2023-02-28-Polar bears asleep in Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg
