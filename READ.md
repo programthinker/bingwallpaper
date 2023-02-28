@@ -236,3 +236,5 @@ BingWallPaper-2023-02-26-亚马孙雨林的树冠探险，秘鲁-4K.jpg&&https:/
 BingWallPaper-2023-02-27-Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg
 BingWallPaper-2023-02-27-北极熊在加拿大沉睡-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearFrost_ZH-CN5918160947_UHD.jpg
 BingWallPaper-2023-02-28-Polar bears asleep in Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg
+BingWallPaper-2023-02-28-阿特拉尼，阿马尔菲海岸，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg
+BingWallPaper-2023-03-01-Atrani, Amalfi Coast, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg
