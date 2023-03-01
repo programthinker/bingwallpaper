@@ -238,3 +238,5 @@ BingWallPaper-2023-02-27-北极熊在加拿大沉睡-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-02-28-Polar bears asleep in Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg
 BingWallPaper-2023-02-28-阿特拉尼，阿马尔菲海岸，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg
 BingWallPaper-2023-03-01-Atrani, Amalfi Coast, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg
+BingWallPaper-2023-03-01-吕贝克的霍尔斯滕门，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg
+BingWallPaper-2023-03-02-Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg
