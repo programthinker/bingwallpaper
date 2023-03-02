@@ -240,3 +240,5 @@ BingWallPaper-2023-02-28-阿特拉尼，阿马尔菲海岸，意大利-4K.jpg&&h
 BingWallPaper-2023-03-01-Atrani, Amalfi Coast, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg
 BingWallPaper-2023-03-01-吕贝克的霍尔斯滕门，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.LuebeckCityGate_ZH-CN4618826141_UHD.jpg
 BingWallPaper-2023-03-02-Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg
+BingWallPaper-2023-03-02-内格拉廷湖，格拉纳达，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_UHD.jpg
+BingWallPaper-2023-03-03-Negratín Reservoir, Granada, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.NegratinSpain_EN-US0285047102_UHD.jpg
