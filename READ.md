@@ -242,3 +242,5 @@ BingWallPaper-2023-03-01-吕贝克的霍尔斯滕门，德国-4K.jpg&&https://cn
 BingWallPaper-2023-03-02-Portrait Monument of women's suffrage pioneers, Capitol Rotunda, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffrageMonumentDC_EN-US0188045009_UHD.jpg
 BingWallPaper-2023-03-02-内格拉廷湖，格拉纳达，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.NegratinSpain_ZH-CN5916944876_UHD.jpg
 BingWallPaper-2023-03-03-Negratín Reservoir, Granada, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.NegratinSpain_EN-US0285047102_UHD.jpg
+BingWallPaper-2023-03-03-斯皮尔德拉的虎鲸，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg
+BingWallPaper-2023-03-04-Killer whales in the waters off Spildra, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg
