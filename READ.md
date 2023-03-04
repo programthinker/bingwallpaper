@@ -244,3 +244,5 @@ BingWallPaper-2023-03-02-内格拉廷湖，格拉纳达，西班牙-4K.jpg&&http
 BingWallPaper-2023-03-03-Negratín Reservoir, Granada, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.NegratinSpain_EN-US0285047102_UHD.jpg
 BingWallPaper-2023-03-03-斯皮尔德拉的虎鲸，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.OrcaNorway_ZH-CN6101327628_UHD.jpg
 BingWallPaper-2023-03-04-Killer whales in the waters off Spildra, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg
+BingWallPaper-2023-03-04-通往皮库山的道路，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_UHD.jpg
+BingWallPaper-2023-03-05-Road to Mount Pico, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg
