@@ -246,3 +246,5 @@ BingWallPaper-2023-03-03-斯皮尔德拉的虎鲸，挪威-4K.jpg&&https://cn.bi
 BingWallPaper-2023-03-04-Killer whales in the waters off Spildra, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg
 BingWallPaper-2023-03-04-通往皮库山的道路，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PicoVolcano_ZH-CN6865997792_UHD.jpg
 BingWallPaper-2023-03-05-Road to Mount Pico, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg
+BingWallPaper-2023-03-05-袋鼠妈妈和宝宝-4K.jpg&&https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_UHD.jpg
+BingWallPaper-2023-03-06-Cherry trees in full bloom near the Imperial Palace with Tokyo Tower in the background, Tokyo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.TokyoMoat_EN-US9901957262_UHD.jpg
