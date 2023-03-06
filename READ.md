@@ -248,3 +248,5 @@ BingWallPaper-2023-03-04-通往皮库山的道路，葡萄牙-4K.jpg&&https://cn
 BingWallPaper-2023-03-05-Road to Mount Pico, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg
 BingWallPaper-2023-03-05-袋鼠妈妈和宝宝-4K.jpg&&https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_UHD.jpg
 BingWallPaper-2023-03-06-Cherry trees in full bloom near the Imperial Palace with Tokyo Tower in the background, Tokyo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.TokyoMoat_EN-US9901957262_UHD.jpg
+BingWallPaper-2023-03-06-站在自己领域的冰岛马，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandHorses_ZH-CN7213041152_UHD.jpg
+BingWallPaper-2023-03-07-Icelandic horses standing in a field, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandHorses_EN-US0725710929_UHD.jpg
