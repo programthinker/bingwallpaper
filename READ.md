@@ -252,3 +252,5 @@ BingWallPaper-2023-03-06-站在自己领域的冰岛马，冰岛-4K.jpg&&https:/
 BingWallPaper-2023-03-07-Icelandic horses standing in a field, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandHorses_EN-US0725710929_UHD.jpg
 BingWallPaper-2023-03-07-梯田鸟瞰图，元阳，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.YuanyangChina_ZH-CN7360249295_UHD.jpg
 BingWallPaper-2023-03-08-Aerial view of terraced rice fields, Yuanyang County, China-4K.jpg&&https://cn.bing.com/th?id=OHR.YuanyangChina_EN-US0997293657_UHD.jpg
+BingWallPaper-2023-03-08-极光展示，怀特霍斯，育空地区，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.WhitehorseAurora_ZH-CN0978404088_UHD.jpg
+BingWallPaper-2023-03-09-Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg
