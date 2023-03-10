@@ -256,3 +256,5 @@ BingWallPaper-2023-03-08-极光展示，怀特霍斯，育空地区，加拿大-
 BingWallPaper-2023-03-09-Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg
 BingWallPaper-2023-03-09-威美亚峡谷和怀波奥瀑布上空的彩虹,考艾岛，夏威夷，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WaimeaRainbow_ZH-CN1127225170_UHD.jpg
 BingWallPaper-2023-03-10-Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg
+BingWallPaper-2023-03-10-埃代尔，峰区，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_UHD.jpg
+BingWallPaper-2023-03-11-Vale of Edale, Peak District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg
