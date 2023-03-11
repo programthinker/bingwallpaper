@@ -258,3 +258,5 @@ BingWallPaper-2023-03-09-威美亚峡谷和怀波奥瀑布上空的彩虹,考艾
 BingWallPaper-2023-03-10-Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg
 BingWallPaper-2023-03-10-埃代尔，峰区，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.EdaleValley_ZH-CN8464524952_UHD.jpg
 BingWallPaper-2023-03-11-Vale of Edale, Peak District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg
+BingWallPaper-2023-03-11-马萨诸塞州格洛斯特的沼泽地-4K.jpg&&https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_UHD.jpg
+BingWallPaper-2023-03-12-Marshland, Gloucester, Massachusetts-4K.jpg&&https://cn.bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg
