@@ -260,3 +260,5 @@ BingWallPaper-2023-03-10-埃代尔，峰区，英国-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-03-11-Vale of Edale, Peak District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg
 BingWallPaper-2023-03-11-马萨诸塞州格洛斯特的沼泽地-4K.jpg&&https://cn.bing.com/th?id=OHR.LongWharf_ZH-CN8793669955_UHD.jpg
 BingWallPaper-2023-03-12-Marshland, Gloucester, Massachusetts-4K.jpg&&https://cn.bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg
+BingWallPaper-2023-03-12-南唐斯国家公园的绵羊，东萨塞克斯郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_UHD.jpg
+BingWallPaper-2023-03-13-Lucian Blaga National Theater, Cluj-Napoca, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.TheaterRomania_EN-US6839059395_UHD.jpg
