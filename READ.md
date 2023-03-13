@@ -262,3 +262,5 @@ BingWallPaper-2023-03-11-马萨诸塞州格洛斯特的沼泽地-4K.jpg&&https:/
 BingWallPaper-2023-03-12-Marshland, Gloucester, Massachusetts-4K.jpg&&https://cn.bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg
 BingWallPaper-2023-03-12-南唐斯国家公园的绵羊，东萨塞克斯郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthDownsSheep_ZH-CN8986424729_UHD.jpg
 BingWallPaper-2023-03-13-Lucian Blaga National Theater, Cluj-Napoca, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.TheaterRomania_EN-US6839059395_UHD.jpg
+BingWallPaper-2023-03-13-正在睡觉的母狮, 塞伦盖蒂国家公园，坦桑利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessesNap_ZH-CN9240393299_UHD.jpg
+BingWallPaper-2023-03-14-Female lions sleeping, Serengeti National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg
