@@ -264,3 +264,5 @@ BingWallPaper-2023-03-12-南唐斯国家公园的绵羊，东萨塞克斯郡，�
 BingWallPaper-2023-03-13-Lucian Blaga National Theater, Cluj-Napoca, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.TheaterRomania_EN-US6839059395_UHD.jpg
 BingWallPaper-2023-03-13-正在睡觉的母狮, 塞伦盖蒂国家公园，坦桑利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessesNap_ZH-CN9240393299_UHD.jpg
 BingWallPaper-2023-03-14-Female lions sleeping, Serengeti National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg
+BingWallPaper-2023-03-14-阿伊纳帕植物园灌木丛迷宫，塞浦路斯-4K.jpg&&https://cn.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_UHD.jpg
+BingWallPaper-2023-03-15-Hedge maze in Cyherbia Botanical Park, Cyprus-4K.jpg&&https://cn.bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg
