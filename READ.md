@@ -266,3 +266,5 @@ BingWallPaper-2023-03-13-正在睡觉的母狮, 塞伦盖蒂国家公园，坦�
 BingWallPaper-2023-03-14-Female lions sleeping, Serengeti National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg
 BingWallPaper-2023-03-14-阿伊纳帕植物园灌木丛迷宫，塞浦路斯-4K.jpg&&https://cn.bing.com/th?id=OHR.CyprusMaze_ZH-CN9448060895_UHD.jpg
 BingWallPaper-2023-03-15-Hedge maze in Cyherbia Botanical Park, Cyprus-4K.jpg&&https://cn.bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg
+BingWallPaper-2023-03-15-阿圭罗村庄，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_UHD.jpg
+BingWallPaper-2023-03-16-Agüero, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg
