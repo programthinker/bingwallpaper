@@ -268,3 +268,5 @@ BingWallPaper-2023-03-14-阿伊纳帕植物园灌木丛迷宫，塞浦路斯-4K.
 BingWallPaper-2023-03-15-Hedge maze in Cyherbia Botanical Park, Cyprus-4K.jpg&&https://cn.bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg
 BingWallPaper-2023-03-15-阿圭罗村庄，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AgueroSpain_ZH-CN9622864502_UHD.jpg
 BingWallPaper-2023-03-16-Agüero, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg
+BingWallPaper-2023-03-16-成都大熊猫繁育研究基地，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChengduPanda_ZH-CN0043208941_UHD.jpg
+BingWallPaper-2023-03-17-Giant panda at Chengdu Panda Base, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg
