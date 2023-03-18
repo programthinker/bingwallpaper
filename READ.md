@@ -272,3 +272,5 @@ BingWallPaper-2023-03-16-成都大熊猫繁育研究基地，中国-4K.jpg&&http
 BingWallPaper-2023-03-17-Giant panda at Chengdu Panda Base, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg
 BingWallPaper-2023-03-17-ballyvooney海岸，科佩海岸地质公园，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BallyvooneyCove_ZH-CN0284564457_UHD.jpg
 BingWallPaper-2023-03-18-Ballyvooney Cove, Copper Coast Geopark, County Waterford, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.BallyvooneyCove_EN-US7329921498_UHD.jpg
+BingWallPaper-2023-03-18-甘博阿陨击坑，火星-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_UHD.jpg
+BingWallPaper-2023-03-19-Gamboa Crater, Mars-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg
