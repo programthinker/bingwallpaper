@@ -274,3 +274,5 @@ BingWallPaper-2023-03-17-ballyvooney海岸，科佩海岸地质公园，爱尔�
 BingWallPaper-2023-03-18-Ballyvooney Cove, Copper Coast Geopark, County Waterford, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.BallyvooneyCove_EN-US7329921498_UHD.jpg
 BingWallPaper-2023-03-18-甘博阿陨击坑，火星-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsTars_ZH-CN0496313394_UHD.jpg
 BingWallPaper-2023-03-19-Gamboa Crater, Mars-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsTars_EN-US7511744420_UHD.jpg
+BingWallPaper-2023-03-19-仓鸮，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_UHD.jpg
+BingWallPaper-2023-03-20-Barn owl, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg
