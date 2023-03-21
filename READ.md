@@ -278,3 +278,5 @@ BingWallPaper-2023-03-19-仓鸮，英格兰-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2023-03-20-Barn owl, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BarnOwlWinter_EN-US7295086574_UHD.jpg
 BingWallPaper-2023-03-20-紫番红花-4K.jpg&&https://cn.bing.com/th?id=OHR.PurpleCrocus_ZH-CN0891528297_UHD.jpg
 BingWallPaper-2023-03-21-Crocus flowers-4K.jpg&&https://cn.bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg
+BingWallPaper-2023-03-21-彩色粉笔-4K.jpg&&https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_UHD.jpg
+BingWallPaper-2023-03-22-Colorful pastel chalk-4K.jpg&&https://cn.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg
