@@ -280,3 +280,5 @@ BingWallPaper-2023-03-20-紫番红花-4K.jpg&&https://cn.bing.com/th?id=OHR.Purp
 BingWallPaper-2023-03-21-Crocus flowers-4K.jpg&&https://cn.bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg
 BingWallPaper-2023-03-21-彩色粉笔-4K.jpg&&https://cn.bing.com/th?id=OHR.ColourDay_ZH-CN1032554089_UHD.jpg
 BingWallPaper-2023-03-22-Colorful pastel chalk-4K.jpg&&https://cn.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg
+BingWallPaper-2023-03-22-鲍威尔湖，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_UHD.jpg
+BingWallPaper-2023-03-23-Lake Powell on the Colorado River-4K.jpg&&https://cn.bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg
