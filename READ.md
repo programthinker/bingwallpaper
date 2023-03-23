@@ -282,3 +282,5 @@ BingWallPaper-2023-03-21-彩色粉笔-4K.jpg&&https://cn.bing.com/th?id=OHR.Colo
 BingWallPaper-2023-03-22-Colorful pastel chalk-4K.jpg&&https://cn.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg
 BingWallPaper-2023-03-22-鲍威尔湖，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LakePowellAerial_ZH-CN1427611965_UHD.jpg
 BingWallPaper-2023-03-23-Lake Powell on the Colorado River-4K.jpg&&https://cn.bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg
+BingWallPaper-2023-03-23-杜费里峡谷，上萨瓦省，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChavarocheWinter_ZH-CN1842519491_UHD.jpg
+BingWallPaper-2023-03-24-Lenticular clouds, Patagonia-4K.jpg&&https://cn.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg
