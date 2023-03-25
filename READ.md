@@ -286,3 +286,5 @@ BingWallPaper-2023-03-23-杜费里峡谷，上萨瓦省，法国-4K.jpg&&https:/
 BingWallPaper-2023-03-24-Lenticular clouds, Patagonia-4K.jpg&&https://cn.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg
 BingWallPaper-2023-03-24-盛开的熊蒜，海尼希国家公园，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_UHD.jpg
 BingWallPaper-2023-03-25-Blooming wild garlic, Hainich National Park, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg
+BingWallPaper-2023-03-25-塞西尔布鲁尔楼梯，伦敦，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg
+BingWallPaper-2023-03-26-Cecil Brewer Staircase, the Heal's Building, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg
