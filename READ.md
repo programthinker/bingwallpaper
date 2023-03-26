@@ -288,3 +288,5 @@ BingWallPaper-2023-03-24-盛开的熊蒜，海尼希国家公园，德国-4K.jpg
 BingWallPaper-2023-03-25-Blooming wild garlic, Hainich National Park, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg
 BingWallPaper-2023-03-25-塞西尔布鲁尔楼梯，伦敦，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_ZH-CN2117182176_UHD.jpg
 BingWallPaper-2023-03-26-Cecil Brewer Staircase, the Heal's Building, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg
+BingWallPaper-2023-03-26-安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_UHD.jpg
+BingWallPaper-2023-03-27-Wildflowers in Anza-Borrego Desert State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg
