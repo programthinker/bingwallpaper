@@ -290,3 +290,5 @@ BingWallPaper-2023-03-25-塞西尔布鲁尔楼梯，伦敦，英国-4K.jpg&&http
 BingWallPaper-2023-03-26-Cecil Brewer Staircase, the Heal's Building, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg
 BingWallPaper-2023-03-26-安沙波利哥沙漠州立公园的野花，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WildAnza_ZH-CN2384861750_UHD.jpg
 BingWallPaper-2023-03-27-Wildflowers in Anza-Borrego Desert State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg
+BingWallPaper-2023-03-27-云层中的纽约市天际线-4K.jpg&&https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg
+BingWallPaper-2023-03-28-New York City skyline in fog-4K.jpg&&https://cn.bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg
