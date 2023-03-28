@@ -292,3 +292,5 @@ BingWallPaper-2023-03-26-安沙波利哥沙漠州立公园的野花，加利福�
 BingWallPaper-2023-03-27-Wildflowers in Anza-Borrego Desert State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg
 BingWallPaper-2023-03-27-云层中的纽约市天际线-4K.jpg&&https://cn.bing.com/th?id=OHR.NYCClouds_ZH-CN2585785154_UHD.jpg
 BingWallPaper-2023-03-28-New York City skyline in fog-4K.jpg&&https://cn.bing.com/th?id=OHR.NYCClouds_EN-US7251713390_UHD.jpg
+BingWallPaper-2023-03-28-意大利三峰山上空的银河-4K.jpg&&https://cn.bing.com/th?id=OHR.MWDolomites_ZH-CN2886991396_UHD.jpg
+BingWallPaper-2023-03-29-Milky Way above the Tre Cime di Lavaredo, South Tyrol, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MWDolomites_EN-US2413806289_UHD.jpg
