@@ -298,3 +298,5 @@ BingWallPaper-2023-03-29-两只海牛，佛罗里达州的水晶河，美国-4K.
 BingWallPaper-2023-03-30-Manatees, Crystal River, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.NuzzleManatee_EN-US6719438929_UHD.jpg
 BingWallPaper-2023-03-30-孔雀羽毛-4K.jpg&&https://cn.bing.com/th?id=OHR.PeacockFeathers_ZH-CN3403145691_UHD.jpg
 BingWallPaper-2023-03-31-Peacock feathers-4K.jpg&&https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg
+BingWallPaper-2023-03-31-斯太尔河, 奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg
+BingWallPaper-2023-04-01-Steyr River, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg
