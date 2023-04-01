@@ -300,3 +300,5 @@ BingWallPaper-2023-03-30-孔雀羽毛-4K.jpg&&https://cn.bing.com/th?id=OHR.Peac
 BingWallPaper-2023-03-31-Peacock feathers-4K.jpg&&https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg
 BingWallPaper-2023-03-31-斯太尔河, 奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg
 BingWallPaper-2023-04-01-Steyr River, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg
+BingWallPaper-2023-04-01-爪哇树蛙-4K.jpg&&https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg
+BingWallPaper-2023-04-02-Javan tree frog-4K.jpg&&https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg
