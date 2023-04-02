@@ -302,3 +302,5 @@ BingWallPaper-2023-03-31-斯太尔河, 奥地利-4K.jpg&&https://cn.bing.com/th?
 BingWallPaper-2023-04-01-Steyr River, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg
 BingWallPaper-2023-04-01-爪哇树蛙-4K.jpg&&https://cn.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg
 BingWallPaper-2023-04-02-Javan tree frog-4K.jpg&&https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg
+BingWallPaper-2023-04-02-爪哇岛东部的婆罗摩火山，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_UHD.jpg
+BingWallPaper-2023-04-03-Bromo Tengger Semeru National Park, East Java, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg
