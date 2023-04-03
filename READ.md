@@ -304,3 +304,5 @@ BingWallPaper-2023-04-01-爪哇树蛙-4K.jpg&&https://cn.bing.com/th?id=OHR.Frog
 BingWallPaper-2023-04-02-Javan tree frog-4K.jpg&&https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg
 BingWallPaper-2023-04-02-爪哇岛东部的婆罗摩火山，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.JavaBromo_ZH-CN2744043733_UHD.jpg
 BingWallPaper-2023-04-03-Bromo Tengger Semeru National Park, East Java, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg
+BingWallPaper-2023-04-03-大岛上的霍瑙瑙国家历史公园，夏威夷-4K.jpg&&https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg
+BingWallPaper-2023-04-04-Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg
