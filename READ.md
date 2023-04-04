@@ -306,3 +306,5 @@ BingWallPaper-2023-04-02-爪哇岛东部的婆罗摩火山，印度尼西亚-4K.
 BingWallPaper-2023-04-03-Bromo Tengger Semeru National Park, East Java, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg
 BingWallPaper-2023-04-03-大岛上的霍瑙瑙国家历史公园，夏威夷-4K.jpg&&https://cn.bing.com/th?id=OHR.HonaunauNP_ZH-CN4491662962_UHD.jpg
 BingWallPaper-2023-04-04-Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg
+BingWallPaper-2023-04-04-科尔多瓦的古罗马桥，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg
+BingWallPaper-2023-04-05-Roman bridge, Córdoba, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg
