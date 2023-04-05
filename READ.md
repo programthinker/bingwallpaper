@@ -308,3 +308,5 @@ BingWallPaper-2023-04-03-大岛上的霍瑙瑙国家历史公园，夏威夷-4K.
 BingWallPaper-2023-04-04-Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg
 BingWallPaper-2023-04-04-科尔多瓦的古罗马桥，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanBridge_ZH-CN4699931052_UHD.jpg
 BingWallPaper-2023-04-05-Roman bridge, Córdoba, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg
+BingWallPaper-2023-04-05-杭州西湖水墨意境般的风景，浙江省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg
+BingWallPaper-2023-04-06-Black grouse males in Kuusamo, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg
