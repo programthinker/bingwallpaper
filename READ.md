@@ -310,3 +310,5 @@ BingWallPaper-2023-04-04-科尔多瓦的古罗马桥，西班牙-4K.jpg&&https:/
 BingWallPaper-2023-04-05-Roman bridge, Córdoba, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg
 BingWallPaper-2023-04-05-杭州西湖水墨意境般的风景，浙江省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.QingMing2023_ZH-CN6951199028_UHD.jpg
 BingWallPaper-2023-04-06-Black grouse males in Kuusamo, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg
+BingWallPaper-2023-04-06-月亮升起，图森，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_UHD.jpg
+BingWallPaper-2023-04-07-Moon rising, Tucson, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg
