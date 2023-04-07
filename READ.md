@@ -312,3 +312,5 @@ BingWallPaper-2023-04-05-杭州西湖水墨意境般的风景，浙江省，中�
 BingWallPaper-2023-04-06-Black grouse males in Kuusamo, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg
 BingWallPaper-2023-04-06-月亮升起，图森，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_ZH-CN5545607389_UHD.jpg
 BingWallPaper-2023-04-07-Moon rising, Tucson, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg
+BingWallPaper-2023-04-07-欧亚河狸宝宝，芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg
+BingWallPaper-2023-04-08-Baby Eurasian beavers, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg
