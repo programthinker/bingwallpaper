@@ -314,3 +314,5 @@ BingWallPaper-2023-04-06-月亮升起，图森，亚利桑那州，美国-4K.jpg
 BingWallPaper-2023-04-07-Moon rising, Tucson, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg
 BingWallPaper-2023-04-07-欧亚河狸宝宝，芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.KitsAspen_ZH-CN2160526845_UHD.jpg
 BingWallPaper-2023-04-08-Baby Eurasian beavers, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg
+BingWallPaper-2023-04-08-巨人之路，北爱尔兰，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.NIrelandGiants_ZH-CN6110576507_UHD.jpg
+BingWallPaper-2023-04-09-The Giant's Causeway, County Antrim, Northern Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.NIrelandGiants_EN-US3269727738_UHD.jpg
