@@ -322,3 +322,5 @@ BingWallPaper-2023-04-10-安博塞利国家公园的大象，肯尼亚-4K.jpg&&h
 BingWallPaper-2023-04-11-Elephant family in Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg
 BingWallPaper-2023-04-11-哥伦比亚河峡谷，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MossyGrottoFalls_ZH-CN2490591617_UHD.jpg
 BingWallPaper-2023-04-12-Mossy Grotto Falls, Columbia River Gorge, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg
+BingWallPaper-2023-04-12-从国际空间站拍摄的地球-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropeFromISS_ZH-CN0722816540_UHD.jpg
+BingWallPaper-2023-04-13-Earth seen from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropeFromISS_EN-US3248706956_UHD.jpg
