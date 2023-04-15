@@ -328,3 +328,5 @@ BingWallPaper-2023-04-13-斯诺登尼亚国家公园，威尔士，英国-4K.jpg
 BingWallPaper-2023-04-14-Moss pink displays at Hitsujiyama Park, Saitama Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg
 BingWallPaper-2023-04-14-红海星, 地中海-4K.jpg&&https://cn.bing.com/th?id=OHR.RedSeaStars_ZH-CN6243743747_UHD.jpg
 BingWallPaper-2023-04-15-Mediterranean red sea stars, Mediterranean Sea-4K.jpg&&https://cn.bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg
+BingWallPaper-2023-04-15-从纳哈加尔城堡鸟瞰斋浦尔，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg
+BingWallPaper-2023-04-16-'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg
