@@ -330,3 +330,5 @@ BingWallPaper-2023-04-14-红海星, 地中海-4K.jpg&&https://cn.bing.com/th?id=
 BingWallPaper-2023-04-15-Mediterranean red sea stars, Mediterranean Sea-4K.jpg&&https://cn.bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg
 BingWallPaper-2023-04-15-从纳哈加尔城堡鸟瞰斋浦尔，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.NahargarhFort_ZH-CN7681434372_UHD.jpg
 BingWallPaper-2023-04-16-'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg
+BingWallPaper-2023-04-16-阿德莱德国际风筝节，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg
+BingWallPaper-2023-04-17-Adelaide International Kite Festival, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg
