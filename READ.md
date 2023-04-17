@@ -332,3 +332,5 @@ BingWallPaper-2023-04-15-从纳哈加尔城堡鸟瞰斋浦尔，印度-4K.jpg&&h
 BingWallPaper-2023-04-16-'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg
 BingWallPaper-2023-04-16-阿德莱德国际风筝节，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KiteDay_ZH-CN7813901578_UHD.jpg
 BingWallPaper-2023-04-17-Adelaide International Kite Festival, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg
+BingWallPaper-2023-04-17-布列塔尼的小米努灯塔，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg
+BingWallPaper-2023-04-18-'One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg
