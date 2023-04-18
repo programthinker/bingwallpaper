@@ -334,3 +334,5 @@ BingWallPaper-2023-04-16-阿德莱德国际风筝节，澳大利亚-4K.jpg&&http
 BingWallPaper-2023-04-17-Adelaide International Kite Festival, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg
 BingWallPaper-2023-04-17-布列塔尼的小米努灯塔，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg
 BingWallPaper-2023-04-18-'One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg
+BingWallPaper-2023-04-18-马丘比丘，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg
+BingWallPaper-2023-04-19-Machu Picchu, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg
