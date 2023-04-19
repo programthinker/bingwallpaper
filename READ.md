@@ -336,3 +336,5 @@ BingWallPaper-2023-04-17-布列塔尼的小米努灯塔，法国-4K.jpg&&https:/
 BingWallPaper-2023-04-18-'One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg
 BingWallPaper-2023-04-18-马丘比丘，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg
 BingWallPaper-2023-04-19-Machu Picchu, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg
+BingWallPaper-2023-04-19-褐头凤鹛-4K.jpg&&https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_UHD.jpg
+BingWallPaper-2023-04-20-Taiwan yuhina pair, Alishan National Scenic Area, Taiwan-4K.jpg&&https://cn.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg
