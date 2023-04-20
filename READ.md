@@ -338,3 +338,5 @@ BingWallPaper-2023-04-18-马丘比丘，秘鲁-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2023-04-19-Machu Picchu, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg
 BingWallPaper-2023-04-19-褐头凤鹛-4K.jpg&&https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_UHD.jpg
 BingWallPaper-2023-04-20-Taiwan yuhina pair, Alishan National Scenic Area, Taiwan-4K.jpg&&https://cn.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg
+BingWallPaper-2023-04-20-克雷斯特德比特山上方的月食，科罗拉多州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_UHD.jpg
+BingWallPaper-2023-04-21-Juniper Springs in Ocala National Forest, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg
