@@ -340,3 +340,5 @@ BingWallPaper-2023-04-19-褐头凤鹛-4K.jpg&&https://cn.bing.com/th?id=OHR.Taiw
 BingWallPaper-2023-04-20-Taiwan yuhina pair, Alishan National Scenic Area, Taiwan-4K.jpg&&https://cn.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg
 BingWallPaper-2023-04-20-克雷斯特德比特山上方的月食，科罗拉多州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_UHD.jpg
 BingWallPaper-2023-04-21-Juniper Springs in Ocala National Forest, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg
+BingWallPaper-2023-04-21-普罗奇达岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_UHD.jpg
+BingWallPaper-2023-04-22-Procida, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg
