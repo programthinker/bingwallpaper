@@ -342,3 +342,5 @@ BingWallPaper-2023-04-20-克雷斯特德比特山上方的月食，科罗拉多�
 BingWallPaper-2023-04-21-Juniper Springs in Ocala National Forest, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg
 BingWallPaper-2023-04-21-普罗奇达岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_UHD.jpg
 BingWallPaper-2023-04-22-Procida, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg
+BingWallPaper-2023-04-22-岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_UHD.jpg
+BingWallPaper-2023-04-23-Island fox in Channel Islands National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg
