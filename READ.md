@@ -334,3 +334,15 @@ BingWallPaper-2023-04-16-阿德莱德国际风筝节，澳大利亚-4K.jpg&&http
 BingWallPaper-2023-04-17-Adelaide International Kite Festival, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg
 BingWallPaper-2023-04-17-布列塔尼的小米努灯塔，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MinouLighthouse_ZH-CN7940024247_UHD.jpg
 BingWallPaper-2023-04-18-'One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg
+BingWallPaper-2023-04-18-马丘比丘，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.MPPUnesco_ZH-CN8076198158_UHD.jpg
+BingWallPaper-2023-04-19-Machu Picchu, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg
+BingWallPaper-2023-04-19-褐头凤鹛-4K.jpg&&https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_UHD.jpg
+BingWallPaper-2023-04-20-Taiwan yuhina pair, Alishan National Scenic Area, Taiwan-4K.jpg&&https://cn.bing.com/th?id=OHR.TaiwanYuhina_EN-US1768443431_UHD.jpg
+BingWallPaper-2023-04-20-克雷斯特德比特山上方的月食，科罗拉多州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CrestedButteEclispe_ZH-CN5715446670_UHD.jpg
+BingWallPaper-2023-04-21-Juniper Springs in Ocala National Forest, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg
+BingWallPaper-2023-04-21-普罗奇达岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_UHD.jpg
+BingWallPaper-2023-04-22-Procida, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg
+BingWallPaper-2023-04-22-岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_UHD.jpg
+BingWallPaper-2023-04-23-Island fox in Channel Islands National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg
+BingWallPaper-2023-04-23-日出时分薄雾笼罩下的薰衣草田，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_UHD.jpg
+BingWallPaper-2023-04-24-Stuttgart Public Library, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg
