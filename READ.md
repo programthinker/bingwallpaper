@@ -346,3 +346,5 @@ BingWallPaper-2023-04-22-岛屿灰狐，海峡群岛国家公园，美国加利�
 BingWallPaper-2023-04-23-Island fox in Channel Islands National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg
 BingWallPaper-2023-04-23-日出时分薄雾笼罩下的薰衣草田，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.Honnavaralavenderfields_ZH-CN8054655091_UHD.jpg
 BingWallPaper-2023-04-24-Stuttgart Public Library, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg
+BingWallPaper-2023-04-24-巴伐利亚森林酒窖，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_UHD.jpg
+BingWallPaper-2023-04-25-Old underground cellar, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg
