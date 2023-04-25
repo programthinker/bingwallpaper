@@ -348,3 +348,5 @@ BingWallPaper-2023-04-23-日出时分薄雾笼罩下的薰衣草田，印度-4K.
 BingWallPaper-2023-04-24-Stuttgart Public Library, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg
 BingWallPaper-2023-04-24-巴伐利亚森林酒窖，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FranconianWineCellar_ZH-CN8234719750_UHD.jpg
 BingWallPaper-2023-04-25-Old underground cellar, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg
+BingWallPaper-2023-04-25-阿德利企鹅-4K.jpg&&https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_UHD.jpg
+BingWallPaper-2023-04-26-Adélie penguins in Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg
