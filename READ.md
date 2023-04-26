@@ -350,3 +350,5 @@ BingWallPaper-2023-04-24-巴伐利亚森林酒窖，德国-4K.jpg&&https://cn.bi
 BingWallPaper-2023-04-25-Old underground cellar, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg
 BingWallPaper-2023-04-25-阿德利企鹅-4K.jpg&&https://cn.bing.com/th?id=OHR.AdelieWPD_ZH-CN8434233391_UHD.jpg
 BingWallPaper-2023-04-26-Adélie penguins in Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg
+BingWallPaper-2023-04-26-大雕鸮幼崽-4K.jpg&&https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_UHD.jpg
+BingWallPaper-2023-04-27-Great horned owl fledglings-4K.jpg&&https://cn.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg
