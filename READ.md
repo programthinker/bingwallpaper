@@ -352,3 +352,5 @@ BingWallPaper-2023-04-25-阿德利企鹅-4K.jpg&&https://cn.bing.com/th?id=OHR.A
 BingWallPaper-2023-04-26-Adélie penguins in Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg
 BingWallPaper-2023-04-26-大雕鸮幼崽-4K.jpg&&https://cn.bing.com/th?id=OHR.GHOAudubonDay_ZH-CN8605905801_UHD.jpg
 BingWallPaper-2023-04-27-Great horned owl fledglings-4K.jpg&&https://cn.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg
+BingWallPaper-2023-04-27-南帕德里岛，美国得克萨斯州-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_UHD.jpg
+BingWallPaper-2023-04-28-South Padre Island, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg
