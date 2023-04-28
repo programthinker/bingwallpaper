@@ -354,3 +354,5 @@ BingWallPaper-2023-04-26-大雕鸮幼崽-4K.jpg&&https://cn.bing.com/th?id=OHR.G
 BingWallPaper-2023-04-27-Great horned owl fledglings-4K.jpg&&https://cn.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg
 BingWallPaper-2023-04-27-南帕德里岛，美国得克萨斯州-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthPadre_ZH-CN8788572569_UHD.jpg
 BingWallPaper-2023-04-28-South Padre Island, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg
+BingWallPaper-2023-04-28-优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_UHD.jpg
+BingWallPaper-2023-04-29-Mariposa Grove of Giant Sequoias in Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg
