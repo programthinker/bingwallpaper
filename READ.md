@@ -356,3 +356,5 @@ BingWallPaper-2023-04-27-南帕德里岛，美国得克萨斯州-4K.jpg&&https:/
 BingWallPaper-2023-04-28-South Padre Island, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthPadre_EN-US8601972598_UHD.jpg
 BingWallPaper-2023-04-28-优胜美地国家公园的马里波萨谷巨杉林，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.MariposaGrove_ZH-CN8957145435_UHD.jpg
 BingWallPaper-2023-04-29-Mariposa Grove of Giant Sequoias in Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg
+BingWallPaper-2023-04-29-约书亚树国家公园上空的银河，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_UHD.jpg
+BingWallPaper-2023-04-30-Milky Way over Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg
