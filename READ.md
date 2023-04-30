@@ -358,3 +358,5 @@ BingWallPaper-2023-04-28-优胜美地国家公园的马里波萨谷巨杉林，�
 BingWallPaper-2023-04-29-Mariposa Grove of Giant Sequoias in Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg
 BingWallPaper-2023-04-29-约书亚树国家公园上空的银河，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_UHD.jpg
 BingWallPaper-2023-04-30-Milky Way over Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg
+BingWallPaper-2023-04-30-塞利努斯的神庙，西西里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg
+BingWallPaper-2023-05-01-Preservation Hall, New Orleans, Louisiana-4K.jpg&&https://cn.bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg
