@@ -360,3 +360,5 @@ BingWallPaper-2023-04-29-约书亚树国家公园上空的银河，美国加利�
 BingWallPaper-2023-04-30-Milky Way over Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg
 BingWallPaper-2023-04-30-塞利努斯的神庙，西西里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg
 BingWallPaper-2023-05-01-Preservation Hall, New Orleans, Louisiana-4K.jpg&&https://cn.bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg
+BingWallPaper-2023-05-01-横跨圣劳伦斯河下游的魁北克大桥，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_UHD.jpg
+BingWallPaper-2023-05-02-Korean Bell of Friendship, Los Angeles-4K.jpg&&https://cn.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg
