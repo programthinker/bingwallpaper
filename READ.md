@@ -366,3 +366,5 @@ BingWallPaper-2023-05-02-阿尔卑斯山脉锡尔夫雷塔山的乔里森湖，�
 BingWallPaper-2023-05-03-Jöriseen lakes in the Silvretta Alps, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.KlostersSerneus_EN-US9360254697_UHD.jpg
 BingWallPaper-2023-05-03-马赛马拉的角马，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeWildebeest_ZH-CN0175563521_UHD.jpg
 BingWallPaper-2023-05-04-Wildebeests in the Maasai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeWildebeest_EN-US9446203427_UHD.jpg
+BingWallPaper-2023-05-04-蒂卡尔的玛雅遗址，危地马拉-4K.jpg&&https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_UHD.jpg
+BingWallPaper-2023-05-05-Mayan ruins in Tikal, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.RebelBase_EN-US9162228478_UHD.jpg
