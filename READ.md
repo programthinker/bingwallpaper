@@ -368,3 +368,5 @@ BingWallPaper-2023-05-03-马赛马拉的角马，肯尼亚-4K.jpg&&https://cn.bi
 BingWallPaper-2023-05-04-Wildebeests in the Maasai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeWildebeest_EN-US9446203427_UHD.jpg
 BingWallPaper-2023-05-04-蒂卡尔的玛雅遗址，危地马拉-4K.jpg&&https://cn.bing.com/th?id=OHR.RebelBase_ZH-CN0484516261_UHD.jpg
 BingWallPaper-2023-05-05-Mayan ruins in Tikal, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.RebelBase_EN-US9162228478_UHD.jpg
+BingWallPaper-2023-05-05-普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_UHD.jpg
+BingWallPaper-2023-05-06-Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg
