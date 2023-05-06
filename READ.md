@@ -370,3 +370,5 @@ BingWallPaper-2023-05-04-蒂卡尔的玛雅遗址，危地马拉-4K.jpg&&https:/
 BingWallPaper-2023-05-05-Mayan ruins in Tikal, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.RebelBase_EN-US9162228478_UHD.jpg
 BingWallPaper-2023-05-05-普埃布拉天主堂和波波卡特佩特火山，普埃布拉，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.Popocatepetl_ZH-CN5483138337_UHD.jpg
 BingWallPaper-2023-05-06-Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg
+BingWallPaper-2023-05-06-大麦和矢车菊, 诺德豪森, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_UHD.jpg
+BingWallPaper-2023-05-07-Royal azaleas in bloom on Hwangmaesan Mountain, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg
