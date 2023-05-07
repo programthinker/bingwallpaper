@@ -372,3 +372,5 @@ BingWallPaper-2023-05-05-普埃布拉天主堂和波波卡特佩特火山，普�
 BingWallPaper-2023-05-06-Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg
 BingWallPaper-2023-05-06-大麦和矢车菊, 诺德豪森, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.Kornblume_ZH-CN0344238832_UHD.jpg
 BingWallPaper-2023-05-07-Royal azaleas in bloom on Hwangmaesan Mountain, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg
+BingWallPaper-2023-05-07-海豹幼崽，伦迪岛，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_UHD.jpg
+BingWallPaper-2023-05-08-Gray seal pup, Lundy Island, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg
