@@ -374,3 +374,5 @@ BingWallPaper-2023-05-06-大麦和矢车菊, 诺德豪森, 德国-4K.jpg&&https:
 BingWallPaper-2023-05-07-Royal azaleas in bloom on Hwangmaesan Mountain, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg
 BingWallPaper-2023-05-07-海豹幼崽，伦迪岛，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SealLaughing_ZH-CN5809094643_UHD.jpg
 BingWallPaper-2023-05-08-Gray seal pup, Lundy Island, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg
+BingWallPaper-2023-05-08-精致拱门，拱门国家公园，犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_UHD.jpg
+BingWallPaper-2023-05-09-Delicate Arch, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg
