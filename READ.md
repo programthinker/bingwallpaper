@@ -376,3 +376,5 @@ BingWallPaper-2023-05-07-海豹幼崽，伦迪岛，英国-4K.jpg&&https://cn.bi
 BingWallPaper-2023-05-08-Gray seal pup, Lundy Island, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg
 BingWallPaper-2023-05-08-精致拱门，拱门国家公园，犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.TheChaps_ZH-CN5966508162_UHD.jpg
 BingWallPaper-2023-05-09-Delicate Arch, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg
+BingWallPaper-2023-05-09-卡韦希环礁，土阿莫土群岛，法属波利尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.Atoll_ZH-CN9469093805_UHD.jpg
+BingWallPaper-2023-05-10-Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg
