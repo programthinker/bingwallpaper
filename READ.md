@@ -380,3 +380,5 @@ BingWallPaper-2023-05-09-卡韦希环礁，土阿莫土群岛，法属波利尼�
 BingWallPaper-2023-05-10-Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg
 BingWallPaper-2023-05-10-科尔杜昂灯塔，罗扬市，夏朗德省，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.CordouanLighthouse_ZH-CN6267155218_UHD.jpg
 BingWallPaper-2023-05-11-Cordouan Lighthouse, Royan, Charente, France-4K.jpg&&https://cn.bing.com/th?id=OHR.CordouanLighthouse_EN-US1179388866_UHD.jpg
+BingWallPaper-2023-05-11-亨宁斯韦尔体育场，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.FootballField_ZH-CN6439594719_UHD.jpg
+BingWallPaper-2023-05-12-Henningsvær Stadion, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.FootballField_EN-US1266832046_UHD.jpg
