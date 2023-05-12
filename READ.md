@@ -382,3 +382,5 @@ BingWallPaper-2023-05-10-科尔杜昂灯塔，罗扬市，夏朗德省，法国-
 BingWallPaper-2023-05-11-Cordouan Lighthouse, Royan, Charente, France-4K.jpg&&https://cn.bing.com/th?id=OHR.CordouanLighthouse_EN-US1179388866_UHD.jpg
 BingWallPaper-2023-05-11-亨宁斯韦尔体育场，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.FootballField_ZH-CN6439594719_UHD.jpg
 BingWallPaper-2023-05-12-Henningsvær Stadion, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.FootballField_EN-US1266832046_UHD.jpg
+BingWallPaper-2023-05-12-紫色和蓝色的野生羽扇豆-4K.jpg&&https://cn.bing.com/th?id=OHR.WildLupine_ZH-CN6623952879_UHD.jpg
+BingWallPaper-2023-05-13-Wild lupines in bloom-4K.jpg&&https://cn.bing.com/th?id=OHR.WildLupine_EN-US1382733552_UHD.jpg
