@@ -386,3 +386,5 @@ BingWallPaper-2023-05-12-紫色和蓝色的野生羽扇豆-4K.jpg&&https://cn.bi
 BingWallPaper-2023-05-13-Wild lupines in bloom-4K.jpg&&https://cn.bing.com/th?id=OHR.WildLupine_EN-US1382733552_UHD.jpg
 BingWallPaper-2023-05-13-曼海姆水塔，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.Mannheim_ZH-CN6793377814_UHD.jpg
 BingWallPaper-2023-05-14-Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg
+BingWallPaper-2023-05-14-白尾鹿母鹿和刚出生的小鹿，美国蒙大拿州-4K.jpg&&https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_ZH-CN6941501455_UHD.jpg
+BingWallPaper-2023-05-15-White-tailed deer doe and newborn fawn, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg
