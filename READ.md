@@ -390,3 +390,5 @@ BingWallPaper-2023-05-14-白尾鹿母鹿和刚出生的小鹿，美国蒙大拿�
 BingWallPaper-2023-05-15-White-tailed deer doe and newborn fawn, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg
 BingWallPaper-2023-05-15-莫罗哈夫莱海滩和科罗拉达斯海滩，富埃特文图拉岛，西班牙加那利群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.MorroJable_ZH-CN7382027688_UHD.jpg
 BingWallPaper-2023-05-16-Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.MorroJable_EN-US1772722431_UHD.jpg
+BingWallPaper-2023-05-16-在奥克弗诺基国家野生动物保护区划独木舟-4K.jpg&&https://cn.bing.com/th?id=OHR.AmericanWetlands_ZH-CN7534567518_UHD.jpg
+BingWallPaper-2023-05-17-Canoeing in Okefenokee National Wildlife Refuge, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg
