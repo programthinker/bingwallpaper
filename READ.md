@@ -394,3 +394,5 @@ BingWallPaper-2023-05-16-在奥克弗诺基国家野生动物保护区划独木�
 BingWallPaper-2023-05-17-Canoeing in Okefenokee National Wildlife Refuge, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg
 BingWallPaper-2023-05-17-加利福尼亚州圣克鲁斯的天然桥州立公园-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantBridge_ZH-CN7673299694_UHD.jpg
 BingWallPaper-2023-05-18-Natural Bridges State Beach in Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg
+BingWallPaper-2023-05-18-拉曼加，穆尔西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SardineBurial_ZH-CN9563091726_UHD.jpg
+BingWallPaper-2023-05-19-Museo Soumaya, Plaza Carso, Mexico City, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg
