@@ -396,3 +396,5 @@ BingWallPaper-2023-05-17-加利福尼亚州圣克鲁斯的天然桥州立公园-
 BingWallPaper-2023-05-18-Natural Bridges State Beach in Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg
 BingWallPaper-2023-05-18-拉曼加，穆尔西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SardineBurial_ZH-CN9563091726_UHD.jpg
 BingWallPaper-2023-05-19-Museo Soumaya, Plaza Carso, Mexico City, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg
+BingWallPaper-2023-05-19-苏门答腊犀牛，韦卡巴斯国家公园，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SumatranRhino_ZH-CN4529744910_UHD.jpg
+BingWallPaper-2023-05-20-Sumatran rhinoceros female eating leaves, Way Kambas National Park, Sumatra, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.SumatranRhino_EN-US0245305253_UHD.jpg
