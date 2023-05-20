@@ -398,3 +398,5 @@ BingWallPaper-2023-05-18-拉曼加，穆尔西亚，西班牙-4K.jpg&&https://cn
 BingWallPaper-2023-05-19-Museo Soumaya, Plaza Carso, Mexico City, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg
 BingWallPaper-2023-05-19-苏门答腊犀牛，韦卡巴斯国家公园，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SumatranRhino_ZH-CN4529744910_UHD.jpg
 BingWallPaper-2023-05-20-Sumatran rhinoceros female eating leaves, Way Kambas National Park, Sumatra, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.SumatranRhino_EN-US0245305253_UHD.jpg
+BingWallPaper-2023-05-20-谢菲尔德的欧洲蜜蜂, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropeanHoneybee_ZH-CN5191293837_UHD.jpg
+BingWallPaper-2023-05-21-European honeybees in Sheffield, England-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg
