@@ -402,3 +402,5 @@ BingWallPaper-2023-05-20-谢菲尔德的欧洲蜜蜂, 英格兰-4K.jpg&&https://
 BingWallPaper-2023-05-21-European honeybees in Sheffield, England-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropeanHoneybee_EN-US0859156574_UHD.jpg
 BingWallPaper-2023-05-21-塞纳河，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.PontdArcole_ZH-CN5348049357_UHD.jpg
 BingWallPaper-2023-05-22-Pont d’Arcole on the Seine river, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg
+BingWallPaper-2023-05-22-阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_UHD.jpg
+BingWallPaper-2023-05-23-Arenal Volcano seen from Monteverde, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg
