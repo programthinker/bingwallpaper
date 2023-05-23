@@ -404,3 +404,5 @@ BingWallPaper-2023-05-21-塞纳河，巴黎，法国-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-05-22-Pont d’Arcole on the Seine river, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg
 BingWallPaper-2023-05-22-阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_ZH-CN5524154131_UHD.jpg
 BingWallPaper-2023-05-23-Arenal Volcano seen from Monteverde, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg
+BingWallPaper-2023-05-23-西部箱龟-4K.jpg&&https://cn.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_UHD.jpg
+BingWallPaper-2023-05-24-Western box turtle-4K.jpg&&https://cn.bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg
