@@ -406,3 +406,5 @@ BingWallPaper-2023-05-22-阿雷纳尔火山，蒙泰韦尔德，哥斯达黎加-
 BingWallPaper-2023-05-23-Arenal Volcano seen from Monteverde, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg
 BingWallPaper-2023-05-23-西部箱龟-4K.jpg&&https://cn.bing.com/th?id=OHR.WesternBoxTurtle_ZH-CN6203163704_UHD.jpg
 BingWallPaper-2023-05-24-Western box turtle-4K.jpg&&https://cn.bing.com/th?id=OHR.WesternBoxTurtle_EN-US2880487603_UHD.jpg
+BingWallPaper-2023-05-24-科孚岛旧城堡-4K.jpg&&https://cn.bing.com/th?id=OHR.OldFortress_ZH-CN6469523538_UHD.jpg
+BingWallPaper-2023-05-25-The Old Fortress of Corfu, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.OldFortress_EN-US3033490074_UHD.jpg
