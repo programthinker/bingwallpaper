@@ -412,3 +412,5 @@ BingWallPaper-2023-05-25-法罗群岛，丹麦-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2023-05-26-Saksun, Faroe Islands, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.SaksunFaroe_EN-US3384967997_UHD.jpg
 BingWallPaper-2023-05-26-西沙瓦寺，素可泰历史公园，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.WatSriSawai_ZH-CN7688908090_UHD.jpg
 BingWallPaper-2023-05-27-Wat Sri Sawai in Sukhothai Historical Park, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg
+BingWallPaper-2023-05-27-纳米比亚的植物-4K.jpg&&https://cn.bing.com/th?id=OHR.AloeDichotomum_ZH-CN7940121733_UHD.jpg
+BingWallPaper-2023-05-28-Quiver trees in Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg
