@@ -416,3 +416,5 @@ BingWallPaper-2023-05-27-纳米比亚的植物-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2023-05-28-Quiver trees in Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg
 BingWallPaper-2023-05-28-乌布的德格拉朗梯田，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.TegallalangTerrace_ZH-CN8126456968_UHD.jpg
 BingWallPaper-2023-05-29-Tegallalang terrace farms in Ubud, Bali, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg
+BingWallPaper-2023-05-29-萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_UHD.jpg
+BingWallPaper-2023-05-30-Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg
