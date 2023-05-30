@@ -418,3 +418,5 @@ BingWallPaper-2023-05-28-乌布的德格拉朗梯田，印度尼西亚-4K.jpg&&h
 BingWallPaper-2023-05-29-Tegallalang terrace farms in Ubud, Bali, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg
 BingWallPaper-2023-05-29-萨克马兰大湾，瓜德罗普岛国家公园，小安的列斯群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.Antilles_ZH-CN8267285876_UHD.jpg
 BingWallPaper-2023-05-30-Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg
+BingWallPaper-2023-05-30-埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_UHD.jpg
+BingWallPaper-2023-05-31-Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg
