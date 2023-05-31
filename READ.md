@@ -420,3 +420,5 @@ BingWallPaper-2023-05-29-萨克马兰大湾，瓜德罗普岛国家公园，小�
 BingWallPaper-2023-05-30-Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg
 BingWallPaper-2023-05-30-埃莫海滩，玛丽埃塔斯群岛，巴亚尔塔港，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.HiddenBeach_ZH-CN8410568637_UHD.jpg
 BingWallPaper-2023-05-31-Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg
+BingWallPaper-2023-05-31-海獭宝宝，威廉王子湾，美国阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg
+BingWallPaper-2023-06-01-Sea otter pup, Prince William Sound, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg
