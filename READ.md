@@ -424,3 +424,5 @@ BingWallPaper-2023-05-31-海獭宝宝，威廉王子湾，美国阿拉斯加州-
 BingWallPaper-2023-06-01-Sea otter pup, Prince William Sound, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg
 BingWallPaper-2023-06-01-大堡礁的航拍图，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg
 BingWallPaper-2023-06-02-Aerial image of the Great Barrier Reef, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg
+BingWallPaper-2023-06-02-沙丘中的南非剑羚，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokNamibia_ZH-CN0963988839_UHD.jpg
+BingWallPaper-2023-06-03-Gemsbok-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg
