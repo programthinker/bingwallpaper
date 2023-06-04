@@ -428,3 +428,5 @@ BingWallPaper-2023-06-02-沙丘中的南非剑羚，纳米比亚-4K.jpg&&https:/
 BingWallPaper-2023-06-03-Gemsbok-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokNamibia_EN-US7844189674_UHD.jpg
 BingWallPaper-2023-06-03-大峡谷国家公园的南凯巴布步道，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthKaibabTrail_ZH-CN1186135534_UHD.jpg
 BingWallPaper-2023-06-04-South Kaibab Trail in Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg
+BingWallPaper-2023-06-04-怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛，夏威夷，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiBeach_ZH-CN1435658101_UHD.jpg
+BingWallPaper-2023-06-05-Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg
