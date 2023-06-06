@@ -432,3 +432,5 @@ BingWallPaper-2023-06-04-怀阿纳帕纳帕州立公园的黑沙滩，茂宜岛�
 BingWallPaper-2023-06-05-Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg
 BingWallPaper-2023-06-05-辛华达峡谷的瀑布，贾斯珀国家公园，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.WaterfallsSunwaptaValley_ZH-CN1804229850_UHD.jpg
 BingWallPaper-2023-06-06-'Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg
+BingWallPaper-2023-06-06-埃特尔塔海岸的白垩悬崖，诺曼底，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN9911283373_UHD.jpg
+BingWallPaper-2023-06-07-The chalk cliffs of Étretat, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg
