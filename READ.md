@@ -434,3 +434,5 @@ BingWallPaper-2023-06-05-辛华达峡谷的瀑布，贾斯珀国家公园，加�
 BingWallPaper-2023-06-06-'Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg
 BingWallPaper-2023-06-06-埃特尔塔海岸的白垩悬崖，诺曼底，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.CliffsEtretat_ZH-CN9911283373_UHD.jpg
 BingWallPaper-2023-06-07-The chalk cliffs of Étretat, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg
+BingWallPaper-2023-06-07-普韦布洛·博尼托镇，查科文化国家历史公园，美国新墨西哥州-4K.jpg&&https://cn.bing.com/th?id=OHR.ChacoCulture_ZH-CN2098865361_UHD.jpg
+BingWallPaper-2023-06-08-Pueblo Bonito, Chaco Culture National Historical Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg
