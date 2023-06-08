@@ -436,3 +436,5 @@ BingWallPaper-2023-06-06-埃特尔塔海岸的白垩悬崖，诺曼底，法国-
 BingWallPaper-2023-06-07-The chalk cliffs of Étretat, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg
 BingWallPaper-2023-06-07-普韦布洛·博尼托镇，查科文化国家历史公园，美国新墨西哥州-4K.jpg&&https://cn.bing.com/th?id=OHR.ChacoCulture_ZH-CN2098865361_UHD.jpg
 BingWallPaper-2023-06-08-Pueblo Bonito, Chaco Culture National Historical Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg
+BingWallPaper-2023-06-08-座头鲸-4K.jpg&&https://cn.bing.com/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_UHD.jpg
+BingWallPaper-2023-06-09-Humpback whale-4K.jpg&&https://cn.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg
