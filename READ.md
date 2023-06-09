@@ -438,3 +438,5 @@ BingWallPaper-2023-06-07-普韦布洛·博尼托镇，查科文化国家历史�
 BingWallPaper-2023-06-08-Pueblo Bonito, Chaco Culture National Historical Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg
 BingWallPaper-2023-06-08-座头鲸-4K.jpg&&https://cn.bing.com/th?id=OHR.PlayfulHumpback_ZH-CN2241016258_UHD.jpg
 BingWallPaper-2023-06-09-Humpback whale-4K.jpg&&https://cn.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg
+BingWallPaper-2023-06-09-卡帕多西亚, 土耳其-4K.jpg&&https://cn.bing.com/th?id=OHR.BalloonsTurkey_ZH-CN2791109350_UHD.jpg
+BingWallPaper-2023-06-10-Hot air balloons in Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg
