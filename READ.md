@@ -442,3 +442,5 @@ BingWallPaper-2023-06-09-卡帕多西亚, 土耳其-4K.jpg&&https://cn.bing.com/
 BingWallPaper-2023-06-10-Hot air balloons in Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg
 BingWallPaper-2023-06-10-波尔图大教堂, 葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PortugalDay_ZH-CN2939429166_UHD.jpg
 BingWallPaper-2023-06-11-Porto Cathedral, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg
+BingWallPaper-2023-06-11-巨鹭，克鲁格国家公园，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_UHD.jpg
+BingWallPaper-2023-06-12-Goliath heron, Kruger National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg
