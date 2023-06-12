@@ -444,3 +444,5 @@ BingWallPaper-2023-06-10-波尔图大教堂, 葡萄牙-4K.jpg&&https://cn.bing.c
 BingWallPaper-2023-06-11-Porto Cathedral, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg
 BingWallPaper-2023-06-11-巨鹭，克鲁格国家公园，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.GoliathHeron_ZH-CN2413747227_UHD.jpg
 BingWallPaper-2023-06-12-Goliath heron, Kruger National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg
+BingWallPaper-2023-06-12-仙人掌植物，得克萨斯州大弯国家公园，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendAnniv_ZH-CN3445097868_UHD.jpg
+BingWallPaper-2023-06-13-Prickly pear cactus, Big Bend National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendAnniv_EN-US8613000977_UHD.jpg
