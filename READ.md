@@ -450,3 +450,5 @@ BingWallPaper-2023-06-13-奥克弗诺基沼泽木板路上的西班牙苔藓，�
 BingWallPaper-2023-06-14-Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg
 BingWallPaper-2023-06-14-多瑙河畔的帕绍市，巴伐利亚，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.PassauSunsetJune_ZH-CN7563956674_UHD.jpg
 BingWallPaper-2023-06-15-US Capitol building and US flags, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg
+BingWallPaper-2023-06-15-同步萤火虫，大烟山国家公园，田纳西州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SmokyFireflies_ZH-CN3840923626_UHD.jpg
+BingWallPaper-2023-06-16-Synchronous fireflies, Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg
