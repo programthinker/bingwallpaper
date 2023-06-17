@@ -454,3 +454,5 @@ BingWallPaper-2023-06-15-同步萤火虫，大烟山国家公园，田纳西州�
 BingWallPaper-2023-06-16-Synchronous fireflies, Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.SmokyFireflies_EN-US8809086301_UHD.jpg
 BingWallPaper-2023-06-16-游泳的鹰嘴海龟， 冲绳，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.HawksbillTurtle_ZH-CN0562063994_UHD.jpg
 BingWallPaper-2023-06-17-Hawksbill sea turtle swimming near Akajima, Okinawa, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg
+BingWallPaper-2023-06-17-在加利福尼亚州圣地亚哥举行的“为团结划桨”活动-4K.jpg&&https://cn.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_UHD.jpg
+BingWallPaper-2023-06-18-'Paddle Out for Unity' event in San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg
