@@ -456,3 +456,5 @@ BingWallPaper-2023-06-16-游泳的鹰嘴海龟， 冲绳，日本-4K.jpg&&https:
 BingWallPaper-2023-06-17-Hawksbill sea turtle swimming near Akajima, Okinawa, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg
 BingWallPaper-2023-06-17-在加利福尼亚州圣地亚哥举行的“为团结划桨”活动-4K.jpg&&https://cn.bing.com/th?id=OHR.SurfSanDiego_ZH-CN1485510748_UHD.jpg
 BingWallPaper-2023-06-18-'Paddle Out for Unity' event in San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg
+BingWallPaper-2023-06-18-普通燕鸥父亲和宝宝，长岛，纽约州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_UHD.jpg
+BingWallPaper-2023-06-19-Common tern father with chick, Nickerson Beach, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg
