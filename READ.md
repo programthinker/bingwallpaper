@@ -458,3 +458,5 @@ BingWallPaper-2023-06-17-在加利福尼亚州圣地亚哥举行的“为团结�
 BingWallPaper-2023-06-18-'Paddle Out for Unity' event in San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg
 BingWallPaper-2023-06-18-普通燕鸥父亲和宝宝，长岛，纽约州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TernFather_ZH-CN1860589914_UHD.jpg
 BingWallPaper-2023-06-19-Common tern father with chick, Nickerson Beach, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg
+BingWallPaper-2023-06-19-奔跑在诺曼底草地上的小狍，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_UHD.jpg
+BingWallPaper-2023-06-20-City Hall lit up for Juneteenth in San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg
