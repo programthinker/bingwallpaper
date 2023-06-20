@@ -460,3 +460,5 @@ BingWallPaper-2023-06-18-普通燕鸥父亲和宝宝，长岛，纽约州，美�
 BingWallPaper-2023-06-19-Common tern father with chick, Nickerson Beach, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg
 BingWallPaper-2023-06-19-奔跑在诺曼底草地上的小狍，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.Fawn_ZH-CN2172152960_UHD.jpg
 BingWallPaper-2023-06-20-City Hall lit up for Juneteenth in San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg
+BingWallPaper-2023-06-20-秃鹰，通加斯国家森林，阿拉斯加，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_UHD.jpg
+BingWallPaper-2023-06-21-Bald eagle, Tongass National Forest, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg
