@@ -462,3 +462,5 @@ BingWallPaper-2023-06-19-奔跑在诺曼底草地上的小狍，法国-4K.jpg&&h
 BingWallPaper-2023-06-20-City Hall lit up for Juneteenth in San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg
 BingWallPaper-2023-06-20-秃鹰，通加斯国家森林，阿拉斯加，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.EagleTree_ZH-CN7775102951_UHD.jpg
 BingWallPaper-2023-06-21-Bald eagle, Tongass National Forest, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg
+BingWallPaper-2023-06-21-夏日盛开的荷花-4K.jpg&&https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_UHD.jpg
+BingWallPaper-2023-06-22-Stonehenge, Salisbury Plain, Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg
