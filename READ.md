@@ -464,3 +464,5 @@ BingWallPaper-2023-06-20-秃鹰，通加斯国家森林，阿拉斯加，美国-
 BingWallPaper-2023-06-21-Bald eagle, Tongass National Forest, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg
 BingWallPaper-2023-06-21-夏日盛开的荷花-4K.jpg&&https://cn.bing.com/th?id=OHR.SummerSolstice2023_ZH-CN5038619036_UHD.jpg
 BingWallPaper-2023-06-22-Stonehenge, Salisbury Plain, Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg
+BingWallPaper-2023-06-22-中国传统节日端午节-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonBoatFestival2023_ZH-CN5255671687_UHD.jpg
+BingWallPaper-2023-06-23-Amazon rainforest, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg
