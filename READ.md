@@ -468,3 +468,5 @@ BingWallPaper-2023-06-22-中国传统节日端午节-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-06-23-Amazon rainforest, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg
 BingWallPaper-2023-06-23-帝王蝶在野花中取食-4K.jpg&&https://cn.bing.com/th?id=OHR.PollinatorMonarch_ZH-CN5556988827_UHD.jpg
 BingWallPaper-2023-06-24-Monarch butterflies feeding from wildflowers-4K.jpg&&https://cn.bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg
+BingWallPaper-2023-06-24-芽富湾，芽庄，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.NhaTrang_ZH-CN5834700560_UHD.jpg
+BingWallPaper-2023-06-25-Nha Phu Bay, Nha Trang, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg
