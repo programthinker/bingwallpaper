@@ -474,3 +474,5 @@ BingWallPaper-2023-06-25-佩特拉的宝库，约旦-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-06-26-Al-Khazneh-4K.jpg&&https://cn.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg
 BingWallPaper-2023-06-26-维朗德里城堡及花园，卢瓦尔河谷，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.VillandryGarden_ZH-CN6140359139_UHD.jpg
 BingWallPaper-2023-06-27-Château de Villandry and its garden, Loire Valley, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg
+BingWallPaper-2023-06-27-塞多纳，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_UHD.jpg
+BingWallPaper-2023-06-28-Sedona, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg
