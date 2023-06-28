@@ -476,3 +476,5 @@ BingWallPaper-2023-06-26-维朗德里城堡及花园，卢瓦尔河谷，法国-
 BingWallPaper-2023-06-27-Château de Villandry and its garden, Loire Valley, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg
 BingWallPaper-2023-06-27-塞多纳，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSunset_ZH-CN6289462383_UHD.jpg
 BingWallPaper-2023-06-28-Sedona, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg
+BingWallPaper-2023-06-28-韦尔纳扎，五渔村，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyCinqueTerre_ZH-CN6495965228_UHD.jpg
+BingWallPaper-2023-06-29-Rainbow flags and confetti, Reykjavík, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg
