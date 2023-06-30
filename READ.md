@@ -480,3 +480,5 @@ BingWallPaper-2023-06-28-韦尔纳扎，五渔村，意大利-4K.jpg&&https://cn
 BingWallPaper-2023-06-29-Rainbow flags and confetti, Reykjavík, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg
 BingWallPaper-2023-06-29-巴尼亚群岛，苏门答腊，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_UHD.jpg
 BingWallPaper-2023-06-30-Banyak Islands, Sumatra, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg
+BingWallPaper-2023-06-30-棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg
+BingWallPaper-2023-07-01-Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg
