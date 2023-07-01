@@ -482,3 +482,5 @@ BingWallPaper-2023-06-29-巴尼亚群岛，苏门答腊，印度尼西亚-4K.jpg
 BingWallPaper-2023-06-30-Banyak Islands, Sumatra, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg
 BingWallPaper-2023-06-30-棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg
 BingWallPaper-2023-07-01-Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg
+BingWallPaper-2023-07-01-从意大利圣天使城堡俯瞰罗马-4K.jpg&&https://cn.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg
+BingWallPaper-2023-07-02-Tour de France cyclists crossing the Pont du Gard, France-4K.jpg&&https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg
