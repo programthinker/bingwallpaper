@@ -13,7 +13,9 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Objects;
 
 /**
@@ -36,7 +38,7 @@ public class DownloadUtils {
     public static void downloadImage() throws Exception {
 
         List<String> strings = Files.readAllLines(readmePath, StandardCharsets.UTF_8);
-        strings.parallelStream().forEachOrdered(s -> {
+        strings.forEach(s -> {
             String name = s.split("&&")[0];
             String url = s.split("&&")[1];
             HttpGet get = new HttpGet(url);

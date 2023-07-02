@@ -31,8 +31,8 @@ public class BingWallPaperDownload {
                 "https://bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=EN-US"
         };
         ObjectMapper objectMapper = new ObjectMapper();
-        for (int i = 0; i < imageAPI.length; i++) {
-            HttpGet httpGet = new HttpGet(imageAPI[i]);
+        for (String s : imageAPI) {
+            HttpGet httpGet = new HttpGet(s);
             CloseableHttpResponse httpResponse = HttpClientBuilder.create().build().execute(httpGet);
             String content = EntityUtils.toString(httpResponse.getEntity());
             JsonNode node = objectMapper.readTree(content);
