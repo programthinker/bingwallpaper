@@ -39,3 +39,5 @@ BingWallPaper-2023-07-03-班夫的土狼，加拿大-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-07-04-A coyote in Banff, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.CoyoteBanff_EN-US9716853560_UHD.jpg
 BingWallPaper-2023-07-04-草原国家公园，萨斯喀彻温省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_ZH-CN6530285883_UHD.jpg
 BingWallPaper-2023-07-05-Empire State Building on the Fourth of July, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.EmpireFourth_EN-US1852348146_UHD.jpg
+BingWallPaper-2023-07-05-蒂莫尼港海滩，科孚岛，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.CorfuBeach_ZH-CN8660068587_UHD.jpg
+BingWallPaper-2023-07-06-Porto Timoni beach, Corfu, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg
