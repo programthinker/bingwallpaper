@@ -43,3 +43,5 @@ BingWallPaper-2023-07-05-蒂莫尼港海滩，科孚岛，希腊-4K.jpg&&https:/
 BingWallPaper-2023-07-06-Porto Timoni beach, Corfu, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.CorfuBeach_EN-US1955770867_UHD.jpg
 BingWallPaper-2023-07-06-南跳岩企鹅，福克兰群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_UHD.jpg
 BingWallPaper-2023-07-07-Southern rockhopper penguins, Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg
+BingWallPaper-2023-07-07-安班加的可可豆荚，马达加斯加-4K.jpg&&https://cn.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_UHD.jpg
+BingWallPaper-2023-07-08-Cocoa pods from Ambanja, Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg
