@@ -45,3 +45,5 @@ BingWallPaper-2023-07-06-南跳岩企鹅，福克兰群岛-4K.jpg&&https://cn.bi
 BingWallPaper-2023-07-07-Southern rockhopper penguins, Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg
 BingWallPaper-2023-07-07-安班加的可可豆荚，马达加斯加-4K.jpg&&https://cn.bing.com/th?id=OHR.CocoaPods_ZH-CN6192387360_UHD.jpg
 BingWallPaper-2023-07-08-Cocoa pods from Ambanja, Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg
+BingWallPaper-2023-07-08-米尔德里德-B-库珀纪念教堂，贝拉维斯塔，阿肯色州-4K.jpg&&https://cn.bing.com/th?id=OHR.CooperChapel_ZH-CN1150924688_UHD.jpg
+BingWallPaper-2023-07-09-Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas-4K.jpg&&https://cn.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg
