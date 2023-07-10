@@ -49,3 +49,5 @@ BingWallPaper-2023-07-08-米尔德里德-B-库珀纪念教堂，贝拉维斯塔�
 BingWallPaper-2023-07-09-Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas-4K.jpg&&https://cn.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg
 BingWallPaper-2023-07-09-克罗夫附近的摩泽尔河，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.MoselleRiver_ZH-CN1283415242_UHD.jpg
 BingWallPaper-2023-07-10-Moselle River loop, Kröv, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg
+BingWallPaper-2023-07-10-萨默塞特郡的薰衣草田，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_UHD.jpg
+BingWallPaper-2023-07-11-Field of lavender, Somerset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg
