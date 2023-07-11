@@ -51,3 +51,5 @@ BingWallPaper-2023-07-09-克罗夫附近的摩泽尔河，德国-4K.jpg&&https:/
 BingWallPaper-2023-07-10-Moselle River loop, Kröv, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg
 BingWallPaper-2023-07-10-萨默塞特郡的薰衣草田，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SomersetLavender_ZH-CN5823464763_UHD.jpg
 BingWallPaper-2023-07-11-Field of lavender, Somerset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg
+BingWallPaper-2023-07-11-Hong Kong SAR-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_UHD.jpg
+BingWallPaper-2023-07-12-Hong Kong SAR-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg
