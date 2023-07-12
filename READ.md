@@ -53,3 +53,5 @@ BingWallPaper-2023-07-10-萨默塞特郡的薰衣草田，英国-4K.jpg&&https:/
 BingWallPaper-2023-07-11-Field of lavender, Somerset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg
 BingWallPaper-2023-07-11-Hong Kong SAR-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldPopDay_ZH-CN7074706912_UHD.jpg
 BingWallPaper-2023-07-12-Hong Kong SAR-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg
+BingWallPaper-2023-07-12-“我爱你”海滩自然保护区的沙洲，桑给巴尔，坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NakupendaBeach_ZH-CN7913805608_UHD.jpg
+BingWallPaper-2023-07-13-Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg
