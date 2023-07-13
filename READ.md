@@ -55,3 +55,5 @@ BingWallPaper-2023-07-11-Hong Kong SAR-4K.jpg&&https://cn.bing.com/th?id=OHR.Wor
 BingWallPaper-2023-07-12-Hong Kong SAR-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg
 BingWallPaper-2023-07-12-“我爱你”海滩自然保护区的沙洲，桑给巴尔，坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NakupendaBeach_ZH-CN7913805608_UHD.jpg
 BingWallPaper-2023-07-13-Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg
+BingWallPaper-2023-07-13-张掖国家地质公园，甘肃，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_UHD.jpg
+BingWallPaper-2023-07-14-Zhangye Danxia National Geopark, Gansu province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_UHD.jpg
