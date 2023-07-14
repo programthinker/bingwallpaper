@@ -57,3 +57,5 @@ BingWallPaper-2023-07-12-“我爱你”海滩自然保护区的沙洲，桑给�
 BingWallPaper-2023-07-13-Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg
 BingWallPaper-2023-07-13-张掖国家地质公园，甘肃，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.ZhangyeGeopark_ZH-CN1045536243_UHD.jpg
 BingWallPaper-2023-07-14-Zhangye Danxia National Geopark, Gansu province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_UHD.jpg
+BingWallPaper-2023-07-14-乌翅真鲨，马尔代夫-4K.jpg&&https://cn.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_UHD.jpg
+BingWallPaper-2023-07-15-Blacktip reef sharks, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg
