@@ -59,3 +59,5 @@ BingWallPaper-2023-07-13-张掖国家地质公园，甘肃，中国-4K.jpg&&http
 BingWallPaper-2023-07-14-Zhangye Danxia National Geopark, Gansu province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ZhangyeGeopark_EN-US3229882052_UHD.jpg
 BingWallPaper-2023-07-14-乌翅真鲨，马尔代夫-4K.jpg&&https://cn.bing.com/th?id=OHR.BlacktipSharks_ZH-CN6532659465_UHD.jpg
 BingWallPaper-2023-07-15-Blacktip reef sharks, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg
+BingWallPaper-2023-07-15-卡斯泰尔梅扎诺，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_UHD.jpg
+BingWallPaper-2023-07-16-Castelmezzano, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg
