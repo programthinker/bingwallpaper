@@ -61,3 +61,5 @@ BingWallPaper-2023-07-14-乌翅真鲨，马尔代夫-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-07-15-Blacktip reef sharks, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg
 BingWallPaper-2023-07-15-卡斯泰尔梅扎诺，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_ZH-CN6733875019_UHD.jpg
 BingWallPaper-2023-07-16-Castelmezzano, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg
+BingWallPaper-2023-07-16-熊洞溪，卡茨基尔山脉，纽约，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BearHoleBrook_ZH-CN6855885557_UHD.jpg
+BingWallPaper-2023-07-17-Bear Hole Brook, Catskill Mountains, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg
