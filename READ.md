@@ -63,3 +63,5 @@ BingWallPaper-2023-07-15-卡斯泰尔梅扎诺，意大利-4K.jpg&&https://cn.bi
 BingWallPaper-2023-07-16-Castelmezzano, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg
 BingWallPaper-2023-07-16-熊洞溪，卡茨基尔山脉，纽约，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BearHoleBrook_ZH-CN6855885557_UHD.jpg
 BingWallPaper-2023-07-17-Bear Hole Brook, Catskill Mountains, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg
+BingWallPaper-2023-07-17-乌特湖的克拉夫特城堡，卡文郡，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.CavanCastle_ZH-CN7109317900_UHD.jpg
+BingWallPaper-2023-07-18-Cloughoughter Castle in Lough Oughter, County Cavan, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg
