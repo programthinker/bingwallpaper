@@ -73,3 +73,5 @@ BingWallPaper-2023-07-20-从美国宇航局猎户座飞船上看到的月球-4K.
 BingWallPaper-2023-07-21-The moon seen from the Orion spacecraft of NASA's Artemis mission-4K.jpg&&https://cn.bing.com/th?id=OHR.MoonDayArtemis_EN-US1226397186_UHD.jpg
 BingWallPaper-2023-07-21-斯托尔桑德特大桥，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeNorway_ZH-CN9063814637_UHD.jpg
 BingWallPaper-2023-07-22-Storseisundet Bridge, Atlantic Ocean Road, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg
+BingWallPaper-2023-07-22-在一棵秃柏树上吊床露营，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_UHD.jpg
+BingWallPaper-2023-07-23-Hammock camping in a bald cypress tree, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg
