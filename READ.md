@@ -75,3 +75,5 @@ BingWallPaper-2023-07-21-斯托尔桑德特大桥，挪威-4K.jpg&&https://cn.bi
 BingWallPaper-2023-07-22-Storseisundet Bridge, Atlantic Ocean Road, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeNorway_EN-US1530199433_UHD.jpg
 BingWallPaper-2023-07-22-在一棵秃柏树上吊床露营，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HammockDay_ZH-CN9368760971_UHD.jpg
 BingWallPaper-2023-07-23-Hammock camping in a bald cypress tree, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg
+BingWallPaper-2023-07-23-爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡-4K.jpg&&https://cn.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg
+BingWallPaper-2023-07-24-Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka-4K.jpg&&https://cn.bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg
