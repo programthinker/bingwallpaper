@@ -77,3 +77,5 @@ BingWallPaper-2023-07-22-在一棵秃柏树上吊床露营，佛罗里达州，�
 BingWallPaper-2023-07-23-Hammock camping in a bald cypress tree, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HammockDay_EN-US1639653297_UHD.jpg
 BingWallPaper-2023-07-23-爱丁堡茶园, 努沃勒埃利耶, 斯里兰卡-4K.jpg&&https://cn.bing.com/th?id=OHR.TeaEstate_ZH-CN9645412630_UHD.jpg
 BingWallPaper-2023-07-24-Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka-4K.jpg&&https://cn.bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg
+BingWallPaper-2023-07-24-斑马，塔兰吉雷国家公园，坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraCousins_ZH-CN8159888859_UHD.jpg
+BingWallPaper-2023-07-25-Zebras in Tarangire National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg
