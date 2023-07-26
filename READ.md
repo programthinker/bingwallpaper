@@ -81,3 +81,5 @@ BingWallPaper-2023-07-24-斑马，塔兰吉雷国家公园，坦桑尼亚-4K.jpg
 BingWallPaper-2023-07-25-Zebras in Tarangire National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg
 BingWallPaper-2023-07-25-托雷维耶哈潟湖，阿利坎特，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.LasLagunas_ZH-CN9917702340_UHD.jpg
 BingWallPaper-2023-07-26-Laguna de Torrevieja, Alicante, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg
+BingWallPaper-2023-07-26-朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国-4K.jpg&&https://cn.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_UHD.jpg
+BingWallPaper-2023-07-27-Jubail Mangrove Park in Abu Dhabi, United Arab Emirates-4K.jpg&&https://cn.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg
