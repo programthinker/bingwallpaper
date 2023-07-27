@@ -83,3 +83,5 @@ BingWallPaper-2023-07-25-托雷维耶哈潟湖，阿利坎特，西班牙-4K.jpg
 BingWallPaper-2023-07-26-Laguna de Torrevieja, Alicante, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.LasLagunas_EN-US2134252350_UHD.jpg
 BingWallPaper-2023-07-26-朱拜勒红树林公园，阿布扎比，阿拉伯联合酋长国-4K.jpg&&https://cn.bing.com/th?id=OHR.MangrovePark_ZH-CN0208518370_UHD.jpg
 BingWallPaper-2023-07-27-Jubail Mangrove Park in Abu Dhabi, United Arab Emirates-4K.jpg&&https://cn.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg
+BingWallPaper-2023-07-27-卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_UHD.jpg
+BingWallPaper-2023-07-28-Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg
