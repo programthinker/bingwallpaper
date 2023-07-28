@@ -85,3 +85,5 @@ BingWallPaper-2023-07-26-朱拜勒红树林公园，阿布扎比，阿拉伯联�
 BingWallPaper-2023-07-27-Jubail Mangrove Park in Abu Dhabi, United Arab Emirates-4K.jpg&&https://cn.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg
 BingWallPaper-2023-07-27-卡鲁塞尔凯旋门和卢浮宫金字塔，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisLouvre_ZH-CN0341884841_UHD.jpg
 BingWallPaper-2023-07-28-Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg
+BingWallPaper-2023-07-28-圣布拉斯群岛，巴拿马-4K.jpg&&https://cn.bing.com/th?id=OHR.SanBlasIslands_ZH-CN6320572106_UHD.jpg
+BingWallPaper-2023-07-29-San Blas Islands, Panama-4K.jpg&&https://cn.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg
