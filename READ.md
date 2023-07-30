@@ -89,3 +89,5 @@ BingWallPaper-2023-07-28-圣布拉斯群岛，巴拿马-4K.jpg&&https://cn.bing.
 BingWallPaper-2023-07-29-San Blas Islands, Panama-4K.jpg&&https://cn.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg
 BingWallPaper-2023-07-29-孟加拉虎，兰坦波尔国家公园，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.TigerIndia_ZH-CN6657629375_UHD.jpg
 BingWallPaper-2023-07-30-Bengal tiger, Ranthambore National Park, India-4K.jpg&&https://cn.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg
+BingWallPaper-2023-07-30-帕卢斯的农田，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_UHD.jpg
+BingWallPaper-2023-07-31-Farmland in the Palouse, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg
