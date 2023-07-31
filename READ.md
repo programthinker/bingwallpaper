@@ -91,3 +91,5 @@ BingWallPaper-2023-07-29-孟加拉虎，兰坦波尔国家公园，印度-4K.jpg
 BingWallPaper-2023-07-30-Bengal tiger, Ranthambore National Park, India-4K.jpg&&https://cn.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg
 BingWallPaper-2023-07-30-帕卢斯的农田，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PalouseHills_ZH-CN6864015897_UHD.jpg
 BingWallPaper-2023-07-31-Farmland in the Palouse, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg
+BingWallPaper-2023-07-31-霍金山州立公园的岩石屋，俄亥俄州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg
+BingWallPaper-2023-08-01-Rock House, Hocking Hills State Park, Ohio-4K.jpg&&https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg
