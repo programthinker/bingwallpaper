@@ -93,3 +93,5 @@ BingWallPaper-2023-07-30-帕卢斯的农田，华盛顿州，美国-4K.jpg&&http
 BingWallPaper-2023-07-31-Farmland in the Palouse, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg
 BingWallPaper-2023-07-31-霍金山州立公园的岩石屋，俄亥俄州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg
 BingWallPaper-2023-08-01-Rock House, Hocking Hills State Park, Ohio-4K.jpg&&https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg
+BingWallPaper-2023-08-01-从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_UHD.jpg
+BingWallPaper-2023-08-02-Climber on Denali, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg
