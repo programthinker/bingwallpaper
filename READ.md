@@ -95,3 +95,5 @@ BingWallPaper-2023-07-31-霍金山州立公园的岩石屋，俄亥俄州，美�
 BingWallPaper-2023-08-01-Rock House, Hocking Hills State Park, Ohio-4K.jpg&&https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg
 BingWallPaper-2023-08-01-从德纳里山看福克拉山，德纳里国家公园，美国阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.DenaliClimber_ZH-CN7548168932_UHD.jpg
 BingWallPaper-2023-08-02-Climber on Denali, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg
+BingWallPaper-2023-08-02-圆顶礁国家公园的砂岩山丘，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_UHD.jpg
+BingWallPaper-2023-08-03-Sandstone butte in Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg
