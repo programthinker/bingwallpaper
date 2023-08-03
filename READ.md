@@ -97,3 +97,5 @@ BingWallPaper-2023-08-01-从德纳里山看福克拉山，德纳里国家公园�
 BingWallPaper-2023-08-02-Climber on Denali, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg
 BingWallPaper-2023-08-02-圆顶礁国家公园的砂岩山丘，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolButte_ZH-CN7707972988_UHD.jpg
 BingWallPaper-2023-08-03-Sandstone butte in Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg
+BingWallPaper-2023-08-03-泽伦西自然保护区，斯洛文尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_UHD.jpg
+BingWallPaper-2023-08-04-Zelenci Nature Reserve, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg
