@@ -99,3 +99,5 @@ BingWallPaper-2023-08-02-圆顶礁国家公园的砂岩山丘，犹他州，美�
 BingWallPaper-2023-08-03-Sandstone butte in Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg
 BingWallPaper-2023-08-03-泽伦西自然保护区，斯洛文尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ZelenciSprings_ZH-CN8022746409_UHD.jpg
 BingWallPaper-2023-08-04-Zelenci Nature Reserve, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg
+BingWallPaper-2023-08-04-廷特恩修道院，威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.GothicRuins_ZH-CN8317467997_UHD.jpg
+BingWallPaper-2023-08-05-Tintern Abbey, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg
