@@ -103,3 +103,5 @@ BingWallPaper-2023-08-04-廷特恩修道院，威尔士-4K.jpg&&https://cn.bing.
 BingWallPaper-2023-08-05-Tintern Abbey, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg
 BingWallPaper-2023-08-05-大西洋海鹦，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.AtlanticPuffin_ZH-CN8523220989_UHD.jpg
 BingWallPaper-2023-08-06-Atlantic puffin, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg
+BingWallPaper-2023-08-06-镜池，长野，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_UHD.jpg
+BingWallPaper-2023-08-07-Kagami-ike-4K.jpg&&https://cn.bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg
