@@ -105,3 +105,5 @@ BingWallPaper-2023-08-05-大西洋海鹦，冰岛-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2023-08-06-Atlantic puffin, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg
 BingWallPaper-2023-08-06-镜池，长野，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.NaganoPond_ZH-CN8794832798_UHD.jpg
 BingWallPaper-2023-08-07-Kagami-ike-4K.jpg&&https://cn.bing.com/th?id=OHR.NaganoPond_EN-US2600828175_UHD.jpg
+BingWallPaper-2023-08-07-博迪岛灯塔，马头城，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BodieNC_ZH-CN9027999004_UHD.jpg
+BingWallPaper-2023-08-08-Bodie Island Lighthouse, Nags Head, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg
