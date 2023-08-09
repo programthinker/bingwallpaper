@@ -109,3 +109,5 @@ BingWallPaper-2023-08-07-博迪岛灯塔，马头城，北卡罗来纳州，美�
 BingWallPaper-2023-08-08-Bodie Island Lighthouse, Nags Head, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.BodieNC_EN-US2693689463_UHD.jpg
 BingWallPaper-2023-08-08-五花海，阿坝九寨沟旅游景区，四川省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LiQiu2023_ZH-CN9197909278_UHD.jpg
 BingWallPaper-2023-08-09-Highways in Taipei, Taiwan-4K.jpg&&https://cn.bing.com/th?id=OHR.InfinityTaipei_EN-US3008697284_UHD.jpg
+BingWallPaper-2023-08-09-马苏阿的甜面包海蚀柱，撒丁岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.PandiZucchero_ZH-CN9833521922_UHD.jpg
+BingWallPaper-2023-08-10-Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg
