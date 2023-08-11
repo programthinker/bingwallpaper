@@ -113,3 +113,5 @@ BingWallPaper-2023-08-09-马苏阿的甜面包海蚀柱，撒丁岛，意大利-
 BingWallPaper-2023-08-10-Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg
 BingWallPaper-2023-08-10-马赛马拉的一头狮子，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldLionDay_ZH-CN0525835107_UHD.jpg
 BingWallPaper-2023-08-11-A lion in Maasai Mara, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg
+BingWallPaper-2023-08-11-'朱庇特艺术园的“入口”水池，爱丁堡，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.JupiterArtland_ZH-CN7955790073_UHD.jpg
+BingWallPaper-2023-08-12-'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg
