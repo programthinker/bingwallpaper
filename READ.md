@@ -117,3 +117,5 @@ BingWallPaper-2023-08-11-'朱庇特艺术园的“入口”水池，爱丁堡，
 BingWallPaper-2023-08-12-'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg
 BingWallPaper-2023-08-12-大象家族，安波塞利国家公园，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeElephants_ZH-CN8708711085_UHD.jpg
 BingWallPaper-2023-08-13-Elephant family in Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg
+BingWallPaper-2023-08-13-英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_UHD.jpg
+BingWallPaper-2023-08-14-Perseid meteor shower, Cottonwood Canyon State Park, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg
