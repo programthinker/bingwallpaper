@@ -119,3 +119,5 @@ BingWallPaper-2023-08-12-大象家族，安波塞利国家公园，肯尼亚-4K.
 BingWallPaper-2023-08-13-Elephant family in Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeElephants_EN-US3930300492_UHD.jpg
 BingWallPaper-2023-08-13-英仙座流星雨，白杨木峡谷州立公园，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsOregon_ZH-CN9427980491_UHD.jpg
 BingWallPaper-2023-08-14-Perseid meteor shower, Cottonwood Canyon State Park, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg
+BingWallPaper-2023-08-14-叶片上的小壁虎-4K.jpg&&https://cn.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_UHD.jpg
+BingWallPaper-2023-08-15-Tiny gecko on a leaf-4K.jpg&&https://cn.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg
