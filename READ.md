@@ -121,3 +121,5 @@ BingWallPaper-2023-08-13-英仙座流星雨，白杨木峡谷州立公园，俄�
 BingWallPaper-2023-08-14-Perseid meteor shower, Cottonwood Canyon State Park, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsOregon_EN-US9307597393_UHD.jpg
 BingWallPaper-2023-08-14-叶片上的小壁虎-4K.jpg&&https://cn.bing.com/th?id=OHR.GeckoLeaf_ZH-CN9908456174_UHD.jpg
 BingWallPaper-2023-08-15-Tiny gecko on a leaf-4K.jpg&&https://cn.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg
+BingWallPaper-2023-08-15-四月九日广场，陶尔米纳，西西里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_UHD.jpg
+BingWallPaper-2023-08-16-Piazza IX Aprile, Taormina, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg
