@@ -123,3 +123,5 @@ BingWallPaper-2023-08-14-叶片上的小壁虎-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2023-08-15-Tiny gecko on a leaf-4K.jpg&&https://cn.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg
 BingWallPaper-2023-08-15-四月九日广场，陶尔米纳，西西里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TaorminaSquare_ZH-CN0273325652_UHD.jpg
 BingWallPaper-2023-08-16-Piazza IX Aprile, Taormina, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg
+BingWallPaper-2023-08-16-基韦斯特的七英里大桥，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KeyWestBridge_ZH-CN2540450067_UHD.jpg
+BingWallPaper-2023-08-17-Overseas Highway in the Florida Keys-4K.jpg&&https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg
