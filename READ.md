@@ -125,3 +125,5 @@ BingWallPaper-2023-08-15-四月九日广场，陶尔米纳，西西里岛，意�
 BingWallPaper-2023-08-16-Piazza IX Aprile, Taormina, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg
 BingWallPaper-2023-08-16-基韦斯特的七英里大桥，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KeyWestBridge_ZH-CN2540450067_UHD.jpg
 BingWallPaper-2023-08-17-Overseas Highway in the Florida Keys-4K.jpg&&https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg
+BingWallPaper-2023-08-17-罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_UHD.jpg
+BingWallPaper-2023-08-18-Giant sequoia trees in Sequoia and Kings Canyon National Parks, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg
