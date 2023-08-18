@@ -127,3 +127,5 @@ BingWallPaper-2023-08-16-基韦斯特的七英里大桥，佛罗里达州，美�
 BingWallPaper-2023-08-17-Overseas Highway in the Florida Keys-4K.jpg&&https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg
 BingWallPaper-2023-08-17-罕肯瀑布,威尔斯格雷省立公园, 加拿大不列颠哥伦比亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.HelmckenWaterfall_ZH-CN9694510761_UHD.jpg
 BingWallPaper-2023-08-18-Giant sequoia trees in Sequoia and Kings Canyon National Parks, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg
+BingWallPaper-2023-08-18-哈利路亚山，张家界国家森林公园，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AvatarMountain_ZH-CN3268610045_UHD.jpg
+BingWallPaper-2023-08-19-'Avatar Mountains,' Zhangjiajie National Forest Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg
