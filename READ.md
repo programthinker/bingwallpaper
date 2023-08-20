@@ -131,3 +131,5 @@ BingWallPaper-2023-08-18-哈利路亚山，张家界国家森林公园，中国-
 BingWallPaper-2023-08-19-'Avatar Mountains,' Zhangjiajie National Forest Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.AvatarMountain_EN-US0084042494_UHD.jpg
 BingWallPaper-2023-08-19-看着相机镜头的松鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.CameraSquirrel_ZH-CN3580119980_UHD.jpg
 BingWallPaper-2023-08-20-Squirrel looking into the lens of a camera-4K.jpg&&https://cn.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg
+BingWallPaper-2023-08-20-起点灯塔，德文郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_UHD.jpg
+BingWallPaper-2023-08-21-Start Point Lighthouse, South Devon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg
