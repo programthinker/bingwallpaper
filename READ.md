@@ -133,3 +133,5 @@ BingWallPaper-2023-08-19-看着相机镜头的松鼠-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-08-20-Squirrel looking into the lens of a camera-4K.jpg&&https://cn.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg
 BingWallPaper-2023-08-20-起点灯塔，德文郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.StartPointLight_ZH-CN4021540566_UHD.jpg
 BingWallPaper-2023-08-21-Start Point Lighthouse, South Devon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg
+BingWallPaper-2023-08-21-翡翠湖，加拿大育空地区-4K.jpg&&https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_ZH-CN4281156537_UHD.jpg
+BingWallPaper-2023-08-22-Emerald Lake, South Klondike Highway, Yukon, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg
