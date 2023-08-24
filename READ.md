@@ -139,3 +139,5 @@ BingWallPaper-2023-08-22-埃尔杰姆露天剧场，突尼斯-4K.jpg&&https://cn
 BingWallPaper-2023-08-23-Amphitheatre of El Jem, Tunisia-4K.jpg&&https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg
 BingWallPaper-2023-08-23-斯科加瀑布，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.SkogafossWaterfall_ZH-CN4763253095_UHD.jpg
 BingWallPaper-2023-08-24-Skógafoss waterfall, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg
+BingWallPaper-2023-08-24-鲨鱼鳍湾，达文波特，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_UHD.jpg
+BingWallPaper-2023-08-25-Shark Fin Cove, Davenport, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg
