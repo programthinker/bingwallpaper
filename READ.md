@@ -141,3 +141,5 @@ BingWallPaper-2023-08-23-斯科加瀑布，冰岛-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2023-08-24-Skógafoss waterfall, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg
 BingWallPaper-2023-08-24-鲨鱼鳍湾，达文波特，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SharkFinCove_ZH-CN4952934195_UHD.jpg
 BingWallPaper-2023-08-25-Shark Fin Cove, Davenport, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg
+BingWallPaper-2023-08-25-黄石下瀑布，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneFalls_ZH-CN8050562150_UHD.jpg
+BingWallPaper-2023-08-26-Lower Yellowstone Falls, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg
