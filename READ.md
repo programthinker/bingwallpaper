@@ -145,3 +145,5 @@ BingWallPaper-2023-08-25-黄石下瀑布，黄石国家公园，怀俄明州，�
 BingWallPaper-2023-08-26-Lower Yellowstone Falls, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneFalls_EN-US1964232839_UHD.jpg
 BingWallPaper-2023-08-26-柏林大教堂和博物馆岛，柏林，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumIsland_ZH-CN8277258964_UHD.jpg
 BingWallPaper-2023-08-27-Berlin Cathedral and Museum Island, Berlin, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg
+BingWallPaper-2023-08-27-城山日出峰，济州岛上的凝灰岩锥，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_UHD.jpg
+BingWallPaper-2023-08-28-Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg
