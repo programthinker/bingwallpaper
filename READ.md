@@ -147,3 +147,5 @@ BingWallPaper-2023-08-26-柏林大教堂和博物馆岛，柏林，德国-4K.jpg
 BingWallPaper-2023-08-27-Berlin Cathedral and Museum Island, Berlin, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg
 BingWallPaper-2023-08-27-城山日出峰，济州岛上的凝灰岩锥，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.JejuIsland_ZH-CN8434910851_UHD.jpg
 BingWallPaper-2023-08-28-Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg
+BingWallPaper-2023-08-28-洛夫里耶纳克堡，西港，杜布罗夫尼克，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikHarbor_ZH-CN8590217905_UHD.jpg
+BingWallPaper-2023-08-29-Fort Lovrijenac, West Harbor, Dubrovnik, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg
