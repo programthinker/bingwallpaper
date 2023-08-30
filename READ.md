@@ -151,3 +151,5 @@ BingWallPaper-2023-08-28-洛夫里耶纳克堡，西港，杜布罗夫尼克，�
 BingWallPaper-2023-08-29-Fort Lovrijenac, West Harbor, Dubrovnik, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg
 BingWallPaper-2023-08-29-美洲野牛，大提顿国家公园，怀俄明州-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonBison_ZH-CN9384306649_UHD.jpg
 BingWallPaper-2023-08-30-American bison in Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg
+BingWallPaper-2023-08-30-鲸鲨，宁加洛珊瑚礁，西澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg
+BingWallPaper-2023-08-31-Whale shark, Ningaloo Reef, Western Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg
