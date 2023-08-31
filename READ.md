@@ -153,3 +153,5 @@ BingWallPaper-2023-08-29-美洲野牛，大提顿国家公园，怀俄明州-4K.
 BingWallPaper-2023-08-30-American bison in Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg
 BingWallPaper-2023-08-30-鲸鲨，宁加洛珊瑚礁，西澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg
 BingWallPaper-2023-08-31-Whale shark, Ningaloo Reef, Western Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg
+BingWallPaper-2023-08-31-巨人柱，铁木森林国家纪念地，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg
+BingWallPaper-2023-09-01-Saguaro cacti, Ironwood National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg
