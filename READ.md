@@ -155,3 +155,5 @@ BingWallPaper-2023-08-30-鲸鲨，宁加洛珊瑚礁，西澳大利亚-4K.jpg&&h
 BingWallPaper-2023-08-31-Whale shark, Ningaloo Reef, Western Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg
 BingWallPaper-2023-08-31-巨人柱，铁木森林国家纪念地，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg
 BingWallPaper-2023-09-01-Saguaro cacti, Ironwood National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg
+BingWallPaper-2023-09-01-火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg
+BingWallPaper-2023-09-02-Turkey tail mushroom, Brevard, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg
