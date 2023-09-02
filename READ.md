@@ -157,3 +157,5 @@ BingWallPaper-2023-08-31-巨人柱，铁木森林国家纪念地，亚利桑那�
 BingWallPaper-2023-09-01-Saguaro cacti, Ironwood National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg
 BingWallPaper-2023-09-01-火鸡尾蘑菇，布里瓦德，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyTailMush_ZH-CN9683744281_UHD.jpg
 BingWallPaper-2023-09-02-Turkey tail mushroom, Brevard, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg
+BingWallPaper-2023-09-02-艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TinyHummer_ZH-CN9853929957_UHD.jpg
+BingWallPaper-2023-09-03-Allen's hummingbird, Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg
