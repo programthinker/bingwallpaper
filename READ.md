@@ -159,3 +159,5 @@ BingWallPaper-2023-09-01-火鸡尾蘑菇，布里瓦德，北卡罗来纳州，�
 BingWallPaper-2023-09-02-Turkey tail mushroom, Brevard, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg
 BingWallPaper-2023-09-02-艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TinyHummer_ZH-CN9853929957_UHD.jpg
 BingWallPaper-2023-09-03-Allen's hummingbird, Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg
+BingWallPaper-2023-09-03-曼哈顿鸟瞰图，纽约市，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_UHD.jpg
+BingWallPaper-2023-09-04-Aerial view of Manhattan, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg
