@@ -161,3 +161,5 @@ BingWallPaper-2023-09-02-艾氏煌蜂鸟，圣克鲁斯，加利福尼亚州，�
 BingWallPaper-2023-09-03-Allen's hummingbird, Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg
 BingWallPaper-2023-09-03-曼哈顿鸟瞰图，纽约市，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanAerial_ZH-CN0036686873_UHD.jpg
 BingWallPaper-2023-09-04-Aerial view of Manhattan, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg
+BingWallPaper-2023-09-04-布尔日的沼泽，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_UHD.jpg
+BingWallPaper-2023-09-05-Construction workers on scaffolding-4K.jpg&&https://cn.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg
