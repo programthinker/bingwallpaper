@@ -163,3 +163,5 @@ BingWallPaper-2023-09-03-曼哈顿鸟瞰图，纽约市，美国-4K.jpg&&https:/
 BingWallPaper-2023-09-04-Aerial view of Manhattan, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanAerial_EN-US3290111355_UHD.jpg
 BingWallPaper-2023-09-04-布尔日的沼泽，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.BourgesMarsh_ZH-CN0505354655_UHD.jpg
 BingWallPaper-2023-09-05-Construction workers on scaffolding-4K.jpg&&https://cn.bing.com/th?id=OHR.LaborDayWorkers_EN-US3448430770_UHD.jpg
+BingWallPaper-2023-09-05-塞格拉山，塞尼亚岛，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.MountSegla_ZH-CN0758615745_UHD.jpg
+BingWallPaper-2023-09-06-Mount Segla, Senja Island, Troms og Finnmark, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg
