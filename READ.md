@@ -167,3 +167,5 @@ BingWallPaper-2023-09-05-塞格拉山，塞尼亚岛，挪威-4K.jpg&&https://cn
 BingWallPaper-2023-09-06-Mount Segla, Senja Island, Troms og Finnmark, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg
 BingWallPaper-2023-09-06-威尼斯旧港，克里特岛，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.CreteHarbor_ZH-CN0937533372_UHD.jpg
 BingWallPaper-2023-09-07-Old Venetian harbor, Rethymno, Crete Island, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg
+BingWallPaper-2023-09-07-沙漠中的骆驼，阿拉伯联合酋长国-4K.jpg&&https://cn.bing.com/th?id=OHR.CamelsAbove_ZH-CN1389810021_UHD.jpg
+BingWallPaper-2023-09-08-Camels in the desert, United Arab Emirates-4K.jpg&&https://cn.bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg
