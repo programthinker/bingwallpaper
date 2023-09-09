@@ -171,3 +171,5 @@ BingWallPaper-2023-09-07-沙漠中的骆驼，阿拉伯联合酋长国-4K.jpg&&h
 BingWallPaper-2023-09-08-Camels in the desert, United Arab Emirates-4K.jpg&&https://cn.bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg
 BingWallPaper-2023-09-08-巴斯圆形广场，萨默塞特 ，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.BathCircus_ZH-CN5796600786_UHD.jpg
 BingWallPaper-2023-09-09-The Circus townhouses in Bath, Somerset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg
+BingWallPaper-2023-09-09-大城府历史公园的柴瓦塔那兰寺，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.AyutthayaTemple_ZH-CN5996587937_UHD.jpg
+BingWallPaper-2023-09-10-Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg
