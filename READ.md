@@ -175,3 +175,5 @@ BingWallPaper-2023-09-09-大城府历史公园的柴瓦塔那兰寺，泰国-4K.
 BingWallPaper-2023-09-10-Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg
 BingWallPaper-2023-09-10-斯瓦尔巴群岛海上的一对海象，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.WalrusSvalbard_ZH-CN6343458320_UHD.jpg
 BingWallPaper-2023-09-11-Walrus pair at sea in Svalbard, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg
+BingWallPaper-2023-09-11-波尔多葡萄园的日出，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg
+BingWallPaper-2023-09-12-Brooklyn Bridge with the 'Tribute in Light' installation for 9-11, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg
