@@ -177,3 +177,5 @@ BingWallPaper-2023-09-10-斯瓦尔巴群岛海上的一对海象，挪威-4K.jpg
 BingWallPaper-2023-09-11-Walrus pair at sea in Svalbard, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg
 BingWallPaper-2023-09-11-波尔多葡萄园的日出，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MarathonMedoc_ZH-CN6649798028_UHD.jpg
 BingWallPaper-2023-09-12-Brooklyn Bridge with the 'Tribute in Light' installation for 9-11, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeMemorial_EN-US1953692613_UHD.jpg
+BingWallPaper-2023-09-12-北海日落，诺德多夫，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthSeaStairs_ZH-CN7044471948_UHD.jpg
+BingWallPaper-2023-09-13-North Sea at sunset, Norddorf, Amrum Island, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg
