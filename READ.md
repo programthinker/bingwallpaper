@@ -181,3 +181,5 @@ BingWallPaper-2023-09-12-北海日落，诺德多夫，德国-4K.jpg&&https://cn
 BingWallPaper-2023-09-13-North Sea at sunset, Norddorf, Amrum Island, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthSeaStairs_EN-US2097672090_UHD.jpg
 BingWallPaper-2023-09-13-赫马库塔山上的神庙，汉皮，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.HemakutaHill_ZH-CN7438439036_UHD.jpg
 BingWallPaper-2023-09-14-Temples on Hemakuta Hill, Hampi, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg
+BingWallPaper-2023-09-14-普氏野马，哈斯台国家公园，蒙古国-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_UHD.jpg
+BingWallPaper-2023-09-15-Przewalski's horses, Hustai National Park, Mongolia-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg
