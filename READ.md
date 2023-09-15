@@ -183,3 +183,5 @@ BingWallPaper-2023-09-13-赫马库塔山上的神庙，汉皮，卡纳塔克邦�
 BingWallPaper-2023-09-14-Temples on Hemakuta Hill, Hampi, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg
 BingWallPaper-2023-09-14-普氏野马，哈斯台国家公园，蒙古国-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaHorses_ZH-CN7660582867_UHD.jpg
 BingWallPaper-2023-09-15-Przewalski's horses, Hustai National Park, Mongolia-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg
+BingWallPaper-2023-09-15-格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_UHD.jpg
+BingWallPaper-2023-09-16-Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg
