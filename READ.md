@@ -185,3 +185,5 @@ BingWallPaper-2023-09-14-普氏野马，哈斯台国家公园，蒙古国-4K.jpg
 BingWallPaper-2023-09-15-Przewalski's horses, Hustai National Park, Mongolia-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg
 BingWallPaper-2023-09-15-格莱纳里夫森林公园的日落，安特里姆郡，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.GlenariffForest_ZH-CN7874768337_UHD.jpg
 BingWallPaper-2023-09-16-Mission church ruins at Quarai, Salinas Pueblo Missions National Monument, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.MissionRuins_EN-US2486545022_UHD.jpg
+BingWallPaper-2023-09-16-施布吕根山口，格劳宾登州，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.SplugenPass_ZH-CN8347591461_UHD.jpg
+BingWallPaper-2023-09-17-A beer tent at Oktoberfest in Theresienwiese, Munich, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg
