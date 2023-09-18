@@ -189,3 +189,5 @@ BingWallPaper-2023-09-16-施布吕根山口，格劳宾登州，瑞士-4K.jpg&&h
 BingWallPaper-2023-09-17-A beer tent at Oktoberfest in Theresienwiese, Munich, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.OktoberfestWorkers_EN-US5478786117_UHD.jpg
 BingWallPaper-2023-09-17-杂色短尾鴗，阿里杰罗德胡波尔德国家公园，古巴-4K.jpg&&https://cn.bing.com/th?id=OHR.CubanTody_ZH-CN8656368705_UHD.jpg
 BingWallPaper-2023-09-18-Cuban tody, Alejandro de Humboldt National Park, Cuba-4K.jpg&&https://cn.bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg
+BingWallPaper-2023-09-18-西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_UHD.jpg
+BingWallPaper-2023-09-19-Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg
