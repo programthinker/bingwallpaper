@@ -191,3 +191,5 @@ BingWallPaper-2023-09-17-杂色短尾鴗，阿里杰罗德胡波尔德国家公�
 BingWallPaper-2023-09-18-Cuban tody, Alejandro de Humboldt National Park, Cuba-4K.jpg&&https://cn.bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg
 BingWallPaper-2023-09-18-西南阿连特茹和维森廷海岸自然公园上空的银河，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.MilkyWayPortugal_ZH-CN8878883229_UHD.jpg
 BingWallPaper-2023-09-19-Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg
+BingWallPaper-2023-09-19-哈德良长城，诺森伯兰郡国家公园，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg
+BingWallPaper-2023-09-20-Splügen Pass, Graubünden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg
