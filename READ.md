@@ -193,3 +193,5 @@ BingWallPaper-2023-09-18-西南阿连特茹和维森廷海岸自然公园上空�
 BingWallPaper-2023-09-19-Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg
 BingWallPaper-2023-09-19-哈德良长城，诺森伯兰郡国家公园，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.HadriansWallUK_ZH-CN9203571422_UHD.jpg
 BingWallPaper-2023-09-20-Splügen Pass, Graubünden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg
+BingWallPaper-2023-09-20-罗马风格的渡槽，阿卡迪亚公园，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg
+BingWallPaper-2023-09-21-Roman-inspired aqueduct, Arkadia Park, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg
