@@ -195,3 +195,5 @@ BingWallPaper-2023-09-19-哈德良长城，诺森伯兰郡国家公园，英国-
 BingWallPaper-2023-09-20-Splügen Pass, Graubünden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg
 BingWallPaper-2023-09-20-罗马风格的渡槽，阿卡迪亚公园，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ArkadiaPark_ZH-CN9501056317_UHD.jpg
 BingWallPaper-2023-09-21-Roman-inspired aqueduct, Arkadia Park, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg
+BingWallPaper-2023-09-21-诺贝尔和平中心内部，奥斯陆，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg
+BingWallPaper-2023-09-22-Inside the Nobel Peace Center, Oslo, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg
