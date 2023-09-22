@@ -197,3 +197,5 @@ BingWallPaper-2023-09-20-罗马风格的渡槽，阿卡迪亚公园，波兰-4K.
 BingWallPaper-2023-09-21-Roman-inspired aqueduct, Arkadia Park, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg
 BingWallPaper-2023-09-21-诺贝尔和平中心内部，奥斯陆，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NobelNorway_ZH-CN9824054026_UHD.jpg
 BingWallPaper-2023-09-22-Inside the Nobel Peace Center, Oslo, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg
+BingWallPaper-2023-09-22-马尔萨拉盐田，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_UHD.jpg
+BingWallPaper-2023-09-23-Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg
