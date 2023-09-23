@@ -199,3 +199,5 @@ BingWallPaper-2023-09-21-诺贝尔和平中心内部，奥斯陆，挪威-4K.jpg
 BingWallPaper-2023-09-22-Inside the Nobel Peace Center, Oslo, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg
 BingWallPaper-2023-09-22-马尔萨拉盐田，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsalaSalt_ZH-CN4943158328_UHD.jpg
 BingWallPaper-2023-09-23-Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg
+BingWallPaper-2023-09-23-郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_UHD.jpg
+BingWallPaper-2023-09-24-Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg
