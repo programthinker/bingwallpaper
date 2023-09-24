@@ -201,3 +201,5 @@ BingWallPaper-2023-09-22-马尔萨拉盐田，意大利-4K.jpg&&https://cn.bing.
 BingWallPaper-2023-09-23-Southern white rhinoceros males, Shamwari Private Game Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ShamwariRhino_EN-US1414731584_UHD.jpg
 BingWallPaper-2023-09-23-郊狼谷的棉白杨和红砂岩，格兰峡谷国家保护区，犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.CottonwoodCanyon_ZH-CN5293620973_UHD.jpg
 BingWallPaper-2023-09-24-Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg
+BingWallPaper-2023-09-24-罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_UHD.jpg
+BingWallPaper-2023-09-25-The Fraser River near Mount Robson, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg
