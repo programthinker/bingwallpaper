@@ -203,3 +203,5 @@ BingWallPaper-2023-09-23-郊狼谷的棉白杨和红砂岩，格兰峡谷国家�
 BingWallPaper-2023-09-24-Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg
 BingWallPaper-2023-09-24-罗布森山附近的弗雷泽河，大不列颠哥伦比亚省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.FraserRiverBC_ZH-CN5743867197_UHD.jpg
 BingWallPaper-2023-09-25-The Fraser River near Mount Robson, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg
+BingWallPaper-2023-09-25-巴特利特湾的海獭，冰川湾国家公园，阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.GlacierBayOtter_ZH-CN6065209551_UHD.jpg
+BingWallPaper-2023-09-26-Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg
