@@ -207,3 +207,5 @@ BingWallPaper-2023-09-25-巴特利特湾的海獭，冰川湾国家公园，阿�
 BingWallPaper-2023-09-26-Sea otter in Bartlett Cove, Glacier Bay National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GlacierBayOtter_EN-US1818492105_UHD.jpg
 BingWallPaper-2023-09-26-日落时的威尼斯海滩滑板公园，洛杉矶，加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceSkatePark_ZH-CN6295228801_UHD.jpg
 BingWallPaper-2023-09-27-Venice Skatepark at sunset, Los Angeles, California-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg
+BingWallPaper-2023-09-27-克虏伯路，卡普里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg
+BingWallPaper-2023-09-28-The Via Krupp footpath on Capri island, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg
