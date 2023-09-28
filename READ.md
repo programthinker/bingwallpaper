@@ -209,3 +209,5 @@ BingWallPaper-2023-09-26-日落时的威尼斯海滩滑板公园，洛杉矶，�
 BingWallPaper-2023-09-27-Venice Skatepark at sunset, Los Angeles, California-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg
 BingWallPaper-2023-09-27-克虏伯路，卡普里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CapriKrupp_ZH-CN6893334288_UHD.jpg
 BingWallPaper-2023-09-28-The Via Krupp footpath on Capri island, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg
+BingWallPaper-2023-09-28-泰国商业港口附近的集装箱船-4K.jpg&&https://cn.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_UHD.jpg
+BingWallPaper-2023-09-29-Container ship near a commercial port in Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg
