@@ -211,3 +211,5 @@ BingWallPaper-2023-09-27-克虏伯路，卡普里岛，意大利-4K.jpg&&https:/
 BingWallPaper-2023-09-28-The Via Krupp footpath on Capri island, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg
 BingWallPaper-2023-09-28-泰国商业港口附近的集装箱船-4K.jpg&&https://cn.bing.com/th?id=OHR.MaritimeDay_ZH-CN7073219075_UHD.jpg
 BingWallPaper-2023-09-29-Container ship near a commercial port in Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg
+BingWallPaper-2023-09-29-满月下的甲秀楼，中国贵州省贵阳市-4K.jpg&&https://cn.bing.com/th?id=OHR.GuiyangMoon_ZH-CN7497119092_UHD.jpg
+BingWallPaper-2023-09-30-Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg
