@@ -215,3 +215,5 @@ BingWallPaper-2023-09-29-满月下的甲秀楼，中国贵州省贵阳市-4K.jpg
 BingWallPaper-2023-09-30-Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg
 BingWallPaper-2023-09-30-仙纳度国家公园的秋色，弗吉尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahFoliage_ZH-CN9885452713_UHD.jpg
 BingWallPaper-2023-10-01-Fall colors in Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg
+BingWallPaper-2023-10-01-雄伟壮丽的中国长城-4K.jpg&&https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg
+BingWallPaper-2023-10-02-Lake Bled at sunrise, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg
