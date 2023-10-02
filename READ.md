@@ -217,3 +217,5 @@ BingWallPaper-2023-09-30-仙纳度国家公园的秋色，弗吉尼亚州-4K.jpg
 BingWallPaper-2023-10-01-Fall colors in Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg
 BingWallPaper-2023-10-01-雄伟壮丽的中国长城-4K.jpg&&https://cn.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg
 BingWallPaper-2023-10-02-Lake Bled at sunrise, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg
+BingWallPaper-2023-10-02-韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg
+BingWallPaper-2023-10-03-Louis Vuitton Foundation in the Bois de Boulogne, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg
