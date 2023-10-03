@@ -219,3 +219,5 @@ BingWallPaper-2023-10-01-雄伟壮丽的中国长城-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-10-02-Lake Bled at sunrise, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSunrise_EN-US2708574517_UHD.jpg
 BingWallPaper-2023-10-02-韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海岸，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg
 BingWallPaper-2023-10-03-Louis Vuitton Foundation in the Bois de Boulogne, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg
+BingWallPaper-2023-10-03-白天堂海滩，圣灵群岛，昆士兰州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg
+BingWallPaper-2023-10-04-Whitehaven Beach, Whitsunday Island, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg
