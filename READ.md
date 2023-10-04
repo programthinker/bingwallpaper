@@ -221,3 +221,5 @@ BingWallPaper-2023-10-02-韦尔东峡谷，普罗旺斯-阿尔卑斯-蓝色海�
 BingWallPaper-2023-10-03-Louis Vuitton Foundation in the Bois de Boulogne, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VuittonFoundation_EN-US2808914200_UHD.jpg
 BingWallPaper-2023-10-03-白天堂海滩，圣灵群岛，昆士兰州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg
 BingWallPaper-2023-10-04-Whitehaven Beach, Whitsunday Island, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg
+BingWallPaper-2023-10-04-狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜-4K.jpg&&https://cn.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg
+BingWallPaper-2023-10-05-Young stars forming in the Tarantula Nebula, James Webb Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg
