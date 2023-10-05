@@ -223,3 +223,5 @@ BingWallPaper-2023-10-03-白天堂海滩，圣灵群岛，昆士兰州，澳大�
 BingWallPaper-2023-10-04-Whitehaven Beach, Whitsunday Island, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WhitsundaySwirl_EN-US2946291997_UHD.jpg
 BingWallPaper-2023-10-04-狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜-4K.jpg&&https://cn.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg
 BingWallPaper-2023-10-05-Young stars forming in the Tarantula Nebula, James Webb Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg
+BingWallPaper-2023-10-05-巴布亚企鹅，南极洲-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg
+BingWallPaper-2023-10-06-Gentoo penguins, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg
