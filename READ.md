@@ -225,3 +225,5 @@ BingWallPaper-2023-10-04-狼蛛星云中形成的年轻恒星，詹姆斯·韦�
 BingWallPaper-2023-10-05-Young stars forming in the Tarantula Nebula, James Webb Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg
 BingWallPaper-2023-10-05-巴布亚企鹅，南极洲-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg
 BingWallPaper-2023-10-06-Gentoo penguins, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg
+BingWallPaper-2023-10-06-杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_UHD.jpg
+BingWallPaper-2023-10-07-Taughannock Falls State Park in Trumansburg, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg
