@@ -227,3 +227,5 @@ BingWallPaper-2023-10-05-巴布亚企鹅，南极洲-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-10-06-Gentoo penguins, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg
 BingWallPaper-2023-10-06-杜鲁门斯堡的州立托格汉诺克瀑布公园，纽约州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TaughannockFalls_ZH-CN4580750386_UHD.jpg
 BingWallPaper-2023-10-07-Taughannock Falls State Park in Trumansburg, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg
+BingWallPaper-2023-10-07-灰熊在卡特迈国家公园布鲁克斯瀑布捕捞鲑鱼，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GrizzlyFalls_ZH-CN5152476563_UHD.jpg
+BingWallPaper-2023-10-08-Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg
