@@ -231,3 +231,5 @@ BingWallPaper-2023-10-07-灰熊在卡特迈国家公园布鲁克斯瀑布捕捞�
 BingWallPaper-2023-10-08-Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg
 BingWallPaper-2023-10-08-巨型蛤壳中的条纹蛸，苏拉威西海，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.OctoClam_ZH-CN5427646548_UHD.jpg
 BingWallPaper-2023-10-09-Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg
+BingWallPaper-2023-10-09-弗里蒙特岩画，恐龙国家纪念碑，詹森，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FremontPetroglyph_ZH-CN5736573545_UHD.jpg
+BingWallPaper-2023-10-10-Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg
