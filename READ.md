@@ -235,3 +235,5 @@ BingWallPaper-2023-10-09-弗里蒙特岩画，恐龙国家纪念碑，詹森，�
 BingWallPaper-2023-10-10-Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg
 BingWallPaper-2023-10-10-索普里斯山，科罗拉多州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SoprisSunrise_ZH-CN5935701155_UHD.jpg
 BingWallPaper-2023-10-11-Mount Sopris, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg
+BingWallPaper-2023-10-11-约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg
+BingWallPaper-2023-10-12-The Painted Hills in John Day Fossil Beds National Monument, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg
