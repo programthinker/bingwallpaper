@@ -237,3 +237,5 @@ BingWallPaper-2023-10-10-索普里斯山，科罗拉多州，美国-4K.jpg&&http
 BingWallPaper-2023-10-11-Mount Sopris, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg
 BingWallPaper-2023-10-11-约翰迪化石床国家纪念地中的彩绘山，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.JohnDayFossil_ZH-CN6265838332_UHD.jpg
 BingWallPaper-2023-10-12-The Painted Hills in John Day Fossil Beds National Monument, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg
+BingWallPaper-2023-10-12-帕卢斯地区的老谷仓和油菜田，爱达荷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_UHD.jpg
+BingWallPaper-2023-10-13-Old barn and canola field, Palouse region, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg
