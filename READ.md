@@ -239,3 +239,5 @@ BingWallPaper-2023-10-11-约翰迪化石床国家纪念地中的彩绘山，俄�
 BingWallPaper-2023-10-12-The Painted Hills in John Day Fossil Beds National Monument, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg
 BingWallPaper-2023-10-12-帕卢斯地区的老谷仓和油菜田，爱达荷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.IdahoBarn_ZH-CN6472682534_UHD.jpg
 BingWallPaper-2023-10-13-Old barn and canola field, Palouse region, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg
+BingWallPaper-2023-10-13-加尔加诺半岛上的维埃斯特，阿普利亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg
+BingWallPaper-2023-10-14-Vieste on the Gargano peninsula, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg
