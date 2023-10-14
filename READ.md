@@ -241,3 +241,5 @@ BingWallPaper-2023-10-12-帕卢斯地区的老谷仓和油菜田，爱达荷州�
 BingWallPaper-2023-10-13-Old barn and canola field, Palouse region, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.IdahoBarn_EN-US0098074838_UHD.jpg
 BingWallPaper-2023-10-13-加尔加诺半岛上的维埃斯特，阿普利亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ViesteItaly_ZH-CN6693499674_UHD.jpg
 BingWallPaper-2023-10-14-Vieste on the Gargano peninsula, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg
+BingWallPaper-2023-10-14-"火环”日环食，多哈，卡特尔-4K.jpg&&https://cn.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_UHD.jpg
+BingWallPaper-2023-10-15-'Ring of fire' annular solar eclipse, Doha, Qatar-4K.jpg&&https://cn.bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg
