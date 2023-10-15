@@ -243,3 +243,5 @@ BingWallPaper-2023-10-13-加尔加诺半岛上的维埃斯特，阿普利亚，�
 BingWallPaper-2023-10-14-Vieste on the Gargano peninsula, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ViesteItaly_EN-US0948108910_UHD.jpg
 BingWallPaper-2023-10-14-"火环”日环食，多哈，卡特尔-4K.jpg&&https://cn.bing.com/th?id=OHR.RingEclipse_ZH-CN7063841581_UHD.jpg
 BingWallPaper-2023-10-15-'Ring of fire' annular solar eclipse, Doha, Qatar-4K.jpg&&https://cn.bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg
+BingWallPaper-2023-10-15-躲在树皮中欧洲刺猬，苏塞克斯，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg
+BingWallPaper-2023-10-16-European hedgehog sheltering in tree bark, Sussex, England-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg
