@@ -245,3 +245,5 @@ BingWallPaper-2023-10-14-"火环”日环食，多哈，卡特尔-4K.jpg&&https:
 BingWallPaper-2023-10-15-'Ring of fire' annular solar eclipse, Doha, Qatar-4K.jpg&&https://cn.bing.com/th?id=OHR.RingEclipse_EN-US1077107553_UHD.jpg
 BingWallPaper-2023-10-15-躲在树皮中欧洲刺猬，苏塞克斯，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnHedgehog_ZH-CN7309314630_UHD.jpg
 BingWallPaper-2023-10-16-European hedgehog sheltering in tree bark, Sussex, England-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg
+BingWallPaper-2023-10-16-金色落叶松和普鲁西克峰，魔力地带，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_UHD.jpg
+BingWallPaper-2023-10-17-Golden larches and Prusik Peak, the Enchantments, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg
