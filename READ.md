@@ -247,3 +247,5 @@ BingWallPaper-2023-10-15-躲在树皮中欧洲刺猬，苏塞克斯，英国-4K.
 BingWallPaper-2023-10-16-European hedgehog sheltering in tree bark, Sussex, England-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnHedgehog_EN-US1171311197_UHD.jpg
 BingWallPaper-2023-10-16-金色落叶松和普鲁西克峰，魔力地带，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenEnchantments_ZH-CN9686531344_UHD.jpg
 BingWallPaper-2023-10-17-Golden larches and Prusik Peak, the Enchantments, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg
+BingWallPaper-2023-10-17-帕拉塔塔,阿雅克肖,科西嘉岛,法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_UHD.jpg
+BingWallPaper-2023-10-18-Ancient carved texts from Persepolis, Iran-4K.jpg&&https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg
