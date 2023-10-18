@@ -249,3 +249,5 @@ BingWallPaper-2023-10-16-金色落叶松和普鲁西克峰，魔力地带，华�
 BingWallPaper-2023-10-17-Golden larches and Prusik Peak, the Enchantments, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg
 BingWallPaper-2023-10-17-帕拉塔塔,阿雅克肖,科西嘉岛,法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GenoeseTower_ZH-CN0086623003_UHD.jpg
 BingWallPaper-2023-10-18-Ancient carved texts from Persepolis, Iran-4K.jpg&&https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg
+BingWallPaper-2023-10-18-科迪亚克国家野生动物保护区，科迪亚克岛，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KodiakAlaska_ZH-CN0627619150_UHD.jpg
+BingWallPaper-2023-10-19-Kodiak National Wildlife Refuge, Kodiak Island, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg
