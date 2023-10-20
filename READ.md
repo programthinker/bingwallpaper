@@ -253,3 +253,5 @@ BingWallPaper-2023-10-18-科迪亚克国家野生动物保护区，科迪亚克�
 BingWallPaper-2023-10-19-Kodiak National Wildlife Refuge, Kodiak Island, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg
 BingWallPaper-2023-10-19-Castell y Gwynt，格莱德法赫山，雪墩山国家公园，英国北威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.CastellyGwyntUK_ZH-CN1219668479_UHD.jpg
 BingWallPaper-2023-10-20-Water lily harvest, Mekong River Delta, Long An, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg
+BingWallPaper-2023-10-20-俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马-4K.jpg&&https://cn.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_UHD.jpg
+BingWallPaper-2023-10-21-Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama-4K.jpg&&https://cn.bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg
