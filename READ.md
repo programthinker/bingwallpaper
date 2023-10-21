@@ -255,3 +255,5 @@ BingWallPaper-2023-10-19-Castell y Gwynt，格莱德法赫山，雪墩山国家�
 BingWallPaper-2023-10-20-Water lily harvest, Mekong River Delta, Long An, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg
 BingWallPaper-2023-10-20-俾格米三趾树懒宝宝，埃斯库多贝拉瓜斯岛，巴拿马-4K.jpg&&https://cn.bing.com/th?id=OHR.PygmySloth_ZH-CN4739853522_UHD.jpg
 BingWallPaper-2023-10-21-Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama-4K.jpg&&https://cn.bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg
+BingWallPaper-2023-10-21-波斯古城波斯波利斯的浮雕，伊朗-4K.jpg&&https://cn.bing.com/th?id=OHR.PersepolisRelief_ZH-CN4910990690_UHD.jpg
+BingWallPaper-2023-10-22-Reliefs in the ancient Persian city of Persepolis, Iran-4K.jpg&&https://cn.bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg
