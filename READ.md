@@ -259,3 +259,5 @@ BingWallPaper-2023-10-21-波斯古城波斯波利斯的浮雕，伊朗-4K.jpg&&h
 BingWallPaper-2023-10-22-Reliefs in the ancient Persian city of Persepolis, Iran-4K.jpg&&https://cn.bing.com/th?id=OHR.PersepolisRelief_EN-US9435779068_UHD.jpg
 BingWallPaper-2023-10-22-哥伦比亚河上的阿斯托里亚-梅格勒大桥，阿斯托里亚区，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AstoriaBridge_ZH-CN5052905610_UHD.jpg
 BingWallPaper-2023-10-23-Astoria-Megler Bridge on the Columbia River, Astoria, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg
+BingWallPaper-2023-10-23-塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_UHD.jpg
+BingWallPaper-2023-10-24-Corn maze in Saylorsburg, Pennsylvania-4K.jpg&&https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg
