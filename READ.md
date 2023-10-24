@@ -261,3 +261,5 @@ BingWallPaper-2023-10-22-哥伦比亚河上的阿斯托里亚-梅格勒大桥，
 BingWallPaper-2023-10-23-Astoria-Megler Bridge on the Columbia River, Astoria, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg
 BingWallPaper-2023-10-23-塞勒斯堡的玉米迷宫，宾夕法尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PoconosMaze_ZH-CN4696904367_UHD.jpg
 BingWallPaper-2023-10-24-Corn maze in Saylorsburg, Pennsylvania-4K.jpg&&https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg
+BingWallPaper-2023-10-24-桑佩伦山上的菲泽尔城堡，匈牙利-4K.jpg&&https://cn.bing.com/th?id=OHR.FuzerCastle_ZH-CN5485191349_UHD.jpg
+BingWallPaper-2023-10-25-Füzér Castle in the Zemplén Mountains, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg
