@@ -269,3 +269,5 @@ BingWallPaper-2023-10-26-美泉宫公园的秋叶，维也纳，奥地利-4K.jpg
 BingWallPaper-2023-10-27-Autumn foliage in Schönbrunn Palace Park, Vienna, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg
 BingWallPaper-2023-10-27-斯利加坎老桥，苏格兰斯凯岛-4K.jpg&&https://cn.bing.com/th?id=OHR.OldBridgeSkye_ZH-CN7228411986_UHD.jpg
 BingWallPaper-2023-10-28-Sligachan Old Bridge, Isle of Skye, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg
+BingWallPaper-2023-10-28-卡斯蒂利亚-拉曼恰的风车，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg
+BingWallPaper-2023-10-29-Windmills in Castilla-La Mancha, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg
