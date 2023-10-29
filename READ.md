@@ -271,3 +271,5 @@ BingWallPaper-2023-10-27-斯利加坎老桥，苏格兰斯凯岛-4K.jpg&&https:/
 BingWallPaper-2023-10-28-Sligachan Old Bridge, Isle of Skye, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg
 BingWallPaper-2023-10-28-卡斯蒂利亚-拉曼恰的风车，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.FiveWinds_ZH-CN7503464049_UHD.jpg
 BingWallPaper-2023-10-29-Windmills in Castilla-La Mancha, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg
+BingWallPaper-2023-10-29-博纳温彻墓地，萨凡纳，佐治亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SavannahSculpture_ZH-CN7663694208_UHD.jpg
+BingWallPaper-2023-10-30-Bonaventure Cemetery, Savannah, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg
