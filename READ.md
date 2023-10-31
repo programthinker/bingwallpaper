@@ -275,3 +275,5 @@ BingWallPaper-2023-10-29-博纳温彻墓地，萨凡纳，佐治亚州，美国-
 BingWallPaper-2023-10-30-Bonaventure Cemetery, Savannah, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg
 BingWallPaper-2023-10-30-普通乌鸦坐在树枝上-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnRaven_ZH-CN7897841947_UHD.jpg
 BingWallPaper-2023-10-31-Common raven sitting on a branch-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg
+BingWallPaper-2023-10-31-万圣节南瓜灯-4K.jpg&&https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg
+BingWallPaper-2023-11-01-Halloween jack-o'-lanterns on a porch-4K.jpg&&https://cn.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg
