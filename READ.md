@@ -277,3 +277,5 @@ BingWallPaper-2023-10-30-普通乌鸦坐在树枝上-4K.jpg&&https://cn.bing.com
 BingWallPaper-2023-10-31-Common raven sitting on a branch-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg
 BingWallPaper-2023-10-31-万圣节南瓜灯-4K.jpg&&https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg
 BingWallPaper-2023-11-01-Halloween jack-o'-lanterns on a porch-4K.jpg&&https://cn.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg
+BingWallPaper-2023-11-01-上巴尔城堡，阿尔萨斯，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg
+BingWallPaper-2023-11-02-Mummy Cave ruins, Canyon de Chelly National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg
