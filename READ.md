@@ -281,3 +281,5 @@ BingWallPaper-2023-11-01-上巴尔城堡，阿尔萨斯，法国-4K.jpg&&https:/
 BingWallPaper-2023-11-02-Mummy Cave ruins, Canyon de Chelly National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.MummyCaveRuins_EN-US0871963100_UHD.jpg
 BingWallPaper-2023-11-02-恶水盆地的盐滩，死亡谷国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.DeathValleySalt_ZH-CN8438207719_UHD.jpg
 BingWallPaper-2023-11-03-Salt flats in Badwater Basin, Death Valley National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg
+BingWallPaper-2023-11-03-卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_UHD.jpg
+BingWallPaper-2023-11-04-Pacific sea nettles off the coast of Carmel, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg
