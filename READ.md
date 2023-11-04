@@ -283,3 +283,5 @@ BingWallPaper-2023-11-02-恶水盆地的盐滩，死亡谷国家公园，加利�
 BingWallPaper-2023-11-03-Salt flats in Badwater Basin, Death Valley National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.DeathValleySalt_EN-US1068737086_UHD.jpg
 BingWallPaper-2023-11-03-卡梅尔海岸的太平洋海荨麻水母，加利福尼亚，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaNettles_ZH-CN1735729435_UHD.jpg
 BingWallPaper-2023-11-04-Pacific sea nettles off the coast of Carmel, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg
+BingWallPaper-2023-11-04-美洲野牛，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg
+BingWallPaper-2023-11-05-American bison, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg
