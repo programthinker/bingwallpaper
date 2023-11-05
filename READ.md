@@ -285,3 +285,5 @@ BingWallPaper-2023-11-03-卡梅尔海岸的太平洋海荨麻水母，加利福�
 BingWallPaper-2023-11-04-Pacific sea nettles off the coast of Carmel, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaNettles_EN-US6654060294_UHD.jpg
 BingWallPaper-2023-11-04-美洲野牛，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSnow_ZH-CN2483472629_UHD.jpg
 BingWallPaper-2023-11-05-American bison, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg
+BingWallPaper-2023-11-05-石英岩地层，普拉亚德尔锡伦西奥，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg
+BingWallPaper-2023-11-06-Quartzite formation, Playa del Silencio, Asturias, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg
