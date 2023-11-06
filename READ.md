@@ -287,3 +287,5 @@ BingWallPaper-2023-11-04-美洲野牛，黄石国家公园，怀俄明州，美�
 BingWallPaper-2023-11-05-American bison, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg
 BingWallPaper-2023-11-05-石英岩地层，普拉亚德尔锡伦西奥，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SilencioSpain_ZH-CN2955614478_UHD.jpg
 BingWallPaper-2023-11-06-Quartzite formation, Playa del Silencio, Asturias, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg
+BingWallPaper-2023-11-06-佩霍湖，百内国家公园，智利南部-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_UHD.jpg
+BingWallPaper-2023-11-07-Lake Pehoé, Torres del Paine National Park, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg
