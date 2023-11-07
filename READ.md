@@ -289,3 +289,5 @@ BingWallPaper-2023-11-05-石英岩地层，普拉亚德尔锡伦西奥，西班�
 BingWallPaper-2023-11-06-Quartzite formation, Playa del Silencio, Asturias, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg
 BingWallPaper-2023-11-06-佩霍湖，百内国家公园，智利南部-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoPehoe_ZH-CN3367356273_UHD.jpg
 BingWallPaper-2023-11-07-Lake Pehoé, Torres del Paine National Park, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg
+BingWallPaper-2023-11-07-Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_UHD.jpg
+BingWallPaper-2023-11-08-Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg
