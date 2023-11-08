@@ -291,3 +291,5 @@ BingWallPaper-2023-11-06-佩霍湖，百内国家公园，智利南部-4K.jpg&&h
 BingWallPaper-2023-11-07-Lake Pehoé, Torres del Paine National Park, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg
 BingWallPaper-2023-11-07-Kirkilai湖泊和瞭望塔，比尔扎伊地区公园，立陶宛-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkilaiTower_ZH-CN4058404632_UHD.jpg
 BingWallPaper-2023-11-08-Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg
+BingWallPaper-2023-11-08-黄山的日落，安徽省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN7689731997_UHD.jpg
+BingWallPaper-2023-11-09-West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg
