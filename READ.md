@@ -293,3 +293,5 @@ BingWallPaper-2023-11-07-Kirkilai湖泊和瞭望塔，比尔扎伊地区公园�
 BingWallPaper-2023-11-08-Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg
 BingWallPaper-2023-11-08-黄山的日落，安徽省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LiDong2023_ZH-CN7689731997_UHD.jpg
 BingWallPaper-2023-11-09-West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg
+BingWallPaper-2023-11-09-秋天的白桦树，德拉门，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_UHD.jpg
+BingWallPaper-2023-11-10-Birch trees in autumn, Drammen, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg
