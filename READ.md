@@ -295,3 +295,5 @@ BingWallPaper-2023-11-08-黄山的日落，安徽省，中国-4K.jpg&&https://cn
 BingWallPaper-2023-11-09-West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg
 BingWallPaper-2023-11-09-秋天的白桦树，德拉门，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBirch_ZH-CN5482311438_UHD.jpg
 BingWallPaper-2023-11-10-Birch trees in autumn, Drammen, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg
+BingWallPaper-2023-11-10-恶地国家公园，南达科他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg
+BingWallPaper-2023-11-11-Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg
