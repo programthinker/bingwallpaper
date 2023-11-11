@@ -297,3 +297,5 @@ BingWallPaper-2023-11-09-秋天的白桦树，德拉门，挪威-4K.jpg&&https:/
 BingWallPaper-2023-11-10-Birch trees in autumn, Drammen, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg
 BingWallPaper-2023-11-10-恶地国家公园，南达科他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunrise_ZH-CN5906162228_UHD.jpg
 BingWallPaper-2023-11-11-Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg
+BingWallPaper-2023-11-11-富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_UHD.jpg
+BingWallPaper-2023-11-12-Sunset at the Washington Monument, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg
