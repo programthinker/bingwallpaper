@@ -299,3 +299,5 @@ BingWallPaper-2023-11-10-恶地国家公园，南达科他州，美国-4K.jpg&&h
 BingWallPaper-2023-11-11-Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunrise_EN-US7576048436_UHD.jpg
 BingWallPaper-2023-11-11-富内斯山谷，背景是多洛米蒂山，南蒂罗尔，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ValDiFunes_ZH-CN2080915930_UHD.jpg
 BingWallPaper-2023-11-12-Sunset at the Washington Monument, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg
+BingWallPaper-2023-11-12-秋天池塘里的两只绿头鸭-4K.jpg&&https://cn.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_UHD.jpg
+BingWallPaper-2023-11-13-Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India-4K.jpg&&https://cn.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg
