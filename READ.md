@@ -301,3 +301,5 @@ BingWallPaper-2023-11-11-富内斯山谷，背景是多洛米蒂山，南蒂罗�
 BingWallPaper-2023-11-12-Sunset at the Washington Monument, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.VeteransDayDC_EN-US7666353324_UHD.jpg
 BingWallPaper-2023-11-12-秋天池塘里的两只绿头鸭-4K.jpg&&https://cn.bing.com/th?id=OHR.MallarDucks_ZH-CN7422818269_UHD.jpg
 BingWallPaper-2023-11-13-Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India-4K.jpg&&https://cn.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg
+BingWallPaper-2023-11-13-特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_UHD.jpg
+BingWallPaper-2023-11-14-Old olive grove in the Serra Tramuntana range, Majorca, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg
