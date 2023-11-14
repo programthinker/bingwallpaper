@@ -303,3 +303,5 @@ BingWallPaper-2023-11-12-秋天池塘里的两只绿头鸭-4K.jpg&&https://cn.bi
 BingWallPaper-2023-11-13-Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India-4K.jpg&&https://cn.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg
 BingWallPaper-2023-11-13-特拉蒙塔纳山中的老橄榄园，马略卡岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveOrchard_ZH-CN8198989130_UHD.jpg
 BingWallPaper-2023-11-14-Old olive grove in the Serra Tramuntana range, Majorca, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg
+BingWallPaper-2023-11-14-特卡波湖沿岸的鲁冰花，南岛，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_UHD.jpg
+BingWallPaper-2023-11-15-Russell lupines along Lake Tekapo, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg
