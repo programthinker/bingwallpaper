@@ -305,3 +305,5 @@ BingWallPaper-2023-11-13-特拉蒙塔纳山中的老橄榄园，马略卡岛，�
 BingWallPaper-2023-11-14-Old olive grove in the Serra Tramuntana range, Majorca, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg
 BingWallPaper-2023-11-14-特卡波湖沿岸的鲁冰花，南岛，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.RussellLupines_ZH-CN8552113285_UHD.jpg
 BingWallPaper-2023-11-15-Russell lupines along Lake Tekapo, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg
+BingWallPaper-2023-11-15-萨雷克国家公园的拉帕谷，瑞典-4K.jpg&&https://cn.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_UHD.jpg
+BingWallPaper-2023-11-16-Rapa Valley in Sarek National Park, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg
