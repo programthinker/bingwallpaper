@@ -307,3 +307,5 @@ BingWallPaper-2023-11-14-特卡波湖沿岸的鲁冰花，南岛，新西兰-4K.
 BingWallPaper-2023-11-15-Russell lupines along Lake Tekapo, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg
 BingWallPaper-2023-11-15-萨雷克国家公园的拉帕谷，瑞典-4K.jpg&&https://cn.bing.com/th?id=OHR.SarekSweden_ZH-CN9728518595_UHD.jpg
 BingWallPaper-2023-11-16-Rapa Valley in Sarek National Park, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg
+BingWallPaper-2023-11-16-雅典和卫城，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_UHD.jpg
+BingWallPaper-2023-11-17-View over Athens and the Acropolis, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg
