@@ -309,3 +309,5 @@ BingWallPaper-2023-11-15-萨雷克国家公园的拉帕谷，瑞典-4K.jpg&&http
 BingWallPaper-2023-11-16-Rapa Valley in Sarek National Park, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg
 BingWallPaper-2023-11-16-雅典和卫城，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.AthensAcropolis_ZH-CN9942357439_UHD.jpg
 BingWallPaper-2023-11-17-View over Athens and the Acropolis, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg
+BingWallPaper-2023-11-17-铜瀑布州立公园的巴德河，威斯康星州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BadRiver_ZH-CN0416550169_UHD.jpg
+BingWallPaper-2023-11-18-Bad River in Copper Falls State Park, Wisconsin-4K.jpg&&https://cn.bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg
