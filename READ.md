@@ -311,3 +311,5 @@ BingWallPaper-2023-11-16-雅典和卫城，希腊-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2023-11-17-View over Athens and the Acropolis, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg
 BingWallPaper-2023-11-17-铜瀑布州立公园的巴德河，威斯康星州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BadRiver_ZH-CN0416550169_UHD.jpg
 BingWallPaper-2023-11-18-Bad River in Copper Falls State Park, Wisconsin-4K.jpg&&https://cn.bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg
+BingWallPaper-2023-11-18-北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_UHD.jpg
+BingWallPaper-2023-11-19-Polar bear mother and cubs, Churchill, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg
