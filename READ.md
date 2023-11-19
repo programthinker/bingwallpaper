@@ -313,3 +313,5 @@ BingWallPaper-2023-11-17-铜瀑布州立公园的巴德河，威斯康星州，�
 BingWallPaper-2023-11-18-Bad River in Copper Falls State Park, Wisconsin-4K.jpg&&https://cn.bing.com/th?id=OHR.BadRiver_EN-US1270508214_UHD.jpg
 BingWallPaper-2023-11-18-北极熊妈妈和幼崽，丘吉尔城，曼尼托巴省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.MilsePolarBear_ZH-CN0567475122_UHD.jpg
 BingWallPaper-2023-11-19-Polar bear mother and cubs, Churchill, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg
+BingWallPaper-2023-11-19-Alam-Pedja自然保护区，爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_UHD.jpg
+BingWallPaper-2023-11-20-Alam-Pedja Nature Reserve, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg
