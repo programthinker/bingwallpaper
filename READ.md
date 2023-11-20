@@ -315,3 +315,5 @@ BingWallPaper-2023-11-18-北极熊妈妈和幼崽，丘吉尔城，曼尼托巴�
 BingWallPaper-2023-11-19-Polar bear mother and cubs, Churchill, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.MilsePolarBear_EN-US1615028560_UHD.jpg
 BingWallPaper-2023-11-19-Alam-Pedja自然保护区，爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FrozenBog_ZH-CN0712859386_UHD.jpg
 BingWallPaper-2023-11-20-Alam-Pedja Nature Reserve, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg
+BingWallPaper-2023-11-20-科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲-4K.jpg&&https://cn.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_UHD.jpg
+BingWallPaper-2023-11-21-Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma-4K.jpg&&https://cn.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg
