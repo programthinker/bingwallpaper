@@ -317,3 +317,5 @@ BingWallPaper-2023-11-19-Alam-Pedja自然保护区，爱沙尼亚-4K.jpg&&https:
 BingWallPaper-2023-11-20-Alam-Pedja Nature Reserve, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg
 BingWallPaper-2023-11-20-科奇城堡，Tongwynlais，卡迪夫，威尔士，英国，欧洲-4K.jpg&&https://cn.bing.com/th?id=OHR.CastleCoch_ZH-CN0917284602_UHD.jpg
 BingWallPaper-2023-11-21-Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma-4K.jpg&&https://cn.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg
+BingWallPaper-2023-11-21-英国诺福克海滩上的灰海豹幼崽-4K.jpg&&https://cn.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_UHD.jpg
+BingWallPaper-2023-11-22-Gray seal pup, Norfolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg
