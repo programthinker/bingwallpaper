@@ -319,3 +319,5 @@ BingWallPaper-2023-11-20-科奇城堡，Tongwynlais，卡迪夫，威尔士，�
 BingWallPaper-2023-11-21-Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma-4K.jpg&&https://cn.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg
 BingWallPaper-2023-11-21-英国诺福克海滩上的灰海豹幼崽-4K.jpg&&https://cn.bing.com/th?id=OHR.HelloSeal_ZH-CN1064568368_UHD.jpg
 BingWallPaper-2023-11-22-Gray seal pup, Norfolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg
+BingWallPaper-2023-11-22-大提顿国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_UHD.jpg
+BingWallPaper-2023-11-23-Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg
