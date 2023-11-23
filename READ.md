@@ -321,3 +321,5 @@ BingWallPaper-2023-11-21-英国诺福克海滩上的灰海豹幼崽-4K.jpg&&http
 BingWallPaper-2023-11-22-Gray seal pup, Norfolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg
 BingWallPaper-2023-11-22-大提顿国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SnakeRiverTeton_ZH-CN1213535303_UHD.jpg
 BingWallPaper-2023-11-23-Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg
+BingWallPaper-2023-11-23-泰德国家公园的日落，特内里费岛，加那利群岛, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.TeideNational_ZH-CN1367200520_UHD.jpg
+BingWallPaper-2023-11-24-Flint corn-4K.jpg&&https://cn.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg
