@@ -325,3 +325,5 @@ BingWallPaper-2023-11-23-泰德国家公园的日落，特内里费岛，加那�
 BingWallPaper-2023-11-24-Flint corn-4K.jpg&&https://cn.bing.com/th?id=OHR.FlintCorn_EN-US2819178375_UHD.jpg
 BingWallPaper-2023-11-24-奥林匹克国家公园霍河雨林中的苔藓大厅 ，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HallofMosses_ZH-CN1565129809_UHD.jpg
 BingWallPaper-2023-11-25-Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg
+BingWallPaper-2023-11-25-托莱多，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_UHD.jpg
+BingWallPaper-2023-11-26-Toledo, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg
