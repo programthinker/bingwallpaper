@@ -327,3 +327,5 @@ BingWallPaper-2023-11-24-奥林匹克国家公园霍河雨林中的苔藓大厅 
 BingWallPaper-2023-11-25-Hall of Mosses trail in the Hoh Rain Forest, Olympic National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.HallofMosses_EN-US3167567374_UHD.jpg
 BingWallPaper-2023-11-25-托莱多，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.TajoRiver_ZH-CN1752559204_UHD.jpg
 BingWallPaper-2023-11-26-Toledo, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg
+BingWallPaper-2023-11-26-布拉德盖特公园的小鹿，莱斯特郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_UHD.jpg
+BingWallPaper-2023-11-27-Fallow deer in Bradgate Park, Leicestershire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg
