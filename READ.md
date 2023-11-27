@@ -329,3 +329,5 @@ BingWallPaper-2023-11-25-托莱多，西班牙-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2023-11-26-Toledo, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg
 BingWallPaper-2023-11-26-布拉德盖特公园的小鹿，莱斯特郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.BradgateFallow_ZH-CN1852334581_UHD.jpg
 BingWallPaper-2023-11-27-Fallow deer in Bradgate Park, Leicestershire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg
+BingWallPaper-2023-11-27-内格罗河，亚马逊河流域，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.RioNegro_ZH-CN2121977810_UHD.jpg
+BingWallPaper-2023-11-28-Río Negro, Amazon basin, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg
