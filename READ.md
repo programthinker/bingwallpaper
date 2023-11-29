@@ -333,3 +333,5 @@ BingWallPaper-2023-11-27-内格罗河，亚马逊河流域，巴西-4K.jpg&&http
 BingWallPaper-2023-11-28-Río Negro, Amazon basin, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg
 BingWallPaper-2023-11-28-阿西尼博因山省级公园，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.AssiniboineProvincialPark_ZH-CN2270275151_UHD.jpg
 BingWallPaper-2023-11-29-Giant land art fresco by artist Saype in Istanbul, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg
+BingWallPaper-2023-11-29-什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_UHD.jpg
+BingWallPaper-2023-11-30-Rockefeller Center Christmas tree, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg
