@@ -335,3 +335,5 @@ BingWallPaper-2023-11-28-阿西尼博因山省级公园，加拿大-4K.jpg&&http
 BingWallPaper-2023-11-29-Giant land art fresco by artist Saype in Istanbul, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg
 BingWallPaper-2023-11-29-什未林湖上的什未林城堡，梅克伦堡-前波美拉尼亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.SchwerinerSchloss_ZH-CN2390476345_UHD.jpg
 BingWallPaper-2023-11-30-Rockefeller Center Christmas tree, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg
+BingWallPaper-2023-11-30-斯托尔，斯凯岛上展露的岩石尖峰，苏格兰，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.TrotternishStorr_ZH-CN2508882441_UHD.jpg
+BingWallPaper-2023-12-01-The Storr, a rock outcrop on the Isle of Skye, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg
