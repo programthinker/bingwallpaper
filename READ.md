@@ -339,3 +339,5 @@ BingWallPaper-2023-11-30-斯托尔，斯凯岛上展露的岩石尖峰，苏格�
 BingWallPaper-2023-12-01-The Storr, a rock outcrop on the Isle of Skye, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg
 BingWallPaper-2023-12-01-罗斯海的冰山，南极洲-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergAntarctica_ZH-CN2053356825_UHD.jpg
 BingWallPaper-2023-12-02-Iceberg in the Ross Sea, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg
+BingWallPaper-2023-12-02-瓜廖尔堡，中央邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_UHD.jpg
+BingWallPaper-2023-12-03-North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia-4K.jpg&&https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg
