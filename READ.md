@@ -341,3 +341,5 @@ BingWallPaper-2023-12-01-罗斯海的冰山，南极洲-4K.jpg&&https://cn.bing.
 BingWallPaper-2023-12-02-Iceberg in the Ross Sea, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg
 BingWallPaper-2023-12-02-瓜廖尔堡，中央邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.GwaliorFortMP_ZH-CN3300432281_UHD.jpg
 BingWallPaper-2023-12-03-North Gate of Angkor Thom, Angkor Archaeological Park, Cambodia-4K.jpg&&https://cn.bing.com/th?id=OHR.AngkorPark_EN-US8869976296_UHD.jpg
+BingWallPaper-2023-12-03-砂岩岩层，红悬崖国家保护区，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.VermilionCliffs_ZH-CN3945784250_UHD.jpg
+BingWallPaper-2023-12-04-Sandstone rock formations, Vermilion Cliffs National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg
