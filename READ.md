@@ -345,3 +345,5 @@ BingWallPaper-2023-12-03-砂岩岩层，红悬崖国家保护区，亚利桑那�
 BingWallPaper-2023-12-04-Sandstone rock formations, Vermilion Cliffs National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg
 BingWallPaper-2023-12-04-一只猎豹妈妈和她的幼崽，马赛马拉国家保护区，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahDay_ZH-CN5114530695_UHD.jpg
 BingWallPaper-2023-12-05-A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg
+BingWallPaper-2023-12-05-天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpsCastles_ZH-CN5078013932_UHD.jpg
+BingWallPaper-2023-12-06-Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg
