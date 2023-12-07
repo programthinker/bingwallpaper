@@ -349,3 +349,5 @@ BingWallPaper-2023-12-05-天鹅堡和旧天鹅堡，巴伐利亚阿尔卑斯山�
 BingWallPaper-2023-12-06-Neuschwanstein and Hohenschwangau castles, Bavarian Alps, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpsCastles_EN-US9735484506_UHD.jpg
 BingWallPaper-2023-12-06-达尔达尼亚瀑布，博洛尼亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.DardagnaWaterfalls_ZH-CN5613123621_UHD.jpg
 BingWallPaper-2023-12-07-The Globe of Science and Innovation building, Meyrin, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg
+BingWallPaper-2023-12-07-韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_UHD.jpg
+BingWallPaper-2023-12-08-USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg
