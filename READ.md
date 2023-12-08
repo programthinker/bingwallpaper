@@ -351,3 +351,5 @@ BingWallPaper-2023-12-06-达尔达尼亚瀑布，博洛尼亚，意大利-4K.jpg
 BingWallPaper-2023-12-07-The Globe of Science and Innovation building, Meyrin, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg
 BingWallPaper-2023-12-07-韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿尔卑斯-蓝色海岸大区，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandCanyonVerdon_ZH-CN6025902720_UHD.jpg
 BingWallPaper-2023-12-08-USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg
+BingWallPaper-2023-12-08-拉罗克港，圣克莱门特，泽西岛-4K.jpg&&https://cn.bing.com/th?id=OHR.JerseyIsland_ZH-CN6224973235_UHD.jpg
+BingWallPaper-2023-12-09-La Rocque Harbour, St. Clement, Island of Jersey-4K.jpg&&https://cn.bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg
