@@ -353,3 +353,5 @@ BingWallPaper-2023-12-07-韦尔东峡谷的雾蒙蒙的早晨，普罗旺斯-阿
 BingWallPaper-2023-12-08-USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg
 BingWallPaper-2023-12-08-拉罗克港，圣克莱门特，泽西岛-4K.jpg&&https://cn.bing.com/th?id=OHR.JerseyIsland_ZH-CN6224973235_UHD.jpg
 BingWallPaper-2023-12-09-La Rocque Harbour, St. Clement, Island of Jersey-4K.jpg&&https://cn.bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg
+BingWallPaper-2023-12-09-原驼，冰川国家公园，阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.PatagoniaGuanaco_ZH-CN6438038982_UHD.jpg
+BingWallPaper-2023-12-10-Guanacos in Los Glaciares National Park, Patagonia, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg
