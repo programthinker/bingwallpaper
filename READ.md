@@ -355,3 +355,5 @@ BingWallPaper-2023-12-08-拉罗克港，圣克莱门特，泽西岛-4K.jpg&&http
 BingWallPaper-2023-12-09-La Rocque Harbour, St. Clement, Island of Jersey-4K.jpg&&https://cn.bing.com/th?id=OHR.JerseyIsland_EN-US0109101063_UHD.jpg
 BingWallPaper-2023-12-09-原驼，冰川国家公园，阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.PatagoniaGuanaco_ZH-CN6438038982_UHD.jpg
 BingWallPaper-2023-12-10-Guanacos in Los Glaciares National Park, Patagonia, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.PatagoniaGuanaco_EN-US0251074250_UHD.jpg
+BingWallPaper-2023-12-10-林帕达恩湖，斯诺登尼亚国家公园， 威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.LlanberisSnowdoniaSunset_ZH-CN6682238671_UHD.jpg
+BingWallPaper-2023-12-11-Last rays of sun on a group of dunes, Sahara, Algeria-4K.jpg&&https://cn.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg
