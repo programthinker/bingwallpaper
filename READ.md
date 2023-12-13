@@ -361,3 +361,5 @@ BingWallPaper-2023-12-11-黄山的冬天，中国-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2023-12-12-Winter at Huangshan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg
 BingWallPaper-2023-12-12-一品红-4K.jpg&&https://cn.bing.com/th?id=OHR.Poinsettia_ZH-CN7255902344_UHD.jpg
 BingWallPaper-2023-12-13-Poinsettias-4K.jpg&&https://cn.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg
+BingWallPaper-2023-12-13-传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.LofotenRorbu_ZH-CN7790383976_UHD.jpg
+BingWallPaper-2023-12-14-Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg
