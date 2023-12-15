@@ -365,3 +365,5 @@ BingWallPaper-2023-12-13-传统钓鱼小屋，斯沃尔韦尔，罗弗敦群岛�
 BingWallPaper-2023-12-14-Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg
 BingWallPaper-2023-12-14-北方猫头鹰，萨斯喀彻温省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.BorealOwl_ZH-CN7957240111_UHD.jpg
 BingWallPaper-2023-12-15-Boreal owl, Saskatchewan, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg
+BingWallPaper-2023-12-15-罗瓦涅米的圣诞老人公园，拉普兰德，芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_UHD.jpg
+BingWallPaper-2023-12-16-SantaPark in Rovaniemi, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg
