@@ -367,3 +367,5 @@ BingWallPaper-2023-12-14-北方猫头鹰，萨斯喀彻温省，加拿大-4K.jpg
 BingWallPaper-2023-12-15-Boreal owl, Saskatchewan, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg
 BingWallPaper-2023-12-15-罗瓦涅米的圣诞老人公园，拉普兰德，芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaPark_ZH-CN7444715899_UHD.jpg
 BingWallPaper-2023-12-16-SantaPark in Rovaniemi, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg
+BingWallPaper-2023-12-16-大广场，布鲁塞尔，比利时-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg
+BingWallPaper-2023-12-17-Guild houses of Grand-Place, Brussels, Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg
