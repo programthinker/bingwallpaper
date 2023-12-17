@@ -369,3 +369,5 @@ BingWallPaper-2023-12-15-罗瓦涅米的圣诞老人公园，拉普兰德，芬�
 BingWallPaper-2023-12-16-SantaPark in Rovaniemi, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg
 BingWallPaper-2023-12-16-大广场，布鲁塞尔，比利时-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlaceXmas_ZH-CN8299342316_UHD.jpg
 BingWallPaper-2023-12-17-Guild houses of Grand-Place, Brussels, Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg
+BingWallPaper-2023-12-17-波西米亚太平鸟栖息在树枝上，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterWaxwings_ZH-CN9274297835_UHD.jpg
+BingWallPaper-2023-12-18-Bohemian waxwings perched on a branch, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg
