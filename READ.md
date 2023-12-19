@@ -373,3 +373,5 @@ BingWallPaper-2023-12-17-波西米亚太平鸟栖息在树枝上，加拿大-4K.
 BingWallPaper-2023-12-18-Bohemian waxwings perched on a branch, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterWaxwings_EN-US8520915413_UHD.jpg
 BingWallPaper-2023-12-18-圆顶礁国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolReefSnow_ZH-CN0085775882_UHD.jpg
 BingWallPaper-2023-12-19-Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg
+BingWallPaper-2023-12-19-城堡广场的圣诞树，华沙古城，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_UHD.jpg
+BingWallPaper-2023-12-20-Christmas tree in Castle Square, Old Town, Warsaw, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg
