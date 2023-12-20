@@ -375,3 +375,5 @@ BingWallPaper-2023-12-18-圆顶礁国家公园，犹他州，美国-4K.jpg&&http
 BingWallPaper-2023-12-19-Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CapitolReefSnow_EN-US8594085615_UHD.jpg
 BingWallPaper-2023-12-19-城堡广场的圣诞树，华沙古城，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WarsawChristmas_ZH-CN0949732911_UHD.jpg
 BingWallPaper-2023-12-20-Christmas tree in Castle Square, Old Town, Warsaw, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg
+BingWallPaper-2023-12-20-圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_UHD.jpg
+BingWallPaper-2023-12-21-Village in Val Gardena at Christmas, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg
