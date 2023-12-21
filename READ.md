@@ -377,3 +377,5 @@ BingWallPaper-2023-12-19-城堡广场的圣诞树，华沙古城，波兰-4K.jpg
 BingWallPaper-2023-12-20-Christmas tree in Castle Square, Old Town, Warsaw, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WarsawChristmas_EN-US8819312496_UHD.jpg
 BingWallPaper-2023-12-20-圣诞节期间的瓦尔加迪纳山谷的村庄，多洛米蒂山，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ValGardenaItaly_ZH-CN2405437494_UHD.jpg
 BingWallPaper-2023-12-21-Village in Val Gardena at Christmas, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg
+BingWallPaper-2023-12-21-卢布尔雅那，斯洛文尼亚共和国-4K.jpg&&https://cn.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_UHD.jpg
+BingWallPaper-2023-12-22-Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg
