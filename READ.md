@@ -379,3 +379,5 @@ BingWallPaper-2023-12-20-圣诞节期间的瓦尔加迪纳山谷的村庄，多�
 BingWallPaper-2023-12-21-Village in Val Gardena at Christmas, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ValGardenaItaly_EN-US8887980856_UHD.jpg
 BingWallPaper-2023-12-21-卢布尔雅那，斯洛文尼亚共和国-4K.jpg&&https://cn.bing.com/th?id=OHR.LjubljanaLights_ZH-CN3179297953_UHD.jpg
 BingWallPaper-2023-12-22-Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg
+BingWallPaper-2023-12-22-天鹅泉湿地公园，伊犁，新疆，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg
+BingWallPaper-2023-12-23-Ljubljana, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg
