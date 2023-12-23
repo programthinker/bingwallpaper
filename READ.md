@@ -381,3 +381,5 @@ BingWallPaper-2023-12-21-卢布尔雅那，斯洛文尼亚共和国-4K.jpg&&http
 BingWallPaper-2023-12-22-Avenue of birch trees near Uffing am Staffelsee, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BavarianSolstice_EN-US9111666986_UHD.jpg
 BingWallPaper-2023-12-22-天鹅泉湿地公园，伊犁，新疆，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterSolstice2023_ZH-CN4450201916_UHD.jpg
 BingWallPaper-2023-12-23-Ljubljana, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg
+BingWallPaper-2023-12-23-帽带企鹅，南桑威奇群岛，南大西洋-4K.jpg&&https://cn.bing.com/th?id=OHR.FestivusPenguins_ZH-CN5191348531_UHD.jpg
+BingWallPaper-2023-12-24-Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg
