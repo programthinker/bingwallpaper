@@ -383,3 +383,5 @@ BingWallPaper-2023-12-22-天鹅泉湿地公园，伊犁，新疆，中国-4K.jpg
 BingWallPaper-2023-12-23-Ljubljana, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LjubljanaLights_EN-US9215683814_UHD.jpg
 BingWallPaper-2023-12-23-帽带企鹅，南桑威奇群岛，南大西洋-4K.jpg&&https://cn.bing.com/th?id=OHR.FestivusPenguins_ZH-CN5191348531_UHD.jpg
 BingWallPaper-2023-12-24-Chinstrap penguins, South Sandwich Islands, South Atlantic Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.FestivusPenguins_EN-US9322662873_UHD.jpg
+BingWallPaper-2023-12-24-市政厅广场，塔尔图，爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EstoniaXmasEve_ZH-CN5870799404_UHD.jpg
+BingWallPaper-2023-12-25-Town Hall Square, Tartu, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg
