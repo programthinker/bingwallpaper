@@ -387,3 +387,5 @@ BingWallPaper-2023-12-24-市政厅广场，塔尔图，爱沙尼亚-4K.jpg&&http
 BingWallPaper-2023-12-25-Town Hall Square, Tartu, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.EstoniaXmasEve_EN-US9431079565_UHD.jpg
 BingWallPaper-2023-12-25-驯鹿在雪中奔跑，阿拉斯加，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CaribouChristmas_ZH-CN6264028572_UHD.jpg
 BingWallPaper-2023-12-26-Caribou running in snow, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg
+BingWallPaper-2023-12-26-冬季日出，戴德姆，科尔切斯特，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg
+BingWallPaper-2023-12-27-Winter sunrise in Dedham, Colchester, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg
