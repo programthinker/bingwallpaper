@@ -389,3 +389,5 @@ BingWallPaper-2023-12-25-驯鹿在雪中奔跑，阿拉斯加，美国-4K.jpg&&h
 BingWallPaper-2023-12-26-Caribou running in snow, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg
 BingWallPaper-2023-12-26-冬季日出，戴德姆，科尔切斯特，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BoxingDaySunrise_ZH-CN7431512686_UHD.jpg
 BingWallPaper-2023-12-27-Winter sunrise in Dedham, Colchester, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg
+BingWallPaper-2023-12-27-教堂山，斯奈山半岛，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg
+BingWallPaper-2023-12-28-Kirkjufell, Snæfellsnes peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg
