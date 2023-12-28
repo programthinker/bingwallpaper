@@ -391,3 +391,5 @@ BingWallPaper-2023-12-26-冬季日出，戴德姆，科尔切斯特，英格兰-
 BingWallPaper-2023-12-27-Winter sunrise in Dedham, Colchester, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg
 BingWallPaper-2023-12-27-教堂山，斯奈山半岛，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkjufellAurora_ZH-CN7878752057_UHD.jpg
 BingWallPaper-2023-12-28-Kirkjufell, Snæfellsnes peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg
+BingWallPaper-2023-12-28-座头鲸，迪斯科湾，格陵兰-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_UHD.jpg
+BingWallPaper-2023-12-29-Humpback whale, Disko Bay, Greenland-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg
