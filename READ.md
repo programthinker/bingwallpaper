@@ -393,3 +393,5 @@ BingWallPaper-2023-12-27-教堂山，斯奈山半岛，冰岛-4K.jpg&&https://cn
 BingWallPaper-2023-12-28-Kirkjufell, Snæfellsnes peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg
 BingWallPaper-2023-12-28-座头鲸，迪斯科湾，格陵兰-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenlandHumpback_ZH-CN8145852053_UHD.jpg
 BingWallPaper-2023-12-29-Humpback whale, Disko Bay, Greenland-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenlandHumpback_EN-US0330682837_UHD.jpg
+BingWallPaper-2023-12-29-旧西街区，阿姆斯特丹 ，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueAmsterdam_ZH-CN0483591394_UHD.jpg
+BingWallPaper-2023-12-30-Oud-West, Amsterdam, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg
