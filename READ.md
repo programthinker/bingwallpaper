@@ -397,3 +397,5 @@ BingWallPaper-2023-12-29-旧西街区，阿姆斯特丹 ，荷兰-4K.jpg&&https:
 BingWallPaper-2023-12-30-Oud-West, Amsterdam, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueAmsterdam_EN-US6868017848_UHD.jpg
 BingWallPaper-2023-12-30-卡塞里格石圈，湖区国家公园 ，坎布里亚，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.CastleriggStoneCircleUK_ZH-CN1174541384_UHD.jpg
 BingWallPaper-2023-12-31-Daiichi Tadami River Bridge, Fukushima prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg
+BingWallPaper-2023-12-31-帕那空奇里上空的烟花，碧武里府,泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg
+BingWallPaper-2024-01-01-Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg
