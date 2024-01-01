@@ -399,3 +399,5 @@ BingWallPaper-2023-12-30-卡塞里格石圈，湖区国家公园 ，坎布里亚
 BingWallPaper-2023-12-31-Daiichi Tadami River Bridge, Fukushima prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.TadamiWinter_EN-US6973402256_UHD.jpg
 BingWallPaper-2023-12-31-帕那空奇里上空的烟花，碧武里府,泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg
 BingWallPaper-2024-01-01-Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg
+BingWallPaper-2024-01-01-睡在雪地里的赤狐，阿布鲁佐，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepingFox_ZH-CN2622967726_UHD.jpg
+BingWallPaper-2024-01-02-Red fox sleeping in the snow, Abruzzo, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg
