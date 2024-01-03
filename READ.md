@@ -403,3 +403,5 @@ BingWallPaper-2024-01-01-睡在雪地里的赤狐，阿布鲁佐，意大利-4K.
 BingWallPaper-2024-01-02-Red fox sleeping in the snow, Abruzzo, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg
 BingWallPaper-2024-01-02-贾斯旺萨达陵墓和梅兰加尔古堡，焦特布尔，拉贾斯坦邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.MehrangarhJodhpur_ZH-CN2855490711_UHD.jpg
 BingWallPaper-2024-01-03-Prayer flags in Phobjikha Valley, Bhutan-4K.jpg&&https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg
+BingWallPaper-2024-01-03-明尼汪卡湖，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.MinnewankaLake_ZH-CN3020982568_UHD.jpg
+BingWallPaper-2024-01-04-Bodleian Library, University of Oxford, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg
