@@ -405,3 +405,5 @@ BingWallPaper-2024-01-02-贾斯旺萨达陵墓和梅兰加尔古堡，焦特布�
 BingWallPaper-2024-01-03-Prayer flags in Phobjikha Valley, Bhutan-4K.jpg&&https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg
 BingWallPaper-2024-01-03-明尼汪卡湖，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.MinnewankaLake_ZH-CN3020982568_UHD.jpg
 BingWallPaper-2024-01-04-Bodleian Library, University of Oxford, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg
+BingWallPaper-2024-01-04-金门大桥，旧金山，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenGateLight_ZH-CN3874822904_UHD.jpg
+BingWallPaper-2024-01-05-Golden Gate Bridge, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg
