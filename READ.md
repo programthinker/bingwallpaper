@@ -407,3 +407,5 @@ BingWallPaper-2024-01-03-明尼汪卡湖，阿尔伯塔省，加拿大-4K.jpg&&h
 BingWallPaper-2024-01-04-Bodleian Library, University of Oxford, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BodleianCeiling_EN-US7552379941_UHD.jpg
 BingWallPaper-2024-01-04-金门大桥，旧金山，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenGateLight_ZH-CN3874822904_UHD.jpg
 BingWallPaper-2024-01-05-Golden Gate Bridge, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg
+BingWallPaper-2024-01-05-巴伐利亚阿尔卑斯山脉，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg
+BingWallPaper-2024-01-06-International Ice and Snow Sculpture Festival, Harbin, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg
