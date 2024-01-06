@@ -409,3 +409,5 @@ BingWallPaper-2024-01-04-金门大桥，旧金山，加利福尼亚州，美国-
 BingWallPaper-2024-01-05-Golden Gate Bridge, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg
 BingWallPaper-2024-01-05-巴伐利亚阿尔卑斯山脉，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpsReflecting_ZH-CN4036320440_UHD.jpg
 BingWallPaper-2024-01-06-International Ice and Snow Sculpture Festival, Harbin, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg
+BingWallPaper-2024-01-06-冬天，雄性苍头燕雀栖息在海棠果树上-4K.jpg&&https://cn.bing.com/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_UHD.jpg
+BingWallPaper-2024-01-07-Male chaffinch perched on a crab apple tree in winter-4K.jpg&&https://cn.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg
