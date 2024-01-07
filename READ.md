@@ -411,3 +411,5 @@ BingWallPaper-2024-01-05-巴伐利亚阿尔卑斯山脉，德国-4K.jpg&&https:/
 BingWallPaper-2024-01-06-International Ice and Snow Sculpture Festival, Harbin, China-4K.jpg&&https://cn.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg
 BingWallPaper-2024-01-06-冬天，雄性苍头燕雀栖息在海棠果树上-4K.jpg&&https://cn.bing.com/th?id=OHR.CrabappleChaffinch_ZH-CN4458529756_UHD.jpg
 BingWallPaper-2024-01-07-Male chaffinch perched on a crab apple tree in winter-4K.jpg&&https://cn.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg
+BingWallPaper-2024-01-07-魔鬼大理石保护区，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DevilsMarbles_ZH-CN4897809914_UHD.jpg
+BingWallPaper-2024-01-08-Karlu Karlu-Devils Marbles Conservation Reserve, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg
