@@ -413,3 +413,5 @@ BingWallPaper-2024-01-06-冬天，雄性苍头燕雀栖息在海棠果树上-4K.
 BingWallPaper-2024-01-07-Male chaffinch perched on a crab apple tree in winter-4K.jpg&&https://cn.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg
 BingWallPaper-2024-01-07-魔鬼大理石保护区，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DevilsMarbles_ZH-CN4897809914_UHD.jpg
 BingWallPaper-2024-01-08-Karlu Karlu-Devils Marbles Conservation Reserve, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg
+BingWallPaper-2024-01-08-贝尔尼纳山口的滑雪场，格劳宾登州，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg
+BingWallPaper-2024-01-09-Skier at Bernina Pass, Graubünden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg
