@@ -415,3 +415,5 @@ BingWallPaper-2024-01-07-魔鬼大理石保护区，澳大利亚-4K.jpg&&https:/
 BingWallPaper-2024-01-08-Karlu Karlu-Devils Marbles Conservation Reserve, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg
 BingWallPaper-2024-01-08-贝尔尼纳山口的滑雪场，格劳宾登州，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.BerninaPass_ZH-CN5776010452_UHD.jpg
 BingWallPaper-2024-01-09-Skier at Bernina Pass, Graubünden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg
+BingWallPaper-2024-01-09-格兰德河上空的热气球，阿尔伯克基，新墨西哥州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BalloonDay_ZH-CN7571792218_UHD.jpg
+BingWallPaper-2024-01-10-Hot air balloons over the Rio Grande, Albuquerque, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg
