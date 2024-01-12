@@ -419,3 +419,5 @@ BingWallPaper-2024-01-09-格兰德河上空的热气球，阿尔伯克基，新�
 BingWallPaper-2024-01-10-Hot air balloons over the Rio Grande, Albuquerque, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg
 BingWallPaper-2024-01-11-雪中的欧亚猞猁-4K.jpg&&https://cn.bing.com/th?id=OHR.LynxSnow_ZH-CN8908082275_UHD.jpg
 BingWallPaper-2024-01-12-Eurasian lynx in the snow-4K.jpg&&https://cn.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg
+BingWallPaper-2024-01-12-北汉山国立公园，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.BukhansanSeoul_ZH-CN8002920750_UHD.jpg
+BingWallPaper-2024-01-13-Bukhansan National Park, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg
