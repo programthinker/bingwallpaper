@@ -423,3 +423,5 @@ BingWallPaper-2024-01-12-北汉山国立公园，韩国-4K.jpg&&https://cn.bing.
 BingWallPaper-2024-01-13-Bukhansan National Park, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg
 BingWallPaper-2024-01-13-哈纳之路，毛伊岛，夏威夷，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HanaHighway_ZH-CN8601588011_UHD.jpg
 BingWallPaper-2024-01-14-Road to Hana, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg
+BingWallPaper-2024-01-14-屈斜路湖的天鹅，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg
+BingWallPaper-2024-01-15-Whooper swans in Lake Kussharo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg
