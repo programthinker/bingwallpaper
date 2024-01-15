@@ -425,3 +425,5 @@ BingWallPaper-2024-01-13-哈纳之路，毛伊岛，夏威夷，美国-4K.jpg&&h
 BingWallPaper-2024-01-14-Road to Hana, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.HanaHighway_EN-US0637770298_UHD.jpg
 BingWallPaper-2024-01-14-屈斜路湖的天鹅，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.HokkaidoSwans_ZH-CN8733312972_UHD.jpg
 BingWallPaper-2024-01-15-Whooper swans in Lake Kussharo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg
+BingWallPaper-2024-01-15-瓦茨曼山脚下的冰教堂，巴伐利亚，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_UHD.jpg
+BingWallPaper-2024-01-16-Martin Luther King Jr. Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg
