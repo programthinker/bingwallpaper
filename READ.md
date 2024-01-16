@@ -427,3 +427,5 @@ BingWallPaper-2024-01-14-屈斜路湖的天鹅，日本-4K.jpg&&https://cn.bing.
 BingWallPaper-2024-01-15-Whooper swans in Lake Kussharo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.HokkaidoSwans_EN-US0905932812_UHD.jpg
 BingWallPaper-2024-01-15-瓦茨曼山脚下的冰教堂，巴伐利亚，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.IceChapel_ZH-CN9189733666_UHD.jpg
 BingWallPaper-2024-01-16-Martin Luther King Jr. Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg
+BingWallPaper-2024-01-16-路易斯湖，班夫国家公园，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_UHD.jpg
+BingWallPaper-2024-01-17-Lake Louise, Banff National Park, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg
