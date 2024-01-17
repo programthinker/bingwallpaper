@@ -429,3 +429,5 @@ BingWallPaper-2024-01-15-瓦茨曼山脚下的冰教堂，巴伐利亚，德国-
 BingWallPaper-2024-01-16-Martin Luther King Jr. Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.MLKMemorialDC_EN-US1038696225_UHD.jpg
 BingWallPaper-2024-01-16-路易斯湖，班夫国家公园，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeLouise_ZH-CN9592539152_UHD.jpg
 BingWallPaper-2024-01-17-Lake Louise, Banff National Park, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeLouise_EN-US1133378386_UHD.jpg
+BingWallPaper-2024-01-17-巴伐利亚森林国家公园里睡觉的狼，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepyWolf_ZH-CN9870873990_UHD.jpg
+BingWallPaper-2024-01-18-Sleeping wolf in Bavarian Forest National Park, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg
