@@ -433,3 +433,5 @@ BingWallPaper-2024-01-17-巴伐利亚森林国家公园里睡觉的狼，德国-
 BingWallPaper-2024-01-18-Sleeping wolf in Bavarian Forest National Park, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepyWolf_EN-US1667992900_UHD.jpg
 BingWallPaper-2024-01-18-黄昏时分的亚历山大三世桥，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisBridge_ZH-CN0173421630_UHD.jpg
 BingWallPaper-2024-01-19-Pont Alexandre III at twilight, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg
+BingWallPaper-2024-01-19-十六湖国家公园，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceWinter_ZH-CN0407572344_UHD.jpg
+BingWallPaper-2024-01-20-Frozen waterfalls in Plitvice Lakes National Park, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg
