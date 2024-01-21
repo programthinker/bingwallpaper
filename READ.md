@@ -437,3 +437,5 @@ BingWallPaper-2024-01-19-十六湖国家公园，克罗地亚-4K.jpg&&https://cn
 BingWallPaper-2024-01-20-Frozen waterfalls in Plitvice Lakes National Park, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg
 BingWallPaper-2024-01-20-马可罗尼企鹅，德雷克海峡，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.MacaroniPenguins_ZH-CN0600867997_UHD.jpg
 BingWallPaper-2024-01-21-Macaroni penguins, Drake Passage, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.MacaroniPenguins_EN-US2046934125_UHD.jpg
+BingWallPaper-2024-01-21-欧亚红松鼠，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNetherlands_ZH-CN0757138587_UHD.jpg
+BingWallPaper-2024-01-22-Eurasian red squirrel, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg
