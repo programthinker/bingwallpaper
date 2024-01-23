@@ -441,3 +441,5 @@ BingWallPaper-2024-01-21-欧亚红松鼠，荷兰-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2024-01-22-Eurasian red squirrel, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.SquirrelNetherlands_EN-US2174319616_UHD.jpg
 BingWallPaper-2024-01-22-冬季日出，沃尔顿灯塔，圣克鲁斯, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCruzSunrise_ZH-CN3074203377_UHD.jpg
 BingWallPaper-2024-01-23-Winter sunrise, Walton Lighthouse, Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg
+BingWallPaper-2024-01-23-印度洋的环礁，马尔代夫-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_UHD.jpg
+BingWallPaper-2024-01-24-Atolls in Indian Ocean, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg
