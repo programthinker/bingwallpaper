@@ -443,3 +443,5 @@ BingWallPaper-2024-01-22-冬季日出，沃尔顿灯塔，圣克鲁斯, 加利�
 BingWallPaper-2024-01-23-Winter sunrise, Walton Lighthouse, Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCruzSunrise_EN-US6436233856_UHD.jpg
 BingWallPaper-2024-01-23-印度洋的环礁，马尔代夫-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesAtolls_ZH-CN1365670653_UHD.jpg
 BingWallPaper-2024-01-24-Atolls in Indian Ocean, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg
+BingWallPaper-2024-01-24-钻石冰沙滩，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_UHD.jpg
+BingWallPaper-2024-01-25-Diamond Beach, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg
