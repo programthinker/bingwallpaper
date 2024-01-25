@@ -445,3 +445,5 @@ BingWallPaper-2024-01-23-印度洋的环礁，马尔代夫-4K.jpg&&https://cn.bi
 BingWallPaper-2024-01-24-Atolls in Indian Ocean, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesAtolls_EN-US2498947967_UHD.jpg
 BingWallPaper-2024-01-24-钻石冰沙滩，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandBeach_ZH-CN1632329693_UHD.jpg
 BingWallPaper-2024-01-25-Diamond Beach, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg
+BingWallPaper-2024-01-25-圣德温教堂的废墟，莫纳岛，威尔士，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.DwynwensDay_ZH-CN1768649253_UHD.jpg
+BingWallPaper-2024-01-26-Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg
