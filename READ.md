@@ -449,3 +449,5 @@ BingWallPaper-2024-01-25-圣德温教堂的废墟，莫纳岛，威尔士，英�
 BingWallPaper-2024-01-26-Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg
 BingWallPaper-2024-01-26-北鹰鸮-4K.jpg&&https://cn.bing.com/th?id=OHR.HawkOwl_ZH-CN3401920167_UHD.jpg
 BingWallPaper-2024-01-27-Northern hawk-owl-4K.jpg&&https://cn.bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg
+BingWallPaper-2024-01-27-点嘴小巨嘴鸟，大西洋森林，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg
+BingWallPaper-2024-01-28-Ice palace at the St. Paul Winter Carnival, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg
