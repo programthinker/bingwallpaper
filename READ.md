@@ -451,3 +451,5 @@ BingWallPaper-2024-01-26-北鹰鸮-4K.jpg&&https://cn.bing.com/th?id=OHR.HawkOwl
 BingWallPaper-2024-01-27-Northern hawk-owl-4K.jpg&&https://cn.bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg
 BingWallPaper-2024-01-27-点嘴小巨嘴鸟，大西洋森林，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.ToucanetEmpoleirado_ZH-CN8520861326_UHD.jpg
 BingWallPaper-2024-01-28-Ice palace at the St. Paul Winter Carnival, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg
+BingWallPaper-2024-01-28-昆士兰州内陆海峡地区，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg
+BingWallPaper-2024-01-29-Channel Country, Outback Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg
