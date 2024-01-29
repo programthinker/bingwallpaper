@@ -453,3 +453,5 @@ BingWallPaper-2024-01-27-点嘴小巨嘴鸟，大西洋森林，巴西-4K.jpg&&h
 BingWallPaper-2024-01-28-Ice palace at the St. Paul Winter Carnival, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg
 BingWallPaper-2024-01-28-昆士兰州内陆海峡地区，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelOutback_ZH-CN0579687777_UHD.jpg
 BingWallPaper-2024-01-29-Channel Country, Outback Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg
+BingWallPaper-2024-01-29-戈林格瀑布，泰嫩高，萨尔茨堡，奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg
+BingWallPaper-2024-01-30-Golling Waterfall, Tennengau, Salzburg, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg
