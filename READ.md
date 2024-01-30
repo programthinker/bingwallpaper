@@ -455,3 +455,5 @@ BingWallPaper-2024-01-28-昆士兰州内陆海峡地区，澳大利亚-4K.jpg&&h
 BingWallPaper-2024-01-29-Channel Country, Outback Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg
 BingWallPaper-2024-01-29-戈林格瀑布，泰嫩高，萨尔茨堡，奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.GollingerFalls_ZH-CN1137680822_UHD.jpg
 BingWallPaper-2024-01-30-Golling Waterfall, Tennengau, Salzburg, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg
+BingWallPaper-2024-01-30-艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AlbaceteSpain_ZH-CN1597281896_UHD.jpg
+BingWallPaper-2024-01-31-Aýna, Sierra del Segura, Albacete, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg
