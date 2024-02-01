@@ -459,3 +459,5 @@ BingWallPaper-2024-01-30-艾纳, 塞古拉山脉, 阿尔瓦塞特, 西班牙-4K.
 BingWallPaper-2024-01-31-Aýna, Sierra del Segura, Albacete, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg
 BingWallPaper-2024-01-31-布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg
 BingWallPaper-2024-02-01-Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg
+BingWallPaper-2024-02-01-吕根岛的萨斯尼茨灯塔，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg
+BingWallPaper-2024-02-02-Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California-4K.jpg&&https://cn.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg
