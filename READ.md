@@ -461,3 +461,5 @@ BingWallPaper-2024-01-31-布氏斑马妈妈和小马驹，里特弗雷自然保�
 BingWallPaper-2024-02-01-Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg
 BingWallPaper-2024-02-01-吕根岛的萨斯尼茨灯塔，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg
 BingWallPaper-2024-02-02-Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California-4K.jpg&&https://cn.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg
+BingWallPaper-2024-02-02-从洞穴中探出头的土拨鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmot_ZH-CN3818584615_UHD.jpg
+BingWallPaper-2024-02-03-Marmot peeking out of its burrow-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg
