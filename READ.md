@@ -465,3 +465,5 @@ BingWallPaper-2024-02-02-从洞穴中探出头的土拨鼠-4K.jpg&&https://cn.bi
 BingWallPaper-2024-02-03-Marmot peeking out of its burrow-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg
 BingWallPaper-2024-02-03-大运河与安康圣母大教堂，威尼斯，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceCarnival_ZH-CN4965898587_UHD.jpg
 BingWallPaper-2024-02-04-Grand Canal with Santa Maria della Salute Basilica, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg
+BingWallPaper-2024-02-04-德弗塔什卡洞, Devetaki村庄，保加利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DevetashkaCave_ZH-CN5186222166_UHD.jpg
+BingWallPaper-2024-02-05-Devetashka Cave, Devetaki, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg
