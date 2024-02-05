@@ -467,3 +467,5 @@ BingWallPaper-2024-02-03-大运河与安康圣母大教堂，威尼斯，意大�
 BingWallPaper-2024-02-04-Grand Canal with Santa Maria della Salute Basilica, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg
 BingWallPaper-2024-02-04-德弗塔什卡洞, Devetaki村庄，保加利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DevetashkaCave_ZH-CN5186222166_UHD.jpg
 BingWallPaper-2024-02-05-Devetashka Cave, Devetaki, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg
+BingWallPaper-2024-02-05-从奥索伊尼察观景点看日出时的布莱德湖，斯洛文尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSunrise_ZH-CN5580697031_UHD.jpg
+BingWallPaper-2024-02-06-Monarch butterflies, Goleta, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg
