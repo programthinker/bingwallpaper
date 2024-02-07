@@ -471,3 +471,5 @@ BingWallPaper-2024-02-05-从奥索伊尼察观景点看日出时的布莱德湖�
 BingWallPaper-2024-02-06-Monarch butterflies, Goleta, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg
 BingWallPaper-2024-02-06-盆景岩，太浩湖，内华达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeTahoeRock_ZH-CN5770740919_UHD.jpg
 BingWallPaper-2024-02-07-Bonsai Rock, Lake Tahoe, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg
+BingWallPaper-2024-02-07-圣詹姆斯潮汐池，开普敦，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg
+BingWallPaper-2024-02-08-St. James Tidal Pool, Cape Town, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg
