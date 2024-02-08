@@ -473,3 +473,5 @@ BingWallPaper-2024-02-06-盆景岩，太浩湖，内华达州，美国-4K.jpg&&h
 BingWallPaper-2024-02-07-Bonsai Rock, Lake Tahoe, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeTahoeRock_EN-US8513392756_UHD.jpg
 BingWallPaper-2024-02-07-圣詹姆斯潮汐池，开普敦，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.StJamesPool_ZH-CN5930624359_UHD.jpg
 BingWallPaper-2024-02-08-St. James Tidal Pool, Cape Town, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg
+BingWallPaper-2024-02-08-胡德山，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg
+BingWallPaper-2024-02-09-Mount Hood, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg
