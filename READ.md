@@ -475,3 +475,5 @@ BingWallPaper-2024-02-07-圣詹姆斯潮汐池，开普敦，南非-4K.jpg&&http
 BingWallPaper-2024-02-08-St. James Tidal Pool, Cape Town, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.StJamesPool_EN-US8700038796_UHD.jpg
 BingWallPaper-2024-02-08-胡德山，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MtHoodOregon_ZH-CN6068357532_UHD.jpg
 BingWallPaper-2024-02-09-Mount Hood, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg
+BingWallPaper-2024-02-09-灯光秀点亮夜幕中的西安城墙，中国春节-4K.jpg&&https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_UHD.jpg
+BingWallPaper-2024-02-10-Pegadung Rock, Lampung, Sumatra, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg
