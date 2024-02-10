@@ -477,3 +477,5 @@ BingWallPaper-2024-02-08-胡德山，俄勒冈州，美国-4K.jpg&&https://cn.bi
 BingWallPaper-2024-02-09-Mount Hood, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg
 BingWallPaper-2024-02-09-灯光秀点亮夜幕中的西安城墙，中国春节-4K.jpg&&https://cn.bing.com/th?id=OHR.ChineseNewYearEve2024_ZH-CN7153418405_UHD.jpg
 BingWallPaper-2024-02-10-Pegadung Rock, Lampung, Sumatra, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg
+BingWallPaper-2024-02-10-中国舞狮，大年初一-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg
+BingWallPaper-2024-02-11-Artists performing the dragon dance for Chinese New Year, Luzhou, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg
