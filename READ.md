@@ -479,3 +479,5 @@ BingWallPaper-2024-02-09-灯光秀点亮夜幕中的西安城墙，中国春节-
 BingWallPaper-2024-02-10-Pegadung Rock, Lampung, Sumatra, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg
 BingWallPaper-2024-02-10-中国舞狮，大年初一-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringFestival2024_ZH-CN7514007541_UHD.jpg
 BingWallPaper-2024-02-11-Artists performing the dragon dance for Chinese New Year, Luzhou, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg
+BingWallPaper-2024-02-11-乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_UHD.jpg
+BingWallPaper-2024-02-12-Chora, Folegandros Island, Cyclades, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg
