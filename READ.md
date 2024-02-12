@@ -481,3 +481,5 @@ BingWallPaper-2024-02-10-中国舞狮，大年初一-4K.jpg&&https://cn.bing.com
 BingWallPaper-2024-02-11-Artists performing the dragon dance for Chinese New Year, Luzhou, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ChinaDragon_EN-US6781838142_UHD.jpg
 BingWallPaper-2024-02-11-乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群岛, 希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.FolegandrosGreece_ZH-CN7803666477_UHD.jpg
 BingWallPaper-2024-02-12-Chora, Folegandros Island, Cyclades, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg
+BingWallPaper-2024-02-12-阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_UHD.jpg
+BingWallPaper-2024-02-13-Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg
