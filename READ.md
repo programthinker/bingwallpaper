@@ -483,3 +483,5 @@ BingWallPaper-2024-02-11-乔拉岛，福莱甘兹罗斯岛，基克拉泽斯群�
 BingWallPaper-2024-02-12-Chora, Folegandros Island, Cyclades, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg
 BingWallPaper-2024-02-12-阿尔塞多火山象龟, 伊莎贝拉岛, 加拉帕戈斯群岛，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantTortoise_ZH-CN9220903689_UHD.jpg
 BingWallPaper-2024-02-13-Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg
+BingWallPaper-2024-02-13-马里尼的狂欢节彩珠，新奥尔良，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MarignyBeads_ZH-CN9346804869_UHD.jpg
+BingWallPaper-2024-02-14-Mardi Gras beads in the Marigny, New Orleans-4K.jpg&&https://cn.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg
