@@ -487,3 +487,5 @@ BingWallPaper-2024-02-13-马里尼的狂欢节彩珠，新奥尔良，美国-4K.
 BingWallPaper-2024-02-14-Mardi Gras beads in the Marigny, New Orleans-4K.jpg&&https://cn.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg
 BingWallPaper-2024-02-14-丹顶鹤向伴侣鞠躬，北海道，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.BowingCrane_ZH-CN0143761293_UHD.jpg
 BingWallPaper-2024-02-15-Red-crowned crane bowing to his mate in Hokkaido, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg
+BingWallPaper-2024-02-15-河马妈妈和小河马，南卢安瓜国家公园，赞比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_UHD.jpg
+BingWallPaper-2024-02-16-Hippopotamus mother and calf, South Luangwa National Park, Zambia-4K.jpg&&https://cn.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg
