@@ -489,3 +489,5 @@ BingWallPaper-2024-02-14-丹顶鹤向伴侣鞠躬，北海道，日本-4K.jpg&&h
 BingWallPaper-2024-02-15-Red-crowned crane bowing to his mate in Hokkaido, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.BowingCrane_EN-US7534977512_UHD.jpg
 BingWallPaper-2024-02-15-河马妈妈和小河马，南卢安瓜国家公园，赞比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.HippopotamusDay_ZH-CN0518367336_UHD.jpg
 BingWallPaper-2024-02-16-Hippopotamus mother and calf, South Luangwa National Park, Zambia-4K.jpg&&https://cn.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg
+BingWallPaper-2024-02-16-一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_UHD.jpg
+BingWallPaper-2024-02-17-Female pyrrhuloxia perched on cactus plant, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg
