@@ -491,3 +491,5 @@ BingWallPaper-2024-02-15-河马妈妈和小河马，南卢安瓜国家公园，�
 BingWallPaper-2024-02-16-Hippopotamus mother and calf, South Luangwa National Park, Zambia-4K.jpg&&https://cn.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg
 BingWallPaper-2024-02-16-一只雌性灰额主红雀栖息在德克萨斯州一株多刺仙人掌上，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BackyardBird_ZH-CN0522695977_UHD.jpg
 BingWallPaper-2024-02-17-Female pyrrhuloxia perched on cactus plant, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg
+BingWallPaper-2024-02-17-多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg
+BingWallPaper-2024-02-18-The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg
