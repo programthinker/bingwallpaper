@@ -493,3 +493,5 @@ BingWallPaper-2024-02-16-一只雌性灰额主红雀栖息在德克萨斯州一�
 BingWallPaper-2024-02-17-Female pyrrhuloxia perched on cactus plant, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg
 BingWallPaper-2024-02-17-多洛米蒂山的布莱耶斯湖，南蒂罗尔，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeDolomites_ZH-CN2317113886_UHD.jpg
 BingWallPaper-2024-02-18-The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg
+BingWallPaper-2024-02-18-抹香鲸浮出水面，多米尼克-4K.jpg&&https://cn.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_UHD.jpg
+BingWallPaper-2024-02-19-Sperm whale pod surfacing, Dominica-4K.jpg&&https://cn.bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg
