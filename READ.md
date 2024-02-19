@@ -495,3 +495,5 @@ BingWallPaper-2024-02-17-多洛米蒂山的布莱耶斯湖，南蒂罗尔，意�
 BingWallPaper-2024-02-18-The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg
 BingWallPaper-2024-02-18-抹香鲸浮出水面，多米尼克-4K.jpg&&https://cn.bing.com/th?id=OHR.DominicaWhales_ZH-CN1293650397_UHD.jpg
 BingWallPaper-2024-02-19-Sperm whale pod surfacing, Dominica-4K.jpg&&https://cn.bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg
+BingWallPaper-2024-02-19-鸟瞰克鲁斯港色彩斑斓的房屋，特内里费岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CarnavalTenerife_ZH-CN1559136778_UHD.jpg
+BingWallPaper-2024-02-20-Lincoln Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg
