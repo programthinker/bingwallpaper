@@ -499,3 +499,5 @@ BingWallPaper-2024-02-19-鸟瞰克鲁斯港色彩斑斓的房屋，特内里费�
 BingWallPaper-2024-02-20-Lincoln Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.LincolnSunset_EN-US8001542624_UHD.jpg
 BingWallPaper-2024-02-20-Kinder Scout，峰区国家公园，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.PeakDistrictNP_ZH-CN1987784653_UHD.jpg
 BingWallPaper-2024-02-21-Kinder Scout at sunrise, Peak District National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.PeakDistrictNP_EN-US8094447567_UHD.jpg
+BingWallPaper-2024-02-21-火瀑布，优胜美地国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteFirefall_ZH-CN2236242565_UHD.jpg
+BingWallPaper-2024-02-22-Firefall at Horsetail Fall, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg
