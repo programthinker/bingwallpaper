@@ -503,3 +503,5 @@ BingWallPaper-2024-02-21-火瀑布，优胜美地国家公园，加利福尼亚�
 BingWallPaper-2024-02-22-Firefall at Horsetail Fall, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg
 BingWallPaper-2024-02-22-布莱顿海滩的彩虹小屋，墨尔本，维多利亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BrightonBoxes_ZH-CN0947219018_UHD.jpg
 BingWallPaper-2024-02-23-Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg
+BingWallPaper-2024-02-23-Haghartsin修道院，迪利扬国家公园，亚美尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg
+BingWallPaper-2024-02-24-Haghartsin Monastery, Dilijan National Park, Armenia-4K.jpg&&https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg
