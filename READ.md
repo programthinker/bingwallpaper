@@ -505,3 +505,5 @@ BingWallPaper-2024-02-22-布莱顿海滩的彩虹小屋，墨尔本，维多利�
 BingWallPaper-2024-02-23-Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg
 BingWallPaper-2024-02-23-Haghartsin修道院，迪利扬国家公园，亚美尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.HaghartsinMonastery_ZH-CN1705226096_UHD.jpg
 BingWallPaper-2024-02-24-Haghartsin Monastery, Dilijan National Park, Armenia-4K.jpg&&https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg
+BingWallPaper-2024-02-24-锦里街上悬挂的红色中国灯笼，成都，中国四川省-4K.jpg&&https://cn.bing.com/th?id=OHR.LaternFestival2024_ZH-CN8050981828_UHD.jpg
+BingWallPaper-2024-02-25-Almond trees in full bloom, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg
