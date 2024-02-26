@@ -509,3 +509,5 @@ BingWallPaper-2024-02-24-锦里街上悬挂的红色中国灯笼，成都，中�
 BingWallPaper-2024-02-25-Almond trees in full bloom, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg
 BingWallPaper-2024-02-25-考伊琴山谷的薄雾，温哥华岛，加拿大不列颠哥伦比亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.MtPrevostDuncan_ZH-CN2333619635_UHD.jpg
 BingWallPaper-2024-02-26-'United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg
+BingWallPaper-2024-02-26-大峡谷国家公园，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_UHD.jpg
+BingWallPaper-2024-02-27-Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg
