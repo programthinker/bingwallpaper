@@ -511,3 +511,5 @@ BingWallPaper-2024-02-25-考伊琴山谷的薄雾，温哥华岛，加拿大不�
 BingWallPaper-2024-02-26-'United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg
 BingWallPaper-2024-02-26-大峡谷国家公园，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandCanyonWinter_ZH-CN2640803517_UHD.jpg
 BingWallPaper-2024-02-27-Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg
+BingWallPaper-2024-02-27-玩耍的北极熊幼崽，卡克托维克，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearCubs_ZH-CN2913942257_UHD.jpg
+BingWallPaper-2024-02-28-Polar bear cubs playing, Kaktovik, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg
