@@ -515,3 +515,5 @@ BingWallPaper-2024-02-27-玩耍的北极熊幼崽，卡克托维克，阿拉斯�
 BingWallPaper-2024-02-28-Polar bear cubs playing, Kaktovik, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg
 BingWallPaper-2024-02-28-班堡城堡，诺森伯兰郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BamburghCastleUK_ZH-CN3201531782_UHD.jpg
 BingWallPaper-2024-02-29-Bamburgh Castle, Northumberland, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg
+BingWallPaper-2024-02-29-欧亚红松鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg
+BingWallPaper-2024-03-01-Eurasian red squirrel-4K.jpg&&https://cn.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg
