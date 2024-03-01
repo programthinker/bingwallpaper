@@ -517,3 +517,5 @@ BingWallPaper-2024-02-28-班堡城堡，诺森伯兰郡，英格兰-4K.jpg&&http
 BingWallPaper-2024-02-29-Bamburgh Castle, Northumberland, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg
 BingWallPaper-2024-02-29-欧亚红松鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.LeapingSquirrel_ZH-CN9112090462_UHD.jpg
 BingWallPaper-2024-03-01-Eurasian red squirrel-4K.jpg&&https://cn.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg
+BingWallPaper-2024-03-01-德国草地上的蝴蝶-4K.jpg&&https://cn.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg
+BingWallPaper-2024-03-02-Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg
