@@ -519,3 +519,5 @@ BingWallPaper-2024-02-29-欧亚红松鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.L
 BingWallPaper-2024-03-01-Eurasian red squirrel-4K.jpg&&https://cn.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg
 BingWallPaper-2024-03-01-德国草地上的蝴蝶-4K.jpg&&https://cn.bing.com/th?id=OHR.Schmetterlingswiese_ZH-CN3740804088_UHD.jpg
 BingWallPaper-2024-03-02-Women's suffrage parade on Fifth Avenue, Manhattan, New York City, October 23, 1915-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffrageParade_EN-US3648247280_UHD.jpg
+BingWallPaper-2024-03-02-莫迪卡，西西里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ModicaItaly_ZH-CN3893147952_UHD.jpg
+BingWallPaper-2024-03-03-Modica, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg
