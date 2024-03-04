@@ -523,3 +523,5 @@ BingWallPaper-2024-03-02-莫迪卡，西西里岛，意大利-4K.jpg&&https://cn
 BingWallPaper-2024-03-03-Modica, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg
 BingWallPaper-2024-03-03-树上的豹子，克鲁格国家公园，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.KrugerLeopard_ZH-CN4125884091_UHD.jpg
 BingWallPaper-2024-03-04-Leopard in a tree, Kruger National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg
+BingWallPaper-2024-03-04-从蒙特维多看到的阿雷纳尔火山,哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_UHD.jpg
+BingWallPaper-2024-03-05-Arenal Volcano seen from Monteverde, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg
