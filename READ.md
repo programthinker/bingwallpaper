@@ -525,3 +525,5 @@ BingWallPaper-2024-03-03-树上的豹子，克鲁格国家公园，南非-4K.jpg
 BingWallPaper-2024-03-04-Leopard in a tree, Kruger National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg
 BingWallPaper-2024-03-04-从蒙特维多看到的阿雷纳尔火山,哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.ArenalCostaRica_ZH-CN4466297855_UHD.jpg
 BingWallPaper-2024-03-05-Arenal Volcano seen from Monteverde, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg
+BingWallPaper-2024-03-05-曼谷的交通圈和高速公路，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.BangkokCircle_ZH-CN4702412806_UHD.jpg
+BingWallPaper-2024-03-06-Traffic circle and highway in Bangkok, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg
