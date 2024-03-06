@@ -527,3 +527,5 @@ BingWallPaper-2024-03-04-从蒙特维多看到的阿雷纳尔火山,哥斯达黎
 BingWallPaper-2024-03-05-Arenal Volcano seen from Monteverde, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg
 BingWallPaper-2024-03-05-曼谷的交通圈和高速公路，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.BangkokCircle_ZH-CN4702412806_UHD.jpg
 BingWallPaper-2024-03-06-Traffic circle and highway in Bangkok, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg
+BingWallPaper-2024-03-06-Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WahclellaFalls_ZH-CN4932852217_UHD.jpg
+BingWallPaper-2024-03-07-Wahclella Falls in the Columbia River Gorge, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg
