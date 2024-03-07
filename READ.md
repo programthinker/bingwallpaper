@@ -529,3 +529,5 @@ BingWallPaper-2024-03-05-曼谷的交通圈和高速公路，泰国-4K.jpg&&http
 BingWallPaper-2024-03-06-Traffic circle and highway in Bangkok, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg
 BingWallPaper-2024-03-06-Wahclella Falls，哥伦比亚河峡谷，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WahclellaFalls_ZH-CN4932852217_UHD.jpg
 BingWallPaper-2024-03-07-Wahclella Falls in the Columbia River Gorge, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg
+BingWallPaper-2024-03-07-Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_UHD.jpg
+BingWallPaper-2024-03-08-Roques de Benet, Els Ports Natural Park, Catalonia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg
