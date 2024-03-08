@@ -531,3 +531,5 @@ BingWallPaper-2024-03-06-Wahclella Falls，哥伦比亚河峡谷，俄勒冈州�
 BingWallPaper-2024-03-07-Wahclella Falls in the Columbia River Gorge, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg
 BingWallPaper-2024-03-07-Roques de Benet，埃尔斯港自然公园，加泰罗尼亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.TarragonaSpain_ZH-CN5488361711_UHD.jpg
 BingWallPaper-2024-03-08-Roques de Benet, Els Ports Natural Park, Catalonia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg
+BingWallPaper-2024-03-08-伊瓜苏大瀑布鸟瞰图，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuFalls_ZH-CN4749837052_UHD.jpg
+BingWallPaper-2024-03-09-Tate Modern lit up for International Women's Day, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg
