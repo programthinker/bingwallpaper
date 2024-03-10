@@ -535,3 +535,5 @@ BingWallPaper-2024-03-08-伊瓜苏大瀑布鸟瞰图，巴西-4K.jpg&&https://cn
 BingWallPaper-2024-03-09-Tate Modern lit up for International Women's Day, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg
 BingWallPaper-2024-03-09-比斯第恶土，新墨西哥州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BistiBlue_ZH-CN4991705833_UHD.jpg
 BingWallPaper-2024-03-10-Bisti-De-Na-Zin Wilderness Area, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg
+BingWallPaper-2024-03-10-圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg
+BingWallPaper-2024-03-11-San Jacinto Building's mechanical clock, Beaumont, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg
