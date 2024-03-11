@@ -537,3 +537,5 @@ BingWallPaper-2024-03-09-比斯第恶土，新墨西哥州，美国-4K.jpg&&http
 BingWallPaper-2024-03-10-Bisti-De-Na-Zin Wilderness Area, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg
 BingWallPaper-2024-03-10-圣哈辛托大厦的机械钟，博蒙特，美国德克萨斯州-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaumontClock_ZH-CN5288086713_UHD.jpg
 BingWallPaper-2024-03-11-San Jacinto Building's mechanical clock, Beaumont, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg
+BingWallPaper-2024-03-11-Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ProseccoItaly_ZH-CN6802010344_UHD.jpg
+BingWallPaper-2024-03-12-A koala sleeping in a eucalyptus tree, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg
