@@ -539,3 +539,5 @@ BingWallPaper-2024-03-10-圣哈辛托大厦的机械钟，博蒙特，美国德�
 BingWallPaper-2024-03-11-San Jacinto Building's mechanical clock, Beaumont, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg
 BingWallPaper-2024-03-11-Prosecco山丘，科内利亚诺和瓦尔多比亚德内，威内托大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ProseccoItaly_ZH-CN6802010344_UHD.jpg
 BingWallPaper-2024-03-12-A koala sleeping in a eucalyptus tree, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg
+BingWallPaper-2024-03-12-布莱斯峡谷国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceSnow_ZH-CN7489999663_UHD.jpg
+BingWallPaper-2024-03-13-Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg
