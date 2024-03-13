@@ -541,3 +541,5 @@ BingWallPaper-2024-03-11-Prosecco山丘，科内利亚诺和瓦尔多比亚德�
 BingWallPaper-2024-03-12-A koala sleeping in a eucalyptus tree, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg
 BingWallPaper-2024-03-12-布莱斯峡谷国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceSnow_ZH-CN7489999663_UHD.jpg
 BingWallPaper-2024-03-13-Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceSnow_EN-US1471442313_UHD.jpg
+BingWallPaper-2024-03-13-小红鹳飞越马加迪湖,肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MagadiFlamingos_ZH-CN7888437841_UHD.jpg
+BingWallPaper-2024-03-14-Lesser flamingos flying over Lake Magadi, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg
