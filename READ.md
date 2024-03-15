@@ -545,3 +545,5 @@ BingWallPaper-2024-03-13-小红鹳飞越马加迪湖,肯尼亚-4K.jpg&&https://c
 BingWallPaper-2024-03-14-Lesser flamingos flying over Lake Magadi, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg
 BingWallPaper-2024-03-14-Wat Phra Ngam，大城府历史公园，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.AyutthayaTree_ZH-CN8075870220_UHD.jpg
 BingWallPaper-2024-03-15-Wat Phra Ngam, Ayutthaya Historical Park, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg
+BingWallPaper-2024-03-15-安沙波利哥沙漠州立公园，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.AnzaBorregoBloom_ZH-CN8284458835_UHD.jpg
+BingWallPaper-2024-03-16-Anza-Borrego Desert State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg
