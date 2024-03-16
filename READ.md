@@ -547,3 +547,5 @@ BingWallPaper-2024-03-14-Wat Phra Ngam，大城府历史公园，泰国-4K.jpg&&
 BingWallPaper-2024-03-15-Wat Phra Ngam, Ayutthaya Historical Park, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg
 BingWallPaper-2024-03-15-安沙波利哥沙漠州立公园，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.AnzaBorregoBloom_ZH-CN8284458835_UHD.jpg
 BingWallPaper-2024-03-16-Anza-Borrego Desert State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg
+BingWallPaper-2024-03-16-正在吃竹子的大熊猫，中国成都-4K.jpg&&https://cn.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_UHD.jpg
+BingWallPaper-2024-03-17-Giant panda eating bamboo, Chengdu, China-4K.jpg&&https://cn.bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg
