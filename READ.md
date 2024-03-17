@@ -549,3 +549,5 @@ BingWallPaper-2024-03-15-安沙波利哥沙漠州立公园，美国加利福尼�
 BingWallPaper-2024-03-16-Anza-Borrego Desert State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg
 BingWallPaper-2024-03-16-正在吃竹子的大熊猫，中国成都-4K.jpg&&https://cn.bing.com/th?id=OHR.BambooPanda_ZH-CN8455481760_UHD.jpg
 BingWallPaper-2024-03-17-Giant panda eating bamboo, Chengdu, China-4K.jpg&&https://cn.bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg
+BingWallPaper-2024-03-17-圣菲尼安湾，凯里郡，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StFiniansBay_ZH-CN8655586052_UHD.jpg
+BingWallPaper-2024-03-18-St. Finian's Bay, County Kerry, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg
