@@ -553,3 +553,5 @@ BingWallPaper-2024-03-17-圣菲尼安湾，凯里郡，爱尔兰-4K.jpg&&https:/
 BingWallPaper-2024-03-18-St. Finian's Bay, County Kerry, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.StFiniansBay_EN-US2242323244_UHD.jpg
 BingWallPaper-2024-03-18-大象岩，古城欧拉，沙特阿拉伯-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantRock_ZH-CN9293300383_UHD.jpg
 BingWallPaper-2024-03-19-Elephant Rock, Al-Ula, Saudi Arabia-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg
+BingWallPaper-2024-03-19-盛开的扁桃树, 加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlmondBloom_ZH-CN9441550492_UHD.jpg
+BingWallPaper-2024-03-20-Tree frog on leaf-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg
