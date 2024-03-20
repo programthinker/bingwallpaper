@@ -555,3 +555,5 @@ BingWallPaper-2024-03-18-大象岩，古城欧拉，沙特阿拉伯-4K.jpg&&http
 BingWallPaper-2024-03-19-Elephant Rock, Al-Ula, Saudi Arabia-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg
 BingWallPaper-2024-03-19-盛开的扁桃树, 加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlmondBloom_ZH-CN9441550492_UHD.jpg
 BingWallPaper-2024-03-20-Tree frog on leaf-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg
+BingWallPaper-2024-03-20-鸟瞰春日盛开的樱花，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.Springequinox2024_ZH-CN5647214924_UHD.jpg
+BingWallPaper-2024-03-21-The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg
