@@ -559,3 +559,5 @@ BingWallPaper-2024-03-20-鸟瞰春日盛开的樱花，中国-4K.jpg&&https://cn
 BingWallPaper-2024-03-21-The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg
 BingWallPaper-2024-03-21-布恩迪国家公园，乌干达-4K.jpg&&https://cn.bing.com/th?id=OHR.BwindiNationalForest_ZH-CN0436137473_UHD.jpg
 BingWallPaper-2024-03-22-Bwindi Impenetrable National Forest, Uganda-4K.jpg&&https://cn.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg
+BingWallPaper-2024-03-22-蓝泉，蒂怀霍步道，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WaikatoWater_ZH-CN0417438809_UHD.jpg
+BingWallPaper-2024-03-23-Blue Spring, Te Waihou Walkway, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg
