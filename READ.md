@@ -563,3 +563,5 @@ BingWallPaper-2024-03-22-蓝泉，蒂怀霍步道，新西兰-4K.jpg&&https://cn
 BingWallPaper-2024-03-23-Blue Spring, Te Waihou Walkway, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg
 BingWallPaper-2024-03-23-巴西亚马逊上空巨大的砧状云-4K.jpg&&https://cn.bing.com/th?id=OHR.AmazonClouds_ZH-CN0578911147_UHD.jpg
 BingWallPaper-2024-03-24-Large anvil clouds above the Amazon in Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg
+BingWallPaper-2024-03-24-樱花树枝上的灰胸绣眼鸟，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg
+BingWallPaper-2024-03-25-Silvereyes with cherry blossoms, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg
