@@ -565,3 +565,5 @@ BingWallPaper-2024-03-23-巴西亚马逊上空巨大的砧状云-4K.jpg&&https:/
 BingWallPaper-2024-03-24-Large anvil clouds above the Amazon in Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg
 BingWallPaper-2024-03-24-樱花树枝上的灰胸绣眼鸟，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEyes_ZH-CN1130380430_UHD.jpg
 BingWallPaper-2024-03-25-Silvereyes with cherry blossoms, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg
+BingWallPaper-2024-03-25-弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg
+BingWallPaper-2024-03-26-Celebrating Holi in Mathura, Uttar Pradesh, India-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg
