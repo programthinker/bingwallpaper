@@ -567,3 +567,5 @@ BingWallPaper-2024-03-24-樱花树枝上的灰胸绣眼鸟，韩国-4K.jpg&&http
 BingWallPaper-2024-03-25-Silvereyes with cherry blossoms, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg
 BingWallPaper-2024-03-25-弗雷泽河谷的郁金香田，阿伯兹福德，不列颠哥伦比亚省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.TulipAbbotsford_ZH-CN1401627293_UHD.jpg
 BingWallPaper-2024-03-26-Celebrating Holi in Mathura, Uttar Pradesh, India-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg
+BingWallPaper-2024-03-26-海水从古老的珊瑚礁上倾泻而下，杭莱，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg
+BingWallPaper-2024-03-27-Seawater cascades over an ancient coral reef, Hang Rai, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg
