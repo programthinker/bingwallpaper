@@ -569,3 +569,5 @@ BingWallPaper-2024-03-25-弗雷泽河谷的郁金香田，阿伯兹福德，不�
 BingWallPaper-2024-03-26-Celebrating Holi in Mathura, Uttar Pradesh, India-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg
 BingWallPaper-2024-03-26-海水从古老的珊瑚礁上倾泻而下，杭莱，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_UHD.jpg
 BingWallPaper-2024-03-27-Seawater cascades over an ancient coral reef, Hang Rai, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg
+BingWallPaper-2024-03-27-布宜诺斯艾利斯哥伦布剧院，阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg
+BingWallPaper-2024-03-28-Teatro Colón in Buenos Aires, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg
