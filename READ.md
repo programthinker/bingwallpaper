@@ -571,3 +571,5 @@ BingWallPaper-2024-03-26-海水从古老的珊瑚礁上倾泻而下，杭莱，�
 BingWallPaper-2024-03-27-Seawater cascades over an ancient coral reef, Hang Rai, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg
 BingWallPaper-2024-03-27-布宜诺斯艾利斯哥伦布剧院，阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroColon_ZH-CN5378730986_UHD.jpg
 BingWallPaper-2024-03-28-Teatro Colón in Buenos Aires, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.TeatroColon_EN-US2518867279_UHD.jpg
+BingWallPaper-2024-03-28-上海的樱花，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_ZH-CN5594677517_UHD.jpg
+BingWallPaper-2024-03-29-Cherry blossoms in Shanghai, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg
