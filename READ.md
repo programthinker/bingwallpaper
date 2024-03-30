@@ -575,3 +575,5 @@ BingWallPaper-2024-03-28-上海的樱花，中国-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2024-03-29-Cherry blossoms in Shanghai, China-4K.jpg&&https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg
 BingWallPaper-2024-03-29-日落时的南斯塔克灯塔，霍利希德，威尔士，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthStackLight_ZH-CN5932471774_UHD.jpg
 BingWallPaper-2024-03-30-South Stack Lighthouse at sunset, Holy Island, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg
+BingWallPaper-2024-03-30-睡在号角树上的褐喉树懒，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg
+BingWallPaper-2024-03-31-Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg
