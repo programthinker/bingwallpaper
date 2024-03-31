@@ -577,3 +577,5 @@ BingWallPaper-2024-03-29-日落时的南斯塔克灯塔，霍利希德，威尔�
 BingWallPaper-2024-03-30-South Stack Lighthouse at sunset, Holy Island, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg
 BingWallPaper-2024-03-30-睡在号角树上的褐喉树懒，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg
 BingWallPaper-2024-03-31-Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg
+BingWallPaper-2024-03-31-潘塔纳尔湿地的大白鹭，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg
+BingWallPaper-2024-04-01-Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg
