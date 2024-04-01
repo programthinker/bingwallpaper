@@ -579,3 +579,5 @@ BingWallPaper-2024-03-30-睡在号角树上的褐喉树懒，哥斯达黎加-4K.
 BingWallPaper-2024-03-31-Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg
 BingWallPaper-2024-03-31-潘塔纳尔湿地的大白鹭，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg
 BingWallPaper-2024-04-01-Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg
+BingWallPaper-2024-04-01-勃朗峰上的冰海，夏慕尼，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg
+BingWallPaper-2024-04-02-'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg
