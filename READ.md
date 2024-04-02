@@ -581,3 +581,5 @@ BingWallPaper-2024-03-31-潘塔纳尔湿地的大白鹭，巴西-4K.jpg&&https:/
 BingWallPaper-2024-04-01-Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg
 BingWallPaper-2024-04-01-勃朗峰上的冰海，夏慕尼，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MontBlancGlacier_ZH-CN2918240023_UHD.jpg
 BingWallPaper-2024-04-02-'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg
+BingWallPaper-2024-04-02-日德兰半岛的山毛榉树和野生海葵 ，丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg
+BingWallPaper-2024-04-03-Beech trees and wild anemones, Jutland, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg
