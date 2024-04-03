@@ -583,3 +583,5 @@ BingWallPaper-2024-04-01-勃朗峰上的冰海，夏慕尼，法国-4K.jpg&&http
 BingWallPaper-2024-04-02-'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.PalazzoFarnese_EN-US3142967327_UHD.jpg
 BingWallPaper-2024-04-02-日德兰半岛的山毛榉树和野生海葵 ，丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.JutlandSpring_ZH-CN7785758539_UHD.jpg
 BingWallPaper-2024-04-03-Beech trees and wild anemones, Jutland, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg
+BingWallPaper-2024-04-03-At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦-4K.jpg&&https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_UHD.jpg
+BingWallPaper-2024-04-04-A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan-4K.jpg&&https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg
