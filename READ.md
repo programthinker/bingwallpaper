@@ -585,3 +585,5 @@ BingWallPaper-2024-04-02-日德兰半岛的山毛榉树和野生海葵 ，丹麦
 BingWallPaper-2024-04-03-Beech trees and wild anemones, Jutland, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.JutlandSpring_EN-US3202382460_UHD.jpg
 BingWallPaper-2024-04-03-At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦省，吉尔吉斯斯坦-4K.jpg&&https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_ZH-CN8027219590_UHD.jpg
 BingWallPaper-2024-04-04-A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan-4K.jpg&&https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg
+BingWallPaper-2024-04-04-红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.AntelopeBotswana_ZH-CN8253323519_UHD.jpg
+BingWallPaper-2024-04-05-Red lechwe herd crossing marshy plain of Okavango Delta, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg
