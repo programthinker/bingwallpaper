@@ -587,3 +587,5 @@ BingWallPaper-2024-04-03-At-Bashy地区的彩虹，Kakshaal Too山脉，纳伦�
 BingWallPaper-2024-04-04-A rainbow in At-Bashy District  , Kakshaal Too Mountains, Naryn Province, Kyrgyzstan-4K.jpg&&https://cn.bing.com/th?id=OHR.KyrgyzstanRainbow_EN-US3266651913_UHD.jpg
 BingWallPaper-2024-04-04-红驴羚群穿越奥卡万戈三角洲的沼泽平原，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.AntelopeBotswana_ZH-CN8253323519_UHD.jpg
 BingWallPaper-2024-04-05-Red lechwe herd crossing marshy plain of Okavango Delta, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg
+BingWallPaper-2024-04-05-从国际空间站拍摄的巴哈马群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.BahamasSpace_ZH-CN8053657656_UHD.jpg
+BingWallPaper-2024-04-06-The Bahamas photographed from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg
