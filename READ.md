@@ -589,3 +589,5 @@ BingWallPaper-2024-04-04-红驴羚群穿越奥卡万戈三角洲的沼泽平原�
 BingWallPaper-2024-04-05-Red lechwe herd crossing marshy plain of Okavango Delta, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.AntelopeBotswana_EN-US3335739405_UHD.jpg
 BingWallPaper-2024-04-05-从国际空间站拍摄的巴哈马群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.BahamasSpace_ZH-CN8053657656_UHD.jpg
 BingWallPaper-2024-04-06-The Bahamas photographed from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg
+BingWallPaper-2024-04-06-姬路城，姫路，兵库县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanHimeji_ZH-CN8344654166_UHD.jpg
+BingWallPaper-2024-04-07-Himeji Castle, Himeji, Hyōgo Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg
