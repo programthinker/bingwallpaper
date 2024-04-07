@@ -591,3 +591,5 @@ BingWallPaper-2024-04-05-从国际空间站拍摄的巴哈马群岛-4K.jpg&&http
 BingWallPaper-2024-04-06-The Bahamas photographed from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg
 BingWallPaper-2024-04-06-姬路城，姫路，兵库县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanHimeji_ZH-CN8344654166_UHD.jpg
 BingWallPaper-2024-04-07-Himeji Castle, Himeji, Hyōgo Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg
+BingWallPaper-2024-04-07-奇迹湖附近池塘里的北美海狸，德纳里国家公园，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDenali_ZH-CN8736013851_UHD.jpg
+BingWallPaper-2024-04-08-North American beaver in a pond near Wonder Lake, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg
