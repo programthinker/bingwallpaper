@@ -595,3 +595,5 @@ BingWallPaper-2024-04-07-奇迹湖附近池塘里的北美海狸，德纳里国�
 BingWallPaper-2024-04-08-North American beaver in a pond near Wonder Lake, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg
 BingWallPaper-2024-04-08-欧洲刺猬在长满蒲公英的花园里，巴特德里堡，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.HedgehogMeadow_ZH-CN8845586473_UHD.jpg
 BingWallPaper-2024-04-09-Total solar eclipse photographed from Madras, Oregon on August 21, 2017-4K.jpg&&https://cn.bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg
+BingWallPaper-2024-04-09-郁金香田，斯卡吉特山谷，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitValleyTulips_ZH-CN9034120306_UHD.jpg
+BingWallPaper-2024-04-10-Tulip fields in spring, Skagit Valley, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg
