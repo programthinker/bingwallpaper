@@ -597,3 +597,5 @@ BingWallPaper-2024-04-08-欧洲刺猬在长满蒲公英的花园里，巴特德�
 BingWallPaper-2024-04-09-Total solar eclipse photographed from Madras, Oregon on August 21, 2017-4K.jpg&&https://cn.bing.com/th?id=OHR.SolarEclipseOregon_EN-US2134131862_UHD.jpg
 BingWallPaper-2024-04-09-郁金香田，斯卡吉特山谷，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitValleyTulips_ZH-CN9034120306_UHD.jpg
 BingWallPaper-2024-04-10-Tulip fields in spring, Skagit Valley, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg
+BingWallPaper-2024-04-10-洞穴附近的穴小鸮雏鸟，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OwlSiblings_ZH-CN9441687518_UHD.jpg
+BingWallPaper-2024-04-11-Burrowing owl chicks near a burrow, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg
