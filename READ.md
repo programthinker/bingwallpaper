@@ -599,3 +599,5 @@ BingWallPaper-2024-04-09-郁金香田，斯卡吉特山谷，华盛顿州，美�
 BingWallPaper-2024-04-10-Tulip fields in spring, Skagit Valley, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg
 BingWallPaper-2024-04-10-洞穴附近的穴小鸮雏鸟，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OwlSiblings_ZH-CN9441687518_UHD.jpg
 BingWallPaper-2024-04-11-Burrowing owl chicks near a burrow, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg
+BingWallPaper-2024-04-11-丘伦梅鲁瀑布鸟瞰图，委内瑞拉-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonWaterfall_ZH-CN9580105565_UHD.jpg
+BingWallPaper-2024-04-12-Aerial view of Churún Merú waterfall, Venezuela-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg
