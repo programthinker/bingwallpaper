@@ -603,3 +603,5 @@ BingWallPaper-2024-04-11-丘伦梅鲁瀑布鸟瞰图，委内瑞拉-4K.jpg&&http
 BingWallPaper-2024-04-12-Aerial view of Churún Merú waterfall, Venezuela-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg
 BingWallPaper-2024-04-12-拱门国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetArchesNP_ZH-CN9875945974_UHD.jpg
 BingWallPaper-2024-04-13-Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg
+BingWallPaper-2024-04-13-春天的苹果树，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringApple_ZH-CN0101917345_UHD.jpg
+BingWallPaper-2024-04-14-Apple trees in spring, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg
