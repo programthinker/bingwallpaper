@@ -605,3 +605,5 @@ BingWallPaper-2024-04-12-拱门国家公园，犹他州，美国-4K.jpg&&https:/
 BingWallPaper-2024-04-13-Evening light over North Window with Turret Arch in the distance, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetArchesNP_EN-US2974318595_UHD.jpg
 BingWallPaper-2024-04-13-春天的苹果树，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringApple_ZH-CN0101917345_UHD.jpg
 BingWallPaper-2024-04-14-Apple trees in spring, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg
+BingWallPaper-2024-04-14-保龄球海滩的日落，门多西诺县，加利福尼亚，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BowlingBallCali_ZH-CN0434558966_UHD.jpg
+BingWallPaper-2024-04-15-Sunset on Bowling Ball Beach, Mendocino County, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg
