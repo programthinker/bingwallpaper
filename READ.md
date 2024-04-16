@@ -609,3 +609,5 @@ BingWallPaper-2024-04-14-保龄球海滩的日落，门多西诺县，加利福�
 BingWallPaper-2024-04-15-Sunset on Bowling Ball Beach, Mendocino County, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg
 BingWallPaper-2024-04-15-香波城堡，中央-卢瓦尔河谷大区，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChambordCastle_ZH-CN0930093515_UHD.jpg
 BingWallPaper-2024-04-16-The RedBall Project art installation, Centraal Station, Antwerp, Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg
+BingWallPaper-2024-04-16-暮色中的曼哈顿下城联合广场，纽约，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg
+BingWallPaper-2024-04-17-Union Square in lower Manhattan at twilight, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg
