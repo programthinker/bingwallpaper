@@ -611,3 +611,5 @@ BingWallPaper-2024-04-15-香波城堡，中央-卢瓦尔河谷大区，法国-4K
 BingWallPaper-2024-04-16-The RedBall Project art installation, Centraal Station, Antwerp, Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.RedBallBelgium_EN-US3314192425_UHD.jpg
 BingWallPaper-2024-04-16-暮色中的曼哈顿下城联合广场，纽约，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.UnionSquareNYC_ZH-CN1533018653_UHD.jpg
 BingWallPaper-2024-04-17-Union Square in lower Manhattan at twilight, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg
+BingWallPaper-2024-04-17-春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringCub_ZH-CN1643833378_UHD.jpg
+BingWallPaper-2024-04-18-American black bear cub in spring, Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg
