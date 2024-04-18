@@ -613,3 +613,5 @@ BingWallPaper-2024-04-16-暮色中的曼哈顿下城联合广场，纽约，美�
 BingWallPaper-2024-04-17-Union Square in lower Manhattan at twilight, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg
 BingWallPaper-2024-04-17-春天的美洲黑熊幼崽，仙纳度国家公园，弗吉尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringCub_ZH-CN1643833378_UHD.jpg
 BingWallPaper-2024-04-18-American black bear cub in spring, Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg
+BingWallPaper-2024-04-18-中世纪城墙，阿维拉，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AvilaSpain_ZH-CN1792280503_UHD.jpg
+BingWallPaper-2024-04-19-Medieval city walls, Ávila, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg
