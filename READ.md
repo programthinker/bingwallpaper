@@ -615,3 +615,5 @@ BingWallPaper-2024-04-17-春天的美洲黑熊幼崽，仙纳度国家公园，�
 BingWallPaper-2024-04-18-American black bear cub in spring, Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg
 BingWallPaper-2024-04-18-中世纪城墙，阿维拉，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AvilaSpain_ZH-CN1792280503_UHD.jpg
 BingWallPaper-2024-04-19-Medieval city walls, Ávila, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg
+BingWallPaper-2024-04-19-布罗德加环，奥克尼岛，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg
+BingWallPaper-2024-04-20-The Ring of Brodgar, Orkney, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg
