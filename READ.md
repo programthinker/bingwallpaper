@@ -617,3 +617,5 @@ BingWallPaper-2024-04-18-中世纪城墙，阿维拉，西班牙-4K.jpg&&https:/
 BingWallPaper-2024-04-19-Medieval city walls, Ávila, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg
 BingWallPaper-2024-04-19-布罗德加环，奥克尼岛，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.OrkneyStones_ZH-CN2287350110_UHD.jpg
 BingWallPaper-2024-04-20-The Ring of Brodgar, Orkney, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg
+BingWallPaper-2024-04-20-日出时分的大棱镜泉，美国怀俄明州黄石国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneGeyser_ZH-CN3441008468_UHD.jpg
+BingWallPaper-2024-04-21-Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg
