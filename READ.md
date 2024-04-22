@@ -621,3 +621,5 @@ BingWallPaper-2024-04-20-日出时分的大棱镜泉，美国怀俄明州黄石�
 BingWallPaper-2024-04-21-Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg
 BingWallPaper-2024-04-21-Cades Cove ，大雾山国家公园，田纳西州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CadesCove_ZH-CN3950297181_UHD.jpg
 BingWallPaper-2024-04-22-Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg
+BingWallPaper-2024-04-22-绿海龟，圣地亚哥，加利福尼亚，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayTurtle_ZH-CN4642042701_UHD.jpg
+BingWallPaper-2024-04-23-Green sea turtle, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg
