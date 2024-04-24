@@ -625,3 +625,5 @@ BingWallPaper-2024-04-22-绿海龟，圣地亚哥，加利福尼亚，美国-4K.
 BingWallPaper-2024-04-23-Green sea turtle, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.EarthDayTurtle_EN-US4769423754_UHD.jpg
 BingWallPaper-2024-04-23-三一学院图书馆，都柏林，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.TrinityDublin_ZH-CN7902993255_UHD.jpg
 BingWallPaper-2024-04-24-Library of Trinity College Dublin, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.TrinityDublin_EN-US5011442234_UHD.jpg
+BingWallPaper-2024-04-24-盛开的白延龄草，安大略省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.TrilliumOntario_ZH-CN8327395975_UHD.jpg
+BingWallPaper-2024-04-25-White trilliums blooming in Ontario, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.TrilliumOntario_EN-US5180679465_UHD.jpg
