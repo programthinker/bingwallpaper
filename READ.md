@@ -633,3 +633,5 @@ BingWallPaper-2024-04-26-卡拉洛奇树，又名生命之树，卡拉洛奇海�
 BingWallPaper-2024-04-27-Tree of Life, Kalaloch Beach, Olympic National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.KalalochTree_EN-US5565386489_UHD.jpg
 BingWallPaper-2024-04-27-澳大利亚花园里的白种安氏蜂鸟，加州大学圣克鲁兹分校植物园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LeucisticHummingbird_ZH-CN2921653789_UHD.jpg
 BingWallPaper-2024-04-28-Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California-4K.jpg&&https://cn.bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg
+BingWallPaper-2024-04-28-瓜达卢佩山脉国家公园日出时的埃尔卡皮坦山，德克萨斯州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg
+BingWallPaper-2024-04-29-El Capitan at sunrise in Guadalupe Mountains National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg
