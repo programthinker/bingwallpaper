@@ -635,3 +635,5 @@ BingWallPaper-2024-04-27-澳大利亚花园里的白种安氏蜂鸟，加州大�
 BingWallPaper-2024-04-28-Leucistic Anna's hummingbird in the Australian Garden, UC Santa Cruz Arboretum, California-4K.jpg&&https://cn.bing.com/th?id=OHR.LeucisticHummingbird_EN-US5796079642_UHD.jpg
 BingWallPaper-2024-04-28-瓜达卢佩山脉国家公园日出时的埃尔卡皮坦山，德克萨斯州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GuadalupeTexas_ZH-CN3911419948_UHD.jpg
 BingWallPaper-2024-04-29-El Capitan at sunrise in Guadalupe Mountains National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg
+BingWallPaper-2024-04-29-福建土楼，福建省历史文化遗产建筑，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg
+BingWallPaper-2024-04-30-Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg
