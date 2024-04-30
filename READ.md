@@ -637,3 +637,5 @@ BingWallPaper-2024-04-28-瓜达卢佩山脉国家公园日出时的埃尔卡皮�
 BingWallPaper-2024-04-29-El Capitan at sunrise in Guadalupe Mountains National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.GuadalupeTexas_EN-US5906260854_UHD.jpg
 BingWallPaper-2024-04-29-福建土楼，福建省历史文化遗产建筑，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.TulouFujian_ZH-CN4287018074_UHD.jpg
 BingWallPaper-2024-04-30-Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg
+BingWallPaper-2024-04-30-清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg
+BingWallPaper-2024-05-01-Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg
