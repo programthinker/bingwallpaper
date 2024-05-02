@@ -641,3 +641,5 @@ BingWallPaper-2024-04-30-清晨雨中的猎豹，恩杜图平原，恩戈罗恩�
 BingWallPaper-2024-05-01-Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg
 BingWallPaper-2024-05-01-夏威夷花环-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg
 BingWallPaper-2024-05-02-Hawaiian lei flower garlands-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg
+BingWallPaper-2024-05-02-蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg
+BingWallPaper-2024-05-03-Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg
