@@ -643,3 +643,5 @@ BingWallPaper-2024-05-01-夏威夷花环-4K.jpg&&https://cn.bing.com/th?id=OHR.H
 BingWallPaper-2024-05-02-Hawaiian lei flower garlands-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg
 BingWallPaper-2024-05-02-蓝龙熔岩流，月球陨石坑国家纪念碑和保护区，爱达荷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CratersOfTheMoon_ZH-CN8971565042_UHD.jpg
 BingWallPaper-2024-05-03-Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho-4K.jpg&&https://cn.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg
+BingWallPaper-2024-05-03-春天盛开的沙漠毒菊，索诺拉沙漠，亚利桑那州-4K.jpg&&https://cn.bing.com/th?id=OHR.SonoranSpring_ZH-CN9246678734_UHD.jpg
+BingWallPaper-2024-05-04-Brittlebushes blooming in springtime, Sonoran Desert, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg
