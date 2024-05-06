@@ -649,3 +649,5 @@ BingWallPaper-2024-05-04-斯凯利格·迈克尔岛上一座古老修道院的�
 BingWallPaper-2024-05-05-Ruins of an ancient monastery on the island of Skellig Michael, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg
 BingWallPaper-2024-05-05-圣米格尔德阿连德的柱廊，瓜那华托州，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.SanMiguelAllende_ZH-CN1840507091_UHD.jpg
 BingWallPaper-2024-05-06-Colonnade in San Miguel de Allende, Guanajuato, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg
+BingWallPaper-2024-05-06-罗奇斯山脊，英格兰峰区-4K.jpg&&https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_ZH-CN2657532467_UHD.jpg
+BingWallPaper-2024-05-07-The Roaches, Peak District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg
