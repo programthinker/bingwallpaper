@@ -653,3 +653,5 @@ BingWallPaper-2024-05-06-罗奇斯山脊，英格兰峰区-4K.jpg&&https://cn.bi
 BingWallPaper-2024-05-07-The Roaches, Peak District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg
 BingWallPaper-2024-05-07-一只小鸭子在水草地上游泳，萨福克郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleDuckling_ZH-CN2922471258_UHD.jpg
 BingWallPaper-2024-05-08-A duckling swimming in a water meadow, Suffolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg
+BingWallPaper-2024-05-08-伊夫堡，马赛，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.PortMarseille_ZH-CN3194394496_UHD.jpg
+BingWallPaper-2024-05-09-View of Château d'If in the port of Marseille, France-4K.jpg&&https://cn.bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg
