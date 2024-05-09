@@ -655,3 +655,5 @@ BingWallPaper-2024-05-07-一只小鸭子在水草地上游泳，萨福克郡，�
 BingWallPaper-2024-05-08-A duckling swimming in a water meadow, Suffolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg
 BingWallPaper-2024-05-08-伊夫堡，马赛，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.PortMarseille_ZH-CN3194394496_UHD.jpg
 BingWallPaper-2024-05-09-View of Château d'If in the port of Marseille, France-4K.jpg&&https://cn.bing.com/th?id=OHR.PortMarseille_EN-US0558123049_UHD.jpg
+BingWallPaper-2024-05-09-埃米尔甘公园的郁金香，伊斯坦布尔，土耳其-4K.jpg&&https://cn.bing.com/th?id=OHR.EmirganPark_ZH-CN3394557999_UHD.jpg
+BingWallPaper-2024-05-10-Tulips at Emirgan Park in Istanbul, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg
