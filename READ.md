@@ -659,3 +659,5 @@ BingWallPaper-2024-05-09-埃米尔甘公园的郁金香，伊斯坦布尔，土�
 BingWallPaper-2024-05-10-Tulips at Emirgan Park in Istanbul, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg
 BingWallPaper-2024-05-10-米苏尔岛，拉贾安帕群岛，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_ZH-CN3557473032_UHD.jpg
 BingWallPaper-2024-05-11-Misool, Raja Ampat Islands, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg
+BingWallPaper-2024-05-11-树枝上栖息的靛蓝彩鹀，德克萨斯州-4K.jpg&&https://cn.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg
+BingWallPaper-2024-05-12-An indigo bunting perched on a branch, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg
