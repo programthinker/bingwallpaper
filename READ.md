@@ -661,3 +661,5 @@ BingWallPaper-2024-05-10-米苏尔岛，拉贾安帕群岛，印度尼西亚-4K.
 BingWallPaper-2024-05-11-Misool, Raja Ampat Islands, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg
 BingWallPaper-2024-05-11-树枝上栖息的靛蓝彩鹀，德克萨斯州-4K.jpg&&https://cn.bing.com/th?id=OHR.TexasIndigoBunting_ZH-CN3699392300_UHD.jpg
 BingWallPaper-2024-05-12-An indigo bunting perched on a branch, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg
+BingWallPaper-2024-05-12-潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_UHD.jpg
+BingWallPaper-2024-05-13-Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg
