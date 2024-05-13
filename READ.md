@@ -663,3 +663,5 @@ BingWallPaper-2024-05-11-树枝上栖息的靛蓝彩鹀，德克萨斯州-4K.jpg
 BingWallPaper-2024-05-12-An indigo bunting perched on a branch, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.TexasIndigoBunting_EN-US0916417036_UHD.jpg
 BingWallPaper-2024-05-12-潘帕省草原上的雌性原驼和它新出生的宝宝，阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.GuanacoMother_ZH-CN3856540256_UHD.jpg
 BingWallPaper-2024-05-13-Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg
+BingWallPaper-2024-05-13-鱼河大峡谷，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NamibiaCanyon_ZH-CN3973338246_UHD.jpg
+BingWallPaper-2024-05-14-Fish River Canyon, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg
