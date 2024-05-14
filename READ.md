@@ -665,3 +665,5 @@ BingWallPaper-2024-05-12-潘帕省草原上的雌性原驼和它新出生的宝�
 BingWallPaper-2024-05-13-Guanaco mother and newborn baby in grassland, La Pampa Province, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.GuanacoMother_EN-US1023542218_UHD.jpg
 BingWallPaper-2024-05-13-鱼河大峡谷，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NamibiaCanyon_ZH-CN3973338246_UHD.jpg
 BingWallPaper-2024-05-14-Fish River Canyon, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg
+BingWallPaper-2024-05-14-通往大房间的走道，卡尔斯巴德洞穴国家公园，新墨西哥州-4K.jpg&&https://cn.bing.com/th?id=OHR.CarlsbadNP_ZH-CN4136753542_UHD.jpg
+BingWallPaper-2024-05-15-Walkway leading into the Big Room, Carlsbad Caverns, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg
