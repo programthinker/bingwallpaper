@@ -667,3 +667,5 @@ BingWallPaper-2024-05-13-鱼河大峡谷，纳米比亚-4K.jpg&&https://cn.bing.
 BingWallPaper-2024-05-14-Fish River Canyon, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg
 BingWallPaper-2024-05-14-通往大房间的走道，卡尔斯巴德洞穴国家公园，新墨西哥州-4K.jpg&&https://cn.bing.com/th?id=OHR.CarlsbadNP_ZH-CN4136753542_UHD.jpg
 BingWallPaper-2024-05-15-Walkway leading into the Big Room, Carlsbad Caverns, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg
+BingWallPaper-2024-05-15-焦特布尔蓝色之城，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueCityIndia_ZH-CN4275229255_UHD.jpg
+BingWallPaper-2024-05-16-The Blue City of Jodhpur, India-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg
