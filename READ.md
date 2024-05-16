@@ -669,3 +669,5 @@ BingWallPaper-2024-05-14-通往大房间的走道，卡尔斯巴德洞穴国家�
 BingWallPaper-2024-05-15-Walkway leading into the Big Room, Carlsbad Caverns, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg
 BingWallPaper-2024-05-15-焦特布尔蓝色之城，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueCityIndia_ZH-CN4275229255_UHD.jpg
 BingWallPaper-2024-05-16-The Blue City of Jodhpur, India-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg
+BingWallPaper-2024-05-16-维戈的兰德大桥，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_UHD.jpg
+BingWallPaper-2024-05-17-'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China-4K.jpg&&https://cn.bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg
