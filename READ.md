@@ -671,3 +671,5 @@ BingWallPaper-2024-05-15-焦特布尔蓝色之城，印度-4K.jpg&&https://cn.bi
 BingWallPaper-2024-05-16-The Blue City of Jodhpur, India-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueCityIndia_EN-US1593809891_UHD.jpg
 BingWallPaper-2024-05-16-维戈的兰德大桥，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ReconquistaVigo_ZH-CN4619580424_UHD.jpg
 BingWallPaper-2024-05-17-'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China-4K.jpg&&https://cn.bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg
+BingWallPaper-2024-05-17-塔兰吉雷国家公园的非洲象家族，坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg
+BingWallPaper-2024-05-18-A family of African elephants in Tarangire National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg
