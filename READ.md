@@ -673,3 +673,5 @@ BingWallPaper-2024-05-16-维戈的兰德大桥，西班牙-4K.jpg&&https://cn.bi
 BingWallPaper-2024-05-17-'Feelings are Facts,' by artist Olafur Eliasson and architect Ma Yansong, Beijing, China-4K.jpg&&https://cn.bing.com/th?id=OHR.DayOfLight_EN-US1723401316_UHD.jpg
 BingWallPaper-2024-05-17-塔兰吉雷国家公园的非洲象家族，坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.TarangireElephants_ZH-CN5447385839_UHD.jpg
 BingWallPaper-2024-05-18-A family of African elephants in Tarangire National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg
+BingWallPaper-2024-05-18-破碎群岛，环太平洋国家公园保护区，不列颠哥伦比亚省温哥华岛，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg
+BingWallPaper-2024-05-19-Blue whale skeleton in the Natural History Museum, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg
