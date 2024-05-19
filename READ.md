@@ -675,3 +675,5 @@ BingWallPaper-2024-05-17-塔兰吉雷国家公园的非洲象家族，坦桑尼�
 BingWallPaper-2024-05-18-A family of African elephants in Tarangire National Park, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg
 BingWallPaper-2024-05-18-破碎群岛，环太平洋国家公园保护区，不列颠哥伦比亚省温哥华岛，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.PacificRimNationalPark_ZH-CN5809123424_UHD.jpg
 BingWallPaper-2024-05-19-Blue whale skeleton in the Natural History Museum, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg
+BingWallPaper-2024-05-19-韦尔纳扎村，五渔村，利古里亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg
+BingWallPaper-2024-05-20-Village of Vernazza, Cinque Terre, Liguria, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg
