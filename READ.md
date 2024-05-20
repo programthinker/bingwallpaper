@@ -677,3 +677,5 @@ BingWallPaper-2024-05-18-破碎群岛，环太平洋国家公园保护区，不�
 BingWallPaper-2024-05-19-Blue whale skeleton in the Natural History Museum, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg
 BingWallPaper-2024-05-19-韦尔纳扎村，五渔村，利古里亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VernazzaItaly_ZH-CN6245826569_UHD.jpg
 BingWallPaper-2024-05-20-Village of Vernazza, Cinque Terre, Liguria, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg
+BingWallPaper-2024-05-20-蜜蜂照料蜂巢-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg
+BingWallPaper-2024-05-21-Bee tending a honeycomb-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg
