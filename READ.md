@@ -679,3 +679,5 @@ BingWallPaper-2024-05-19-韦尔纳扎村，五渔村，利古里亚，意大利-
 BingWallPaper-2024-05-20-Village of Vernazza, Cinque Terre, Liguria, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg
 BingWallPaper-2024-05-20-蜜蜂照料蜂巢-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneycombBee_ZH-CN6572760814_UHD.jpg
 BingWallPaper-2024-05-21-Bee tending a honeycomb-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg
+BingWallPaper-2024-05-21-卡梅隆高地茶园，马来西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg
+BingWallPaper-2024-05-22-Cameron Highlands tea plantation, Malaysia-4K.jpg&&https://cn.bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg
