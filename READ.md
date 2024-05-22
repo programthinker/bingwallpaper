@@ -681,3 +681,5 @@ BingWallPaper-2024-05-20-蜜蜂照料蜂巢-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2024-05-21-Bee tending a honeycomb-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg
 BingWallPaper-2024-05-21-卡梅隆高地茶园，马来西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg
 BingWallPaper-2024-05-22-Cameron Highlands tea plantation, Malaysia-4K.jpg&&https://cn.bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg
+BingWallPaper-2024-05-22-塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg
+BingWallPaper-2024-05-23-Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg
