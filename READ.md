@@ -683,3 +683,5 @@ BingWallPaper-2024-05-21-卡梅隆高地茶园，马来西亚-4K.jpg&&https://cn
 BingWallPaper-2024-05-22-Cameron Highlands tea plantation, Malaysia-4K.jpg&&https://cn.bing.com/th?id=OHR.MalaysiaTea_EN-US3322214623_UHD.jpg
 BingWallPaper-2024-05-22-塔斯马尼亚高山黄桉（假少花桉），费尔德山国家公园，塔斯马尼亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowGumTasmania_ZH-CN6975160884_UHD.jpg
 BingWallPaper-2024-05-23-Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg
+BingWallPaper-2024-05-24-阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg
+BingWallPaper-2024-05-25-Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg
