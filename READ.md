@@ -685,3 +685,5 @@ BingWallPaper-2024-05-22-塔斯马尼亚高山黄桉（假少花桉），费尔�
 BingWallPaper-2024-05-23-Tasmanian snow gum trees, Mount Field National Park, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowGumTasmania_EN-US4058572259_UHD.jpg
 BingWallPaper-2024-05-24-阿尼斯克洛峡谷，奥德萨和佩尔迪多山国家公园，韦斯卡，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaNationalPark_ZH-CN8545620273_UHD.jpg
 BingWallPaper-2024-05-25-Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg
+BingWallPaper-2024-05-25-阿伊特本哈杜，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_UHD.jpg
+BingWallPaper-2024-05-26-Aït Benhaddou, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg
