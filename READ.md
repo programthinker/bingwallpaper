@@ -687,3 +687,5 @@ BingWallPaper-2024-05-24-阿尼斯克洛峡谷，奥德萨和佩尔迪多山国�
 BingWallPaper-2024-05-25-Añisclo Canyon, Ordesa y Monte Perdido National Park, Huesca, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaNationalPark_EN-US4779461538_UHD.jpg
 BingWallPaper-2024-05-25-阿伊特本哈杜，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_ZH-CN8742267428_UHD.jpg
 BingWallPaper-2024-05-26-Aït Benhaddou, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg
+BingWallPaper-2024-05-26-香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MethowWildflowers_ZH-CN8926661958_UHD.jpg
+BingWallPaper-2024-05-27-Balsamroot and lupines, Methow Valley, North Cascades, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg
