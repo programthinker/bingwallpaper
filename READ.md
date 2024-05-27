@@ -689,3 +689,5 @@ BingWallPaper-2024-05-25-阿伊特本哈杜，摩洛哥-4K.jpg&&https://cn.bing.
 BingWallPaper-2024-05-26-Aït Benhaddou, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoBenhaddou_EN-US4848616753_UHD.jpg
 BingWallPaper-2024-05-26-香根和羽扇豆，梅索谷，北喀斯喀特，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MethowWildflowers_ZH-CN8926661958_UHD.jpg
 BingWallPaper-2024-05-27-Balsamroot and lupines, Methow Valley, North Cascades, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.MethowWildflowers_EN-US4937353385_UHD.jpg
+BingWallPaper-2024-05-27-塞斯特里莱万特的沉默湾，利古里亚大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SestriLevante_ZH-CN9286254645_UHD.jpg
+BingWallPaper-2024-05-28-Field of flags set up for Memorial Day-4K.jpg&&https://cn.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg
