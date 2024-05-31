@@ -697,3 +697,5 @@ BingWallPaper-2024-05-29-青春期的欧洲水獭，斯佩尔维湖，苏格兰�
 BingWallPaper-2024-05-30-Eurasian otters, Loch Spelve, Isle of Mull, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg
 BingWallPaper-2024-05-30-一片斜纹松和锯齿草大沼泽地国家公园，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.Everglades90th_ZH-CN9853372570_UHD.jpg
 BingWallPaper-2024-05-31-A stand of slash pines and sawgrass prairie, Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg
+BingWallPaper-2024-05-31-冈纳塞德，斯韦尔代尔，约克郡谷地国家公园，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg
+BingWallPaper-2024-06-01-Gunnerside, Swaledale, Yorkshire Dales National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg
