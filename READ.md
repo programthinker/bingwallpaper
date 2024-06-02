@@ -701,3 +701,5 @@ BingWallPaper-2024-05-31-冈纳塞德，斯韦尔代尔，约克郡谷地国家�
 BingWallPaper-2024-06-01-Gunnerside, Swaledale, Yorkshire Dales National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg
 BingWallPaper-2024-06-01-帝王棕榈树，里约热内卢植物园，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.CancaoDoExilio_ZH-CN1012675104_UHD.jpg
 BingWallPaper-2024-06-02-San Francisco City Hall lit up in rainbow lights for Pride, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PrideMonthSF_EN-US6251373281_UHD.jpg
+BingWallPaper-2024-06-02-普卢马纳克的灯塔，阿摩尔滨海省，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MenRuz_ZH-CN2021725181_UHD.jpg
+BingWallPaper-2024-06-03-Flowers blooming in a garden, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg
