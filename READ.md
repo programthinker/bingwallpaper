@@ -705,3 +705,5 @@ BingWallPaper-2024-06-02-普卢马纳克的灯塔，阿摩尔滨海省，法国-
 BingWallPaper-2024-06-03-Flowers blooming in a garden, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GardenWeek_EN-US6333815527_UHD.jpg
 BingWallPaper-2024-06-03-哥本哈根的自行车，丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.CopenhagenBicycles_ZH-CN3047958346_UHD.jpg
 BingWallPaper-2024-06-04-Bicycles in Copenhagen, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg
+BingWallPaper-2024-06-04-黑胸蜂虎，巴迪亚国家公园，尼泊尔-4K.jpg&&https://cn.bing.com/th?id=OHR.ChestnutBeeEater_ZH-CN3514753872_UHD.jpg
+BingWallPaper-2024-06-05-Chestnut-headed bee-eaters, Bardia National Park, Nepal-4K.jpg&&https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg
