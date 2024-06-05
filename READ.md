@@ -707,3 +707,5 @@ BingWallPaper-2024-06-03-哥本哈根的自行车，丹麦-4K.jpg&&https://cn.bi
 BingWallPaper-2024-06-04-Bicycles in Copenhagen, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.CopenhagenBicycles_EN-US6431027482_UHD.jpg
 BingWallPaper-2024-06-04-黑胸蜂虎，巴迪亚国家公园，尼泊尔-4K.jpg&&https://cn.bing.com/th?id=OHR.ChestnutBeeEater_ZH-CN3514753872_UHD.jpg
 BingWallPaper-2024-06-05-Chestnut-headed bee-eaters, Bardia National Park, Nepal-4K.jpg&&https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg
+BingWallPaper-2024-06-05-马达加斯加的马苏阿拉国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.MadagascarRiver_ZH-CN3842472014_UHD.jpg
+BingWallPaper-2024-06-06-Masoala National Park in Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg
