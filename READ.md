@@ -709,3 +709,5 @@ BingWallPaper-2024-06-04-黑胸蜂虎，巴迪亚国家公园，尼泊尔-4K.jpg
 BingWallPaper-2024-06-05-Chestnut-headed bee-eaters, Bardia National Park, Nepal-4K.jpg&&https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg
 BingWallPaper-2024-06-05-马达加斯加的马苏阿拉国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.MadagascarRiver_ZH-CN3842472014_UHD.jpg
 BingWallPaper-2024-06-06-Masoala National Park in Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg
+BingWallPaper-2024-06-06-蓬德高鸟类公园的大红鹳，卡玛格，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.CamargueFlamingos_ZH-CN4176922228_UHD.jpg
+BingWallPaper-2024-06-07-Les Braves monument on Omaha Beach, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg
