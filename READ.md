@@ -711,3 +711,5 @@ BingWallPaper-2024-06-05-马达加斯加的马苏阿拉国家公园-4K.jpg&&http
 BingWallPaper-2024-06-06-Masoala National Park in Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg
 BingWallPaper-2024-06-06-蓬德高鸟类公园的大红鹳，卡玛格，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.CamargueFlamingos_ZH-CN4176922228_UHD.jpg
 BingWallPaper-2024-06-07-Les Braves monument on Omaha Beach, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg
+BingWallPaper-2024-06-07-座头鲸家族，荷兰港，阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackFamily_ZH-CN4336100531_UHD.jpg
+BingWallPaper-2024-06-08-Family of humpback whales, Dutch Harbor, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg
