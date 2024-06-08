@@ -713,3 +713,5 @@ BingWallPaper-2024-06-06-蓬德高鸟类公园的大红鹳，卡玛格，法国-
 BingWallPaper-2024-06-07-Les Braves monument on Omaha Beach, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg
 BingWallPaper-2024-06-07-座头鲸家族，荷兰港，阿拉斯加州-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackFamily_ZH-CN4336100531_UHD.jpg
 BingWallPaper-2024-06-08-Family of humpback whales, Dutch Harbor, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg
+BingWallPaper-2024-06-08-复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KillikRiverAlaska_ZH-CN5736211272_UHD.jpg
+BingWallPaper-2024-06-09-Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg
