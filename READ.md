@@ -715,3 +715,5 @@ BingWallPaper-2024-06-07-座头鲸家族，荷兰港，阿拉斯加州-4K.jpg&&h
 BingWallPaper-2024-06-08-Family of humpback whales, Dutch Harbor, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg
 BingWallPaper-2024-06-08-复活节溪和基利克河的交汇处，北极之门国家公园，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KillikRiverAlaska_ZH-CN5736211272_UHD.jpg
 BingWallPaper-2024-06-09-Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg
+BingWallPaper-2024-06-09-巴尔德纳斯雷亚尔斯自然公园，巴德纳斯，纳瓦拉，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.BardenasBiosphere_ZH-CN6198033700_UHD.jpg
+BingWallPaper-2024-06-10-Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg
