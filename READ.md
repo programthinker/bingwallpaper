@@ -719,3 +719,5 @@ BingWallPaper-2024-06-09-巴尔德纳斯雷亚尔斯自然公园，巴德纳斯�
 BingWallPaper-2024-06-10-Bardenas Reales Biosphere Reserve and Natural Park, Bardenas, Navarra, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.BardenasBiosphere_EN-US6936891495_UHD.jpg
 BingWallPaper-2024-06-10-龙舟池日出，集美区，厦门，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonBoatFestival2024_ZH-CN6619827853_UHD.jpg
 BingWallPaper-2024-06-11-Osaka at night, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg
+BingWallPaper-2024-06-11-热带稀树草原上的南非剑羚，博茨瓦纳大草原-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokBotswana_ZH-CN7507199339_UHD.jpg
+BingWallPaper-2024-06-12-Southern gemsbok in the savanna, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg
