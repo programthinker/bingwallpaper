@@ -721,3 +721,5 @@ BingWallPaper-2024-06-10-龙舟池日出，集美区，厦门，中国-4K.jpg&&h
 BingWallPaper-2024-06-11-Osaka at night, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg
 BingWallPaper-2024-06-11-热带稀树草原上的南非剑羚，博茨瓦纳大草原-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokBotswana_ZH-CN7507199339_UHD.jpg
 BingWallPaper-2024-06-12-Southern gemsbok in the savanna, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg
+BingWallPaper-2024-06-12-大弯国家公园上空的银河，得克萨斯州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_UHD.jpg
+BingWallPaper-2024-06-13-Milky Way over Big Bend National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg
