@@ -723,3 +723,5 @@ BingWallPaper-2024-06-11-热带稀树草原上的南非剑羚，博茨瓦纳大�
 BingWallPaper-2024-06-12-Southern gemsbok in the savanna, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg
 BingWallPaper-2024-06-12-大弯国家公园上空的银河，得克萨斯州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendMilkyWay_ZH-CN7709015605_UHD.jpg
 BingWallPaper-2024-06-13-Milky Way over Big Bend National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg
+BingWallPaper-2024-06-13-雷吉斯坦广场的外立面马赛克，撒马尔罕，乌兹别克斯坦撒-4K.jpg&&https://cn.bing.com/th?id=OHR.RegistanUzbekistan_ZH-CN7850329702_UHD.jpg
+BingWallPaper-2024-06-14-Mosaic façade in Registan Square, Samarkand, Uzbekistan-4K.jpg&&https://cn.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg
