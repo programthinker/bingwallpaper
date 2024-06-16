@@ -729,3 +729,5 @@ BingWallPaper-2024-06-14-佩姬湾灯塔，新斯科舍省，加拿大-4K.jpg&&h
 BingWallPaper-2024-06-15-Flag display at the Washington Monument, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg
 BingWallPaper-2024-06-15-在纳扎雷冲浪的冲浪者，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.NazareWave_ZH-CN4575182192_UHD.jpg
 BingWallPaper-2024-06-16-Surfer riding a wave in Nazaré, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg
+BingWallPaper-2024-06-16-赤狐父子，华盛顿，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg
+BingWallPaper-2024-06-17-Red fox father and kit, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg
