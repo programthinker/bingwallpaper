@@ -731,3 +731,5 @@ BingWallPaper-2024-06-15-在纳扎雷冲浪的冲浪者，葡萄牙-4K.jpg&&http
 BingWallPaper-2024-06-16-Surfer riding a wave in Nazaré, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg
 BingWallPaper-2024-06-16-赤狐父子，华盛顿，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RedFoxDad_ZH-CN4894022141_UHD.jpg
 BingWallPaper-2024-06-17-Red fox father and kit, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg
+BingWallPaper-2024-06-17-绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_UHD.jpg
+BingWallPaper-2024-06-18-Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg
