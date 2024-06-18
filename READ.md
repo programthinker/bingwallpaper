@@ -733,3 +733,5 @@ BingWallPaper-2024-06-16-赤狐父子，华盛顿，美国-4K.jpg&&https://cn.bi
 BingWallPaper-2024-06-17-Red fox father and kit, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg
 BingWallPaper-2024-06-17-绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.HummingThistle_ZH-CN5057539905_UHD.jpg
 BingWallPaper-2024-06-18-Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg
+BingWallPaper-2024-06-18-日出时的羽扇豆田和教堂，斯奈山半岛，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg
+BingWallPaper-2024-06-19-Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg
