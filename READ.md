@@ -735,3 +735,5 @@ BingWallPaper-2024-06-17-绿顶辉蜂鸟与巨型蓟，穆埃尔特山，哥斯�
 BingWallPaper-2024-06-18-Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg
 BingWallPaper-2024-06-18-日出时的羽扇豆田和教堂，斯奈山半岛，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.LupinIceland_ZH-CN5329147708_UHD.jpg
 BingWallPaper-2024-06-19-Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg
+BingWallPaper-2024-06-19-库克斯港的水塔，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg
+BingWallPaper-2024-06-20-Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg
