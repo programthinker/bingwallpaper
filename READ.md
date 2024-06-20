@@ -737,3 +737,5 @@ BingWallPaper-2024-06-18-日出时的羽扇豆田和教堂，斯奈山半岛，�
 BingWallPaper-2024-06-19-Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg
 BingWallPaper-2024-06-19-库克斯港的水塔，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.CuxhavenTower_ZH-CN5580118944_UHD.jpg
 BingWallPaper-2024-06-20-Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg
+BingWallPaper-2024-06-20-科基诺，古代巨石观测站，北马其顿-4K.jpg&&https://cn.bing.com/th?id=OHR.KokinoMacedonia_ZH-CN6029529601_UHD.jpg
+BingWallPaper-2024-06-21-Kokino, an ancient megalithic observatory, North Macedonia-4K.jpg&&https://cn.bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg
