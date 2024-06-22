@@ -741,3 +741,5 @@ BingWallPaper-2024-06-20-科基诺，古代巨石观测站，北马其顿-4K.jpg
 BingWallPaper-2024-06-21-Kokino, an ancient megalithic observatory, North Macedonia-4K.jpg&&https://cn.bing.com/th?id=OHR.KokinoMacedonia_EN-US0466604378_UHD.jpg
 BingWallPaper-2024-06-21-蓝色水面上的渔船航拍图，郴州市，湖南省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.SummerSolstice2024_ZH-CN6141918663_UHD.jpg
 BingWallPaper-2024-06-22-Reticulated giraffe mother greeting calf, Lewa Wildlife Conservancy, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.LewaGiraffe_EN-US0571205457_UHD.jpg
+BingWallPaper-2024-06-22-亚马逊雨林，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilRainforest_ZH-CN6432366530_UHD.jpg
+BingWallPaper-2024-06-23-Amazon rainforest, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg
