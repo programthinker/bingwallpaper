@@ -745,3 +745,5 @@ BingWallPaper-2024-06-22-亚马逊雨林，巴西-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2024-06-23-Amazon rainforest, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilRainforest_EN-US0704211658_UHD.jpg
 BingWallPaper-2024-06-23-达卡环形交叉路口的鸟瞰图，孟加拉国-4K.jpg&&https://cn.bing.com/th?id=OHR.DhakaBangladesh_ZH-CN6777866162_UHD.jpg
 BingWallPaper-2024-06-24-Aerial view of an intersection in Dhaka, Bangladesh-4K.jpg&&https://cn.bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg
+BingWallPaper-2024-06-24-克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FloresIsland_ZH-CN6930246149_UHD.jpg
+BingWallPaper-2024-06-25-Volcanic crater lakes on Kelimutu, Flores, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg
