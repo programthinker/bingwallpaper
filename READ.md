@@ -747,3 +747,5 @@ BingWallPaper-2024-06-23-达卡环形交叉路口的鸟瞰图，孟加拉国-4K.
 BingWallPaper-2024-06-24-Aerial view of an intersection in Dhaka, Bangladesh-4K.jpg&&https://cn.bing.com/th?id=OHR.DhakaBangladesh_EN-US0835586345_UHD.jpg
 BingWallPaper-2024-06-24-克里穆图的火山口湖，弗洛勒斯岛，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FloresIsland_ZH-CN6930246149_UHD.jpg
 BingWallPaper-2024-06-25-Volcanic crater lakes on Kelimutu, Flores, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg
+BingWallPaper-2024-06-25-火浪岩层，火焰谷州立公园，内华达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_UHD.jpg
+BingWallPaper-2024-06-26-Fire Wave, a rock formation in Valley of Fire State Park, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg
