@@ -749,3 +749,5 @@ BingWallPaper-2024-06-24-克里穆图的火山口湖，弗洛勒斯岛，印度�
 BingWallPaper-2024-06-25-Volcanic crater lakes on Kelimutu, Flores, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg
 BingWallPaper-2024-06-25-火浪岩层，火焰谷州立公园，内华达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FireWave_ZH-CN7110736577_UHD.jpg
 BingWallPaper-2024-06-26-Fire Wave, a rock formation in Valley of Fire State Park, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg
+BingWallPaper-2024-06-26-考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_UHD.jpg
+BingWallPaper-2024-06-27-Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg
