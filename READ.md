@@ -751,3 +751,5 @@ BingWallPaper-2024-06-25-火浪岩层，火焰谷州立公园，内华达州，�
 BingWallPaper-2024-06-26-Fire Wave, a rock formation in Valley of Fire State Park, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg
 BingWallPaper-2024-06-26-考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威西，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CardinalfishAnemone_ZH-CN7249037417_UHD.jpg
 BingWallPaper-2024-06-27-Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg
+BingWallPaper-2024-06-27-黄昏时分的圣母百花大教堂，佛罗伦萨，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceDuomo_ZH-CN7379412586_UHD.jpg
+BingWallPaper-2024-06-28-Duomo Santa Maria del Fiore at dusk, Florence, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg
