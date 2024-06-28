@@ -753,3 +753,5 @@ BingWallPaper-2024-06-26-考氏鳍竺鲷与海葵，蓝碧海峡，北苏拉威�
 BingWallPaper-2024-06-27-Juvenile Banggai cardinalfish with sea anemone, Lembeh Strait, North Sulawesi, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.CardinalfishAnemone_EN-US1278259894_UHD.jpg
 BingWallPaper-2024-06-27-黄昏时分的圣母百花大教堂，佛罗伦萨，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceDuomo_ZH-CN7379412586_UHD.jpg
 BingWallPaper-2024-06-28-Duomo Santa Maria del Fiore at dusk, Florence, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg
+BingWallPaper-2024-06-28-诺曼底海岸的绍塞群岛，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChauseyIslands_ZH-CN4241103934_UHD.jpg
+BingWallPaper-2024-06-29-Pride flags at Christopher Park, Stonewall National Monument, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg
