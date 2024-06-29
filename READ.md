@@ -755,3 +755,5 @@ BingWallPaper-2024-06-27-黄昏时分的圣母百花大教堂，佛罗伦萨，�
 BingWallPaper-2024-06-28-Duomo Santa Maria del Fiore at dusk, Florence, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.FlorenceDuomo_EN-US1448955167_UHD.jpg
 BingWallPaper-2024-06-28-诺曼底海岸的绍塞群岛，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChauseyIslands_ZH-CN4241103934_UHD.jpg
 BingWallPaper-2024-06-29-Pride flags at Christopher Park, Stonewall National Monument, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg
+BingWallPaper-2024-06-29-宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.NienhagenMecklenburg_ZH-CN4482269700_UHD.jpg
+BingWallPaper-2024-06-30-Cyclists in the 2013 Tour de France, Corsica, France-4K.jpg&&https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg
