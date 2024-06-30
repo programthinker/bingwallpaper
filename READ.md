@@ -757,3 +757,5 @@ BingWallPaper-2024-06-28-诺曼底海岸的绍塞群岛，法国-4K.jpg&&https:/
 BingWallPaper-2024-06-29-Pride flags at Christopher Park, Stonewall National Monument, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristopherPark_EN-US9362447266_UHD.jpg
 BingWallPaper-2024-06-29-宁哈根的山毛榉林，梅克伦堡-前波美拉尼亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.NienhagenMecklenburg_ZH-CN4482269700_UHD.jpg
 BingWallPaper-2024-06-30-Cyclists in the 2013 Tour de France, Corsica, France-4K.jpg&&https://cn.bing.com/th?id=OHR.TourCorsica_EN-US3437831281_UHD.jpg
+BingWallPaper-2024-06-30-乌布寺庙的石雕,巴厘岛,印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg
+BingWallPaper-2024-07-01-Stone carving at a temple in Ubud, Bali, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg
