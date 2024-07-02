@@ -761,3 +761,5 @@ BingWallPaper-2024-06-30-乌布寺庙的石雕,巴厘岛,印度尼西亚-4K.jpg&
 BingWallPaper-2024-07-01-Stone carving at a temple in Ubud, Bali, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg
 BingWallPaper-2024-07-01-菲斯加德灯塔，埃斯奎莫尔特港，科尔伍德，不列颠哥伦比亚省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.FisgardLighthouse_ZH-CN5474064913_UHD.jpg
 BingWallPaper-2024-07-02-Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg
+BingWallPaper-2024-07-02-意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg
+BingWallPaper-2024-07-03-The Roman amphitheater of Italica, near Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg
