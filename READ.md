@@ -763,3 +763,5 @@ BingWallPaper-2024-07-01-菲斯加德灯塔，埃斯奎莫尔特港，科尔伍�
 BingWallPaper-2024-07-02-Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg
 BingWallPaper-2024-07-02-意大利卡，桑蒂蓬塞的一座古罗马城市，塞维利亚，安达卢西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalicaRuins_ZH-CN5932138207_UHD.jpg
 BingWallPaper-2024-07-03-The Roman amphitheater of Italica, near Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg
+BingWallPaper-2024-07-03-猫鼬家族-4K.jpg&&https://cn.bing.com/th?id=OHR.MeerkatManor_ZH-CN2486051161_UHD.jpg
+BingWallPaper-2024-07-04-Meerkat family-4K.jpg&&https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg
