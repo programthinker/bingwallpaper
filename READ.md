@@ -767,3 +767,5 @@ BingWallPaper-2024-07-03-猫鼬家族-4K.jpg&&https://cn.bing.com/th?id=OHR.Meer
 BingWallPaper-2024-07-04-Meerkat family-4K.jpg&&https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg
 BingWallPaper-2024-07-04-扎哈拉德拉谢拉，安达卢西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ZaharaDeLaSierra_ZH-CN6500182265_UHD.jpg
 BingWallPaper-2024-07-05-Fireworks over the Hudson River on the Fourth of July, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.HudsonFireworks_EN-US4304057228_UHD.jpg
+BingWallPaper-2024-07-05-丹翠雨林的诺亚海滩，昆士兰州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NoahBeach_ZH-CN6676061324_UHD.jpg
+BingWallPaper-2024-07-06-Noah Beach in Daintree Rainforest, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg
