@@ -771,3 +771,5 @@ BingWallPaper-2024-07-05-丹翠雨林的诺亚海滩，昆士兰州，澳大利�
 BingWallPaper-2024-07-06-Noah Beach in Daintree Rainforest, Queensland, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.NoahBeach_EN-US4383778312_UHD.jpg
 BingWallPaper-2024-07-06-从康威河眺望康威城堡，威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.ConwyRiver_ZH-CN6871799250_UHD.jpg
 BingWallPaper-2024-07-07-Conwy Castle looking over the River Conwy, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg
+BingWallPaper-2024-07-07-越南安沛省木仓寨的水稻梯田-4K.jpg&&https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_UHD.jpg
+BingWallPaper-2024-07-08-Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_UHD.jpg
