@@ -773,3 +773,5 @@ BingWallPaper-2024-07-06-从康威河眺望康威城堡，威尔士-4K.jpg&&http
 BingWallPaper-2024-07-07-Conwy Castle looking over the River Conwy, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.ConwyRiver_EN-US4472231451_UHD.jpg
 BingWallPaper-2024-07-07-越南安沛省木仓寨的水稻梯田-4K.jpg&&https://cn.bing.com/th?id=OHR.YenBaiTerraces_ZH-CN7224453501_UHD.jpg
 BingWallPaper-2024-07-08-Rice terraces of Mù Cang Chải, Yên Bái province, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.YenBaiTerraces_EN-US4542290370_UHD.jpg
+BingWallPaper-2024-07-08-野生蓝莓-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBlueberries_ZH-CN7643097235_UHD.jpg
+BingWallPaper-2024-07-09-Blueberries growing in the wild-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg
