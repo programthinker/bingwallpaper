@@ -777,3 +777,5 @@ BingWallPaper-2024-07-08-野生蓝莓-4K.jpg&&https://cn.bing.com/th?id=OHR.Norw
 BingWallPaper-2024-07-09-Blueberries growing in the wild-4K.jpg&&https://cn.bing.com/th?id=OHR.NorwayBlueberries_EN-US4598733420_UHD.jpg
 BingWallPaper-2024-07-09-阿根廷拉里奥哈省塔兰帕亚国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.TalampayaNP_ZH-CN7905859626_UHD.jpg
 BingWallPaper-2024-07-10-Talampaya National Park, La Rioja province, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.TalampayaNP_EN-US4761770918_UHD.jpg
+BingWallPaper-2024-07-10-领簇舌巨嘴鸟，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.CollaredAracari_ZH-CN8787234462_UHD.jpg
+BingWallPaper-2024-07-11-Collared aracari, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg
