@@ -781,3 +781,5 @@ BingWallPaper-2024-07-10-领簇舌巨嘴鸟，哥斯达黎加-4K.jpg&&https://cn
 BingWallPaper-2024-07-11-Collared aracari, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.CollaredAracari_EN-US4924599176_UHD.jpg
 BingWallPaper-2024-07-11-甘吉，西西里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.GangiSicily_ZH-CN9086944081_UHD.jpg
 BingWallPaper-2024-07-12-Gangi, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg
+BingWallPaper-2024-07-12-雷尼尔山国家公园的野花，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RainierWildflowers_ZH-CN7392242353_UHD.jpg
+BingWallPaper-2024-07-13-Wildflowers in Mount Rainier National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg
