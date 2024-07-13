@@ -783,3 +783,5 @@ BingWallPaper-2024-07-11-甘吉，西西里岛，意大利-4K.jpg&&https://cn.bi
 BingWallPaper-2024-07-12-Gangi, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.GangiSicily_EN-US5325083744_UHD.jpg
 BingWallPaper-2024-07-12-雷尼尔山国家公园的野花，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RainierWildflowers_ZH-CN7392242353_UHD.jpg
 BingWallPaper-2024-07-13-Wildflowers in Mount Rainier National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg
+BingWallPaper-2024-07-13-卡帕多西亚的童话烟囱和窑洞，土耳其-4K.jpg&&https://cn.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_UHD.jpg
+BingWallPaper-2024-07-14-Fairy chimneys and cave dwellings in Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg
