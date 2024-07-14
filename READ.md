@@ -785,3 +785,5 @@ BingWallPaper-2024-07-12-雷尼尔山国家公园的野花，华盛顿州，美�
 BingWallPaper-2024-07-13-Wildflowers in Mount Rainier National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.RainierWildflowers_EN-US8010104719_UHD.jpg
 BingWallPaper-2024-07-13-卡帕多西亚的童话烟囱和窑洞，土耳其-4K.jpg&&https://cn.bing.com/th?id=OHR.CappadociaRocks_ZH-CN9283633861_UHD.jpg
 BingWallPaper-2024-07-14-Fairy chimneys and cave dwellings in Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg
+BingWallPaper-2024-07-14-女王花园群岛的镰形真鲨，古巴-4K.jpg&&https://cn.bing.com/th?id=OHR.SilkyShark_ZH-CN9523915460_UHD.jpg
+BingWallPaper-2024-07-15-Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg
