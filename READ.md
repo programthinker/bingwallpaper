@@ -787,3 +787,5 @@ BingWallPaper-2024-07-13-卡帕多西亚的童话烟囱和窑洞，土耳其-4K.
 BingWallPaper-2024-07-14-Fairy chimneys and cave dwellings in Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.CappadociaRocks_EN-US8162611189_UHD.jpg
 BingWallPaper-2024-07-14-女王花园群岛的镰形真鲨，古巴-4K.jpg&&https://cn.bing.com/th?id=OHR.SilkyShark_ZH-CN9523915460_UHD.jpg
 BingWallPaper-2024-07-15-Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg
+BingWallPaper-2024-07-15-立石公园，神奈川县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.TateishiPark_ZH-CN9903501398_UHD.jpg
+BingWallPaper-2024-07-16-Tateishi Park, Kanagawa Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg
