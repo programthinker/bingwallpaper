@@ -791,3 +791,5 @@ BingWallPaper-2024-07-15-立石公园，神奈川县，日本-4K.jpg&&https://cn
 BingWallPaper-2024-07-16-Tateishi Park, Kanagawa Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg
 BingWallPaper-2024-07-16-斯卡拉布雷的新石器时代遗迹,奥克尼群岛,苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.AncientOrkney_ZH-CN1110318653_UHD.jpg
 BingWallPaper-2024-07-17-The Neolithic settlement of Skara Brae, Orkney, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg
+BingWallPaper-2024-07-17-德国中世纪城市罗滕堡-4K.jpg&&https://cn.bing.com/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg
+BingWallPaper-2024-07-18-Medieval city of Rothenburg ob der Tauber, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg
