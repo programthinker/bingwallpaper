@@ -793,3 +793,5 @@ BingWallPaper-2024-07-16-斯卡拉布雷的新石器时代遗迹,奥克尼群岛
 BingWallPaper-2024-07-17-The Neolithic settlement of Skara Brae, Orkney, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg
 BingWallPaper-2024-07-17-德国中世纪城市罗滕堡-4K.jpg&&https://cn.bing.com/th?id=OHR.MedievalRothenburg_ZH-CN1522774136_UHD.jpg
 BingWallPaper-2024-07-18-Medieval city of Rothenburg ob der Tauber, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg
+BingWallPaper-2024-07-18-印度洋的珊瑚礁，马约特岛，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteCoral_ZH-CN8106288026_UHD.jpg
+BingWallPaper-2024-07-19-Coral reef in the Indian Ocean, Mayotte, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg
