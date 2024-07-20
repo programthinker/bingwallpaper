@@ -797,3 +797,5 @@ BingWallPaper-2024-07-18-印度洋的珊瑚礁，马约特岛，法国-4K.jpg&&h
 BingWallPaper-2024-07-19-Coral reef in the Indian Ocean, Mayotte, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteCoral_EN-US8740739098_UHD.jpg
 BingWallPaper-2024-07-19-河岸上的一只年轻美洲虎，潘塔纳尔，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungJaguar_ZH-CN2249923627_UHD.jpg
 BingWallPaper-2024-07-20-A young jaguar on a riverbank, Pantanal, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungJaguar_EN-US8866928893_UHD.jpg
+BingWallPaper-2024-07-20-月球-4K.jpg&&https://cn.bing.com/th?id=OHR.MineralMoon_ZH-CN2555749456_UHD.jpg
+BingWallPaper-2024-07-21-The moon-4K.jpg&&https://cn.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg
