@@ -801,3 +801,5 @@ BingWallPaper-2024-07-20-月球-4K.jpg&&https://cn.bing.com/th?id=OHR.MineralMoo
 BingWallPaper-2024-07-21-The moon-4K.jpg&&https://cn.bing.com/th?id=OHR.MineralMoon_EN-US8936600169_UHD.jpg
 BingWallPaper-2024-07-21-肯杜瓦村的木制渔船，桑给巴尔，坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ZanzibarBoats_ZH-CN2915388379_UHD.jpg
 BingWallPaper-2024-07-22-Wooden fishing boats at Kendwa, Zanzibar, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.ZanzibarBoats_EN-US9009404410_UHD.jpg
+BingWallPaper-2024-07-22-树上的中国小熊猫, 成都, 四川省, 中国-4K.jpg&&https://cn.bing.com/th?id=OHR.TheGreatHeat2024_ZH-CN5359095820_UHD.jpg
+BingWallPaper-2024-07-23-Hammock camping on a lake in Central Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg
