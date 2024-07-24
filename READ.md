@@ -805,3 +805,5 @@ BingWallPaper-2024-07-22-树上的中国小熊猫, 成都, 四川省, 中国-4K.
 BingWallPaper-2024-07-23-Hammock camping on a lake in Central Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg
 BingWallPaper-2024-07-23-迈索尼城堡，麦西尼亚州，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.MethoniCastle_ZH-CN4054146065_UHD.jpg
 BingWallPaper-2024-07-24-Methoni Castle, Messenia, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg
+BingWallPaper-2024-07-24-北约克郡的黑面羊羊群，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg
+BingWallPaper-2024-07-25-Flock of Swaledale sheep in North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg
