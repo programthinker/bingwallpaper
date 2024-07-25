@@ -807,3 +807,5 @@ BingWallPaper-2024-07-23-迈索尼城堡，麦西尼亚州，希腊-4K.jpg&&http
 BingWallPaper-2024-07-24-Methoni Castle, Messenia, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg
 BingWallPaper-2024-07-24-北约克郡的黑面羊羊群，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SheepCousins_ZH-CN4262132476_UHD.jpg
 BingWallPaper-2024-07-25-Flock of Swaledale sheep in North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg
+BingWallPaper-2024-07-25-大烟山国家公园的森林小道，田纳西州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SmokyMountainTrail_ZH-CN4691667074_UHD.jpg
+BingWallPaper-2024-07-26-Forest path in Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg
