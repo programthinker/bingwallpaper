@@ -811,3 +811,5 @@ BingWallPaper-2024-07-25-大烟山国家公园的森林小道，田纳西州，�
 BingWallPaper-2024-07-26-Forest path in Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg
 BingWallPaper-2024-07-26-塞纳河上的新桥，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.PontNeuf_ZH-CN3158359446_UHD.jpg
 BingWallPaper-2024-07-27-Pont Neuf over the Seine, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg
+BingWallPaper-2024-07-27-摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg
+BingWallPaper-2024-07-28-Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg
