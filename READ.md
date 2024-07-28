@@ -813,3 +813,5 @@ BingWallPaper-2024-07-26-塞纳河上的新桥，巴黎，法国-4K.jpg&&https:/
 BingWallPaper-2024-07-27-Pont Neuf over the Seine, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg
 BingWallPaper-2024-07-27-摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinelandVineyards_ZH-CN3332101688_UHD.jpg
 BingWallPaper-2024-07-28-Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg
+BingWallPaper-2024-07-28-斯科讷省海滩上的浴场小屋，瑞典-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg
+BingWallPaper-2024-07-29-Bathing huts on the beach in Skåne County, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg
