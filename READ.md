@@ -815,3 +815,5 @@ BingWallPaper-2024-07-27-摩泽尔河谷的葡萄园，莱茵兰-法尔茨，德
 BingWallPaper-2024-07-28-Vineyards in the Mosel Valley, Rhineland-Palatinate, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinelandVineyards_EN-US5864380431_UHD.jpg
 BingWallPaper-2024-07-28-斯科讷省海滩上的浴场小屋，瑞典-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachHutsSweden_ZH-CN4193150313_UHD.jpg
 BingWallPaper-2024-07-29-Bathing huts on the beach in Skåne County, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg
+BingWallPaper-2024-07-29-科贝国家公园的老虎兄弟，北阿坎德邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_UHD.jpg
+BingWallPaper-2024-07-30-Tiger siblings in Jim Corbett National Park, Uttarakhand, India-4K.jpg&&https://cn.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg
