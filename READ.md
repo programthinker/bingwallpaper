@@ -817,3 +817,5 @@ BingWallPaper-2024-07-28-斯科讷省海滩上的浴场小屋，瑞典-4K.jpg&&h
 BingWallPaper-2024-07-29-Bathing huts on the beach in Skåne County, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachHutsSweden_EN-US6029381108_UHD.jpg
 BingWallPaper-2024-07-29-科贝国家公园的老虎兄弟，北阿坎德邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.CorbettTigers_ZH-CN6927569938_UHD.jpg
 BingWallPaper-2024-07-30-Tiger siblings in Jim Corbett National Park, Uttarakhand, India-4K.jpg&&https://cn.bing.com/th?id=OHR.CorbettTigers_EN-US6183924498_UHD.jpg
+BingWallPaper-2024-07-30-圣吉米尼亚诺，锡耶纳，托斯卡纳大区，意大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.GimignanoTuscany_ZH-CN8059318824_UHD.jpg
+BingWallPaper-2024-07-31-San Gimignano, Siena, Tuscany, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.GimignanoTuscany_EN-US6339668180_UHD.jpg
