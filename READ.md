@@ -823,3 +823,5 @@ BingWallPaper-2024-07-31-石林，日落点，布莱斯峡谷国家公园，犹�
 BingWallPaper-2024-08-01-Hoodoos, Sunset Point, Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.HoodoosBryce_EN-US6434628044_UHD.jpg
 BingWallPaper-2024-08-01-卡普泰湖水上市场，兰加马蒂，孟加拉-4K.jpg&&https://cn.bing.com/th?id=OHR.KaptaiLake_ZH-CN9085738832_UHD.jpg
 BingWallPaper-2024-08-02-Floating market, Kaptai Lake, Rangamati, Bangladesh-4K.jpg&&https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg
+BingWallPaper-2024-08-02-象鼻湾，维尔京群岛国家公园，圣约翰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.TrunkBay_ZH-CN9268190655_UHD.jpg
+BingWallPaper-2024-08-03-Trunk Bay, St. John, Virgin Islands National Park-4K.jpg&&https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg
