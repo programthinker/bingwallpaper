@@ -825,3 +825,5 @@ BingWallPaper-2024-08-01-卡普泰湖水上市场，兰加马蒂，孟加拉-4K.
 BingWallPaper-2024-08-02-Floating market, Kaptai Lake, Rangamati, Bangladesh-4K.jpg&&https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg
 BingWallPaper-2024-08-02-象鼻湾，维尔京群岛国家公园，圣约翰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.TrunkBay_ZH-CN9268190655_UHD.jpg
 BingWallPaper-2024-08-03-Trunk Bay, St. John, Virgin Islands National Park-4K.jpg&&https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg
+BingWallPaper-2024-08-03-天生三桥，重庆武隆岩溶国家地质公园，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.WulongKarst_ZH-CN9386528384_UHD.jpg
+BingWallPaper-2024-08-04-Three Natural Bridges, Wulong Karst National Geology Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg
