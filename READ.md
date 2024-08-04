@@ -827,3 +827,5 @@ BingWallPaper-2024-08-02-象鼻湾，维尔京群岛国家公园，圣约翰岛-
 BingWallPaper-2024-08-03-Trunk Bay, St. John, Virgin Islands National Park-4K.jpg&&https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg
 BingWallPaper-2024-08-03-天生三桥，重庆武隆岩溶国家地质公园，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.WulongKarst_ZH-CN9386528384_UHD.jpg
 BingWallPaper-2024-08-04-Three Natural Bridges, Wulong Karst National Geology Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg
+BingWallPaper-2024-08-04-黑斑羚和红嘴牛椋鸟，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaOxpecker_ZH-CN9652434873_UHD.jpg
+BingWallPaper-2024-08-05-Impala and red-billed oxpecker, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg
