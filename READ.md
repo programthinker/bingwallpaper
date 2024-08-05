@@ -829,3 +829,5 @@ BingWallPaper-2024-08-03-天生三桥，重庆武隆岩溶国家地质公园，�
 BingWallPaper-2024-08-04-Three Natural Bridges, Wulong Karst National Geology Park, China-4K.jpg&&https://cn.bing.com/th?id=OHR.WulongKarst_EN-US6752358338_UHD.jpg
 BingWallPaper-2024-08-04-黑斑羚和红嘴牛椋鸟，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaOxpecker_ZH-CN9652434873_UHD.jpg
 BingWallPaper-2024-08-05-Impala and red-billed oxpecker, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg
+BingWallPaper-2024-08-05-薰衣草田，赫特福德郡 ，英格兰，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireLavender_ZH-CN9771886404_UHD.jpg
+BingWallPaper-2024-08-06-Lavender field, Hertfordshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg
