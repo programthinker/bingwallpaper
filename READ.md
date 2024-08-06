@@ -831,3 +831,5 @@ BingWallPaper-2024-08-04-黑斑羚和红嘴牛椋鸟，南非-4K.jpg&&https://cn
 BingWallPaper-2024-08-05-Impala and red-billed oxpecker, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg
 BingWallPaper-2024-08-05-薰衣草田，赫特福德郡 ，英格兰，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireLavender_ZH-CN9771886404_UHD.jpg
 BingWallPaper-2024-08-06-Lavender field, Hertfordshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg
+BingWallPaper-2024-08-06-莫洛基尼，毛伊岛，夏威夷，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_UHD.jpg
+BingWallPaper-2024-08-07-Molokini Crater, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg
