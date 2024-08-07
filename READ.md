@@ -833,3 +833,5 @@ BingWallPaper-2024-08-05-薰衣草田，赫特福德郡 ，英格兰，英国-4K
 BingWallPaper-2024-08-06-Lavender field, Hertfordshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg
 BingWallPaper-2024-08-06-莫洛基尼，毛伊岛，夏威夷，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MolokiniHawaii_ZH-CN0375050872_UHD.jpg
 BingWallPaper-2024-08-07-Molokini Crater, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg
+BingWallPaper-2024-08-07-圣约瑟夫北码头内灯和外灯，密歇根州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg
+BingWallPaper-2024-08-08-St. Joseph North Pier Inner and Outer Lights, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg
