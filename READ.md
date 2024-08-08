@@ -835,3 +835,5 @@ BingWallPaper-2024-08-06-莫洛基尼，毛伊岛，夏威夷，美国-4K.jpg&&h
 BingWallPaper-2024-08-07-Molokini Crater, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.MolokiniHawaii_EN-US7128254175_UHD.jpg
 BingWallPaper-2024-08-07-圣约瑟夫北码头内灯和外灯，密歇根州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MichiganLighthouse_ZH-CN0581377136_UHD.jpg
 BingWallPaper-2024-08-08-St. Joseph North Pier Inner and Outer Lights, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg
+BingWallPaper-2024-08-08-横斑腹小鸮，曼谷，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedOwlet_ZH-CN0841935587_UHD.jpg
+BingWallPaper-2024-08-09-Spotted owlet, Bangkok, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg
