@@ -839,3 +839,5 @@ BingWallPaper-2024-08-08-横斑腹小鸮，曼谷，泰国-4K.jpg&&https://cn.bi
 BingWallPaper-2024-08-09-Spotted owlet, Bangkok, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg
 BingWallPaper-2024-08-09-库斯科附近的萨克塞华曼印加遗址，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.IncaRuinPeru_ZH-CN5068602301_UHD.jpg
 BingWallPaper-2024-08-10-Inca ruin of Sacsayhuamán near Cusco, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg
+BingWallPaper-2024-08-10-约书亚树国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaTreeNP_ZH-CN5917576674_UHD.jpg
+BingWallPaper-2024-08-11-Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg
