@@ -841,3 +841,5 @@ BingWallPaper-2024-08-09-库斯科附近的萨克塞华曼印加遗址，秘鲁-
 BingWallPaper-2024-08-10-Inca ruin of Sacsayhuamán near Cusco, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg
 BingWallPaper-2024-08-10-约书亚树国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaTreeNP_ZH-CN5917576674_UHD.jpg
 BingWallPaper-2024-08-11-Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg
+BingWallPaper-2024-08-11-通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg
+BingWallPaper-2024-08-12-Wooden path to Kennedy Lake, Vancouver Island, BC, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg
