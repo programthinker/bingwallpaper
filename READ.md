@@ -843,3 +843,5 @@ BingWallPaper-2024-08-10-约书亚树国家公园，加利福尼亚州，美国-
 BingWallPaper-2024-08-11-Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg
 BingWallPaper-2024-08-11-通往肯尼迪湖的木板路，温哥华岛，加拿大不列颠哥伦比亚省-4K.jpg&&https://cn.bing.com/th?id=OHR.TofinoVancouver_ZH-CN6920493172_UHD.jpg
 BingWallPaper-2024-08-12-Wooden path to Kennedy Lake, Vancouver Island, BC, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg
+BingWallPaper-2024-08-12-非洲象，肯尼亚安博塞利国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantsAmboseli_ZH-CN7596989061_UHD.jpg
+BingWallPaper-2024-08-13-African elephants, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg
