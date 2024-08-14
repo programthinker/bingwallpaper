@@ -847,3 +847,5 @@ BingWallPaper-2024-08-12-非洲象，肯尼亚安博塞利国家公园-4K.jpg&&h
 BingWallPaper-2024-08-13-African elephants, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg
 BingWallPaper-2024-08-13-特拉斯契卡自然公园悬崖，杜吉奥托克岛，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DugiOtokCroatia_ZH-CN7791404392_UHD.jpg
 BingWallPaper-2024-08-14-Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg
+BingWallPaper-2024-08-14-澳洲魔蜥，瓦塔卡国家公园，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg
+BingWallPaper-2024-08-15-Thorny devil, Watarrka National Park, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg
