@@ -849,3 +849,5 @@ BingWallPaper-2024-08-13-特拉斯契卡自然公园悬崖，杜吉奥托克岛�
 BingWallPaper-2024-08-14-Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg
 BingWallPaper-2024-08-14-澳洲魔蜥，瓦塔卡国家公园，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WatarrkaLizard_ZH-CN7974623468_UHD.jpg
 BingWallPaper-2024-08-15-Thorny devil, Watarrka National Park, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg
+BingWallPaper-2024-08-15-韩松洞，风牙者榜国家公园，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.HangCave_ZH-CN9217507365_UHD.jpg
+BingWallPaper-2024-08-16-Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg
