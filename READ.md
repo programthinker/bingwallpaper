@@ -853,3 +853,5 @@ BingWallPaper-2024-08-15-韩松洞，风牙者榜国家公园，越南-4K.jpg&&h
 BingWallPaper-2024-08-16-Hang Sơn Đoòng cave, Phong Nha-Kẻ Bàng National Park, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.HangCave_EN-US9374263509_UHD.jpg
 BingWallPaper-2024-08-16-长岛温泉乐园的过山车，三重县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanRollerCoaster_ZH-CN7954058301_UHD.jpg
 BingWallPaper-2024-08-17-Roller coaster in Nagashima Spa Land, Mie prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg
+BingWallPaper-2024-08-17-阿尔凡齐纳灯塔，阿尔加维，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg
+BingWallPaper-2024-08-18-Alfanzina Lighthouse, Algarve, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg
