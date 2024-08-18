@@ -855,3 +855,5 @@ BingWallPaper-2024-08-16-长岛温泉乐园的过山车，三重县，日本-4K.
 BingWallPaper-2024-08-17-Roller coaster in Nagashima Spa Land, Mie prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanRollerCoaster_EN-US9463845683_UHD.jpg
 BingWallPaper-2024-08-17-阿尔凡齐纳灯塔，阿尔加维，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_ZH-CN9704515669_UHD.jpg
 BingWallPaper-2024-08-18-Alfanzina Lighthouse, Algarve, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg
+BingWallPaper-2024-08-18-日落时的亨廷顿海滩码头，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg
+BingWallPaper-2024-08-19-Huntington Beach Pier, California, at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg
