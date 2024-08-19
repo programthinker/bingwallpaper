@@ -857,3 +857,5 @@ BingWallPaper-2024-08-17-阿尔凡齐纳灯塔，阿尔加维，葡萄牙-4K.jpg
 BingWallPaper-2024-08-18-Alfanzina Lighthouse, Algarve, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg
 BingWallPaper-2024-08-18-日落时的亨廷顿海滩码头，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HuntingtonBeach_ZH-CN0368691951_UHD.jpg
 BingWallPaper-2024-08-19-Huntington Beach Pier, California, at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg
+BingWallPaper-2024-08-19-Bufadero de la Garita，大加那利岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg
+BingWallPaper-2024-08-20-Museum of Flight, Seattle, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg
