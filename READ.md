@@ -859,3 +859,5 @@ BingWallPaper-2024-08-18-日落时的亨廷顿海滩码头，加利福尼亚州�
 BingWallPaper-2024-08-19-Huntington Beach Pier, California, at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg
 BingWallPaper-2024-08-19-Bufadero de la Garita，大加那利岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.RegataSanGines_ZH-CN0807566522_UHD.jpg
 BingWallPaper-2024-08-20-Museum of Flight, Seattle, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg
+BingWallPaper-2024-08-20-大提顿国家公园日出,怀俄明州,美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_UHD.jpg
+BingWallPaper-2024-08-21-Sunrise at Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg
