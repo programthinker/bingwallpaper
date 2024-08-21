@@ -861,3 +861,5 @@ BingWallPaper-2024-08-19-Bufadero de la Garita，大加那利岛，西班牙-4K.
 BingWallPaper-2024-08-20-Museum of Flight, Seattle, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.FlightMuseum_EN-US0151236175_UHD.jpg
 BingWallPaper-2024-08-20-大提顿国家公园日出,怀俄明州,美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonSunrise_ZH-CN1118823848_UHD.jpg
 BingWallPaper-2024-08-21-Sunrise at Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg
+BingWallPaper-2024-08-21-纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.NazcaBooby_ZH-CN1534931799_UHD.jpg
+BingWallPaper-2024-08-22-Nazca boobies, Wolf Island, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg
