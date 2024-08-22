@@ -863,3 +863,5 @@ BingWallPaper-2024-08-20-大提顿国家公园日出,怀俄明州,美国-4K.jpg&
 BingWallPaper-2024-08-21-Sunrise at Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonSunrise_EN-US0849252457_UHD.jpg
 BingWallPaper-2024-08-21-纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.NazcaBooby_ZH-CN1534931799_UHD.jpg
 BingWallPaper-2024-08-22-Nazca boobies, Wolf Island, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg
+BingWallPaper-2024-08-22-海洋城日出时的鸟瞰图，马里兰州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OceanCityMD_ZH-CN1876928284_UHD.jpg
+BingWallPaper-2024-08-23-Ocean City, Maryland, at sunrise-4K.jpg&&https://cn.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg
