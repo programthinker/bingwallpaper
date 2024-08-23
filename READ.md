@@ -865,3 +865,5 @@ BingWallPaper-2024-08-21-纳斯卡鲣鸟，沃尔夫岛，加拉帕戈斯群岛�
 BingWallPaper-2024-08-22-Nazca boobies, Wolf Island, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.NazcaBooby_EN-US0971401791_UHD.jpg
 BingWallPaper-2024-08-22-海洋城日出时的鸟瞰图，马里兰州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OceanCityMD_ZH-CN1876928284_UHD.jpg
 BingWallPaper-2024-08-23-Ocean City, Maryland, at sunrise-4K.jpg&&https://cn.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg
+BingWallPaper-2024-08-23-帕侬蓝寺，武里南府，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.PrasatPhanom_ZH-CN0445884858_UHD.jpg
+BingWallPaper-2024-08-24-Prasat Phanom Rung temple ruins, Buriram province, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg
