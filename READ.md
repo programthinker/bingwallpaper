@@ -867,3 +867,5 @@ BingWallPaper-2024-08-22-海洋城日出时的鸟瞰图，马里兰州，美国-
 BingWallPaper-2024-08-23-Ocean City, Maryland, at sunrise-4K.jpg&&https://cn.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg
 BingWallPaper-2024-08-23-帕侬蓝寺，武里南府，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.PrasatPhanom_ZH-CN0445884858_UHD.jpg
 BingWallPaper-2024-08-24-Prasat Phanom Rung temple ruins, Buriram province, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg
+BingWallPaper-2024-08-24-卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KatahdinWoods_ZH-CN0748954905_UHD.jpg
+BingWallPaper-2024-08-25-Katahdin Woods and Waters National Monument, Penobscot County, Maine-4K.jpg&&https://cn.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg
