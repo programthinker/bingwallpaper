@@ -869,3 +869,5 @@ BingWallPaper-2024-08-23-帕侬蓝寺，武里南府，泰国-4K.jpg&&https://cn
 BingWallPaper-2024-08-24-Prasat Phanom Rung temple ruins, Buriram province, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg
 BingWallPaper-2024-08-24-卡塔丁森林和水域国家纪念碑，佩诺布斯科特县，缅因州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KatahdinWoods_ZH-CN0748954905_UHD.jpg
 BingWallPaper-2024-08-25-Katahdin Woods and Waters National Monument, Penobscot County, Maine-4K.jpg&&https://cn.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg
+BingWallPaper-2024-08-25-急流湖的日出，冰川国家公园，蒙大拿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_UHD.jpg
+BingWallPaper-2024-08-26-Sunrise over Swiftcurrent Lake, Glacier National Park, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg
