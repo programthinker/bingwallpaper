@@ -871,3 +871,5 @@ BingWallPaper-2024-08-24-卡塔丁森林和水域国家纪念碑，佩诺布斯�
 BingWallPaper-2024-08-25-Katahdin Woods and Waters National Monument, Penobscot County, Maine-4K.jpg&&https://cn.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg
 BingWallPaper-2024-08-25-急流湖的日出，冰川国家公园，蒙大拿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SwiftcurrentLake_ZH-CN1513761894_UHD.jpg
 BingWallPaper-2024-08-26-Sunrise over Swiftcurrent Lake, Glacier National Park, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg
+BingWallPaper-2024-08-26-巴尔米拉环礁国家野生动物保护区，中太平洋-4K.jpg&&https://cn.bing.com/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_UHD.jpg
+BingWallPaper-2024-08-27-Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg
