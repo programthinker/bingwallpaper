@@ -873,3 +873,5 @@ BingWallPaper-2024-08-25-急流湖的日出，冰川国家公园，蒙大拿州�
 BingWallPaper-2024-08-26-Sunrise over Swiftcurrent Lake, Glacier National Park, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.SwiftcurrentLake_EN-US8272209593_UHD.jpg
 BingWallPaper-2024-08-26-巴尔米拉环礁国家野生动物保护区，中太平洋-4K.jpg&&https://cn.bing.com/th?id=OHR.PalmyraAtoll_ZH-CN1814325540_UHD.jpg
 BingWallPaper-2024-08-27-Palmyra Atoll National Wildlife Refuge, Central Pacific Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.PalmyraAtoll_EN-US8399787979_UHD.jpg
+BingWallPaper-2024-08-27-黑色凯门鳄幼崽，坦博帕塔国家保护区，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungCaiman_ZH-CN1995433788_UHD.jpg
+BingWallPaper-2024-08-28-Young black caiman, Tambopata National Reserve, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg
