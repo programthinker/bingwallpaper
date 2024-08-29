@@ -877,3 +877,5 @@ BingWallPaper-2024-08-27-黑色凯门鳄幼崽，坦博帕塔国家保护区，�
 BingWallPaper-2024-08-28-Young black caiman, Tambopata National Reserve, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungCaiman_EN-US8572688559_UHD.jpg
 BingWallPaper-2024-08-28-蒙马特和圣心大教堂，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ParalympicsParis_ZH-CN9773135851_UHD.jpg
 BingWallPaper-2024-08-29-Montmartre and Sacre Cœur, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ParalympicsParis_EN-US0355511969_UHD.jpg
+BingWallPaper-2024-08-29-富利特堡-德拉罗卡，加泰罗尼亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CastellfollitSpain_ZH-CN2990517626_UHD.jpg
+BingWallPaper-2024-08-30-Castellfollit de la Roca, Catalonia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg
