@@ -881,3 +881,5 @@ BingWallPaper-2024-08-29-富利特堡-德拉罗卡，加泰罗尼亚，西班牙
 BingWallPaper-2024-08-30-Castellfollit de la Roca, Catalonia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.CastellfollitSpain_EN-US8880313790_UHD.jpg
 BingWallPaper-2024-08-30-鸟头湾的鲸鲨，西巴布亚，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WhaleSharkDay_ZH-CN3334940631_UHD.jpg
 BingWallPaper-2024-08-31-A whale shark in Cenderawasih Bay, West Papua, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.WhaleSharkDay_EN-US8979838463_UHD.jpg
+BingWallPaper-2024-08-31-撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔及利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DjanetAlgeria_ZH-CN3458706695_UHD.jpg
+BingWallPaper-2024-09-01-Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria-4K.jpg&&https://cn.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg
