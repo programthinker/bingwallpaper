@@ -885,3 +885,5 @@ BingWallPaper-2024-08-31-撒哈拉沙漠的岩层和沙丘，贾奈特，阿尔�
 BingWallPaper-2024-09-01-Rock formations and sand dunes in the Sahara, Tassili n’Ajjer, Algeria-4K.jpg&&https://cn.bing.com/th?id=OHR.DjanetAlgeria_EN-US9175224323_UHD.jpg
 BingWallPaper-2024-09-01-泰晤士河，伦敦，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg
 BingWallPaper-2024-09-02-River Thames, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg
+BingWallPaper-2024-09-02-红绿金刚鹦鹉，南马托格罗索州，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg
+BingWallPaper-2024-09-03-'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri-4K.jpg&&https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg
