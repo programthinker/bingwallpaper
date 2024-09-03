@@ -887,3 +887,5 @@ BingWallPaper-2024-09-01-泰晤士河，伦敦，英国-4K.jpg&&https://cn.bing.
 BingWallPaper-2024-09-02-River Thames, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ThamesLondon_EN-US9385705885_UHD.jpg
 BingWallPaper-2024-09-02-红绿金刚鹦鹉，南马托格罗索州，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.BuracodasAraras_ZH-CN3881985508_UHD.jpg
 BingWallPaper-2024-09-03-'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri-4K.jpg&&https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg
+BingWallPaper-2024-09-03-迷人的水晶湖，高山湖泊，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg
+BingWallPaper-2024-09-04-Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg
