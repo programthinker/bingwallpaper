@@ -889,3 +889,5 @@ BingWallPaper-2024-09-02-红绿金刚鹦鹉，南马托格罗索州，巴西-4K.
 BingWallPaper-2024-09-03-'Power of the Titans' mural by Andrei Krautsou, North Kansas City, Missouri-4K.jpg&&https://cn.bing.com/th?id=OHR.KansasMural_EN-US9504361321_UHD.jpg
 BingWallPaper-2024-09-03-迷人的水晶湖，高山湖泊，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineLakes_ZH-CN4537389724_UHD.jpg
 BingWallPaper-2024-09-04-Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg
+BingWallPaper-2024-09-04-乌雕鸮，巴基斯坦-4K.jpg&&https://cn.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg
+BingWallPaper-2024-09-05-Dusky eagle-owls, Pakistan-4K.jpg&&https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg
