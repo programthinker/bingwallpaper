@@ -891,3 +891,5 @@ BingWallPaper-2024-09-03-迷人的水晶湖，高山湖泊，华盛顿州，美�
 BingWallPaper-2024-09-04-Crystal Lake in the Enchantments, Alpine Lakes Wilderness, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineLakes_EN-US9676616320_UHD.jpg
 BingWallPaper-2024-09-04-乌雕鸮，巴基斯坦-4K.jpg&&https://cn.bing.com/th?id=OHR.DuskyOwls_ZH-CN4729762831_UHD.jpg
 BingWallPaper-2024-09-05-Dusky eagle-owls, Pakistan-4K.jpg&&https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg
+BingWallPaper-2024-09-05-多伦多城市天际线,加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.TIFF2024_ZH-CN4896695918_UHD.jpg
+BingWallPaper-2024-09-06-Toronto city skyline seen from Lake Ontario, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg
