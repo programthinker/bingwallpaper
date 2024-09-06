@@ -893,3 +893,5 @@ BingWallPaper-2024-09-04-乌雕鸮，巴基斯坦-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2024-09-05-Dusky eagle-owls, Pakistan-4K.jpg&&https://cn.bing.com/th?id=OHR.DuskyOwls_EN-US9845705930_UHD.jpg
 BingWallPaper-2024-09-05-多伦多城市天际线,加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.TIFF2024_ZH-CN4896695918_UHD.jpg
 BingWallPaper-2024-09-06-Toronto city skyline seen from Lake Ontario, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.TIFF2024_EN-US9586964456_UHD.jpg
+BingWallPaper-2024-09-06-古老山毛榉树，格莱纳里夫森林公园，安特里姆郡，北爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.GlenariffPark_ZH-CN4667558707_UHD.jpg
+BingWallPaper-2024-09-07-Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg
