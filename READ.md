@@ -897,3 +897,5 @@ BingWallPaper-2024-09-06-古老山毛榉树，格莱纳里夫森林公园，安�
 BingWallPaper-2024-09-07-Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg
 BingWallPaper-2024-09-07-朱红蜂鸟，圣克鲁斯，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCruzHummer_ZH-CN5448262039_UHD.jpg
 BingWallPaper-2024-09-08-Anna's hummingbird, Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg
+BingWallPaper-2024-09-08-加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.Canigou_ZH-CN6145410455_UHD.jpg
+BingWallPaper-2024-09-09-Interior of the Stockholm Public Library, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg
