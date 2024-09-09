@@ -899,3 +899,5 @@ BingWallPaper-2024-09-07-朱红蜂鸟，圣克鲁斯，加利福尼亚州，美�
 BingWallPaper-2024-09-08-Anna's hummingbird, Santa Cruz, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg
 BingWallPaper-2024-09-08-加泰罗尼亚北部的圣马丁杜卡尼古修道院 ，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.Canigou_ZH-CN6145410455_UHD.jpg
 BingWallPaper-2024-09-09-Interior of the Stockholm Public Library, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg
+BingWallPaper-2024-09-09-阿根廷和巴西边境的伊瓜苏瀑布-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982_UHD.jpg
+BingWallPaper-2024-09-10-Iguazu Falls at the border of Argentina and Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg
