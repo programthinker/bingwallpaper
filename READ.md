@@ -901,3 +901,5 @@ BingWallPaper-2024-09-08-加泰罗尼亚北部的圣马丁杜卡尼古修道院 
 BingWallPaper-2024-09-09-Interior of the Stockholm Public Library, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg
 BingWallPaper-2024-09-09-阿根廷和巴西边境的伊瓜苏瀑布-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuRainbow_ZH-CN6524347982_UHD.jpg
 BingWallPaper-2024-09-10-Iguazu Falls at the border of Argentina and Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg
+BingWallPaper-2024-09-10-瓦斯科·达·伽马大桥，里斯本，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeLisbon_ZH-CN6877671644_UHD.jpg
+BingWallPaper-2024-09-11-Vasco da Gama Bridge, Lisbon, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg
