@@ -905,3 +905,5 @@ BingWallPaper-2024-09-10-瓦斯科·达·伽马大桥，里斯本，葡萄牙-4K
 BingWallPaper-2024-09-11-Vasco da Gama Bridge, Lisbon, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg
 BingWallPaper-2024-09-11-埃尔茨城堡，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.EltzCastle_ZH-CN7586749377_UHD.jpg
 BingWallPaper-2024-09-12-National September 11 Memorial & Museum, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg
+BingWallPaper-2024-09-12-留尼汪岛附近的海豚群，印度洋，法国海外省-4K.jpg&&https://cn.bing.com/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg
+BingWallPaper-2024-09-13-Dolphin pod near Réunion, overseas department of France, Indian Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg
