@@ -907,3 +907,5 @@ BingWallPaper-2024-09-11-埃尔茨城堡，德国-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2024-09-12-National September 11 Memorial & Museum, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg
 BingWallPaper-2024-09-12-留尼汪岛附近的海豚群，印度洋，法国海外省-4K.jpg&&https://cn.bing.com/th?id=OHR.DolphinReunion_ZH-CN7681290861_UHD.jpg
 BingWallPaper-2024-09-13-Dolphin pod near Réunion, overseas department of France, Indian Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.DolphinReunion_EN-US4598756391_UHD.jpg
+BingWallPaper-2024-09-13-雷耶斯角国家海岸灯塔，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PointReyes_ZH-CN7781514086_UHD.jpg
+BingWallPaper-2024-09-14-Lighthouse at Point Reyes National Seashore, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg
