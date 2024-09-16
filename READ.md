@@ -913,3 +913,5 @@ BingWallPaper-2024-09-14-阿胡汤加里基的日出，拉帕·努伊国家公�
 BingWallPaper-2024-09-15-Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg
 BingWallPaper-2024-09-15-阿科马尼奥海滩，卡拉布里亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CalabriaPeperoncino_ZH-CN8603617212_UHD.jpg
 BingWallPaper-2024-09-16-Casa del Prado, Balboa Park, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg
+BingWallPaper-2024-09-16-日出时的小袋鼠，阿德莱德河，北领地，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseWallabies_ZH-CN8725891401_UHD.jpg
+BingWallPaper-2024-09-17-Wallabies at sunrise, Adelaide River, Northern Territory, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg
