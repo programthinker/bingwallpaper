@@ -915,3 +915,5 @@ BingWallPaper-2024-09-15-阿科马尼奥海滩，卡拉布里亚，意大利-4K.
 BingWallPaper-2024-09-16-Casa del Prado, Balboa Park, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BalboaPark_EN-US5050015037_UHD.jpg
 BingWallPaper-2024-09-16-日出时的小袋鼠，阿德莱德河，北领地，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseWallabies_ZH-CN8725891401_UHD.jpg
 BingWallPaper-2024-09-17-Wallabies at sunrise, Adelaide River, Northern Territory, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg
+BingWallPaper-2024-09-17-月圆之夜的豫园，上海，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg
+BingWallPaper-2024-09-18-Mid-Autumn Festival in Gardens by the Bay, Singapore-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg
