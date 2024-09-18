@@ -917,3 +917,5 @@ BingWallPaper-2024-09-16-日出时的小袋鼠，阿德莱德河，北领地，�
 BingWallPaper-2024-09-17-Wallabies at sunrise, Adelaide River, Northern Territory, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SunriseWallabies_EN-US5210230008_UHD.jpg
 BingWallPaper-2024-09-17-月圆之夜的豫园，上海，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumnFestival2024_ZH-CN9096556094_UHD.jpg
 BingWallPaper-2024-09-18-Mid-Autumn Festival in Gardens by the Bay, Singapore-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg
+BingWallPaper-2024-09-18-郡上八幡城，岐阜县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg
+BingWallPaper-2024-09-19-Gujō Hachiman Castle, Gifu prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg
