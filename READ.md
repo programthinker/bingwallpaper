@@ -919,3 +919,5 @@ BingWallPaper-2024-09-17-月圆之夜的豫园，上海，中国-4K.jpg&&https:/
 BingWallPaper-2024-09-18-Mid-Autumn Festival in Gardens by the Bay, Singapore-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumnSingapore_EN-US5283310908_UHD.jpg
 BingWallPaper-2024-09-18-郡上八幡城，岐阜县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.GujoHachiman_ZH-CN9192289658_UHD.jpg
 BingWallPaper-2024-09-19-Gujō Hachiman Castle, Gifu prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.GujoHachiman_EN-US5502837623_UHD.jpg
+BingWallPaper-2024-09-19-埃尔博河上空的银河，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.ElbowRiver_ZH-CN9580175593_UHD.jpg
+BingWallPaper-2024-09-20-Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg
