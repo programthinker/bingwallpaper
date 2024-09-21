@@ -923,3 +923,5 @@ BingWallPaper-2024-09-19-埃尔博河上空的银河，阿尔伯塔省，加拿�
 BingWallPaper-2024-09-20-Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg
 BingWallPaper-2024-09-20-奥克拉科克岛上的奥克拉科克灯塔，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OcracokeLight_ZH-CN9810840077_UHD.jpg
 BingWallPaper-2024-09-21-Ocracoke Lighthouse on Ocracoke Island, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg
+BingWallPaper-2024-09-21-Oktoberfest in Munich at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg
+BingWallPaper-2024-09-22-Oktoberfest in Munich, Germany, at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg
