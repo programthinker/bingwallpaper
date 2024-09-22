@@ -925,3 +925,5 @@ BingWallPaper-2024-09-20-奥克拉科克岛上的奥克拉科克灯塔，北卡�
 BingWallPaper-2024-09-21-Ocracoke Lighthouse on Ocracoke Island, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg
 BingWallPaper-2024-09-21-Oktoberfest in Munich at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.MunichBeerfest_ZH-CN0304560562_UHD.jpg
 BingWallPaper-2024-09-22-Oktoberfest in Munich, Germany, at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg
+BingWallPaper-2024-09-22-巴特米尔湖，湖区国家公园，英格兰，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg
+BingWallPaper-2024-09-23-Buttermere, Lake District National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg
