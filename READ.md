@@ -927,3 +927,5 @@ BingWallPaper-2024-09-21-Oktoberfest in Munich at sunset-4K.jpg&&https://cn.bing
 BingWallPaper-2024-09-22-Oktoberfest in Munich, Germany, at sunset-4K.jpg&&https://cn.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg
 BingWallPaper-2024-09-22-巴特米尔湖，湖区国家公园，英格兰，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCumbria_ZH-CN0565958390_UHD.jpg
 BingWallPaper-2024-09-23-Buttermere, Lake District National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCumbria_EN-US3797009731_UHD.jpg
+BingWallPaper-2024-09-23-海獭，威廉王子湾,阿拉斯加州,美国-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergOtter_ZH-CN0972467238_UHD.jpg
+BingWallPaper-2024-09-24-Sea otter, Prince William Sound, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg
