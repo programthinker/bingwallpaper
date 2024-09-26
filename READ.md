@@ -933,3 +933,5 @@ BingWallPaper-2024-09-24-斯卡夫塔山的瀑布，瓦特纳冰川国家公园�
 BingWallPaper-2024-09-25-Waterfall in Skaftafell, Vatnajökull National Park, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg
 BingWallPaper-2024-09-25-巨型红杉，红杉国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantSequoias_ZH-CN2666897238_UHD.jpg
 BingWallPaper-2024-09-26-Giant sequoias, Sequoia National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg
+BingWallPaper-2024-09-26-蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg
+BingWallPaper-2024-09-27-Blue-throated toucanet, Los Quetzales National Park, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg
