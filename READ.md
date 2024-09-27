@@ -935,3 +935,5 @@ BingWallPaper-2024-09-25-巨型红杉，红杉国家公园，加利福尼亚州�
 BingWallPaper-2024-09-26-Giant sequoias, Sequoia National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg
 BingWallPaper-2024-09-26-蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleToucanet_ZH-CN2910262009_UHD.jpg
 BingWallPaper-2024-09-27-Blue-throated toucanet, Los Quetzales National Park, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg
+BingWallPaper-2024-09-27-大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg
+BingWallPaper-2024-09-28-Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg
