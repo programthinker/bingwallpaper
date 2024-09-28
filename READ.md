@@ -937,3 +937,5 @@ BingWallPaper-2024-09-26-蓝斑巨嘴鸟，洛斯戈查尔斯国家公园，哥�
 BingWallPaper-2024-09-27-Blue-throated toucanet, Los Quetzales National Park, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleToucanet_EN-US4236893251_UHD.jpg
 BingWallPaper-2024-09-27-大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg
 BingWallPaper-2024-09-28-Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg
+BingWallPaper-2024-09-28-日出时的海滩，海湾岛国家海岸，佛罗里达，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639_UHD.jpg
+BingWallPaper-2024-09-29-Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg
