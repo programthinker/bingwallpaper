@@ -939,3 +939,5 @@ BingWallPaper-2024-09-27-大运河和安康圣母教堂的鸟瞰图，威尼斯�
 BingWallPaper-2024-09-28-Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg
 BingWallPaper-2024-09-28-日出时的海滩，海湾岛国家海岸，佛罗里达，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FloridaSeashore_ZH-CN4671838639_UHD.jpg
 BingWallPaper-2024-09-29-Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg
+BingWallPaper-2024-09-29-横跨胡萨托尼克河的西康沃尔廊桥，康涅狄格州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ConnecticutBridge_ZH-CN4957862425_UHD.jpg
+BingWallPaper-2024-09-30-West Cornwall Covered Bridge over the Housatonic River, Connecticut-4K.jpg&&https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg
