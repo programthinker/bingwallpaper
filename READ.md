@@ -945,3 +945,5 @@ BingWallPaper-2024-09-30-斯匹次卑尔根岛北部的海象群，斯瓦尔巴�
 BingWallPaper-2024-10-01-Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.WalrusNorway_EN-US4658961878_UHD.jpg
 BingWallPaper-2024-10-01-禾木村的风景，新疆，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.NationalDay2024_ZH-CN7026189162_UHD.jpg
 BingWallPaper-2024-10-02-Last light on Half Dome, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg
+BingWallPaper-2024-10-02-温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WindRiverAlaska_ZH-CN7317039321_UHD.jpg
+BingWallPaper-2024-10-03-Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg
