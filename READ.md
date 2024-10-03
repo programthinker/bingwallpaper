@@ -947,3 +947,5 @@ BingWallPaper-2024-10-01-禾木村的风景，新疆，中国-4K.jpg&&https://cn
 BingWallPaper-2024-10-02-Last light on Half Dome, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.HalfDomeYosemite_EN-US4890007214_UHD.jpg
 BingWallPaper-2024-10-02-温德河，布鲁克斯山脉，北极国家野生动物保护区，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WindRiverAlaska_ZH-CN7317039321_UHD.jpg
 BingWallPaper-2024-10-03-Wind River, Brooks Range, Arctic National Wildlife Refuge, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WindRiverAlaska_EN-US4993335597_UHD.jpg
+BingWallPaper-2024-10-03-阿格拉的泰姬陵，安拉阿巴德，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.TajMahalReflection_ZH-CN7498774173_UHD.jpg
+BingWallPaper-2024-10-04-Taj Mahal in Agra, Uttar Pradesh, India-4K.jpg&&https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg
