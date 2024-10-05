@@ -951,3 +951,5 @@ BingWallPaper-2024-10-03-阿格拉的泰姬陵，安拉阿巴德，印度-4K.jpg
 BingWallPaper-2024-10-04-Taj Mahal in Agra, Uttar Pradesh, India-4K.jpg&&https://cn.bing.com/th?id=OHR.TajMahalReflection_EN-US5053333041_UHD.jpg
 BingWallPaper-2024-10-04-木星的冰卫星木卫二-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropaMoon_ZH-CN0149249980_UHD.jpg
 BingWallPaper-2024-10-05-Jupiter's icy moon Europa-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg
+BingWallPaper-2024-10-05-东察沃国家公园的非洲象，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_UHD.jpg
+BingWallPaper-2024-10-06-African elephants in Tsavo East National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg
