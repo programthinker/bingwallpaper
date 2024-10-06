@@ -953,3 +953,5 @@ BingWallPaper-2024-10-04-木星的冰卫星木卫二-4K.jpg&&https://cn.bing.com
 BingWallPaper-2024-10-05-Jupiter's icy moon Europa-4K.jpg&&https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg
 BingWallPaper-2024-10-05-东察沃国家公园的非洲象，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantTeacher_ZH-CN0543308499_UHD.jpg
 BingWallPaper-2024-10-06-African elephants in Tsavo East National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg
+BingWallPaper-2024-10-06-郊狼峡谷拱门中的白杨树，格兰峡谷休闲区，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CoyoteGulch_ZH-CN2869463336_UHD.jpg
+BingWallPaper-2024-10-07-Sorano, Tuscany, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg
