@@ -957,3 +957,5 @@ BingWallPaper-2024-10-06-郊狼峡谷拱门中的白杨树，格兰峡谷休闲�
 BingWallPaper-2024-10-07-Sorano, Tuscany, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg
 BingWallPaper-2024-10-07-法属波利尼西亚波拉波拉岛的鸟瞰图-4K.jpg&&https://cn.bing.com/th?id=OHR.BoraPapeete_ZH-CN1991283465_UHD.jpg
 BingWallPaper-2024-10-08-The Elbphilharmonie concert hall in Hamburg, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg
+BingWallPaper-2024-10-08-莫托提两鳍蛸，蓝碧海峡，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MototiOctopus_ZH-CN5778894536_UHD.jpg
+BingWallPaper-2024-10-09-Mototi octopus, Lembeh Strait, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg
