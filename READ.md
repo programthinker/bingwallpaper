@@ -959,3 +959,5 @@ BingWallPaper-2024-10-07-法属波利尼西亚波拉波拉岛的鸟瞰图-4K.jpg
 BingWallPaper-2024-10-08-The Elbphilharmonie concert hall in Hamburg, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg
 BingWallPaper-2024-10-08-莫托提两鳍蛸，蓝碧海峡，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MototiOctopus_ZH-CN5778894536_UHD.jpg
 BingWallPaper-2024-10-09-Mototi octopus, Lembeh Strait, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg
+BingWallPaper-2024-10-09-马布尔附近的白杨树，科罗拉多州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AspensColorado_ZH-CN0132780533_UHD.jpg
+BingWallPaper-2024-10-10-Aspens in the White River National Forest, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg
