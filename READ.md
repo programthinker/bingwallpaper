@@ -963,3 +963,5 @@ BingWallPaper-2024-10-09-马布尔附近的白杨树，科罗拉多州，美国-
 BingWallPaper-2024-10-10-Aspens in the White River National Forest, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg
 BingWallPaper-2024-10-10-索拉诺，托斯卡纳，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SoranoItaly_ZH-CN5842160079_UHD.jpg
 BingWallPaper-2024-10-11-Kochia, Ibaraki prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg
+BingWallPaper-2024-10-11-黄山云海，安徽省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.Chongyang2024_ZH-CN4180097837_UHD.jpg
+BingWallPaper-2024-10-12-Cape Breton Highlands, Nova Scotia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg
