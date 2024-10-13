@@ -967,3 +967,5 @@ BingWallPaper-2024-10-11-黄山云海，安徽省，中国-4K.jpg&&https://cn.bi
 BingWallPaper-2024-10-12-Cape Breton Highlands, Nova Scotia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg
 BingWallPaper-2024-10-12-林鸳鸯，魁北克省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.QuebecDuck_ZH-CN0588954873_UHD.jpg
 BingWallPaper-2024-10-13-Wood duck, Quebec, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg
+BingWallPaper-2024-10-13-塞维利亚王宫少女庭院，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg
+BingWallPaper-2024-10-14-Courtyard of the Maidens, Alcázar of Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg
