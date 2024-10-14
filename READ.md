@@ -969,3 +969,5 @@ BingWallPaper-2024-10-12-林鸳鸯，魁北克省，加拿大-4K.jpg&&https://cn
 BingWallPaper-2024-10-13-Wood duck, Quebec, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg
 BingWallPaper-2024-10-13-塞维利亚王宫少女庭院，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.AlcazarSeville_ZH-CN5581795099_UHD.jpg
 BingWallPaper-2024-10-14-Courtyard of the Maidens, Alcázar of Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg
+BingWallPaper-2024-10-14-可可海滩上的渔船，果阿邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.CocoBeach_ZH-CN7503553722_UHD.jpg
+BingWallPaper-2024-10-15-Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg
