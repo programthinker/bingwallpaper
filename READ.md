@@ -971,3 +971,5 @@ BingWallPaper-2024-10-13-塞维利亚王宫少女庭院，西班牙-4K.jpg&&http
 BingWallPaper-2024-10-14-Courtyard of the Maidens, Alcázar of Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg
 BingWallPaper-2024-10-14-可可海滩上的渔船，果阿邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.CocoBeach_ZH-CN7503553722_UHD.jpg
 BingWallPaper-2024-10-15-Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg
+BingWallPaper-2024-10-15-马拉河的角马大迁徙，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg
+BingWallPaper-2024-10-16-Great wildebeest migration at Mara River, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg
