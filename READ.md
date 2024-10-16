@@ -973,3 +973,5 @@ BingWallPaper-2024-10-14-可可海滩上的渔船，果阿邦，印度-4K.jpg&&h
 BingWallPaper-2024-10-15-Ancestral Pueblo granaries at Nankoweap, Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg
 BingWallPaper-2024-10-15-马拉河的角马大迁徙，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraMigration_ZH-CN8215566853_UHD.jpg
 BingWallPaper-2024-10-16-Great wildebeest migration at Mara River, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg
+BingWallPaper-2024-10-16-侏罗纪海岸的箭石和菊石化石，多塞特郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.FossilsDorset_ZH-CN8722623801_UHD.jpg
+BingWallPaper-2024-10-17-Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg
