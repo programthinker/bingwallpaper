@@ -975,3 +975,5 @@ BingWallPaper-2024-10-15-马拉河的角马大迁徙，肯尼亚-4K.jpg&&https:/
 BingWallPaper-2024-10-16-Great wildebeest migration at Mara River, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg
 BingWallPaper-2024-10-16-侏罗纪海岸的箭石和菊石化石，多塞特郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.FossilsDorset_ZH-CN8722623801_UHD.jpg
 BingWallPaper-2024-10-17-Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg
+BingWallPaper-2024-10-17-地肤草，茨城县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg
+BingWallPaper-2024-10-18-Frost-covered dunes on the surface of Mars-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg
