@@ -977,3 +977,5 @@ BingWallPaper-2024-10-16-侏罗纪海岸的箭石和菊石化石，多塞特郡�
 BingWallPaper-2024-10-17-Fossils of belemnites and ammonites, Jurassic Coast, Dorset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg
 BingWallPaper-2024-10-17-地肤草，茨城县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.KochiaJapan_ZH-CN9896157139_UHD.jpg
 BingWallPaper-2024-10-18-Frost-covered dunes on the surface of Mars-4K.jpg&&https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg
+BingWallPaper-2024-10-18-曼哈顿中央公园的秋天，纽约，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CentralParkAutumn_ZH-CN2757358246_UHD.jpg
+BingWallPaper-2024-10-19-Autumn in Central Park, Manhattan, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg
