@@ -981,3 +981,5 @@ BingWallPaper-2024-10-18-曼哈顿中央公园的秋天，纽约，美国-4K.jpg
 BingWallPaper-2024-10-19-Autumn in Central Park, Manhattan, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg
 BingWallPaper-2024-10-19-哈索尔神庙，邓德拉神庙群，基纳，埃及-4K.jpg&&https://cn.bing.com/th?id=OHR.DenderaTemple_ZH-CN3097745887_UHD.jpg
 BingWallPaper-2024-10-20-Temple of Hathor, Dendera Temple Complex, Qena, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg
+BingWallPaper-2024-10-20-哥斯达黎加的三趾树懒-4K.jpg&&https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg
+BingWallPaper-2024-10-21-Three-toed sloth in Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg
