@@ -983,3 +983,5 @@ BingWallPaper-2024-10-19-哈索尔神庙，邓德拉神庙群，基纳，埃及-
 BingWallPaper-2024-10-20-Temple of Hathor, Dendera Temple Complex, Qena, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg
 BingWallPaper-2024-10-20-哥斯达黎加的三趾树懒-4K.jpg&&https://cn.bing.com/th?id=OHR.SmilingSloth_ZH-CN4646662964_UHD.jpg
 BingWallPaper-2024-10-21-Three-toed sloth in Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg
+BingWallPaper-2024-10-21-乔治·史密斯州立公园的柏树，佐治亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg
+BingWallPaper-2024-10-22-Cypress trees in George L. Smith State Park, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg
