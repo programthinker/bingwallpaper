@@ -985,3 +985,5 @@ BingWallPaper-2024-10-20-哥斯达黎加的三趾树懒-4K.jpg&&https://cn.bing.
 BingWallPaper-2024-10-21-Three-toed sloth in Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg
 BingWallPaper-2024-10-21-乔治·史密斯州立公园的柏树，佐治亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCypress_ZH-CN5099875619_UHD.jpg
 BingWallPaper-2024-10-22-Cypress trees in George L. Smith State Park, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg
+BingWallPaper-2024-10-22-祖卡里宫，罗马，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg
+BingWallPaper-2024-10-23-Palazzo Zuccari, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg
