@@ -987,3 +987,5 @@ BingWallPaper-2024-10-21-乔治·史密斯州立公园的柏树，佐治亚州�
 BingWallPaper-2024-10-22-Cypress trees in George L. Smith State Park, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg
 BingWallPaper-2024-10-22-祖卡里宫，罗马，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MonsterDoor_ZH-CN6613337019_UHD.jpg
 BingWallPaper-2024-10-23-Palazzo Zuccari, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg
+BingWallPaper-2024-10-23-雪莉夫人森林和古堡遗迹，新罕布什尔州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MadameSherriCastle_ZH-CN8101580548_UHD.jpg
+BingWallPaper-2024-10-24-Madame Sherri Forest and the ruins of an old castle, New Hampshire-4K.jpg&&https://cn.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg
