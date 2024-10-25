@@ -991,3 +991,5 @@ BingWallPaper-2024-10-23-雪莉夫人森林和古堡遗迹，新罕布什尔州�
 BingWallPaper-2024-10-24-Madame Sherri Forest and the ruins of an old castle, New Hampshire-4K.jpg&&https://cn.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg
 BingWallPaper-2024-10-24-博迪州立历史公园，莫诺县，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BodieCalifornia_ZH-CN8941360519_UHD.jpg
 BingWallPaper-2024-10-25-Bodie State Historic Park, Mono County, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg
+BingWallPaper-2024-10-25-沙莫尼的勃朗峰，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg
+BingWallPaper-2024-10-26-The Mont Blanc massif, near Chamonix, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg
