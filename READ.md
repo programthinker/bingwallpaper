@@ -993,3 +993,5 @@ BingWallPaper-2024-10-24-博迪州立历史公园，莫诺县，加利福尼亚�
 BingWallPaper-2024-10-25-Bodie State Historic Park, Mono County, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg
 BingWallPaper-2024-10-25-沙莫尼的勃朗峰，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MontBlancMassif_ZH-CN9172264924_UHD.jpg
 BingWallPaper-2024-10-26-The Mont Blanc massif, near Chamonix, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg
+BingWallPaper-2024-10-26-幽灵森林，宁哈根，梅克伦堡-西波美拉尼亚，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.GhostForest_ZH-CN9648216213_UHD.jpg
+BingWallPaper-2024-10-27-Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg
