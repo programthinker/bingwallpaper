@@ -997,3 +997,5 @@ BingWallPaper-2024-10-26-幽灵森林，宁哈根，梅克伦堡-西波美拉尼
 BingWallPaper-2024-10-27-Gespensterwald, Nienhagen, Mecklenburg-West Pomerania, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg
 BingWallPaper-2024-10-27-北极熊与幼崽，丘吉尔，曼尼托巴，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearHug_ZH-CN0696077546_UHD.jpg
 BingWallPaper-2024-10-28-Polar bear mom and cub, Churchill, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg
+BingWallPaper-2024-10-28-南瓜田，维多利亚，不列颠哥伦比亚省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinMist_ZH-CN0898655859_UHD.jpg
+BingWallPaper-2024-10-29-Pumpkin field, Victoria, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg
