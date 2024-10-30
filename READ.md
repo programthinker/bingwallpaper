@@ -1001,3 +1001,5 @@ BingWallPaper-2024-10-28-南瓜田，维多利亚，不列颠哥伦比亚省，�
 BingWallPaper-2024-10-29-Pumpkin field, Victoria, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg
 BingWallPaper-2024-10-29-大雕鸮-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatOwl_ZH-CN1259534922_UHD.jpg
 BingWallPaper-2024-10-30-Great horned owl-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg
+BingWallPaper-2024-10-30-从苏格兰教堂墓地眺望爱丁堡城堡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg
+BingWallPaper-2024-10-31-View of Edinburgh Castle from a churchyard in Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg
