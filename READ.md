@@ -1003,3 +1003,5 @@ BingWallPaper-2024-10-29-大雕鸮-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatOw
 BingWallPaper-2024-10-30-Great horned owl-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg
 BingWallPaper-2024-10-30-从苏格兰教堂墓地眺望爱丁堡城堡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.HauntedEdinburgh_ZH-CN1461834159_UHD.jpg
 BingWallPaper-2024-10-31-View of Edinburgh Castle from a churchyard in Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg
+BingWallPaper-2024-10-31-巴黎圣母院的奇美拉，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg
+BingWallPaper-2024-11-01-Chimera of Notre-Dame de Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg
