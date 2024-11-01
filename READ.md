@@ -1005,3 +1005,5 @@ BingWallPaper-2024-10-30-从苏格兰教堂墓地眺望爱丁堡城堡，英国-
 BingWallPaper-2024-10-31-View of Edinburgh Castle from a churchyard in Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg
 BingWallPaper-2024-10-31-巴黎圣母院的奇美拉，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg
 BingWallPaper-2024-11-01-Chimera of Notre-Dame de Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg
+BingWallPaper-2024-11-01-秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg
+BingWallPaper-2024-11-02-Pueblo ruins, Hovenweep National Monument, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg
