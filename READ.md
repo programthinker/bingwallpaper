@@ -1007,3 +1007,5 @@ BingWallPaper-2024-10-31-巴黎圣母院的奇美拉，法国-4K.jpg&&https://cn
 BingWallPaper-2024-11-01-Chimera of Notre-Dame de Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg
 BingWallPaper-2024-11-01-秋季葡萄园的鸟瞰图，瓦恩哈尔特，黑森林，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.VineyardsBlackForestFall_ZH-CN6767078591_UHD.jpg
 BingWallPaper-2024-11-02-Pueblo ruins, Hovenweep National Monument, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.HovenweepRuins_EN-US3883549583_UHD.jpg
+BingWallPaper-2024-11-02-黄石国家公园的美洲野牛，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonYellowstone_ZH-CN7320887379_UHD.jpg
+BingWallPaper-2024-11-03-American bison in Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg
