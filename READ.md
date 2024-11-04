@@ -1011,3 +1011,5 @@ BingWallPaper-2024-11-02-黄石国家公园的美洲野牛，怀俄明州，美�
 BingWallPaper-2024-11-03-American bison in Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg
 BingWallPaper-2024-11-03-巢中的加勒比火烈鸟蛋，里奥拉加托斯自然保护区，尤卡坦州，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanBiosphere_ZH-CN7442392453_UHD.jpg
 BingWallPaper-2024-11-04-Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg
+BingWallPaper-2024-11-04-坎布里亚湖区，格拉斯米尔，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg
+BingWallPaper-2024-11-05-Grasmere, Lake District, Cumbria, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg
