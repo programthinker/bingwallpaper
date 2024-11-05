@@ -1013,3 +1013,5 @@ BingWallPaper-2024-11-03-巢中的加勒比火烈鸟蛋，里奥拉加托斯自�
 BingWallPaper-2024-11-04-Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg
 BingWallPaper-2024-11-04-坎布里亚湖区，格拉斯米尔，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.CumbriaAutumn_ZH-CN7697251216_UHD.jpg
 BingWallPaper-2024-11-05-Grasmere, Lake District, Cumbria, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CumbriaAutumn_EN-US4102686749_UHD.jpg
+BingWallPaper-2024-11-05-马拉赫塞斯国家公园，马拉尼昂州,巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.LencoisMaranhao_ZH-CN8194406488_UHD.jpg
+BingWallPaper-2024-11-06-Autumn sunrise over the National Mall, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg
