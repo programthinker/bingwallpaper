@@ -1017,3 +1017,5 @@ BingWallPaper-2024-11-05-马拉赫塞斯国家公园，马拉尼昂州,巴西-4K
 BingWallPaper-2024-11-06-Autumn sunrise over the National Mall, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg
 BingWallPaper-2024-11-06-奥林匹克国家公园石狮海滩，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ShiShiBeach_ZH-CN8685799566_UHD.jpg
 BingWallPaper-2024-11-07-Shi Shi Beach in Olympic National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg
+BingWallPaper-2024-11-07-金色的松树，坝上草原，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LiDong2024_ZH-CN9944723194_UHD.jpg
+BingWallPaper-2024-11-08-Vancouver Coastal Sea wolves in Great Bear Rainforest, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaWolves_EN-US4285635290_UHD.jpg
