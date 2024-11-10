@@ -1023,3 +1023,5 @@ BingWallPaper-2024-11-08-冰岛冰川河流鸟瞰图-4K.jpg&&https://cn.bing.com
 BingWallPaper-2024-11-09-Aerial view of glacial rivers in Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.GlacialRivers_EN-US4356459123_UHD.jpg
 BingWallPaper-2024-11-09-银河，阿伊特本哈杜杜，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoMilkyWay_ZH-CN3544344290_UHD.jpg
 BingWallPaper-2024-11-10-Milky Way, Aït Benhaddou, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg
+BingWallPaper-2024-11-10-加勒比火烈鸟，尤卡坦半岛，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg
+BingWallPaper-2024-11-11-Caribbean flamingos, Yucatán Peninsula, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg
