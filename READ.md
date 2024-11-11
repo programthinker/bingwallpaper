@@ -1025,3 +1025,5 @@ BingWallPaper-2024-11-09-银河，阿伊特本哈杜杜，摩洛哥-4K.jpg&&http
 BingWallPaper-2024-11-10-Milky Way, Aït Benhaddou, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg
 BingWallPaper-2024-11-10-加勒比火烈鸟，尤卡坦半岛，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanFlamingos_ZH-CN0721673752_UHD.jpg
 BingWallPaper-2024-11-11-Caribbean flamingos, Yucatán Peninsula, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg
+BingWallPaper-2024-11-11-班夫国家公园的日落，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg
+BingWallPaper-2024-11-12-Mural Wall, Korean War Veterans Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg
