@@ -1027,3 +1027,5 @@ BingWallPaper-2024-11-10-加勒比火烈鸟，尤卡坦半岛，墨西哥-4K.jpg
 BingWallPaper-2024-11-11-Caribbean flamingos, Yucatán Peninsula, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg
 BingWallPaper-2024-11-11-班夫国家公园的日落，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.Banff24_ZH-CN1156176817_UHD.jpg
 BingWallPaper-2024-11-12-Mural Wall, Korean War Veterans Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg
+BingWallPaper-2024-11-12-透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg
+BingWallPaper-2024-11-13-Double Arch seen through Cove Arch, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg
