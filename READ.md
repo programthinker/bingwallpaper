@@ -1029,3 +1029,5 @@ BingWallPaper-2024-11-11-班夫国家公园的日落，阿尔伯塔省，加拿�
 BingWallPaper-2024-11-12-Mural Wall, Korean War Veterans Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.VeteranReflections_EN-US4567357121_UHD.jpg
 BingWallPaper-2024-11-12-透过海湾拱门看到双拱门，拱门国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CoveArch_ZH-CN1281140578_UHD.jpg
 BingWallPaper-2024-11-13-Double Arch seen through Cove Arch, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg
+BingWallPaper-2024-11-13-巨型海藻森林中的加州海狮，下加利福尼亚，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.KelpForest_ZH-CN2357269491_UHD.jpg
+BingWallPaper-2024-11-14-California sea lion in a forest of giant kelp, Baja California, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.KelpForest_EN-US4745308334_UHD.jpg
