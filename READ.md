@@ -1031,3 +1031,5 @@ BingWallPaper-2024-11-12-透过海湾拱门看到双拱门，拱门国家公园�
 BingWallPaper-2024-11-13-Double Arch seen through Cove Arch, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CoveArch_EN-US4653050772_UHD.jpg
 BingWallPaper-2024-11-13-巨型海藻森林中的加州海狮，下加利福尼亚，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.KelpForest_ZH-CN2357269491_UHD.jpg
 BingWallPaper-2024-11-14-California sea lion in a forest of giant kelp, Baja California, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.KelpForest_EN-US4745308334_UHD.jpg
+BingWallPaper-2024-11-14-马纳罗拉，五渔村国家公园，利古里亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ManarolaItaly_ZH-CN2837915120_UHD.jpg
+BingWallPaper-2024-11-15-Manarola, Cinque Terre National Park, Liguria, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg
