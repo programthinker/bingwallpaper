@@ -1035,3 +1035,5 @@ BingWallPaper-2024-11-14-马纳罗拉，五渔村国家公园，利古里亚，�
 BingWallPaper-2024-11-15-Manarola, Cinque Terre National Park, Liguria, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg
 BingWallPaper-2024-11-15-义蓬灯节 ，清迈，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.YiPengLanterns_ZH-CN5613043353_UHD.jpg
 BingWallPaper-2024-11-16-Yi Peng lantern festival, Chiang Mai, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.YiPengLanterns_EN-US2889801198_UHD.jpg
+BingWallPaper-2024-11-16-瓦登海沿岸，莫德加特附近，弗里斯兰，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.FrieslandNetherlands_ZH-CN5952456898_UHD.jpg
+BingWallPaper-2024-11-17-Wadden Sea coast, near Moddergat, Friesland, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg
