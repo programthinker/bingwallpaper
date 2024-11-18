@@ -1039,3 +1039,5 @@ BingWallPaper-2024-11-16-瓦登海沿岸，莫德加特附近，弗里斯兰，�
 BingWallPaper-2024-11-17-Wadden Sea coast, near Moddergat, Friesland, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.FrieslandNetherlands_EN-US3770890281_UHD.jpg
 BingWallPaper-2024-11-17-加里东林中的马鹿，阿夫力谷，苏格兰高地-4K.jpg&&https://cn.bing.com/th?id=OHR.RedStag_ZH-CN6403546321_UHD.jpg
 BingWallPaper-2024-11-18-Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands-4K.jpg&&https://cn.bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg
+BingWallPaper-2024-11-18-波斯考尔灯塔，南威尔士，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_ZH-CN6655235820_UHD.jpg
+BingWallPaper-2024-11-19-Porthcawl Lighthouse, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg
