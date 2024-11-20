@@ -1043,3 +1043,5 @@ BingWallPaper-2024-11-18-波斯考尔灯塔，南威尔士，英国-4K.jpg&&http
 BingWallPaper-2024-11-19-Porthcawl Lighthouse, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg
 BingWallPaper-2024-11-19-塔斯曼拱门，塔斯马尼亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.TasmansArch_ZH-CN7062784426_UHD.jpg
 BingWallPaper-2024-11-20-Tasmans Arch, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg
+BingWallPaper-2024-11-20-皮埃尔桥，波尔多，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg
+BingWallPaper-2024-11-21-Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg
