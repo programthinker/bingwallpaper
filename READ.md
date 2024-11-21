@@ -1045,3 +1045,5 @@ BingWallPaper-2024-11-19-塔斯曼拱门，塔斯马尼亚州，澳大利亚-4K.
 BingWallPaper-2024-11-20-Tasmans Arch, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg
 BingWallPaper-2024-11-20-皮埃尔桥，波尔多，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.PontBordeaux_ZH-CN7656263575_UHD.jpg
 BingWallPaper-2024-11-21-Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg
+BingWallPaper-2024-11-21-日出时的两只小狮子，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.LionCubs_ZH-CN8538754038_UHD.jpg
+BingWallPaper-2024-11-22-Lion cubs at sunrise, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg
