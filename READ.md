@@ -1049,3 +1049,5 @@ BingWallPaper-2024-11-21-日出时的两只小狮子，南非-4K.jpg&&https://cn
 BingWallPaper-2024-11-22-Lion cubs at sunrise, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg
 BingWallPaper-2024-11-22-萨夫拉城堡，瓜达拉哈拉省，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ZafraCastle_ZH-CN8791148758_UHD.jpg
 BingWallPaper-2024-11-23-Castle of Zafra, Guadalajara province, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg
+BingWallPaper-2024-11-23-多叶芦荟，袋鼠岛，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg
+BingWallPaper-2024-11-24-Spiral aloe, Kangaroo Island, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg
