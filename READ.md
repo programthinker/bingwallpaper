@@ -1051,3 +1051,5 @@ BingWallPaper-2024-11-22-萨夫拉城堡，瓜达拉哈拉省，西班牙-4K.jpg
 BingWallPaper-2024-11-23-Castle of Zafra, Guadalajara province, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.ZafraCastle_EN-US5032917939_UHD.jpg
 BingWallPaper-2024-11-23-多叶芦荟，袋鼠岛，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciAloe_ZH-CN8974137481_UHD.jpg
 BingWallPaper-2024-11-24-Spiral aloe, Kangaroo Island, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciAloe_EN-US5137471725_UHD.jpg
+BingWallPaper-2024-11-24-州立公园，索诺玛海岸，美国加利福尼亚州-4K.jpg&&https://cn.bing.com/th?id=OHR.SonomaCoast_ZH-CN9187330701_UHD.jpg
+BingWallPaper-2024-11-25-Sonoma Coast State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg
