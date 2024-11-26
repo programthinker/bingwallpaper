@@ -1055,3 +1055,5 @@ BingWallPaper-2024-11-24-州立公园，索诺玛海岸，美国加利福尼亚�
 BingWallPaper-2024-11-25-Sonoma Coast State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SonomaCoast_EN-US5218026576_UHD.jpg
 BingWallPaper-2024-11-25-马赛长颈鹿，安波塞利国家公园，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.AmboseliGiraffes_ZH-CN9276085602_UHD.jpg
 BingWallPaper-2024-11-26-Masai giraffes, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg
+BingWallPaper-2024-11-26-橄榄树林，伊特里亚山谷，普利亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg
+BingWallPaper-2024-11-27-Olive grove, Valle d'Itria, Puglia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg
