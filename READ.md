@@ -1057,3 +1057,5 @@ BingWallPaper-2024-11-25-马赛长颈鹿，安波塞利国家公园，肯尼亚-
 BingWallPaper-2024-11-26-Masai giraffes, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg
 BingWallPaper-2024-11-26-橄榄树林，伊特里亚山谷，普利亚，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliGrove_ZH-CN9519400567_UHD.jpg
 BingWallPaper-2024-11-27-Olive grove, Valle d'Itria, Puglia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg
+BingWallPaper-2024-11-27-秋天的巨人之墓，布永市，比利时-4K.jpg&&https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg
+BingWallPaper-2024-11-28-Tombeau du Géant-4K.jpg&&https://cn.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg
