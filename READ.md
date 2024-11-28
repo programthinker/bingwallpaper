@@ -1059,3 +1059,5 @@ BingWallPaper-2024-11-26-橄榄树林，伊特里亚山谷，普利亚，意大�
 BingWallPaper-2024-11-27-Olive grove, Valle d'Itria, Puglia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg
 BingWallPaper-2024-11-27-秋天的巨人之墓，布永市，比利时-4K.jpg&&https://cn.bing.com/th?id=OHR.SemoisRiver_ZH-CN0801669014_UHD.jpg
 BingWallPaper-2024-11-28-Tombeau du Géant-4K.jpg&&https://cn.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg
+BingWallPaper-2024-11-28-日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg
+BingWallPaper-2024-11-29-Wild turkeys, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg
