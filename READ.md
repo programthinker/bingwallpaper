@@ -1061,3 +1061,5 @@ BingWallPaper-2024-11-27-秋天的巨人之墓，布永市，比利时-4K.jpg&&h
 BingWallPaper-2024-11-28-Tombeau du Géant-4K.jpg&&https://cn.bing.com/th?id=OHR.SemoisRiver_EN-US6047540380_UHD.jpg
 BingWallPaper-2024-11-28-日落时分风暴渐渐消散，阿西尼博因山省立公园，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.AssiniboineTS_ZH-CN9936042562_UHD.jpg
 BingWallPaper-2024-11-29-Wild turkeys, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg
+BingWallPaper-2024-11-29-圣米歇尔山，诺曼底，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg
+BingWallPaper-2024-11-30-Mont-Saint-Michel, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg
