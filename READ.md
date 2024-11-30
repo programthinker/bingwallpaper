@@ -1063,3 +1063,5 @@ BingWallPaper-2024-11-28-日落时分风暴渐渐消散，阿西尼博因山省�
 BingWallPaper-2024-11-29-Wild turkeys, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg
 BingWallPaper-2024-11-29-圣米歇尔山，诺曼底，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MtStMichel_ZH-CN1232662142_UHD.jpg
 BingWallPaper-2024-11-30-Mont-Saint-Michel, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg
+BingWallPaper-2024-11-30-基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg
+BingWallPaper-2024-12-01-Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg
