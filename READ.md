@@ -1065,3 +1065,5 @@ BingWallPaper-2024-11-29-圣米歇尔山，诺曼底，法国-4K.jpg&&https://cn
 BingWallPaper-2024-11-30-Mont-Saint-Michel, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg
 BingWallPaper-2024-11-30-基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg
 BingWallPaper-2024-12-01-Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg
+BingWallPaper-2024-12-01-南极洲的冰山-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg
+BingWallPaper-2024-12-02-Icebergs, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg
