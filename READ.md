@@ -1067,3 +1067,5 @@ BingWallPaper-2024-11-30-基尔亨城堡倒映在奥湖中，阿盖尔-比特郡
 BingWallPaper-2024-12-01-Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg
 BingWallPaper-2024-12-01-南极洲的冰山-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg
 BingWallPaper-2024-12-02-Icebergs, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg
+BingWallPaper-2024-12-02-雌性驼鹿，德纳里国家公园，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg
+BingWallPaper-2024-12-03-Female moose, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg
