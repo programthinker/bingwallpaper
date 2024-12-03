@@ -1069,3 +1069,5 @@ BingWallPaper-2024-12-01-南极洲的冰山-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2024-12-02-Icebergs, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg
 BingWallPaper-2024-12-02-雌性驼鹿，德纳里国家公园，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowMoose_ZH-CN3364979952_UHD.jpg
 BingWallPaper-2024-12-03-Female moose, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg
+BingWallPaper-2024-12-03-Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg
+BingWallPaper-2024-12-04-Sattais Katcheri-4K.jpg&&https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg
