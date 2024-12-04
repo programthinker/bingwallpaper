@@ -1071,3 +1071,5 @@ BingWallPaper-2024-12-02-雌性驼鹿，德纳里国家公园，阿拉斯加州�
 BingWallPaper-2024-12-03-Female moose, Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg
 BingWallPaper-2024-12-03-Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.JaipurFort_ZH-CN3891828158_UHD.jpg
 BingWallPaper-2024-12-04-Sattais Katcheri-4K.jpg&&https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg
+BingWallPaper-2024-12-04-雄性白犀，纳库鲁湖，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinosKenya_ZH-CN4422118541_UHD.jpg
+BingWallPaper-2024-12-05-Male white rhinoceroses, Lake Nakuru, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg
