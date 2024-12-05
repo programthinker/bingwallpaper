@@ -1073,3 +1073,5 @@ BingWallPaper-2024-12-03-Sattais Katcheri，琥珀堡，拉贾斯坦邦，印度
 BingWallPaper-2024-12-04-Sattais Katcheri-4K.jpg&&https://cn.bing.com/th?id=OHR.JaipurFort_EN-US7275752190_UHD.jpg
 BingWallPaper-2024-12-04-雄性白犀，纳库鲁湖，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinosKenya_ZH-CN4422118541_UHD.jpg
 BingWallPaper-2024-12-05-Male white rhinoceroses, Lake Nakuru, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.RhinosKenya_EN-US7514650014_UHD.jpg
+BingWallPaper-2024-12-05-莫诺湖的石灰华地层，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MonoTufa_ZH-CN4998806540_UHD.jpg
+BingWallPaper-2024-12-06-Tufa formations in Mono Lake, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MonoTufa_EN-US7607210506_UHD.jpg
