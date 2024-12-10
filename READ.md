@@ -1083,3 +1083,5 @@ BingWallPaper-2024-12-08-巴黎圣母院，巴黎，法国-4K.jpg&&https://cn.bi
 BingWallPaper-2024-12-09-Notre-Dame Cathedral, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ReopeningNotreDame_EN-US8084146311_UHD.jpg
 BingWallPaper-2024-12-09-两只原驼,托雷斯德尔帕恩国家公园 , 智利-4K.jpg&&https://cn.bing.com/th?id=OHR.GuanacosChile_ZH-CN7011761081_UHD.jpg
 BingWallPaper-2024-12-10-Guanacos, Torres del Paine National Park, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.GuanacosChile_EN-US8209106662_UHD.jpg
+BingWallPaper-2024-12-10-被雪覆盖的康沃尔天涯海角小径，康沃尔郡兰德恩德，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.CornwallSnow_ZH-CN8407245245_UHD.jpg
+BingWallPaper-2024-12-11-The Cornish Coast Path covered in snow, Land's End, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg
