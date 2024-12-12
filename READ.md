@@ -1087,3 +1087,5 @@ BingWallPaper-2024-12-10-被雪覆盖的康沃尔天涯海角小径，康沃尔�
 BingWallPaper-2024-12-11-The Cornish Coast Path covered in snow, Land's End, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CornwallSnow_EN-US8476437458_UHD.jpg
 BingWallPaper-2024-12-11-拉瓦雷多三峰山,意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitesSky_ZH-CN9299967785_UHD.jpg
 BingWallPaper-2024-12-12-Tre Cime di Lavaredo, Sexten Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg
+BingWallPaper-2024-12-12-一品红或圣诞花-4K.jpg&&https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg
+BingWallPaper-2024-12-13-Wild poinsettia-4K.jpg&&https://cn.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg
