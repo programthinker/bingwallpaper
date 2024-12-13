@@ -1089,3 +1089,5 @@ BingWallPaper-2024-12-11-拉瓦雷多三峰山,意大利-4K.jpg&&https://cn.bing
 BingWallPaper-2024-12-12-Tre Cime di Lavaredo, Sexten Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitesSky_EN-US8624061239_UHD.jpg
 BingWallPaper-2024-12-12-一品红或圣诞花-4K.jpg&&https://cn.bing.com/th?id=OHR.WildPoinsettia_ZH-CN7984548709_UHD.jpg
 BingWallPaper-2024-12-13-Wild poinsettia-4K.jpg&&https://cn.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg
+BingWallPaper-2024-12-13-圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg
+BingWallPaper-2024-12-14-Christmas market, St. Stephen's Basilica, Budapest, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg
