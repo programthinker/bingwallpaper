@@ -1091,3 +1091,5 @@ BingWallPaper-2024-12-12-一品红或圣诞花-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2024-12-13-Wild poinsettia-4K.jpg&&https://cn.bing.com/th?id=OHR.WildPoinsettia_EN-US8728271702_UHD.jpg
 BingWallPaper-2024-12-13-圣诞市场，圣斯蒂芬大教堂，布达佩斯，匈牙利-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasBudapest_ZH-CN8197439971_UHD.jpg
 BingWallPaper-2024-12-14-Christmas market, St. Stephen's Basilica, Budapest, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg
+BingWallPaper-2024-12-14-猛鸮，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg
+BingWallPaper-2024-12-15-Northern hawk-owl, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg
