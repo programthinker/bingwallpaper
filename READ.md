@@ -1093,3 +1093,5 @@ BingWallPaper-2024-12-13-圣诞市场，圣斯蒂芬大教堂，布达佩斯，�
 BingWallPaper-2024-12-14-Christmas market, St. Stephen's Basilica, Budapest, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasBudapest_EN-US0865695821_UHD.jpg
 BingWallPaper-2024-12-14-猛鸮，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthernHawkOwl_ZH-CN8408027305_UHD.jpg
 BingWallPaper-2024-12-15-Northern hawk-owl, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthernHawkOwl_EN-US7592435350_UHD.jpg
+BingWallPaper-2024-12-15-米苏里纳湖，多洛米蒂山脉，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MisurinaLake_ZH-CN0744434715_UHD.jpg
+BingWallPaper-2024-12-16-Lake Misurina, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg
