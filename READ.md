@@ -1097,3 +1097,5 @@ BingWallPaper-2024-12-15-米苏里纳湖，多洛米蒂山脉，意大利-4K.jpg
 BingWallPaper-2024-12-16-Lake Misurina, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MisurinaLake_EN-US7921587884_UHD.jpg
 BingWallPaper-2024-12-16-萨尔茨堡，奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.SalzburgSnow_ZH-CN0964131994_UHD.jpg
 BingWallPaper-2024-12-17-Salzburg, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.SalzburgSnow_EN-US8262729220_UHD.jpg
+BingWallPaper-2024-12-17-传统红色渔民小屋，雷讷峡湾岸边，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.ReinefjordenNorway_ZH-CN1198843758_UHD.jpg
+BingWallPaper-2024-12-18-Traditional red fishermen's cabins on the shore of Reinefjorden, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg
