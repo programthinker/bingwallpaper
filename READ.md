@@ -1101,3 +1101,5 @@ BingWallPaper-2024-12-17-传统红色渔民小屋，雷讷峡湾岸边，挪威-
 BingWallPaper-2024-12-18-Traditional red fishermen's cabins on the shore of Reinefjorden, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.ReinefjordenNorway_EN-US8636083241_UHD.jpg
 BingWallPaper-2024-12-18-印度吉姆科比特国家公园的大象，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.MorningElephants_ZH-CN1418579765_UHD.jpg
 BingWallPaper-2024-12-19-English National Ballet performing 'The Nutcracker'-4K.jpg&&https://cn.bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_UHD.jpg
+BingWallPaper-2024-12-19-锡比乌圣诞市场，罗马尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg
+BingWallPaper-2024-12-20-Christmas market in Sibiu, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg
