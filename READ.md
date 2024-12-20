@@ -1103,3 +1103,5 @@ BingWallPaper-2024-12-18-印度吉姆科比特国家公园的大象，印度-4K.
 BingWallPaper-2024-12-19-English National Ballet performing 'The Nutcracker'-4K.jpg&&https://cn.bing.com/th?id=OHR.NutcrackerBallet_EN-US8927830113_UHD.jpg
 BingWallPaper-2024-12-19-锡比乌圣诞市场，罗马尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SibiuRomania_ZH-CN1631942857_UHD.jpg
 BingWallPaper-2024-12-20-Christmas market in Sibiu, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg
+BingWallPaper-2024-12-20-罗瓦涅米圣诞老人村，拉普兰，芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg
+BingWallPaper-2024-12-21-Santa Claus Village in Rovaniemi, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg
