@@ -1105,3 +1105,5 @@ BingWallPaper-2024-12-19-锡比乌圣诞市场，罗马尼亚-4K.jpg&&https://cn
 BingWallPaper-2024-12-20-Christmas market in Sibiu, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg
 BingWallPaper-2024-12-20-罗瓦涅米圣诞老人村，拉普兰，芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaClausVillage_ZH-CN1839275027_UHD.jpg
 BingWallPaper-2024-12-21-Santa Claus Village in Rovaniemi, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg
+BingWallPaper-2024-12-21-满拉水库的雪景，日喀则，中国西藏自治区-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg
+BingWallPaper-2024-12-22-Loisach River at Lake Kochelsee, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg
