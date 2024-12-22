@@ -1107,3 +1107,5 @@ BingWallPaper-2024-12-20-罗瓦涅米圣诞老人村，拉普兰，芬兰-4K.jpg
 BingWallPaper-2024-12-21-Santa Claus Village in Rovaniemi, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg
 BingWallPaper-2024-12-21-满拉水库的雪景，日喀则，中国西藏自治区-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterSolstice2024_ZH-CN2045153949_UHD.jpg
 BingWallPaper-2024-12-22-Loisach River at Lake Kochelsee, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BavarianWinter_EN-US9813996975_UHD.jpg
+BingWallPaper-2024-12-22-水晶码头的圣诞树，太平洋海滩，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CrystalPier_ZH-CN2256372880_UHD.jpg
+BingWallPaper-2024-12-23-Christmas tree at Crystal Pier, Pacific Beach, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg
