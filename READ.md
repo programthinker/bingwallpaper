@@ -1111,3 +1111,5 @@ BingWallPaper-2024-12-22-水晶码头的圣诞树，太平洋海滩，加利福�
 BingWallPaper-2024-12-23-Christmas tree at Crystal Pier, Pacific Beach, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CrystalPier_EN-US0086755810_UHD.jpg
 BingWallPaper-2024-12-23-钏路的两只丹顶鹤，北海道，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.FestivusCranes_ZH-CN2464862059_UHD.jpg
 BingWallPaper-2024-12-24-Red-crowned cranes in Kushiro, Hokkaido, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg
+BingWallPaper-2024-12-24-德国圣诞市场-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg
+BingWallPaper-2024-12-25-Christmas market scene in Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg
