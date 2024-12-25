@@ -1113,3 +1113,5 @@ BingWallPaper-2024-12-23-钏路的两只丹顶鹤，北海道，日本-4K.jpg&&h
 BingWallPaper-2024-12-24-Red-crowned cranes in Kushiro, Hokkaido, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.FestivusCranes_EN-US0396321898_UHD.jpg
 BingWallPaper-2024-12-24-德国圣诞市场-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaSnowglobe_ZH-CN2671421527_UHD.jpg
 BingWallPaper-2024-12-25-Christmas market scene in Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg
+BingWallPaper-2024-12-25-科瓦东加湖，阿斯图里亚斯，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg
+BingWallPaper-2024-12-26-Svalbard reindeer in Van Mijenfjorden NP, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg
