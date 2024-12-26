@@ -1115,3 +1115,5 @@ BingWallPaper-2024-12-24-德国圣诞市场-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2024-12-25-Christmas market scene in Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaSnowglobe_EN-US0704281966_UHD.jpg
 BingWallPaper-2024-12-25-科瓦东加湖，阿斯图里亚斯，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CovadongaWinter_ZH-CN2873340163_UHD.jpg
 BingWallPaper-2024-12-26-Svalbard reindeer in Van Mijenfjorden NP, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg
+BingWallPaper-2024-12-26-莫斯霍尔港的圣诞灯饰，康沃尔，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg
+BingWallPaper-2024-12-27-Christmas lights at Mousehole Harbour, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg
