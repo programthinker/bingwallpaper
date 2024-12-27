@@ -1117,3 +1117,5 @@ BingWallPaper-2024-12-25-科瓦东加湖，阿斯图里亚斯，西班牙-4K.jpg
 BingWallPaper-2024-12-26-Svalbard reindeer in Van Mijenfjorden NP, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg
 BingWallPaper-2024-12-26-莫斯霍尔港的圣诞灯饰，康沃尔，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MouseholeXmas_ZH-CN3079184443_UHD.jpg
 BingWallPaper-2024-12-27-Christmas lights at Mousehole Harbour, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg
+BingWallPaper-2024-12-27-布莱德湖，斯洛文尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg
+BingWallPaper-2024-12-28-Lake Bled, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg
