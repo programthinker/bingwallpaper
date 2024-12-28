@@ -1119,3 +1119,5 @@ BingWallPaper-2024-12-26-莫斯霍尔港的圣诞灯饰，康沃尔，英格兰-
 BingWallPaper-2024-12-27-Christmas lights at Mousehole Harbour, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg
 BingWallPaper-2024-12-27-布莱德湖，斯洛文尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSnow_ZH-CN4118056813_UHD.jpg
 BingWallPaper-2024-12-28-Lake Bled, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg
+BingWallPaper-2024-12-28-一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg
+BingWallPaper-2024-12-29-A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg
