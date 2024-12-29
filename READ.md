@@ -1121,3 +1121,5 @@ BingWallPaper-2024-12-27-布莱德湖，斯洛文尼亚-4K.jpg&&https://cn.bing.
 BingWallPaper-2024-12-28-Lake Bled, Slovenia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg
 BingWallPaper-2024-12-28-一只绿海龟在太平洋中游泳，法国海外属地新喀里多尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralTurtle_ZH-CN4771437860_UHD.jpg
 BingWallPaper-2024-12-29-A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg
+BingWallPaper-2024-12-29-婆罗浮屠大佛寺，爪哇岛，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg
+BingWallPaper-2024-12-30-Borobudur Temple, Java, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg
