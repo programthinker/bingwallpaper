@@ -1123,3 +1123,5 @@ BingWallPaper-2024-12-28-一只绿海龟在太平洋中游泳，法国海外属�
 BingWallPaper-2024-12-29-A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg
 BingWallPaper-2024-12-29-婆罗浮屠大佛寺，爪哇岛，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BorobudurBells_ZH-CN5291511365_UHD.jpg
 BingWallPaper-2024-12-30-Borobudur Temple, Java, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg
+BingWallPaper-2024-12-30-多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg
+BingWallPaper-2024-12-31-Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg
