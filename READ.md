@@ -1125,3 +1125,5 @@ BingWallPaper-2024-12-29-婆罗浮屠大佛寺，爪哇岛，印度尼西亚-4K.
 BingWallPaper-2024-12-30-Borobudur Temple, Java, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg
 BingWallPaper-2024-12-30-多布森湖附近的塔斯马尼亚雪胶和班达尼植物，费尔德山国家公园，塔斯马尼亚，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MountFieldNP_ZH-CN6004420782_UHD.jpg
 BingWallPaper-2024-12-31-Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg
+BingWallPaper-2024-12-31-国会山上空的烟花，渥太华，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg
+BingWallPaper-2025-01-01-New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg
