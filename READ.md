@@ -1127,3 +1127,5 @@ BingWallPaper-2024-12-30-多布森湖附近的塔斯马尼亚雪胶和班达尼�
 BingWallPaper-2024-12-31-Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg
 BingWallPaper-2024-12-31-国会山上空的烟花，渥太华，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg
 BingWallPaper-2025-01-01-New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg
+BingWallPaper-2025-01-01-在北极玩耍的北极熊-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg
+BingWallPaper-2025-01-02-Polar bears at play in the Arctic-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg
