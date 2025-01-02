@@ -1129,3 +1129,5 @@ BingWallPaper-2024-12-31-国会山上空的烟花，渥太华，加拿大-4K.jpg
 BingWallPaper-2025-01-01-New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg
 BingWallPaper-2025-01-01-在北极玩耍的北极熊-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg
 BingWallPaper-2025-01-02-Polar bears at play in the Arctic-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg
+BingWallPaper-2025-01-02-阿尔德兹村上空的星轨，格劳宾登州，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.ArdezSwitzerland_ZH-CN5605305240_UHD.jpg
+BingWallPaper-2025-01-03-Star trails over Ardez, Graubunden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg
