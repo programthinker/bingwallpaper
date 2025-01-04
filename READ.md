@@ -1133,3 +1133,5 @@ BingWallPaper-2025-01-02-阿尔德兹村上空的星轨，格劳宾登州，瑞�
 BingWallPaper-2025-01-03-Star trails over Ardez, Graubunden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg
 BingWallPaper-2025-01-03-英国拉德克里夫图书馆和万灵学院，牛津大学，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.TolkienOxford_ZH-CN6331694590_UHD.jpg
 BingWallPaper-2025-01-04-The Radcliffe Camera and All Souls College, University of Oxford, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg
+BingWallPaper-2025-01-04-归春河上的板约-德天瀑布，中国与越南边境-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamFalls_ZH-CN9659529108_UHD.jpg
+BingWallPaper-2025-01-05-Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg
