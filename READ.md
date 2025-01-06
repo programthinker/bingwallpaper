@@ -1137,3 +1137,5 @@ BingWallPaper-2025-01-04-归春河上的板约-德天瀑布，中国与越南边
 BingWallPaper-2025-01-05-Bản Giốc–Detian Falls on the Quây Sơn River, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg
 BingWallPaper-2025-01-05-希莫加的紫红头鹦鹉，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumParakeet_ZH-CN0311942558_UHD.jpg
 BingWallPaper-2025-01-06-Plum-headed parakeet at Shimoga, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg
+BingWallPaper-2025-01-06-被水淹没的地下室，圣弗朗西斯大教堂，拉文纳，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.RavennaBasilica_ZH-CN1406474730_UHD.jpg
+BingWallPaper-2025-01-07-Flooded crypt, Basilica of San Francesco, Ravenna, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg
