@@ -1139,3 +1139,5 @@ BingWallPaper-2025-01-05-希莫加的紫红头鹦鹉，卡纳塔克邦，印度-
 BingWallPaper-2025-01-06-Plum-headed parakeet at Shimoga, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg
 BingWallPaper-2025-01-06-被水淹没的地下室，圣弗朗西斯大教堂，拉文纳，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.RavennaBasilica_ZH-CN1406474730_UHD.jpg
 BingWallPaper-2025-01-07-Flooded crypt, Basilica of San Francesco, Ravenna, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg
+BingWallPaper-2025-01-07-日落时的摩拉基大圆石，南岛，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BouldersNZ_ZH-CN6750253580_UHD.jpg
+BingWallPaper-2025-01-08-Moeraki Boulders at sunset, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg
