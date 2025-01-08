@@ -1141,3 +1141,5 @@ BingWallPaper-2025-01-06-被水淹没的地下室，圣弗朗西斯大教堂，�
 BingWallPaper-2025-01-07-Flooded crypt, Basilica of San Francesco, Ravenna, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg
 BingWallPaper-2025-01-07-日落时的摩拉基大圆石，南岛，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BouldersNZ_ZH-CN6750253580_UHD.jpg
 BingWallPaper-2025-01-08-Moeraki Boulders at sunset, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg
+BingWallPaper-2025-01-08-被雪覆盖的长城，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatWallStairs_ZH-CN4045949792_UHD.jpg
+BingWallPaper-2025-01-09-Snow on the Great Wall of China-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg
