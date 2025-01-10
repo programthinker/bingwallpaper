@@ -1145,3 +1145,5 @@ BingWallPaper-2025-01-08-被雪覆盖的长城，中国-4K.jpg&&https://cn.bing.
 BingWallPaper-2025-01-09-Snow on the Great Wall of China-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg
 BingWallPaper-2025-01-09-苏丝斯黎沙丘，纳米布沙漠，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NamibiaDunes_ZH-CN5102483490_UHD.jpg
 BingWallPaper-2025-01-10-The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg
+BingWallPaper-2025-01-10-亚伯拉罕湖，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg
+BingWallPaper-2025-01-11-Abraham Lake, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg
