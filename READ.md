@@ -1147,3 +1147,5 @@ BingWallPaper-2025-01-09-苏丝斯黎沙丘，纳米布沙漠，纳米比亚-4K.
 BingWallPaper-2025-01-10-The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg
 BingWallPaper-2025-01-10-亚伯拉罕湖，阿尔伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.BubbleLake_ZH-CN7146244555_UHD.jpg
 BingWallPaper-2025-01-11-Abraham Lake, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg
+BingWallPaper-2025-01-11-梅克内斯的Heri es-Swani，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg
+BingWallPaper-2025-01-12-Heri es-Swani in Meknes, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg
