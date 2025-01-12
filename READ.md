@@ -1149,3 +1149,5 @@ BingWallPaper-2025-01-10-亚伯拉罕湖，阿尔伯塔省，加拿大-4K.jpg&&h
 BingWallPaper-2025-01-11-Abraham Lake, Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg
 BingWallPaper-2025-01-11-梅克内斯的Heri es-Swani，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.MeknesMorocco_ZH-CN7953910585_UHD.jpg
 BingWallPaper-2025-01-12-Heri es-Swani in Meknes, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg
+BingWallPaper-2025-01-12-大堡礁的宝石大眼鲷鱼，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CrescentTail_ZH-CN8283248964_UHD.jpg
+BingWallPaper-2025-01-13-Crescent-tail bigeye fish in the Great Barrier Reef, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg
