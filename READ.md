@@ -1153,3 +1153,5 @@ BingWallPaper-2025-01-12-大堡礁的宝石大眼鲷鱼，澳大利亚-4K.jpg&&h
 BingWallPaper-2025-01-13-Crescent-tail bigeye fish in the Great Barrier Reef, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg
 BingWallPaper-2025-01-13-小屋和特尔莫尔灯塔，兰德温岛，威尔士，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.CoastalWales_ZH-CN9113929287_UHD.jpg
 BingWallPaper-2025-01-14-Cottage with Tŵr Mawr Lighthouse in the background, Ynys Llanddwyn, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.CoastalWales_EN-US9397534673_UHD.jpg
+BingWallPaper-2025-01-14-Village of Zahara de la Sierra, Cádiz province, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.CadizSpain_ZH-CN0032172399_UHD.jpg
+BingWallPaper-2025-01-15-Village of Zahara de la Sierra overlooking Zahara-El Gastor Reservoir, Cádiz province, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.CadizSpain_EN-US9699586606_UHD.jpg
