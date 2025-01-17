@@ -1159,3 +1159,5 @@ BingWallPaper-2025-01-15-Pointe du Diable，圣皮埃尔，留尼汪岛-4K.jpg&&
 BingWallPaper-2025-01-16-The Great Court of the British Museum, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg
 BingWallPaper-2025-01-16-尖峰国家公园的高峰步道，圣贝尼托县，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PinnaclesPeaks_ZH-CN1603877182_UHD.jpg
 BingWallPaper-2025-01-17-High Peaks Trail in Pinnacles National Park, San Benito County, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PinnaclesPeaks_EN-US0267834225_UHD.jpg
+BingWallPaper-2025-01-17-褐鹈鹕，圣地亚哥，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg
+BingWallPaper-2025-01-18-Brown pelican, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg
