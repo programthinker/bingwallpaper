@@ -1161,3 +1161,5 @@ BingWallPaper-2025-01-16-尖峰国家公园的高峰步道，圣贝尼托县，�
 BingWallPaper-2025-01-17-High Peaks Trail in Pinnacles National Park, San Benito County, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PinnaclesPeaks_EN-US0267834225_UHD.jpg
 BingWallPaper-2025-01-17-褐鹈鹕，圣地亚哥，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PelicanPortrait_ZH-CN1928504597_UHD.jpg
 BingWallPaper-2025-01-18-Brown pelican, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg
+BingWallPaper-2025-01-18-白沙国家公园的日落，新墨西哥州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg
+BingWallPaper-2025-01-19-Sunset at White Sands National Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg
