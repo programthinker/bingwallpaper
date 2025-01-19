@@ -1163,3 +1163,5 @@ BingWallPaper-2025-01-17-褐鹈鹕，圣地亚哥，加利福尼亚州，美国-
 BingWallPaper-2025-01-18-Brown pelican, San Diego, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg
 BingWallPaper-2025-01-18-白沙国家公园的日落，新墨西哥州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNP_ZH-CN2517618394_UHD.jpg
 BingWallPaper-2025-01-19-Sunset at White Sands National Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg
+BingWallPaper-2025-01-19-海王星石窟，撒丁岛， 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.NeptunesGrotto_ZH-CN3092540170_UHD.jpg
+BingWallPaper-2025-01-20-Neptune's Grotto, Sardinia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg
