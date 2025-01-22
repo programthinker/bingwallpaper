@@ -1169,3 +1169,5 @@ BingWallPaper-2025-01-20-欧亚红松鼠与毒蘑菇-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-01-21-Martin Luther King Jr. Memorial in Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg
 BingWallPaper-2025-01-21-俯瞰那不勒斯湾和维苏威火山，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.NapoliPizza_ZH-CN4698906448_UHD.jpg
 BingWallPaper-2025-01-22-Eurasian red squirrel-4K.jpg&&https://cn.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg
+BingWallPaper-2025-01-22-代尔修道院，佩特拉，约旦-4K.jpg&&https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg
+BingWallPaper-2025-01-23-Ad-Deir, Petra, Jordan-4K.jpg&&https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg
