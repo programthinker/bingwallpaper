@@ -1171,3 +1171,5 @@ BingWallPaper-2025-01-21-俯瞰那不勒斯湾和维苏威火山，意大利-4K.
 BingWallPaper-2025-01-22-Eurasian red squirrel-4K.jpg&&https://cn.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg
 BingWallPaper-2025-01-22-代尔修道院，佩特拉，约旦-4K.jpg&&https://cn.bing.com/th?id=OHR.PetraMonastery_ZH-CN5091189333_UHD.jpg
 BingWallPaper-2025-01-23-Ad-Deir, Petra, Jordan-4K.jpg&&https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg
+BingWallPaper-2025-01-23-黄昏时的鹿谷，帕克城，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg
+BingWallPaper-2025-01-24-Deer Valley at dusk, Park City, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg
