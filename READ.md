@@ -1173,3 +1173,5 @@ BingWallPaper-2025-01-22-代尔修道院，佩特拉，约旦-4K.jpg&&https://cn
 BingWallPaper-2025-01-23-Ad-Deir, Petra, Jordan-4K.jpg&&https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg
 BingWallPaper-2025-01-23-黄昏时的鹿谷，帕克城，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.DeerValley_ZH-CN6029262704_UHD.jpg
 BingWallPaper-2025-01-24-Deer Valley at dusk, Park City, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg
+BingWallPaper-2025-01-24-冰岛的史托克间歇泉-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandGeyser_ZH-CN2136665867_UHD.jpg
+BingWallPaper-2025-01-25-Strokkur geyser in Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg
