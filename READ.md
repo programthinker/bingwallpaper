@@ -1177,3 +1177,5 @@ BingWallPaper-2025-01-24-冰岛的史托克间歇泉-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-01-25-Strokkur geyser in Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg
 BingWallPaper-2025-01-25-波尔图，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PortoSunset_ZH-CN2388246668_UHD.jpg
 BingWallPaper-2025-01-26-Porto, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg
+BingWallPaper-2025-01-26-比利时的欧洲山毛榉森林-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg
+BingWallPaper-2025-01-27-European beech forest in Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg
