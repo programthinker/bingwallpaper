@@ -1179,3 +1179,5 @@ BingWallPaper-2025-01-25-波尔图，葡萄牙-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2025-01-26-Porto, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg
 BingWallPaper-2025-01-26-比利时的欧洲山毛榉森林-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostedBeech_ZH-CN2845716018_UHD.jpg
 BingWallPaper-2025-01-27-European beech forest in Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg
+BingWallPaper-2025-01-27-琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg
+BingWallPaper-2025-01-28-Zoroaster Temple, Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg
