@@ -1181,3 +1181,5 @@ BingWallPaper-2025-01-26-比利时的欧洲山毛榉森林-4K.jpg&&https://cn.bi
 BingWallPaper-2025-01-27-European beech forest in Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg
 BingWallPaper-2025-01-27-琐罗亚斯德神庙，大峡谷国家公园，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CanyonSnow_ZH-CN3910130781_UHD.jpg
 BingWallPaper-2025-01-28-Zoroaster Temple, Grand Canyon National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg
+BingWallPaper-2025-01-28-夜空中的烟花表演，长沙，湖南省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LunarNewYearEve25Y_ZH-CN6059625695_UHD.jpg
+BingWallPaper-2025-01-29-Short-eared owl hunting in heavy snow-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg
