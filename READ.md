@@ -1185,3 +1185,5 @@ BingWallPaper-2025-01-28-夜空中的烟花表演，长沙，湖南省，中国-
 BingWallPaper-2025-01-29-Short-eared owl hunting in heavy snow-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg
 BingWallPaper-2025-01-29-南京夫子庙的春节许愿牌，江苏省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringFestival25Y_ZH-CN6133182159_UHD.jpg
 BingWallPaper-2025-01-30-Dragon dance, Wuhan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg
+BingWallPaper-2025-01-30-罗兰多山口，奥德萨和佩迪多山国家公园，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg
+BingWallPaper-2025-01-31-La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg
