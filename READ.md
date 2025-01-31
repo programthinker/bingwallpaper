@@ -1187,3 +1187,5 @@ BingWallPaper-2025-01-29-南京夫子庙的春节许愿牌，江苏省，中国-
 BingWallPaper-2025-01-30-Dragon dance, Wuhan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.LunarDragon_EN-US9011723385_UHD.jpg
 BingWallPaper-2025-01-30-罗兰多山口，奥德萨和佩迪多山国家公园，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaSpain_ZH-CN1445868068_UHD.jpg
 BingWallPaper-2025-01-31-La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg
+BingWallPaper-2025-01-31-日出时的平原斑马，莫卡拉国家公园，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg
+BingWallPaper-2025-02-01-Plains zebras at sunrise, Mokala National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg
