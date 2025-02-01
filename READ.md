@@ -1189,3 +1189,5 @@ BingWallPaper-2025-01-30-罗兰多山口，奥德萨和佩迪多山国家公园�
 BingWallPaper-2025-01-31-La Brecha de Rolando, Ordesa y Monte Perdido National Park, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OrdesaSpain_EN-US9252424531_UHD.jpg
 BingWallPaper-2025-01-31-日出时的平原斑马，莫卡拉国家公园，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg
 BingWallPaper-2025-02-01-Plains zebras at sunrise, Mokala National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg
+BingWallPaper-2025-02-01-国王岩堡垒 , 瑞士撒克逊, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg
+BingWallPaper-2025-02-02-National Museum of African American History & Culture, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg
