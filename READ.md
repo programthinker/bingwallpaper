@@ -1191,3 +1191,5 @@ BingWallPaper-2025-01-31-日出时的平原斑马，莫卡拉国家公园，南�
 BingWallPaper-2025-02-01-Plains zebras at sunrise, Mokala National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg
 BingWallPaper-2025-02-01-国王岩堡垒 , 瑞士撒克逊, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg
 BingWallPaper-2025-02-02-National Museum of African American History & Culture, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg
+BingWallPaper-2025-02-02-年幼的高山土拨鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg
+BingWallPaper-2025-02-03-Young alpine marmot-4K.jpg&&https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg
