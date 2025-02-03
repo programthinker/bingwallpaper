@@ -1193,3 +1193,5 @@ BingWallPaper-2025-02-01-国王岩堡垒 , 瑞士撒克逊, 德国-4K.jpg&&https
 BingWallPaper-2025-02-02-National Museum of African American History & Culture, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_UHD.jpg
 BingWallPaper-2025-02-02-年幼的高山土拨鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg
 BingWallPaper-2025-02-03-Young alpine marmot-4K.jpg&&https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg
+BingWallPaper-2025-02-03-盛开的樱花树上的红头长尾山雀-4K.jpg&&https://cn.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg
+BingWallPaper-2025-02-04-Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg
