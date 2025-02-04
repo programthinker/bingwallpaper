@@ -1195,3 +1195,5 @@ BingWallPaper-2025-02-02-年幼的高山土拨鼠-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2025-02-03-Young alpine marmot-4K.jpg&&https://cn.bing.com/th?id=OHR.AustriaMarmot_EN-US0012248153_UHD.jpg
 BingWallPaper-2025-02-03-盛开的樱花树上的红头长尾山雀-4K.jpg&&https://cn.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg
 BingWallPaper-2025-02-04-Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg
+BingWallPaper-2025-02-04-金桥，巴拿山，岘港，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg
+BingWallPaper-2025-02-05-Golden Bridge, Bà Nà Hills, Da Nang, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg
