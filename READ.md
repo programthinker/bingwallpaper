@@ -1197,3 +1197,5 @@ BingWallPaper-2025-02-03-盛开的樱花树上的红头长尾山雀-4K.jpg&&http
 BingWallPaper-2025-02-04-Ribblehead Viaduct and Ingleborough mountain, North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.RibbleheadViaduct_EN-US0244245382_UHD.jpg
 BingWallPaper-2025-02-04-金桥，巴拿山，岘港，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenBridge_ZH-CN2910740727_UHD.jpg
 BingWallPaper-2025-02-05-Golden Bridge, Bà Nà Hills, Da Nang, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg
+BingWallPaper-2025-02-05-苏格兰黑脸羊，阿伯丁郡，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN7122848634_UHD.jpg
+BingWallPaper-2025-02-06-Scottish Blackface sheep, Aberdeenshire, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg
