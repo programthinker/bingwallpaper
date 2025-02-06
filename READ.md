@@ -1199,3 +1199,5 @@ BingWallPaper-2025-02-04-金桥，巴拿山，岘港，越南-4K.jpg&&https://cn
 BingWallPaper-2025-02-05-Golden Bridge, Bà Nà Hills, Da Nang, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg
 BingWallPaper-2025-02-05-苏格兰黑脸羊，阿伯丁郡，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottishSheep_ZH-CN7122848634_UHD.jpg
 BingWallPaper-2025-02-06-Scottish Blackface sheep, Aberdeenshire, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg
+BingWallPaper-2025-02-06-拱门群岛，瓦拉里基海滩，南岛，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_UHD.jpg
+BingWallPaper-2025-02-07-Archway Islands, Wharariki Beach, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg
