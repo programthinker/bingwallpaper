@@ -1201,3 +1201,5 @@ BingWallPaper-2025-02-05-苏格兰黑脸羊，阿伯丁郡，苏格兰-4K.jpg&&h
 BingWallPaper-2025-02-06-Scottish Blackface sheep, Aberdeenshire, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg
 BingWallPaper-2025-02-06-拱门群岛，瓦拉里基海滩，南岛，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WhararikiBeach_ZH-CN7232913389_UHD.jpg
 BingWallPaper-2025-02-07-Archway Islands, Wharariki Beach, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg
+BingWallPaper-2025-02-07-特隆赫姆的蓝色时刻，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN4865816873_UHD.jpg
+BingWallPaper-2025-02-08-Blue hour in Trondheim, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg
