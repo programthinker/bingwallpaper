@@ -1203,3 +1203,5 @@ BingWallPaper-2025-02-06-拱门群岛，瓦拉里基海滩，南岛，新西兰-
 BingWallPaper-2025-02-07-Archway Islands, Wharariki Beach, South Island, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhararikiBeach_EN-US3505877495_UHD.jpg
 BingWallPaper-2025-02-07-特隆赫姆的蓝色时刻，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNorway_ZH-CN4865816873_UHD.jpg
 BingWallPaper-2025-02-08-Blue hour in Trondheim, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg
+BingWallPaper-2025-02-08-梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg
+BingWallPaper-2025-02-09-Medieval towers in Mestia, Upper Svaneti, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg
