@@ -1205,3 +1205,5 @@ BingWallPaper-2025-02-07-特隆赫姆的蓝色时刻，挪威-4K.jpg&&https://cn
 BingWallPaper-2025-02-08-Blue hour in Trondheim, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg
 BingWallPaper-2025-02-08-梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格鲁吉亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowySvaneti_ZH-CN7626153023_UHD.jpg
 BingWallPaper-2025-02-09-Medieval towers in Mestia, Upper Svaneti, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg
+BingWallPaper-2025-02-09-阿尔斯特罗姆角，鲍威尔湖，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg
+BingWallPaper-2025-02-10-Alstrom Point, Lake Powell, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg
