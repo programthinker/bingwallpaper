@@ -1207,3 +1207,5 @@ BingWallPaper-2025-02-08-梅斯蒂亚的中世纪塔楼，上斯瓦涅季，格�
 BingWallPaper-2025-02-09-Medieval towers in Mestia, Upper Svaneti, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg
 BingWallPaper-2025-02-09-阿尔斯特罗姆角，鲍威尔湖，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlstromPoint_ZH-CN7844819126_UHD.jpg
 BingWallPaper-2025-02-10-Alstrom Point, Lake Powell, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg
+BingWallPaper-2025-02-10-雨伞艺术装置，博罗市场，伦敦，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg
+BingWallPaper-2025-02-11-Art installation of umbrellas at Borough Market in London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg
