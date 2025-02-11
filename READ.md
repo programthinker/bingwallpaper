@@ -1209,3 +1209,5 @@ BingWallPaper-2025-02-09-阿尔斯特罗姆角，鲍威尔湖，犹他州，美�
 BingWallPaper-2025-02-10-Alstrom Point, Lake Powell, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg
 BingWallPaper-2025-02-10-雨伞艺术装置，博罗市场，伦敦，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.UmbrellaDay_ZH-CN8024305066_UHD.jpg
 BingWallPaper-2025-02-11-Art installation of umbrellas at Borough Market in London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg
+BingWallPaper-2025-02-11-云冈石窟，大同，山西省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg
+BingWallPaper-2025-02-12-Yungang Grottoes, Datong, Shanxi province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg
