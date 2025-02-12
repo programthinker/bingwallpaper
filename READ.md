@@ -1211,3 +1211,5 @@ BingWallPaper-2025-02-10-雨伞艺术装置，博罗市场，伦敦，英国-4K.
 BingWallPaper-2025-02-11-Art installation of umbrellas at Borough Market in London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.UmbrellaDay_EN-US6816351187_UHD.jpg
 BingWallPaper-2025-02-11-云冈石窟，大同，山西省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.YungangGrottoes_ZH-CN8275054060_UHD.jpg
 BingWallPaper-2025-02-12-Yungang Grottoes, Datong, Shanxi province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg
+BingWallPaper-2025-02-12-上海豫园的灯会，元宵节，上海市，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg
+BingWallPaper-2025-02-13-Marine iguanas, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg
