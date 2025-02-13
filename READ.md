@@ -1213,3 +1213,5 @@ BingWallPaper-2025-02-11-云冈石窟，大同，山西省，中国-4K.jpg&&http
 BingWallPaper-2025-02-12-Yungang Grottoes, Datong, Shanxi province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg
 BingWallPaper-2025-02-12-上海豫园的灯会，元宵节，上海市，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LanterFestival25Y_ZH-CN8547998003_UHD.jpg
 BingWallPaper-2025-02-13-Marine iguanas, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg
+BingWallPaper-2025-02-13-泰瑞尔湖，维多利亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeTyrrell_ZH-CN8860948292_UHD.jpg
+BingWallPaper-2025-02-14-Lake Tyrrell, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg
