@@ -1217,3 +1217,5 @@ BingWallPaper-2025-02-13-泰瑞尔湖，维多利亚州，澳大利亚-4K.jpg&&h
 BingWallPaper-2025-02-14-Lake Tyrrell, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeTyrrell_EN-US7326346900_UHD.jpg
 BingWallPaper-2025-02-14-两只麦哲伦企鹅，福克兰群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.PenguinLove_ZH-CN9124008164_UHD.jpg
 BingWallPaper-2025-02-15-Magellanic penguins in the Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg
+BingWallPaper-2025-02-15-三十槌冰柱，秩父市，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg
+BingWallPaper-2025-02-16-Icicles of Misotsuchi, Chichibu, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg
