@@ -1219,3 +1219,5 @@ BingWallPaper-2025-02-14-两只麦哲伦企鹅，福克兰群岛-4K.jpg&&https:/
 BingWallPaper-2025-02-15-Magellanic penguins in the Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg
 BingWallPaper-2025-02-15-三十槌冰柱，秩父市，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.Misotsuchi2025_ZH-CN9260395680_UHD.jpg
 BingWallPaper-2025-02-16-Icicles of Misotsuchi, Chichibu, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg
+BingWallPaper-2025-02-16-座头鲸妈妈和宝宝，汤加-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackMother_ZH-CN9453300759_UHD.jpg
+BingWallPaper-2025-02-17-Humpback whale mother and calf, Tonga-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg
