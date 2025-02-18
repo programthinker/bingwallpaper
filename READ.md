@@ -1223,3 +1223,5 @@ BingWallPaper-2025-02-16-座头鲸妈妈和宝宝，汤加-4K.jpg&&https://cn.bi
 BingWallPaper-2025-02-17-Humpback whale mother and calf, Tonga-4K.jpg&&https://cn.bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg
 BingWallPaper-2025-02-17-Coll d'Ares，加泰罗尼亚比利牛斯​​山脉-4K.jpg&&https://cn.bing.com/th?id=OHR.CatalanPyrenees_ZH-CN9699602584_UHD.jpg
 BingWallPaper-2025-02-18-The Washington Monument seen from the Lincoln Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg
+BingWallPaper-2025-02-18-大蓝洞，伯利兹-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueBelize_ZH-CN9875040666_UHD.jpg
+BingWallPaper-2025-02-19-Great Blue Hole, Belize-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg
