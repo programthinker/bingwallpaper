@@ -1227,3 +1227,5 @@ BingWallPaper-2025-02-18-大蓝洞，伯利兹-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2025-02-19-Great Blue Hole, Belize-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg
 BingWallPaper-2025-02-19-欧亚水獭，莱利斯塔德，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.IceHoleOtter_ZH-CN0106321041_UHD.jpg
 BingWallPaper-2025-02-20-European river otter, Lelystad, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg
+BingWallPaper-2025-02-20-马鹿，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg
+BingWallPaper-2025-02-21-Alpenglow on Half Dome, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg
