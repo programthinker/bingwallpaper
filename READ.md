@@ -1229,3 +1229,5 @@ BingWallPaper-2025-02-19-欧亚水獭，莱利斯塔德，荷兰-4K.jpg&&https:/
 BingWallPaper-2025-02-20-European river otter, Lelystad, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg
 BingWallPaper-2025-02-20-马鹿，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaDeer_ZH-CN0631345798_UHD.jpg
 BingWallPaper-2025-02-21-Alpenglow on Half Dome, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg
+BingWallPaper-2025-02-21-希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg
+BingWallPaper-2025-02-22-Champaka Sarasi pond near Shivamogga, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg
