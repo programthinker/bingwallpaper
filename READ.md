@@ -1231,3 +1231,5 @@ BingWallPaper-2025-02-20-马鹿，加拿大-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2025-02-21-Alpenglow on Half Dome, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg
 BingWallPaper-2025-02-21-希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.ChampakaSarasi_ZH-CN0254940579_UHD.jpg
 BingWallPaper-2025-02-22-Champaka Sarasi pond near Shivamogga, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg
+BingWallPaper-2025-02-22-圣路易斯拱门, 密苏里州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg
+BingWallPaper-2025-02-23-The Gateway Arch in St. Louis, Missouri-4K.jpg&&https://cn.bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg
