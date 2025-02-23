@@ -1233,3 +1233,5 @@ BingWallPaper-2025-02-21-希莫加附近的 Champaka Sarasi 池塘，卡纳塔�
 BingWallPaper-2025-02-22-Champaka Sarasi pond near Shivamogga, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg
 BingWallPaper-2025-02-22-圣路易斯拱门, 密苏里州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.StLouisArch_ZH-CN0442955735_UHD.jpg
 BingWallPaper-2025-02-23-The Gateway Arch in St. Louis, Missouri-4K.jpg&&https://cn.bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg
+BingWallPaper-2025-02-23-日出时分的富士山, 河口湖, 日本-4K.jpg&&https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg
+BingWallPaper-2025-02-24-Mount Fuji at sunrise, Lake Kawaguchi, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg
