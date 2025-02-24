@@ -1235,3 +1235,5 @@ BingWallPaper-2025-02-22-圣路易斯拱门, 密苏里州, 美国-4K.jpg&&https:
 BingWallPaper-2025-02-23-The Gateway Arch in St. Louis, Missouri-4K.jpg&&https://cn.bing.com/th?id=OHR.StLouisArch_EN-US1920417205_UHD.jpg
 BingWallPaper-2025-02-23-日出时分的富士山, 河口湖, 日本-4K.jpg&&https://cn.bing.com/th?id=OHR.MtFujiSunrise_ZH-CN0567499176_UHD.jpg
 BingWallPaper-2025-02-24-Mount Fuji at sunrise, Lake Kawaguchi, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg
+BingWallPaper-2025-02-24-斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg
+BingWallPaper-2025-02-25-Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg
