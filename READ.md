@@ -1237,3 +1237,5 @@ BingWallPaper-2025-02-23-日出时分的富士山, 河口湖, 日本-4K.jpg&&htt
 BingWallPaper-2025-02-24-Mount Fuji at sunrise, Lake Kawaguchi, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.MtFujiSunrise_EN-US2218385739_UHD.jpg
 BingWallPaper-2025-02-24-斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantCuttlefish_ZH-CN0670915878_UHD.jpg
 BingWallPaper-2025-02-25-Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg
+BingWallPaper-2025-02-25-砂岩石柱，布莱斯峡谷国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg
+BingWallPaper-2025-02-26-Sandstone hoodoos, Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg
