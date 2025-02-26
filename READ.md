@@ -1239,3 +1239,5 @@ BingWallPaper-2025-02-24-斯潘塞湾的一群伞膜乌贼, 怀阿拉,南澳大�
 BingWallPaper-2025-02-25-Group of giant cuttlefish in Spencer Gulf, off Whyalla, South Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.GiantCuttlefish_EN-US2276053377_UHD.jpg
 BingWallPaper-2025-02-25-砂岩石柱，布莱斯峡谷国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceHoodoos_ZH-CN0817211446_UHD.jpg
 BingWallPaper-2025-02-26-Sandstone hoodoos, Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.BryceHoodoos_EN-US2334649046_UHD.jpg
+BingWallPaper-2025-02-26-莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ArgyllStalker_ZH-CN0970395078_UHD.jpg
+BingWallPaper-2025-02-27-Castle Stalker on Loch Laich, Argyll, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg
