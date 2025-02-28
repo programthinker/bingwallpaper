@@ -1243,3 +1243,5 @@ BingWallPaper-2025-02-26-莱奇湖上的斯托克尔城堡，阿盖尔郡，苏�
 BingWallPaper-2025-02-27-Castle Stalker on Loch Laich, Argyll, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg
 BingWallPaper-2025-02-27-北极熊幼崽，丘吉尔，马尼托巴省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg
 BingWallPaper-2025-02-28-Polar bear cub, Churchill, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg
+BingWallPaper-2025-02-28-虎穴寺，不丹-4K.jpg&&https://cn.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg
+BingWallPaper-2025-03-01-Paro Taktsang, a Buddhist monastery in Bhutan-4K.jpg&&https://cn.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg
