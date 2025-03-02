@@ -1247,3 +1247,5 @@ BingWallPaper-2025-02-28-虎穴寺，不丹-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2025-03-01-Paro Taktsang, a Buddhist monastery in Bhutan-4K.jpg&&https://cn.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg
 BingWallPaper-2025-03-01-玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.MaligneLakeJasper_ZH-CN2664289451_UHD.jpg
 BingWallPaper-2025-03-02-Dr. Anna Howard Shaw leading a suffrage parade in 1910s New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffragetteCity_EN-US2883743791_UHD.jpg
+BingWallPaper-2025-03-02-桉树，梅加龙谷，蓝山山脉国家公园，新南威尔士州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EucalyptusForest_ZH-CN3052498076_UHD.jpg
+BingWallPaper-2025-03-03-Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg
