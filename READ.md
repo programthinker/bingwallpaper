@@ -1251,3 +1251,5 @@ BingWallPaper-2025-03-02-桉树，梅加龙谷，蓝山山脉国家公园，新�
 BingWallPaper-2025-03-03-Eucalyptus trees, Megalong Valley, Blue Mountains National Park, NSW, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.EucalyptusForest_EN-US3015819767_UHD.jpg
 BingWallPaper-2025-03-03-南黄弯嘴犀鸟，克鲁格国家公园 ，南非-4K.jpg&&https://cn.bing.com/th?id=OHR.HornbillPair_ZH-CN3380997666_UHD.jpg
 BingWallPaper-2025-03-04-Southern yellow-billed hornbills in Kruger National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg
+BingWallPaper-2025-03-04-杰克逊广场，新奥尔良，路易斯安那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg
+BingWallPaper-2025-03-05-Jackson Square, New Orleans, Louisiana-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg
