@@ -1253,3 +1253,5 @@ BingWallPaper-2025-03-03-南黄弯嘴犀鸟，克鲁格国家公园 ，南非-4K
 BingWallPaper-2025-03-04-Southern yellow-billed hornbills in Kruger National Park, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.HornbillPair_EN-US3168408482_UHD.jpg
 BingWallPaper-2025-03-04-杰克逊广场，新奥尔良，路易斯安那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasJackson_ZH-CN3456301377_UHD.jpg
 BingWallPaper-2025-03-05-Jackson Square, New Orleans, Louisiana-4K.jpg&&https://cn.bing.com/th?id=OHR.MardiGrasJackson_EN-US3277683692_UHD.jpg
+BingWallPaper-2025-03-05-俯瞰拷索山林国家公园，素叻府，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.SuratThani_ZH-CN4797096558_UHD.jpg
+BingWallPaper-2025-03-06-Aerial view of Khao Sok National Park, Surat Thani, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg
