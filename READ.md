@@ -1257,3 +1257,5 @@ BingWallPaper-2025-03-05-俯瞰拷索山林国家公园，素叻府，泰国-4K.
 BingWallPaper-2025-03-06-Aerial view of Khao Sok National Park, Surat Thani, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg
 BingWallPaper-2025-03-06-沙漠大角羊，内华达州火焰谷州立公园，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.NevadaBigHorns_ZH-CN5987046965_UHD.jpg
 BingWallPaper-2025-03-07-Desert bighorn sheep in Valley of Fire State Park, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg
+BingWallPaper-2025-03-07-中国的梅花-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg
+BingWallPaper-2025-03-08-Plum blossoms in China-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg
