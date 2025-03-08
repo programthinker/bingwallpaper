@@ -1259,3 +1259,5 @@ BingWallPaper-2025-03-06-沙漠大角羊，内华达州火焰谷州立公园，�
 BingWallPaper-2025-03-07-Desert bighorn sheep in Valley of Fire State Park, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg
 BingWallPaper-2025-03-07-中国的梅花-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumBlossom_ZH-CN5888621119_UHD.jpg
 BingWallPaper-2025-03-08-Plum blossoms in China-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg
+BingWallPaper-2025-03-08-石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg
+BingWallPaper-2025-03-09-Fearless Girl statue facing the New York Stock Exchange, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg
