@@ -1261,3 +1261,5 @@ BingWallPaper-2025-03-07-中国的梅花-4K.jpg&&https://cn.bing.com/th?id=OHR.P
 BingWallPaper-2025-03-08-Plum blossoms in China-4K.jpg&&https://cn.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg
 BingWallPaper-2025-03-08-石勒苏益格-荷尔斯泰因州瓦登海国家公园，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg
 BingWallPaper-2025-03-09-Fearless Girl statue facing the New York Stock Exchange, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg
+BingWallPaper-2025-03-09-圣马可钟楼，威尼斯，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg
+BingWallPaper-2025-03-10-St. Mark's Clock Tower, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg
