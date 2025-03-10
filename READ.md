@@ -1263,3 +1263,5 @@ BingWallPaper-2025-03-08-石勒苏益格-荷尔斯泰因州瓦登海国家公园
 BingWallPaper-2025-03-09-Fearless Girl statue facing the New York Stock Exchange, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg
 BingWallPaper-2025-03-09-圣马可钟楼，威尼斯，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg
 BingWallPaper-2025-03-10-St. Mark's Clock Tower, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg
+BingWallPaper-2025-03-10-在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg
+BingWallPaper-2025-03-11-A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg
