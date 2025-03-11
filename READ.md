@@ -1265,3 +1265,5 @@ BingWallPaper-2025-03-09-圣马可钟楼，威尼斯，意大利-4K.jpg&&https:/
 BingWallPaper-2025-03-10-St. Mark's Clock Tower, Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg
 BingWallPaper-2025-03-10-在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingLion_ZH-CN1214312983_UHD.jpg
 BingWallPaper-2025-03-11-A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg
+BingWallPaper-2025-03-11-努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg
+BingWallPaper-2025-03-12-Broken Beach in Nusa Penida, Bali, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg
