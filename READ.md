@@ -1267,3 +1267,5 @@ BingWallPaper-2025-03-10-在伊沙沙区里正在睡觉的狮子，伊丽莎白�
 BingWallPaper-2025-03-11-A lion sleeping in Ishasha Sector, Queen Elizabeth National Park, Uganda-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg
 BingWallPaper-2025-03-11-努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg
 BingWallPaper-2025-03-12-Broken Beach in Nusa Penida, Bali, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg
+BingWallPaper-2025-03-12-卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg
+BingWallPaper-2025-03-13-Château de Sully-sur-Loire, Center-Val de Loire, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg
