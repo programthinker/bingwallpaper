@@ -1271,3 +1271,5 @@ BingWallPaper-2025-03-12-卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国
 BingWallPaper-2025-03-13-Château de Sully-sur-Loire, Center-Val de Loire, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg
 BingWallPaper-2025-03-13-洒红节庆祝活动，斋浦尔，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg
 BingWallPaper-2025-03-14-Holi celebration in Jaipur, India-4K.jpg&&https://cn.bing.com/th?id=OHR.HoliColors_EN-US9033637774_UHD.jpg
+BingWallPaper-2025-03-14-索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.BasqueDolmen_ZH-CN2364777801_UHD.jpg
+BingWallPaper-2025-03-15-Dolmen of Sorginetxe, Basque Country, Álava, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg
