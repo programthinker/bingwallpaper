@@ -1275,3 +1275,5 @@ BingWallPaper-2025-03-14-索尔吉奈特克斯的巨石墓，巴斯克地区，�
 BingWallPaper-2025-03-15-Dolmen of Sorginetxe, Basque Country, Álava, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.BasqueDolmen_EN-US9089569057_UHD.jpg
 BingWallPaper-2025-03-15-罗马广场上的罗马萨图尔诺农神庙，罗马，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ForumRomanum_ZH-CN5873120178_UHD.jpg
 BingWallPaper-2025-03-16-The Temple of Saturn in the Roman Forum, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ForumRomanum_EN-US9379132630_UHD.jpg
+BingWallPaper-2025-03-16-雪地里的大熊猫宝宝，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaSnow_ZH-CN5981854301_UHD.jpg
+BingWallPaper-2025-03-17-Baby giant panda in the snow, China-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg
