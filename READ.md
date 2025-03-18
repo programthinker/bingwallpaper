@@ -1279,3 +1279,5 @@ BingWallPaper-2025-03-16-雪地里的大熊猫宝宝，中国-4K.jpg&&https://cn
 BingWallPaper-2025-03-17-Baby giant panda in the snow, China-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg
 BingWallPaper-2025-03-17-塞缪尔·贝克特桥, 都柏林, 爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BeckettBridge_ZH-CN6206942429_UHD.jpg
 BingWallPaper-2025-03-18-Samuel Beckett Bridge, Dublin, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg
+BingWallPaper-2025-03-18-红色岩层，塞多纳，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg
+BingWallPaper-2025-03-19-Red rock formations, Sedona, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg
