@@ -1281,3 +1281,5 @@ BingWallPaper-2025-03-17-塞缪尔·贝克特桥, 都柏林, 爱尔兰-4K.jpg&&h
 BingWallPaper-2025-03-18-Samuel Beckett Bridge, Dublin, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg
 BingWallPaper-2025-03-18-红色岩层，塞多纳，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSpring_ZH-CN6305197600_UHD.jpg
 BingWallPaper-2025-03-19-Red rock formations, Sedona, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg
+BingWallPaper-2025-03-19-黑鹭捕鱼，乔贝国家公园，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg
+BingWallPaper-2025-03-20-A black heron canopy feeding, Chobe National Park, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg
