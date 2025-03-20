@@ -1283,3 +1283,5 @@ BingWallPaper-2025-03-18-红色岩层，塞多纳，亚利桑那州，美国-4K.
 BingWallPaper-2025-03-19-Red rock formations, Sedona, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg
 BingWallPaper-2025-03-19-黑鹭捕鱼，乔贝国家公园，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackHeron_ZH-CN6764711050_UHD.jpg
 BingWallPaper-2025-03-20-A black heron canopy feeding, Chobe National Park, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg
+BingWallPaper-2025-03-20-美丽盛开的樱花，杭州的春天，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringequinoxY25_ZH-CN1635828827_UHD.jpg
+BingWallPaper-2025-03-21-Spring daffodils glowing in morning light-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringDaffodils_EN-US9726346116_UHD.jpg
