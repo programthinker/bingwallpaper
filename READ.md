@@ -1289,3 +1289,5 @@ BingWallPaper-2025-03-21-低地雨林上空的薄雾，丹浓谷，沙巴，婆�
 BingWallPaper-2025-03-22-Mist over a lowland rainforest, Danum Valley, Sabah, Borneo, Malaysia-4K.jpg&&https://cn.bing.com/th?id=OHR.DanumValley_EN-US1030783251_UHD.jpg
 BingWallPaper-2025-03-22-尼特哈天然井水面上的睡莲，图卢姆，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.CenoteLilies_ZH-CN5915682591_UHD.jpg
 BingWallPaper-2025-03-23-Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg
+BingWallPaper-2025-03-23-鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.NebraskaStorm_ZH-CN6944682381_UHD.jpg
+BingWallPaper-2025-03-24-Lightning and storm clouds at sunset near Bowman, Nebraska-4K.jpg&&https://cn.bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg
