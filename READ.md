@@ -1291,3 +1291,5 @@ BingWallPaper-2025-03-22-尼特哈天然井水面上的睡莲，图卢姆，墨�
 BingWallPaper-2025-03-23-Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg
 BingWallPaper-2025-03-23-鲍曼附近日落时分的闪电和风暴云，布拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.NebraskaStorm_ZH-CN6944682381_UHD.jpg
 BingWallPaper-2025-03-24-Lightning and storm clouds at sunset near Bowman, Nebraska-4K.jpg&&https://cn.bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg
+BingWallPaper-2025-03-24-沙漠象与小象在高高的草丛中觅食，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg
+BingWallPaper-2025-03-25-Desert elephant with calf feeding on tall grass, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg
