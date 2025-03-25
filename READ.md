@@ -1293,3 +1293,5 @@ BingWallPaper-2025-03-23-鲍曼附近日落时分的闪电和风暴云，布拉�
 BingWallPaper-2025-03-24-Lightning and storm clouds at sunset near Bowman, Nebraska-4K.jpg&&https://cn.bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg
 BingWallPaper-2025-03-24-沙漠象与小象在高高的草丛中觅食，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantGrass_ZH-CN7110191053_UHD.jpg
 BingWallPaper-2025-03-25-Desert elephant with calf feeding on tall grass, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg
+BingWallPaper-2025-03-25-向日葵田里的红额金翅雀，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg
+BingWallPaper-2025-03-26-Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg
