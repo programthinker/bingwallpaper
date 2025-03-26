@@ -1295,3 +1295,5 @@ BingWallPaper-2025-03-24-沙漠象与小象在高高的草丛中觅食，纳米�
 BingWallPaper-2025-03-25-Desert elephant with calf feeding on tall grass, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantGrass_EN-US1398774650_UHD.jpg
 BingWallPaper-2025-03-25-向日葵田里的红额金翅雀，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.GoldfinchSunflower_ZH-CN7276848190_UHD.jpg
 BingWallPaper-2025-03-26-Hobbit-hole in Hobbiton Movie Set, Waikato, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.HobbitHole_EN-US1602468401_UHD.jpg
+BingWallPaper-2025-03-26-水晶河的海牛，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CrystalManatee_ZH-CN7547286414_UHD.jpg
+BingWallPaper-2025-03-27-Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg
