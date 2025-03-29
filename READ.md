@@ -1301,3 +1301,5 @@ BingWallPaper-2025-03-27-希罗德·阿提库斯剧场，雅典卫城，希腊-4
 BingWallPaper-2025-03-28-Odeon of Herodes Atticus, Acropolis of Athens, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg
 BingWallPaper-2025-03-28-正在筑巢的雌性黑枕王鹟-4K.jpg&&https://cn.bing.com/th?id=OHR.NestingMonarch_ZH-CN7848166951_UHD.jpg
 BingWallPaper-2025-03-29-Female black-naped monarch nesting-4K.jpg&&https://cn.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg
+BingWallPaper-2025-03-29-卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg
+BingWallPaper-2025-03-30-Superbloom in Carrizo Plain National Monument, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg
