@@ -1303,3 +1303,5 @@ BingWallPaper-2025-03-28-正在筑巢的雌性黑枕王鹟-4K.jpg&&https://cn.bi
 BingWallPaper-2025-03-29-Female black-naped monarch nesting-4K.jpg&&https://cn.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg
 BingWallPaper-2025-03-29-卡里佐平原国家纪念碑的超级花期，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg
 BingWallPaper-2025-03-30-Superbloom in Carrizo Plain National Monument, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg
+BingWallPaper-2025-03-30-悉尼港鸟瞰图，新南威尔士州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyHarbour_ZH-CN8119451632_UHD.jpg
+BingWallPaper-2025-03-31-Aerial view of Sydney Harbour, New South Wales, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg
