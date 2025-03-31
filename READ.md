@@ -1305,3 +1305,5 @@ BingWallPaper-2025-03-29-卡里佐平原国家纪念碑的超级花期，加利�
 BingWallPaper-2025-03-30-Superbloom in Carrizo Plain National Monument, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg
 BingWallPaper-2025-03-30-悉尼港鸟瞰图，新南威尔士州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyHarbour_ZH-CN8119451632_UHD.jpg
 BingWallPaper-2025-03-31-Aerial view of Sydney Harbour, New South Wales, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg
+BingWallPaper-2025-03-31-黄昏下的奥斯图尼, 普利亚, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg
+BingWallPaper-2025-04-01-Ostuni at dusk, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg
