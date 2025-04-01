@@ -1307,3 +1307,5 @@ BingWallPaper-2025-03-30-悉尼港鸟瞰图，新南威尔士州，澳大利亚-
 BingWallPaper-2025-03-31-Aerial view of Sydney Harbour, New South Wales, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg
 BingWallPaper-2025-03-31-黄昏下的奥斯图尼, 普利亚, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyOstuni_ZH-CN8306220080_UHD.jpg
 BingWallPaper-2025-04-01-Ostuni at dusk, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg
+BingWallPaper-2025-04-01-树蛙, 哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg
+BingWallPaper-2025-04-02-Tree frog, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg
