@@ -1311,3 +1311,5 @@ BingWallPaper-2025-04-01-树蛙, 哥斯达黎加-4K.jpg&&https://cn.bing.com/th?
 BingWallPaper-2025-04-02-Tree frog, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg
 BingWallPaper-2025-04-02-凯恩维尔附近荒地的砂岩地层, 犹他州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg
 BingWallPaper-2025-04-03-Sandstone formations in the badlands near Caineville, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg
+BingWallPaper-2025-04-03-沃森峰上空的彩虹, 巨人柱国家公园, 亚利桑那州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg
+BingWallPaper-2025-04-04-Rainbow over Wasson Peak, Saguaro National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg
