@@ -1315,3 +1315,5 @@ BingWallPaper-2025-04-03-沃森峰上空的彩虹, 巨人柱国家公园, 亚利
 BingWallPaper-2025-04-04-Rainbow over Wasson Peak, Saguaro National Park, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SaguaroRainbow_EN-US3149462337_UHD.jpg
 BingWallPaper-2025-04-04-苏州古镇风景，江苏省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.QingMingY25_ZH-CN9818431198_UHD.jpg
 BingWallPaper-2025-04-05-The National Cherry Blossom Festival in Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg
+BingWallPaper-2025-04-05-日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg
+BingWallPaper-2025-04-06-Gaztelugatxe at sunset, Basque Country, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg
