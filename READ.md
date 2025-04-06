@@ -1317,3 +1317,5 @@ BingWallPaper-2025-04-04-苏州古镇风景，江苏省，中国-4K.jpg&&https:/
 BingWallPaper-2025-04-05-The National Cherry Blossom Festival in Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.CherryBlossomDC_EN-US9897772834_UHD.jpg
 BingWallPaper-2025-04-05-日落时分的加兹特鲁加特岛 , 巴斯克地区, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_ZH-CN0553703567_UHD.jpg
 BingWallPaper-2025-04-06-Gaztelugatxe at sunset, Basque Country, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg
+BingWallPaper-2025-04-06-碎片大厦，伦敦-4K.jpg&&https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg
+BingWallPaper-2025-04-07-George Peabody Library, Baltimore, Maryland-4K.jpg&&https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg
