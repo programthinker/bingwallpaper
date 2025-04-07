@@ -1319,3 +1319,5 @@ BingWallPaper-2025-04-05-日落时分的加兹特鲁加特岛 , 巴斯克地区,
 BingWallPaper-2025-04-06-Gaztelugatxe at sunset, Basque Country, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.GaztelugatxeSunset_EN-US9970203395_UHD.jpg
 BingWallPaper-2025-04-06-碎片大厦，伦敦-4K.jpg&&https://cn.bing.com/th?id=OHR.ShardLondon2025_ZH-CN0722863055_UHD.jpg
 BingWallPaper-2025-04-07-George Peabody Library, Baltimore, Maryland-4K.jpg&&https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg
+BingWallPaper-2025-04-07-美洲海狸, Moran, 怀俄明州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg
+BingWallPaper-2025-04-08-North American beaver, Moran, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg
