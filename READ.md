@@ -1321,3 +1321,5 @@ BingWallPaper-2025-04-06-碎片大厦，伦敦-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2025-04-07-George Peabody Library, Baltimore, Maryland-4K.jpg&&https://cn.bing.com/th?id=OHR.PeabodyBaltimore_EN-US0036943577_UHD.jpg
 BingWallPaper-2025-04-07-美洲海狸, Moran, 怀俄明州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDay_ZH-CN2889563041_UHD.jpg
 BingWallPaper-2025-04-08-North American beaver, Moran, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg
+BingWallPaper-2025-04-08-春天的水仙花在清晨绽放-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg
+BingWallPaper-2025-04-09-Women in traditional dress at the Paro Tshechu Festival in Bhutan-4K.jpg&&https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg
