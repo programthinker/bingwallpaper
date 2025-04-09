@@ -1323,3 +1323,5 @@ BingWallPaper-2025-04-07-美洲海狸, Moran, 怀俄明州, 美国-4K.jpg&&https
 BingWallPaper-2025-04-08-North American beaver, Moran, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg
 BingWallPaper-2025-04-08-春天的水仙花在清晨绽放-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringDaffodils_ZH-CN6737270212_UHD.jpg
 BingWallPaper-2025-04-09-Women in traditional dress at the Paro Tshechu Festival in Bhutan-4K.jpg&&https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg
+BingWallPaper-2025-04-09-纳克索斯岛的蓝色时刻，基克拉泽斯群岛，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNaxos_ZH-CN7863097040_UHD.jpg
+BingWallPaper-2025-04-10-Blue hour in Naxos, Cyclades, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US0374867860_UHD.jpg
