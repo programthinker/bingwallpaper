@@ -1327,3 +1327,5 @@ BingWallPaper-2025-04-09-纳克索斯岛的蓝色时刻，基克拉泽斯群岛�
 BingWallPaper-2025-04-10-Blue hour in Naxos, Cyclades, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US0374867860_UHD.jpg
 BingWallPaper-2025-04-10-靠近巢穴的红狐幼崽-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleFoxes_ZH-CN8622806156_UHD.jpg
 BingWallPaper-2025-04-11-Red fox cubs near their den-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg
+BingWallPaper-2025-04-11-郁金香，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg
+BingWallPaper-2025-04-12-Tulip fields in Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg
