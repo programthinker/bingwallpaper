@@ -1329,3 +1329,5 @@ BingWallPaper-2025-04-10-靠近巢穴的红狐幼崽-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-04-11-Red fox cubs near their den-4K.jpg&&https://cn.bing.com/th?id=OHR.LittleFoxes_EN-US8078019606_UHD.jpg
 BingWallPaper-2025-04-11-郁金香，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.TulipsWindmill_ZH-CN0665142956_UHD.jpg
 BingWallPaper-2025-04-12-Tulip fields in Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg
+BingWallPaper-2025-04-12-从国际空间站穹顶俯瞰南太平洋-4K.jpg&&https://cn.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg
+BingWallPaper-2025-04-13-View from the cupola of the International Space Station above the South Pacific Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg
