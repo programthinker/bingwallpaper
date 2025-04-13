@@ -1331,3 +1331,5 @@ BingWallPaper-2025-04-11-郁金香，荷兰-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2025-04-12-Tulip fields in Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.TulipsWindmill_EN-US8114977846_UHD.jpg
 BingWallPaper-2025-04-12-从国际空间站穹顶俯瞰南太平洋-4K.jpg&&https://cn.bing.com/th?id=OHR.SpaceFlight_ZH-CN0927394503_UHD.jpg
 BingWallPaper-2025-04-13-View from the cupola of the International Space Station above the South Pacific Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.SpaceFlight_EN-US8143075629_UHD.jpg
+BingWallPaper-2025-04-13-班克鲁特的唐赛寺，泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.ThailandPagodas_ZH-CN1143878296_UHD.jpg
+BingWallPaper-2025-04-14-Wat Tang Sai Temple in Ban Krut, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg
