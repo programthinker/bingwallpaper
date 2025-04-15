@@ -1335,3 +1335,5 @@ BingWallPaper-2025-04-13-班克鲁特的唐赛寺，泰国-4K.jpg&&https://cn.bi
 BingWallPaper-2025-04-14-Wat Tang Sai Temple in Ban Krut, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.ThailandPagodas_EN-US8039751329_UHD.jpg
 BingWallPaper-2025-04-14-圣玛丽亚岛附近的大西洋细吻海豚，亚速尔群岛，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedDolphins_ZH-CN1257100316_UHD.jpg
 BingWallPaper-2025-04-15-Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg
+BingWallPaper-2025-04-15-卡拉奥拉城堡，格拉纳达，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg
+BingWallPaper-2025-04-16-Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg
