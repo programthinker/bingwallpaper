@@ -1337,3 +1337,5 @@ BingWallPaper-2025-04-14-圣玛丽亚岛附近的大西洋细吻海豚，亚速�
 BingWallPaper-2025-04-15-Atlantic spotted dolphins near Santa Maria Island, Azores, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedDolphins_EN-US0872892049_UHD.jpg
 BingWallPaper-2025-04-15-卡拉奥拉城堡，格拉纳达，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CerezoEnFlor_ZH-CN2951543796_UHD.jpg
 BingWallPaper-2025-04-16-Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg
+BingWallPaper-2025-04-16-卡奇纳桥，天然桥国家区，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg
+BingWallPaper-2025-04-17-Kachina Bridge, Natural Bridges National Monument, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg
