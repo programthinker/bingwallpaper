@@ -1339,3 +1339,5 @@ BingWallPaper-2025-04-15-卡拉奥拉城堡，格拉纳达，西班牙-4K.jpg&&h
 BingWallPaper-2025-04-16-Beach art by Zarpõ at plage de Sauveterre, Les Sables-d'Olonne, France-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachArt_EN-US0911239616_UHD.jpg
 BingWallPaper-2025-04-16-卡奇纳桥，天然桥国家区，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KachinaBridge_ZH-CN3333793502_UHD.jpg
 BingWallPaper-2025-04-17-Kachina Bridge, Natural Bridges National Monument, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg
+BingWallPaper-2025-04-17-安第斯动冠伞鸟，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.EcuadorBird_ZH-CN3676173654_UHD.jpg
+BingWallPaper-2025-04-18-Andean cocks-of-the-rock, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg
