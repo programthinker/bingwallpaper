@@ -1343,3 +1343,5 @@ BingWallPaper-2025-04-17-安第斯动冠伞鸟，厄瓜多尔-4K.jpg&&https://cn
 BingWallPaper-2025-04-18-Andean cocks-of-the-rock, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg
 BingWallPaper-2025-04-18-卡帕多西亚格雷梅国家公园上空的热气球，土耳其-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeTurkey_ZH-CN0255739302_UHD.jpg
 BingWallPaper-2025-04-19-Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg
+BingWallPaper-2025-04-19-锡安国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg
+BingWallPaper-2025-04-20-Zion National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg
