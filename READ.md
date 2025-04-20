@@ -1345,3 +1345,5 @@ BingWallPaper-2025-04-18-卡帕多西亚格雷梅国家公园上空的热气球�
 BingWallPaper-2025-04-19-Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg
 BingWallPaper-2025-04-19-锡安国家公园，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ZionValley_ZH-CN0611524754_UHD.jpg
 BingWallPaper-2025-04-20-Zion National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg
+BingWallPaper-2025-04-20-春天里的野生小兔子-4K.jpg&&https://cn.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg
+BingWallPaper-2025-04-21-Wild baby rabbits in spring-4K.jpg&&https://cn.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg
