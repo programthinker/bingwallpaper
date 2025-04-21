@@ -1347,3 +1347,5 @@ BingWallPaper-2025-04-19-锡安国家公园，犹他州，美国-4K.jpg&&https:/
 BingWallPaper-2025-04-20-Zion National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg
 BingWallPaper-2025-04-20-春天里的野生小兔子-4K.jpg&&https://cn.bing.com/th?id=OHR.BunnyLove_ZH-CN1145897965_UHD.jpg
 BingWallPaper-2025-04-21-Wild baby rabbits in spring-4K.jpg&&https://cn.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg
+BingWallPaper-2025-04-21-银河下的约书亚树，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg
+BingWallPaper-2025-04-22-Joshua trees under the Milky Way, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg
