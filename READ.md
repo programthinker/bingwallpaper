@@ -1349,3 +1349,5 @@ BingWallPaper-2025-04-20-春天里的野生小兔子-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-04-21-Wild baby rabbits in spring-4K.jpg&&https://cn.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg
 BingWallPaper-2025-04-21-银河下的约书亚树，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaStars_ZH-CN1375098210_UHD.jpg
 BingWallPaper-2025-04-22-Joshua trees under the Milky Way, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg
+BingWallPaper-2025-04-22-大棱镜彩泉，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg
+BingWallPaper-2025-04-23-Grand Prismatic Spring, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg
