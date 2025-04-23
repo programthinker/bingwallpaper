@@ -1351,3 +1351,5 @@ BingWallPaper-2025-04-21-银河下的约书亚树，加利福尼亚州，美国-
 BingWallPaper-2025-04-22-Joshua trees under the Milky Way, California-4K.jpg&&https://cn.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg
 BingWallPaper-2025-04-22-大棱镜彩泉，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneSpring_ZH-CN2643482467_UHD.jpg
 BingWallPaper-2025-04-23-Grand Prismatic Spring, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg
+BingWallPaper-2025-04-23-海利根港斯坦沃德海滩上的沙滩椅，石勒苏益格-荷尔斯泰因州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.BeachChairsSteinwarder_ZH-CN2947390092_UHD.jpg
+BingWallPaper-2025-04-24-Shakespeare's Globe, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg
