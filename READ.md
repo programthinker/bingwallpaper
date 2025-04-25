@@ -1355,3 +1355,5 @@ BingWallPaper-2025-04-23-海利根港斯坦沃德海滩上的沙滩椅，石勒�
 BingWallPaper-2025-04-24-Shakespeare's Globe, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg
 BingWallPaper-2025-04-24-阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉斯加州苏厄德, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KenaiSpires_ZH-CN3045699778_UHD.jpg
 BingWallPaper-2025-04-25-Spire Cove in Kenai Fjords National Park, Seward, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg
+BingWallPaper-2025-04-25-麦哲伦企鹅, 志愿者角, 福克兰群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg
+BingWallPaper-2025-04-26-Magellanic penguins, Volunteer Point, Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg
