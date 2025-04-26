@@ -1357,3 +1357,5 @@ BingWallPaper-2025-04-24-阿拉斯加基奈峡湾国家公园尖顶湾, 阿拉�
 BingWallPaper-2025-04-25-Spire Cove in Kenai Fjords National Park, Seward, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg
 BingWallPaper-2025-04-25-麦哲伦企鹅, 志愿者角, 福克兰群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.MagellanicPenguin_ZH-CN3177950090_UHD.jpg
 BingWallPaper-2025-04-26-Magellanic penguins, Volunteer Point, Falkland Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg
+BingWallPaper-2025-04-26-印第安头湾, 布鲁斯半岛国家公园, 安大略, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg
+BingWallPaper-2025-04-27-Grove of redwoods in Redwood National and State Parks, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg
