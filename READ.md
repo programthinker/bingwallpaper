@@ -1361,3 +1361,5 @@ BingWallPaper-2025-04-26-印第安头湾, 布鲁斯半岛国家公园, 安大略
 BingWallPaper-2025-04-27-Grove of redwoods in Redwood National and State Parks, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg
 BingWallPaper-2025-04-27-红木国家公园和州立公园, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg
 BingWallPaper-2025-04-28-Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg
+BingWallPaper-2025-04-28-莫雷米野生动物保护区的高角羚，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg
+BingWallPaper-2025-04-29-Impala with red-billed oxpecker in Moremi Game Reserve, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg
