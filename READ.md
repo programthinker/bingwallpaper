@@ -1363,3 +1363,5 @@ BingWallPaper-2025-04-27-红木国家公园和州立公园, 加利福尼亚州, 
 BingWallPaper-2025-04-28-Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg
 BingWallPaper-2025-04-28-莫雷米野生动物保护区的高角羚，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.OrangeImpala_ZH-CN3417660107_UHD.jpg
 BingWallPaper-2025-04-29-Impala with red-billed oxpecker in Moremi Game Reserve, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg
+BingWallPaper-2025-04-29-维朗德里城堡，卢瓦尔河谷，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg
+BingWallPaper-2025-04-30-Formal garden at Château de Villandry, Loire Valley, France-4K.jpg&&https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg
