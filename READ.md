@@ -1365,3 +1365,5 @@ BingWallPaper-2025-04-28-莫雷米野生动物保护区的高角羚，博茨瓦�
 BingWallPaper-2025-04-29-Impala with red-billed oxpecker in Moremi Game Reserve, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg
 BingWallPaper-2025-04-29-维朗德里城堡，卢瓦尔河谷，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg
 BingWallPaper-2025-04-30-Formal garden at Château de Villandry, Loire Valley, France-4K.jpg&&https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg
+BingWallPaper-2025-04-30-从巴拉那州看到的伊瓜苏瀑布, 巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg
+BingWallPaper-2025-05-01-Jazz saxophonist John Coltrane and band performing in 1961 in London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg
