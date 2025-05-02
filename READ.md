@@ -1369,3 +1369,5 @@ BingWallPaper-2025-04-30-从巴拉那州看到的伊瓜苏瀑布, 巴西-4K.jpg&
 BingWallPaper-2025-05-01-Jazz saxophonist John Coltrane and band performing in 1961 in London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg
 BingWallPaper-2025-05-01-鸡蛋花，夏威夷，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg
 BingWallPaper-2025-05-02-Plumeria flowers, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg
+BingWallPaper-2025-05-02-维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg
+BingWallPaper-2025-05-03-Striated heron on a Victoria water lily, Pantanal, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg
