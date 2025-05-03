@@ -1371,3 +1371,5 @@ BingWallPaper-2025-05-01-鸡蛋花，夏威夷，美国-4K.jpg&&https://cn.bing.
 BingWallPaper-2025-05-02-Plumeria flowers, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg
 BingWallPaper-2025-05-02-维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilHeron_ZH-CN7200229300_UHD.jpg
 BingWallPaper-2025-05-03-Striated heron on a Victoria water lily, Pantanal, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg
+BingWallPaper-2025-05-03-拱门国家公园双拱门映衬下的银河，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg
+BingWallPaper-2025-05-04-The Milky Way framed by Double Arch in Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg
