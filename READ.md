@@ -1373,3 +1373,5 @@ BingWallPaper-2025-05-02-维多利亚睡莲上的绿鹭，潘塔纳尔 ，巴西
 BingWallPaper-2025-05-03-Striated heron on a Victoria water lily, Pantanal, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg
 BingWallPaper-2025-05-03-拱门国家公园双拱门映衬下的银河，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ArchesGalaxy_ZH-CN0954505086_UHD.jpg
 BingWallPaper-2025-05-04-The Milky Way framed by Double Arch in Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg
+BingWallPaper-2025-05-04-西班牙广场，塞维利亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg
+BingWallPaper-2025-05-05-Plaza de España, Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg
