@@ -1375,3 +1375,5 @@ BingWallPaper-2025-05-03-拱门国家公园双拱门映衬下的银河，犹他�
 BingWallPaper-2025-05-04-The Milky Way framed by Double Arch in Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg
 BingWallPaper-2025-05-04-西班牙广场，塞维利亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SevilleNaboo_ZH-CN1065227658_UHD.jpg
 BingWallPaper-2025-05-05-Plaza de España, Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg
+BingWallPaper-2025-05-05-日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林-4K.jpg&&https://cn.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg
+BingWallPaper-2025-05-06-Paper flags strung over a street in San Miguel de Allende, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg
