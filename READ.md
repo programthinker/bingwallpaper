@@ -1377,3 +1377,5 @@ BingWallPaper-2025-05-04-西班牙广场，塞维利亚，西班牙-4K.jpg&&http
 BingWallPaper-2025-05-05-Plaza de España, Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg
 BingWallPaper-2025-05-05-日出时分，美丽的喀斯特山脉鸟瞰图，中国桂林-4K.jpg&&https://cn.bing.com/th?id=OHR.BeginningofSummer25Y_ZH-CN2000519236_UHD.jpg
 BingWallPaper-2025-05-06-Paper flags strung over a street in San Miguel de Allende, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg
+BingWallPaper-2025-05-06-一架超轻型飞机飞越纳米比亚沙漠-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg
+BingWallPaper-2025-05-07-An ultralight aircraft flying over the sands of Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg
