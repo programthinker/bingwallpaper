@@ -1379,3 +1379,5 @@ BingWallPaper-2025-05-05-日出时分，美丽的喀斯特山脉鸟瞰图，中�
 BingWallPaper-2025-05-06-Paper flags strung over a street in San Miguel de Allende, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg
 BingWallPaper-2025-05-06-一架超轻型飞机飞越纳米比亚沙漠-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyoverNamibia_ZH-CN2114171516_UHD.jpg
 BingWallPaper-2025-05-07-An ultralight aircraft flying over the sands of Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyoverNamibia_EN-US6033011196_UHD.jpg
+BingWallPaper-2025-05-07-邓路斯城堡，安特里姆郡，北爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DunluceIreland_ZH-CN2412229757_UHD.jpg
+BingWallPaper-2025-05-08-Dunluce Castle, County Antrim, Northern Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg
