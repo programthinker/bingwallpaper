@@ -1383,3 +1383,5 @@ BingWallPaper-2025-05-07-邓路斯城堡，安特里姆郡，北爱尔兰-4K.jpg
 BingWallPaper-2025-05-08-Dunluce Castle, County Antrim, Northern Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg
 BingWallPaper-2025-05-08-Rhyolite附近山谷中的驴子，内华达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_ZH-CN2626127533_UHD.jpg
 BingWallPaper-2025-05-09-Donkeys in a valley near Rhyolite, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg
+BingWallPaper-2025-05-09-普通变色龙-4K.jpg&&https://cn.bing.com/th?id=OHR.CuteChameleon_ZH-CN5029981236_UHD.jpg
+BingWallPaper-2025-05-10-Common chameleon-4K.jpg&&https://cn.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg
