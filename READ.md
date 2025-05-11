@@ -1387,3 +1387,5 @@ BingWallPaper-2025-05-09-普通变色龙-4K.jpg&&https://cn.bing.com/th?id=OHR.C
 BingWallPaper-2025-05-10-Common chameleon-4K.jpg&&https://cn.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg
 BingWallPaper-2025-05-10-巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.Castildetierra_ZH-CN6042529770_UHD.jpg
 BingWallPaper-2025-05-11-Minnesota State Capitol, St. Paul, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg
+BingWallPaper-2025-05-11-豹妈妈正在梳理她的幼崽，Jao保护区，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.LeopardMother_ZH-CN6134353524_UHD.jpg
+BingWallPaper-2025-05-12-Leopard mother grooming her cub, Jao Reserve, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg
