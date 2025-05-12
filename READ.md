@@ -1389,3 +1389,5 @@ BingWallPaper-2025-05-10-巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔�
 BingWallPaper-2025-05-11-Minnesota State Capitol, St. Paul, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg
 BingWallPaper-2025-05-11-豹妈妈正在梳理她的幼崽，Jao保护区，博茨瓦纳-4K.jpg&&https://cn.bing.com/th?id=OHR.LeopardMother_ZH-CN6134353524_UHD.jpg
 BingWallPaper-2025-05-12-Leopard mother grooming her cub, Jao Reserve, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg
+BingWallPaper-2025-05-12-东京的鸢尾花园, 日本-4K.jpg&&https://cn.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg
+BingWallPaper-2025-05-13-An iris garden in Tokyo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg
