@@ -1391,3 +1391,5 @@ BingWallPaper-2025-05-11-豹妈妈正在梳理她的幼崽，Jao保护区，博�
 BingWallPaper-2025-05-12-Leopard mother grooming her cub, Jao Reserve, Botswana-4K.jpg&&https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg
 BingWallPaper-2025-05-12-东京的鸢尾花园, 日本-4K.jpg&&https://cn.bing.com/th?id=OHR.IrisGarden_ZH-CN6226448882_UHD.jpg
 BingWallPaper-2025-05-13-An iris garden in Tokyo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg
+BingWallPaper-2025-05-13-百内国家公园, 巴塔哥尼亚, 智利-4K.jpg&&https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg
+BingWallPaper-2025-05-14-Torres del Paine National Park, Patagonia, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg
