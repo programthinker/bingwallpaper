@@ -1393,3 +1393,5 @@ BingWallPaper-2025-05-12-东京的鸢尾花园, 日本-4K.jpg&&https://cn.bing.c
 BingWallPaper-2025-05-13-An iris garden in Tokyo, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg
 BingWallPaper-2025-05-13-百内国家公园, 巴塔哥尼亚, 智利-4K.jpg&&https://cn.bing.com/th?id=OHR.TorresChile_ZH-CN6319613148_UHD.jpg
 BingWallPaper-2025-05-14-Torres del Paine National Park, Patagonia, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg
+BingWallPaper-2025-05-14-弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒丁岛, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SardiniaFlavia_ZH-CN6784449568_UHD.jpg
+BingWallPaper-2025-05-15-Porto Flavia, Sardinia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg
