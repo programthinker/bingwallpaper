@@ -1397,3 +1397,5 @@ BingWallPaper-2025-05-14-弗拉维亚港, 苏尔西斯-伊格莱西恩特, 撒�
 BingWallPaper-2025-05-15-Porto Flavia, Sardinia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg
 BingWallPaper-2025-05-15-大本钟和国会大厦, 威斯敏斯特宫, 伦敦, 英国-4K.jpg&&https://cn.bing.com/th?id=OHR.LondonParliament_ZH-CN7089923691_UHD.jpg
 BingWallPaper-2025-05-16-Big Ben and the Palace of Westminster, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg
+BingWallPaper-2025-05-16-大绿金刚鹦鹉, 墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg
+BingWallPaper-2025-05-17-Great green macaw, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg
