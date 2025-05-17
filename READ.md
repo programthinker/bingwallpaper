@@ -1399,3 +1399,5 @@ BingWallPaper-2025-05-15-大本钟和国会大厦, 威斯敏斯特宫, 伦敦, �
 BingWallPaper-2025-05-16-Big Ben and the Palace of Westminster, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg
 BingWallPaper-2025-05-16-大绿金刚鹦鹉, 墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenMacaw_ZH-CN3451340204_UHD.jpg
 BingWallPaper-2025-05-17-Great green macaw, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg
+BingWallPaper-2025-05-17-威尼斯潟湖中的三角洲, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg
+BingWallPaper-2025-05-18-A delta in the Venetian Lagoon, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg
