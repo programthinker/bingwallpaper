@@ -1401,3 +1401,5 @@ BingWallPaper-2025-05-16-大绿金刚鹦鹉, 墨西哥-4K.jpg&&https://cn.bing.c
 BingWallPaper-2025-05-17-Great green macaw, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg
 BingWallPaper-2025-05-17-威尼斯潟湖中的三角洲, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceLagoon_ZH-CN3791408491_UHD.jpg
 BingWallPaper-2025-05-18-A delta in the Venetian Lagoon, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg
+BingWallPaper-2025-05-18-加龙河对面的圣皮埃尔桥，图卢兹，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg
+BingWallPaper-2025-05-19-'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg
