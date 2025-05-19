@@ -1403,3 +1403,5 @@ BingWallPaper-2025-05-17-威尼斯潟湖中的三角洲, 意大利-4K.jpg&&https
 BingWallPaper-2025-05-18-A delta in the Venetian Lagoon, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceLagoon_EN-US3686079353_UHD.jpg
 BingWallPaper-2025-05-18-加龙河对面的圣皮埃尔桥，图卢兹，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ToulouseBridge_ZH-CN3930246927_UHD.jpg
 BingWallPaper-2025-05-19-'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg
+BingWallPaper-2025-05-19-汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MountHamilton_ZH-CN4280549129_UHD.jpg
+BingWallPaper-2025-05-20-Mount Hamilton, near San Jose, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg
