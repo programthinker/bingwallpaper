@@ -1405,3 +1405,5 @@ BingWallPaper-2025-05-18-加龙河对面的圣皮埃尔桥，图卢兹，法国-
 BingWallPaper-2025-05-19-'The Spirit of Electricity' by Raoul Dufy, Museum of Modern Art, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.DufyRoom_EN-US3759763345_UHD.jpg
 BingWallPaper-2025-05-19-汉密尔顿山, 旧金山湾区, 加利福尼亚, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MountHamilton_ZH-CN4280549129_UHD.jpg
 BingWallPaper-2025-05-20-Mount Hamilton, near San Jose, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg
+BingWallPaper-2025-05-20-薰衣草上的蜜蜂-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg
+BingWallPaper-2025-05-21-Honey bee on lavender flowers-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg
