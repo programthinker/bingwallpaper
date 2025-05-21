@@ -1407,3 +1407,5 @@ BingWallPaper-2025-05-19-汉密尔顿山, 旧金山湾区, 加利福尼亚, 美�
 BingWallPaper-2025-05-20-Mount Hamilton, near San Jose, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg
 BingWallPaper-2025-05-20-薰衣草上的蜜蜂-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneyBeeLavender_ZH-CN4513594236_UHD.jpg
 BingWallPaper-2025-05-21-Honey bee on lavender flowers-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg
+BingWallPaper-2025-05-21-杨家塘村茶园，松阳县，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg
+BingWallPaper-2025-05-22-Tea garden at Yangjiatang Village, Songyang County, China-4K.jpg&&https://cn.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg
