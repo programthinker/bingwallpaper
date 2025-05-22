@@ -1409,3 +1409,5 @@ BingWallPaper-2025-05-20-薰衣草上的蜜蜂-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2025-05-21-Honey bee on lavender flowers-4K.jpg&&https://cn.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg
 BingWallPaper-2025-05-21-杨家塘村茶园，松阳县，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.SongyangTeaGarden_ZH-CN4763170909_UHD.jpg
 BingWallPaper-2025-05-22-Tea garden at Yangjiatang Village, Songyang County, China-4K.jpg&&https://cn.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg
+BingWallPaper-2025-05-22-日落时分的猴面包树，猴面包树大道，马达加斯加-4K.jpg&&https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg
+BingWallPaper-2025-05-23-Baobab trees at sunset, Avenue of the Baobabs, Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg
