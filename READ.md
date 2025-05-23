@@ -1411,3 +1411,5 @@ BingWallPaper-2025-05-21-杨家塘村茶园，松阳县，中国-4K.jpg&&https:/
 BingWallPaper-2025-05-22-Tea garden at Yangjiatang Village, Songyang County, China-4K.jpg&&https://cn.bing.com/th?id=OHR.SongyangTeaGarden_EN-US3919106941_UHD.jpg
 BingWallPaper-2025-05-22-日落时分的猴面包树，猴面包树大道，马达加斯加-4K.jpg&&https://cn.bing.com/th?id=OHR.BaobabAvenue_ZH-CN5217451344_UHD.jpg
 BingWallPaper-2025-05-23-Baobab trees at sunset, Avenue of the Baobabs, Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg
+BingWallPaper-2025-05-23-停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg
+BingWallPaper-2025-05-24-A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg
