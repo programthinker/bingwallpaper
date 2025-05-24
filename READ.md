@@ -1413,3 +1413,5 @@ BingWallPaper-2025-05-22-日落时分的猴面包树，猴面包树大道，马�
 BingWallPaper-2025-05-23-Baobab trees at sunset, Avenue of the Baobabs, Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.BaobabAvenue_EN-US3968050605_UHD.jpg
 BingWallPaper-2025-05-23-停在黄头侧颈龟鼻子上的茱莉亚蝶，亚马逊地区，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.ButterflyTurtle_ZH-CN5706515924_UHD.jpg
 BingWallPaper-2025-05-24-A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg
+BingWallPaper-2025-05-24-挪威尤通黑门山国家公园-4K.jpg&&https://cn.bing.com/th?id=OHR.JotunheimenPark_ZH-CN7417034574_UHD.jpg
+BingWallPaper-2025-05-25-Jotunheimen National Park in Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg
