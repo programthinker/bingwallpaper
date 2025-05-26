@@ -1417,3 +1417,5 @@ BingWallPaper-2025-05-24-挪威尤通黑门山国家公园-4K.jpg&&https://cn.bi
 BingWallPaper-2025-05-25-Jotunheimen National Park in Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg
 BingWallPaper-2025-05-25-布伦特伍德湾的布查特花园，不列颠哥伦比亚省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.ButchartFlowers_ZH-CN6692930571_UHD.jpg
 BingWallPaper-2025-05-26-Butchart Gardens in Brentwood Bay, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg
+BingWallPaper-2025-05-26-沿着岚山保津川行驶的火车，京都，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg
+BingWallPaper-2025-05-27-Arlington National Cemetery in Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg
