@@ -1419,3 +1419,5 @@ BingWallPaper-2025-05-25-布伦特伍德湾的布查特花园，不列颠哥伦�
 BingWallPaper-2025-05-26-Butchart Gardens in Brentwood Bay, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg
 BingWallPaper-2025-05-26-沿着岚山保津川行驶的火车，京都，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.Arashiyama2025_ZH-CN7836747321_UHD.jpg
 BingWallPaper-2025-05-27-Arlington National Cemetery in Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg
+BingWallPaper-2025-05-27-梦娜维尔岩池，悉尼，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MonaValePool_ZH-CN7968271596_UHD.jpg
+BingWallPaper-2025-05-28-Mona Vale Rockpool, Sydney, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg
