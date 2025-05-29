@@ -1423,3 +1423,5 @@ BingWallPaper-2025-05-27-梦娜维尔岩池，悉尼，澳大利亚-4K.jpg&&http
 BingWallPaper-2025-05-28-Mona Vale Rockpool, Sydney, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg
 BingWallPaper-2025-05-28-一只海獭漂浮在阿拉斯加海洋国家野生动物保护区的海藻床上，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KelpOtter_ZH-CN8297228161_UHD.jpg
 BingWallPaper-2025-05-29-Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge-4K.jpg&&https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg
+BingWallPaper-2025-05-29-米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg
+BingWallPaper-2025-05-30-Miravet on the Ebro River, Tarragona, Catalonia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg
