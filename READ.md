@@ -1425,3 +1425,5 @@ BingWallPaper-2025-05-28-一只海獭漂浮在阿拉斯加海洋国家野生动�
 BingWallPaper-2025-05-29-Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge-4K.jpg&&https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg
 BingWallPaper-2025-05-29-米拉韦特，埃布罗河，加泰罗尼亚塔，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.MiravetSpain_ZH-CN8584568741_UHD.jpg
 BingWallPaper-2025-05-30-Miravet on the Ebro River, Tarragona, Catalonia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg
+BingWallPaper-2025-05-30-小鸽子河，大雾山国家公园，田纳西州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg
+BingWallPaper-2025-05-31-Little Pigeon River, Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg
