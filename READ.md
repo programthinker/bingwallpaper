@@ -1427,3 +1427,5 @@ BingWallPaper-2025-05-29-米拉韦特，埃布罗河，加泰罗尼亚塔，西�
 BingWallPaper-2025-05-30-Miravet on the Ebro River, Tarragona, Catalonia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg
 BingWallPaper-2025-05-30-小鸽子河，大雾山国家公园，田纳西州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LittlePigeonRiver_ZH-CN6554251943_UHD.jpg
 BingWallPaper-2025-05-31-Little Pigeon River, Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg
+BingWallPaper-2025-05-31-用彩色丝线串成的香囊，端午节前夕的庙会上，吉林省吉林市，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.DuanwuFestivalY25_ZH-CN7343005503_UHD.jpg
+BingWallPaper-2025-06-01-Knuthöjdsmossen, a nature reserve in Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg
