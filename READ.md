@@ -1431,3 +1431,5 @@ BingWallPaper-2025-05-31-用彩色丝线串成的香囊，端午节前夕的庙�
 BingWallPaper-2025-06-01-Knuthöjdsmossen, a nature reserve in Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg
 BingWallPaper-2025-06-01-格朗特尔岛附近的堡礁，法属新喀里多尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandeTerreReef_ZH-CN7463701309_UHD.jpg
 BingWallPaper-2025-06-02-Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg
+BingWallPaper-2025-06-02-一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约-4K.jpg&&https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg
+BingWallPaper-2025-06-03-Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg
