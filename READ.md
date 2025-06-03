@@ -1433,3 +1433,5 @@ BingWallPaper-2025-06-01-格朗特尔岛附近的堡礁，法属新喀里多尼�
 BingWallPaper-2025-06-02-Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg
 BingWallPaper-2025-06-02-一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约-4K.jpg&&https://cn.bing.com/th?id=OHR.EchinaceaButterfly_ZH-CN7877489878_UHD.jpg
 BingWallPaper-2025-06-03-Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg
+BingWallPaper-2025-06-03-乌得勒支桥上的自行车，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg
+BingWallPaper-2025-06-04-Bicycles on a bridge in Utrecht, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg
