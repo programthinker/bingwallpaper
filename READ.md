@@ -1435,3 +1435,5 @@ BingWallPaper-2025-06-02-一只停在紫锥菊上的灰蝶，洛克菲勒州立�
 BingWallPaper-2025-06-03-Skipper butterfly on a coneflower, Rockefeller State Park Preserve, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.EchinaceaButterfly_EN-US8404044892_UHD.jpg
 BingWallPaper-2025-06-03-乌得勒支桥上的自行车，荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BicyclesUtrecht_ZH-CN8016028978_UHD.jpg
 BingWallPaper-2025-06-04-Bicycles on a bridge in Utrecht, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg
+BingWallPaper-2025-06-04-卡拉卢纳海滩, 撒丁岛, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg
+BingWallPaper-2025-06-05-The beach at Cala Luna, Sardinia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg
