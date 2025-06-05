@@ -1437,3 +1437,5 @@ BingWallPaper-2025-06-03-乌得勒支桥上的自行车，荷兰-4K.jpg&&https:/
 BingWallPaper-2025-06-04-Bicycles on a bridge in Utrecht, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg
 BingWallPaper-2025-06-04-卡拉卢纳海滩, 撒丁岛, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CalaLuna_ZH-CN8174946414_UHD.jpg
 BingWallPaper-2025-06-05-The beach at Cala Luna, Sardinia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg
+BingWallPaper-2025-06-05-福玛萨瀑布，迪亚曼蒂纳，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.FumacinhaBahia_ZH-CN9190616593_UHD.jpg
+BingWallPaper-2025-06-06-Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela-4K.jpg&&https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg
