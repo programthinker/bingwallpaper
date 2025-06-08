@@ -1443,3 +1443,5 @@ BingWallPaper-2025-06-06-诺曼底的阿罗芒什莱班 , 法国-4K.jpg&&https:
 BingWallPaper-2025-06-07-Arromanches-les-Bains in Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg
 BingWallPaper-2025-06-07-松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PacificCrestTrail_ZH-CN9582395021_UHD.jpg
 BingWallPaper-2025-06-08-Summit of Pine Mountain, Angeles National Forest, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg
+BingWallPaper-2025-06-08-北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_UHD.jpg
+BingWallPaper-2025-06-09-Steller sea lions, Vancouver Island, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg
