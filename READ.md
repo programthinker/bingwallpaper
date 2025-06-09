@@ -1445,3 +1445,5 @@ BingWallPaper-2025-06-07-松山顶峰, 洛杉矶国家森林公园, 加利福尼
 BingWallPaper-2025-06-08-Summit of Pine Mountain, Angeles National Forest, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg
 BingWallPaper-2025-06-08-北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.StellarSeaLions_ZH-CN2859514359_UHD.jpg
 BingWallPaper-2025-06-09-Steller sea lions, Vancouver Island, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg
+BingWallPaper-2025-06-09-达尔马提亚的杜布罗夫尼克古城，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg
+BingWallPaper-2025-06-10-Old City of Dubrovnik in Dalmatia, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg
