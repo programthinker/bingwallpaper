@@ -1447,3 +1447,5 @@ BingWallPaper-2025-06-08-北海狮, 温哥华岛, 不列颠哥伦比亚省, 加�
 BingWallPaper-2025-06-09-Steller sea lions, Vancouver Island, British Columbia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg
 BingWallPaper-2025-06-09-达尔马提亚的杜布罗夫尼克古城，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikTwilight_ZH-CN2981648854_UHD.jpg
 BingWallPaper-2025-06-10-Old City of Dubrovnik in Dalmatia, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg
+BingWallPaper-2025-06-10-大沼泽地国家公园的鸟瞰图，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_UHD.jpg
+BingWallPaper-2025-06-11-Aerial view of Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg
