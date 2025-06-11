@@ -1449,3 +1449,5 @@ BingWallPaper-2025-06-09-达尔马提亚的杜布罗夫尼克古城，克罗地�
 BingWallPaper-2025-06-10-Old City of Dubrovnik in Dalmatia, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg
 BingWallPaper-2025-06-10-大沼泽地国家公园的鸟瞰图，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AerialEverglades_ZH-CN3388982881_UHD.jpg
 BingWallPaper-2025-06-11-Aerial view of Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg
+BingWallPaper-2025-06-11-大红鹳，吕德里茨，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg
+BingWallPaper-2025-06-12-Greater flamingos, Lüderitz, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg
