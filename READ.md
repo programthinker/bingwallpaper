@@ -1451,3 +1451,5 @@ BingWallPaper-2025-06-10-大沼泽地国家公园的鸟瞰图，佛罗里达州�
 BingWallPaper-2025-06-11-Aerial view of Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg
 BingWallPaper-2025-06-11-大红鹳，吕德里茨，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg
 BingWallPaper-2025-06-12-Greater flamingos, Lüderitz, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg
+BingWallPaper-2025-06-12-奇索斯山脉，大弯国家公园，德克萨斯州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg
+BingWallPaper-2025-06-13-Chisos Mountains, Big Bend National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg
