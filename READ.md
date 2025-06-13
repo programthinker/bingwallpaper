@@ -1453,3 +1453,5 @@ BingWallPaper-2025-06-11-大红鹳，吕德里茨，纳米比亚-4K.jpg&&https:/
 BingWallPaper-2025-06-12-Greater flamingos, Lüderitz, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg
 BingWallPaper-2025-06-12-奇索斯山脉，大弯国家公园，德克萨斯州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendChisos_ZH-CN3794880768_UHD.jpg
 BingWallPaper-2025-06-13-Chisos Mountains, Big Bend National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg
+BingWallPaper-2025-06-13-维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg
+BingWallPaper-2025-06-14-Vila Franca Islet, São Miguel Island, Azores, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg
