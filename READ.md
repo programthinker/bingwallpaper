@@ -1455,3 +1455,5 @@ BingWallPaper-2025-06-12-奇索斯山脉，大弯国家公园，德克萨斯州�
 BingWallPaper-2025-06-13-Chisos Mountains, Big Bend National Park, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg
 BingWallPaper-2025-06-13-维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg
 BingWallPaper-2025-06-14-Vila Franca Islet, São Miguel Island, Azores, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg
+BingWallPaper-2025-06-14-五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg
+BingWallPaper-2025-06-15-Flag display at the US Capitol, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg
