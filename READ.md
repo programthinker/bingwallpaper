@@ -1457,3 +1457,5 @@ BingWallPaper-2025-06-13-维拉弗兰卡岛，圣米格尔岛，亚速尔群岛�
 BingWallPaper-2025-06-14-Vila Franca Islet, São Miguel Island, Azores, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.SanMiguelAzores_EN-US2785372768_UHD.jpg
 BingWallPaper-2025-06-14-五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitiEstate_ZH-CN6501271709_UHD.jpg
 BingWallPaper-2025-06-15-Flag display at the US Capitol, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg
+BingWallPaper-2025-06-15-雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.RheaDad_ZH-CN6706868651_UHD.jpg
+BingWallPaper-2025-06-16-Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg
