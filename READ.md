@@ -1459,3 +1459,5 @@ BingWallPaper-2025-06-14-五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐�
 BingWallPaper-2025-06-15-Flag display at the US Capitol, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.FlagCapitolDC_EN-US1553861171_UHD.jpg
 BingWallPaper-2025-06-15-雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国家公园，巴塔哥尼亚，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.RheaDad_ZH-CN6706868651_UHD.jpg
 BingWallPaper-2025-06-16-Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg
+BingWallPaper-2025-06-16-海龟，费尔南多·迪诺罗尼亚群岛，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_UHD.jpg
+BingWallPaper-2025-06-17-Sea turtle, Fernando de Noronha, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg
