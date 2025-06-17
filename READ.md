@@ -1461,3 +1461,5 @@ BingWallPaper-2025-06-15-雄性小美洲鸵与幼鸟，托雷斯德尔潘恩国�
 BingWallPaper-2025-06-16-Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg
 BingWallPaper-2025-06-16-海龟，费尔南多·迪诺罗尼亚群岛，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_ZH-CN6907161064_UHD.jpg
 BingWallPaper-2025-06-17-Sea turtle, Fernando de Noronha, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg
+BingWallPaper-2025-06-17-坎伯兰岛国家海岸的海滨森林，乔治亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CumberlandOaks_ZH-CN7265906780_UHD.jpg
+BingWallPaper-2025-06-18-Maritime forest in Cumberland Island National Seashore, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg
