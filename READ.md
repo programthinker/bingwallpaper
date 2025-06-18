@@ -1463,3 +1463,5 @@ BingWallPaper-2025-06-16-海龟，费尔南多·迪诺罗尼亚群岛，巴西-4
 BingWallPaper-2025-06-17-Sea turtle, Fernando de Noronha, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg
 BingWallPaper-2025-06-17-坎伯兰岛国家海岸的海滨森林，乔治亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CumberlandOaks_ZH-CN7265906780_UHD.jpg
 BingWallPaper-2025-06-18-Maritime forest in Cumberland Island National Seashore, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg
+BingWallPaper-2025-06-18-红花石蒜上的柑橘凤蝶-4K.jpg&&https://cn.bing.com/th?id=OHR.AsianSwallowtail_ZH-CN7442263508_UHD.jpg
+BingWallPaper-2025-06-19-Asian swallowtail butterfly on a red spider lily-4K.jpg&&https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg
