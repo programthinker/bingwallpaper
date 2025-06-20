@@ -1467,3 +1467,5 @@ BingWallPaper-2025-06-18-红花石蒜上的柑橘凤蝶-4K.jpg&&https://cn.bing.
 BingWallPaper-2025-06-19-Asian swallowtail butterfly on a red spider lily-4K.jpg&&https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg
 BingWallPaper-2025-06-19-圣卡塔琳娜州的海滩, 巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg
 BingWallPaper-2025-06-20-Texas State Capitol in Austin-4K.jpg&&https://cn.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg
+BingWallPaper-2025-06-20-一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg
+BingWallPaper-2025-06-21-Seljalandsfoss waterfall at sunset, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandSolstice_EN-US2057542769_UHD.jpg
