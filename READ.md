@@ -1475,3 +1475,5 @@ BingWallPaper-2025-06-22-亚马逊雨林，厄瓜多尔-4K.jpg&&https://cn.bing.
 BingWallPaper-2025-06-23-Amazon rainforest, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.AmazonEcuador_EN-US2195278379_UHD.jpg
 BingWallPaper-2025-06-23-德累斯顿易北河谷, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg
 BingWallPaper-2025-06-24-The Elbe in Dresden, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg
+BingWallPaper-2025-06-24-精致拱门, 拱门国家公园, 犹他州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.DelicateArch_ZH-CN8971667580_UHD.jpg
+BingWallPaper-2025-06-25-Delicate Arch, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg
