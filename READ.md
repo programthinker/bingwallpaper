@@ -1479,3 +1479,5 @@ BingWallPaper-2025-06-24-精致拱门, 拱门国家公园, 犹他州, 美国-4K.
 BingWallPaper-2025-06-25-Delicate Arch, Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg
 BingWallPaper-2025-06-25-格拉斯顿伯里托尔上的圣迈克尔塔, 格拉斯顿伯里, 萨默塞特郡, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.GlastonburyScenic_ZH-CN9162571249_UHD.jpg
 BingWallPaper-2025-06-26-St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England-4K.jpg&&https://cn.bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg
+BingWallPaper-2025-06-26-马头岩上空的银河, 新南威尔士州, 澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.HorseheadRock_ZH-CN9319651125_UHD.jpg
+BingWallPaper-2025-06-27-The Milky Way over Horse Head Rock, New South Wales, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg
