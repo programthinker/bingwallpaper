@@ -1485,3 +1485,5 @@ BingWallPaper-2025-06-27-Knuthöjdsmossen自然保护区, 海勒福什市, 瑞�
 BingWallPaper-2025-06-28-Splendid leaf frog-4K.jpg&&https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg
 BingWallPaper-2025-06-28-曼海姆水塔, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.WatertowerMannheim_ZH-CN0692039329_UHD.jpg
 BingWallPaper-2025-06-29-Rainbow flags at New York Pride-4K.jpg&&https://cn.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg
+BingWallPaper-2025-06-29-Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg
+BingWallPaper-2025-06-30-Blue lagoon at Pulau Ay, Banda Islands, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg
