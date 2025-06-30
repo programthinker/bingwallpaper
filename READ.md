@@ -1487,3 +1487,5 @@ BingWallPaper-2025-06-28-曼海姆水塔, 德国-4K.jpg&&https://cn.bing.com/th?
 BingWallPaper-2025-06-29-Rainbow flags at New York Pride-4K.jpg&&https://cn.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg
 BingWallPaper-2025-06-29-Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg
 BingWallPaper-2025-06-30-Blue lagoon at Pulau Ay, Banda Islands, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg
+BingWallPaper-2025-06-30-沃尔夫溪陨石坑, 澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg
+BingWallPaper-2025-07-01-Wolfe Creek Crater, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg
