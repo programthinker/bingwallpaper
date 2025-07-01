@@ -1489,3 +1489,5 @@ BingWallPaper-2025-06-29-Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚-4K.
 BingWallPaper-2025-06-30-Blue lagoon at Pulau Ay, Banda Islands, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg
 BingWallPaper-2025-06-30-沃尔夫溪陨石坑, 澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg
 BingWallPaper-2025-07-01-Wolfe Creek Crater, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg
+BingWallPaper-2025-07-01-Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaDayFogo_ZH-CN2593963748_UHD.jpg
+BingWallPaper-2025-07-02-Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg
