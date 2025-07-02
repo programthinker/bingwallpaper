@@ -1491,3 +1491,5 @@ BingWallPaper-2025-06-30-沃尔夫溪陨石坑, 澳大利亚-4K.jpg&&https://cn.
 BingWallPaper-2025-07-01-Wolfe Creek Crater, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg
 BingWallPaper-2025-07-01-Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaDayFogo_ZH-CN2593963748_UHD.jpg
 BingWallPaper-2025-07-02-Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg
+BingWallPaper-2025-07-02-被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg
+BingWallPaper-2025-07-03-Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea-4K.jpg&&https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg
