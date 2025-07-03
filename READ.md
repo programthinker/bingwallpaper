@@ -1493,3 +1493,5 @@ BingWallPaper-2025-07-01-Tilting渔村, 福戈岛 , 纽芬兰和拉布拉多省,
 BingWallPaper-2025-07-02-Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.CanadaDayFogo_EN-US0231478181_UHD.jpg
 BingWallPaper-2025-07-02-被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MaroonClownfish_ZH-CN5071934692_UHD.jpg
 BingWallPaper-2025-07-03-Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea-4K.jpg&&https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg
+BingWallPaper-2025-07-03-彩虹泉州立公园的彩虹河，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg
+BingWallPaper-2025-07-04-Rainbow River in Rainbow Springs State Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg
