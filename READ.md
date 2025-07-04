@@ -1495,3 +1495,5 @@ BingWallPaper-2025-07-02-被泡尖海葵包围的刺颊海葵鱼，米尔恩湾�
 BingWallPaper-2025-07-03-Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea-4K.jpg&&https://cn.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg
 BingWallPaper-2025-07-03-彩虹泉州立公园的彩虹河，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg
 BingWallPaper-2025-07-04-Rainbow River in Rainbow Springs State Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg
+BingWallPaper-2025-07-04-奥罗塞，撒丁岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg
+BingWallPaper-2025-07-05-Fourth of July fireworks over Lake Union in Seattle-4K.jpg&&https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg
