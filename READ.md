@@ -1501,3 +1501,5 @@ BingWallPaper-2025-07-05-Cize-Bolozon viaduct crossing the Ain gorge, France-4K.
 BingWallPaper-2025-07-06-Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France-4K.jpg&&https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg
 BingWallPaper-2025-07-06-死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MesquiteFlats_ZH-CN7152959188_UHD.jpg
 BingWallPaper-2025-07-07-Mesquite Flat Sand Dunes in Death Valley National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg
+BingWallPaper-2025-07-07-潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg
+BingWallPaper-2025-07-08-Northern gannets diving for fish, Shetland Islands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg
