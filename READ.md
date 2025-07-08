@@ -1503,3 +1503,5 @@ BingWallPaper-2025-07-06-死亡谷国家公园的梅斯基特平原沙丘，加�
 BingWallPaper-2025-07-07-Mesquite Flat Sand Dunes in Death Valley National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg
 BingWallPaper-2025-07-07-潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg
 BingWallPaper-2025-07-08-Northern gannets diving for fish, Shetland Islands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg
+BingWallPaper-2025-07-08-塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg
+BingWallPaper-2025-07-09-Seceda, a peak in the Dolomites, South Tyrol, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg
