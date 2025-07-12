@@ -1511,3 +1511,5 @@ BingWallPaper-2025-07-10-巴哈马的绿松石色水域-4K.jpg&&https://cn.bing.
 BingWallPaper-2025-07-11-Turquoise waters of the Bahamas-4K.jpg&&https://cn.bing.com/th?id=OHR.BahamaBlues_EN-US1367794856_UHD.jpg
 BingWallPaper-2025-07-11-日出时的东京，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.TokyoSunrise_ZH-CN0091906710_UHD.jpg
 BingWallPaper-2025-07-12-Tokyo at sunrise-4K.jpg&&https://cn.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg
+BingWallPaper-2025-07-12-汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg
+BingWallPaper-2025-07-13-Thomson's gazelle mother and fawn, Maasai Mara, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg
