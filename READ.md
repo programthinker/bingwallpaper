@@ -1513,3 +1513,5 @@ BingWallPaper-2025-07-11-日出时的东京，日本-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-07-12-Tokyo at sunrise-4K.jpg&&https://cn.bing.com/th?id=OHR.TokyoSunrise_EN-US4269783992_UHD.jpg
 BingWallPaper-2025-07-12-汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg
 BingWallPaper-2025-07-13-Thomson's gazelle mother and fawn, Maasai Mara, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg
+BingWallPaper-2025-07-13-卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg
+BingWallPaper-2025-07-14-Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg
