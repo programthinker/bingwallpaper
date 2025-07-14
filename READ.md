@@ -1515,3 +1515,5 @@ BingWallPaper-2025-07-12-汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚-
 BingWallPaper-2025-07-13-Thomson's gazelle mother and fawn, Maasai Mara, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg
 BingWallPaper-2025-07-13-卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.BasaltColumns_ZH-CN0743036217_UHD.jpg
 BingWallPaper-2025-07-14-Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg
+BingWallPaper-2025-07-14-加利西亚海域游弋的幼年大青鲨，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungShark_ZH-CN0887374663_UHD.jpg
+BingWallPaper-2025-07-15-Young blue shark swimming off the coast of Galicia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg
