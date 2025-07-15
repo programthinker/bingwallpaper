@@ -1517,3 +1517,5 @@ BingWallPaper-2025-07-13-卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉�
 BingWallPaper-2025-07-14-Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg
 BingWallPaper-2025-07-14-加利西亚海域游弋的幼年大青鲨，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungShark_ZH-CN0887374663_UHD.jpg
 BingWallPaper-2025-07-15-Young blue shark swimming off the coast of Galicia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungShark_EN-US4689572794_UHD.jpg
+BingWallPaper-2025-07-15-英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsPine_ZH-CN1081004815_UHD.jpg
+BingWallPaper-2025-07-16-Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg
