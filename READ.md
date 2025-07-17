@@ -1521,3 +1521,5 @@ BingWallPaper-2025-07-15-英仙座流星雨和一棵古老刺果松，大盆地�
 BingWallPaper-2025-07-16-Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg
 BingWallPaper-2025-07-16-菲莱神庙-4K.jpg&&https://cn.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg
 BingWallPaper-2025-07-17-Temple of Philae-4K.jpg&&https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg
+BingWallPaper-2025-07-17-瓦朗索勒高原的薰衣草田，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg
+BingWallPaper-2025-07-18-Lavender fields in Plateau de Valensole, France-4K.jpg&&https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg
