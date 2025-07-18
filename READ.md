@@ -1523,3 +1523,5 @@ BingWallPaper-2025-07-16-菲莱神庙-4K.jpg&&https://cn.bing.com/th?id=OHR.Temp
 BingWallPaper-2025-07-17-Temple of Philae-4K.jpg&&https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg
 BingWallPaper-2025-07-17-瓦朗索勒高原的薰衣草田，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg
 BingWallPaper-2025-07-18-Lavender fields in Plateau de Valensole, France-4K.jpg&&https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg
+BingWallPaper-2025-07-18-塞里雅兰瀑布日落美景，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg
+BingWallPaper-2025-07-19-Beach at sunrise, Gulf Islands National Seashore, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg
