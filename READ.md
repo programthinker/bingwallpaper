@@ -1525,3 +1525,5 @@ BingWallPaper-2025-07-17-瓦朗索勒高原的薰衣草田，法国-4K.jpg&&http
 BingWallPaper-2025-07-18-Lavender fields in Plateau de Valensole, France-4K.jpg&&https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg
 BingWallPaper-2025-07-18-塞里雅兰瀑布日落美景，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandSolstice_ZH-CN6073168622_UHD.jpg
 BingWallPaper-2025-07-19-Beach at sunrise, Gulf Islands National Seashore, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg
+BingWallPaper-2025-07-19-幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg
+BingWallPaper-2025-07-20-Luna moth resting on cedar elm, New Braunfels, Texas, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg
