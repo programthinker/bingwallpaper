@@ -1529,3 +1529,5 @@ BingWallPaper-2025-07-19-幽鹤国家公园的伯吉斯山和翡翠湖, 不列�
 BingWallPaper-2025-07-20-Luna moth resting on cedar elm, New Braunfels, Texas, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg
 BingWallPaper-2025-07-20-望远镜下的月球表面照片-4K.jpg&&https://cn.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg
 BingWallPaper-2025-07-21-The moon's surface photographed through a telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg
+BingWallPaper-2025-07-21-浅海中的鹿角珊瑚-4K.jpg&&https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg
+BingWallPaper-2025-07-22-Staghorn coral off the island of Bonaire, Caribbean Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg
