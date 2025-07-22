@@ -1531,3 +1531,5 @@ BingWallPaper-2025-07-20-望远镜下的月球表面照片-4K.jpg&&https://cn.bi
 BingWallPaper-2025-07-21-The moon's surface photographed through a telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg
 BingWallPaper-2025-07-21-浅海中的鹿角珊瑚-4K.jpg&&https://cn.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg
 BingWallPaper-2025-07-22-Staghorn coral off the island of Bonaire, Caribbean Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg
+BingWallPaper-2025-07-22-夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg
+BingWallPaper-2025-07-23-Sunset over Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg
