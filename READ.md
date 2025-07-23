@@ -1533,3 +1533,5 @@ BingWallPaper-2025-07-21-浅海中的鹿角珊瑚-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2025-07-22-Staghorn coral off the island of Bonaire, Caribbean Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg
 BingWallPaper-2025-07-22-夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区-4K.jpg&&https://cn.bing.com/th?id=OHR.GreatHeatY25_ZH-CN8252122347_UHD.jpg
 BingWallPaper-2025-07-23-Sunset over Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg
+BingWallPaper-2025-07-23-梵蒂冈城与圣彼得大教堂，罗马，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg
+BingWallPaper-2025-07-24-Vatican City with St. Peter's Basilica-4K.jpg&&https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg
