@@ -1535,3 +1535,5 @@ BingWallPaper-2025-07-22-夏季的赛里木湖，博尔塔拉蒙古自治州博�
 BingWallPaper-2025-07-23-Sunset over Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg
 BingWallPaper-2025-07-23-梵蒂冈城与圣彼得大教堂，罗马，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg
 BingWallPaper-2025-07-24-Vatican City with St. Peter's Basilica-4K.jpg&&https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg
+BingWallPaper-2025-07-24-栖息在树枝上的灰燕鵙家族-4K.jpg&&https://cn.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg
+BingWallPaper-2025-07-25-Family of ashy woodswallows perched on a branch in Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg
