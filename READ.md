@@ -1537,3 +1537,5 @@ BingWallPaper-2025-07-23-梵蒂冈城与圣彼得大教堂，罗马，意大利-
 BingWallPaper-2025-07-24-Vatican City with St. Peter's Basilica-4K.jpg&&https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg
 BingWallPaper-2025-07-24-栖息在树枝上的灰燕鵙家族-4K.jpg&&https://cn.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg
 BingWallPaper-2025-07-25-Family of ashy woodswallows perched on a branch in Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg
+BingWallPaper-2025-07-25-大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg
+BingWallPaper-2025-07-26-Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg
