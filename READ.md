@@ -1539,3 +1539,5 @@ BingWallPaper-2025-07-24-栖息在树枝上的灰燕鵙家族-4K.jpg&&https://cn
 BingWallPaper-2025-07-25-Family of ashy woodswallows perched on a branch in Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg
 BingWallPaper-2025-07-25-大加那利岛拉斯帕尔马斯色彩缤纷的房屋鸟瞰图，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg
 BingWallPaper-2025-07-26-Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg
+BingWallPaper-2025-07-26-黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg
+BingWallPaper-2025-07-27-Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg
