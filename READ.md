@@ -1541,3 +1541,5 @@ BingWallPaper-2025-07-25-大加那利岛拉斯帕尔马斯色彩缤纷的房屋�
 BingWallPaper-2025-07-26-Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg
 BingWallPaper-2025-07-26-黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg
 BingWallPaper-2025-07-27-Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg
+BingWallPaper-2025-07-27-黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg
+BingWallPaper-2025-07-28-School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg
