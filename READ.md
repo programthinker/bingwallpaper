@@ -1543,3 +1543,5 @@ BingWallPaper-2025-07-26-黄昏时的红树林，瓦拉基里海滩，松巴岛�
 BingWallPaper-2025-07-27-Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg
 BingWallPaper-2025-07-27-黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackfinBarracuda_ZH-CN3850642551_UHD.jpg
 BingWallPaper-2025-07-28-School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg
+BingWallPaper-2025-07-28-蒙古草原上的蒙古包-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg
+BingWallPaper-2025-07-29-Yurts in the grasslands of Mongolia-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg
