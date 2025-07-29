@@ -1545,3 +1545,5 @@ BingWallPaper-2025-07-27-黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家�
 BingWallPaper-2025-07-28-School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg
 BingWallPaper-2025-07-28-蒙古草原上的蒙古包-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg
 BingWallPaper-2025-07-29-Yurts in the grasslands of Mongolia-4K.jpg&&https://cn.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg
+BingWallPaper-2025-07-29-雌性孟加拉虎，坎哈国家公园，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg
+BingWallPaper-2025-07-30-Female Bengal tiger, Kanha National Park, India-4K.jpg&&https://cn.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg
