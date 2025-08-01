@@ -1551,3 +1551,5 @@ BingWallPaper-2025-07-30-里瓦德塞利亚，阿斯图里亚斯，西班牙-4K.
 BingWallPaper-2025-07-31-'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates-4K.jpg&&https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg
 BingWallPaper-2025-07-31-纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg
 BingWallPaper-2025-08-01-Ring-tailed lemur infant playing with its own tail, Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg
+BingWallPaper-2025-08-01-皇家英里大道, 爱丁堡, 苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg
+BingWallPaper-2025-08-02-Royal Mile, Edinburgh, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg
