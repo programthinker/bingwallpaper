@@ -1553,3 +1553,5 @@ BingWallPaper-2025-07-31-纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷
 BingWallPaper-2025-08-01-Ring-tailed lemur infant playing with its own tail, Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg
 BingWallPaper-2025-08-01-皇家英里大道, 爱丁堡, 苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg
 BingWallPaper-2025-08-02-Royal Mile, Edinburgh, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg
+BingWallPaper-2025-08-02-圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg
+BingWallPaper-2025-08-03-Petroglyphs near Fruita in Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg
