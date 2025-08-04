@@ -1557,3 +1557,5 @@ BingWallPaper-2025-08-02-圆顶礁国家公园弗鲁塔附近的岩画, 犹他�
 BingWallPaper-2025-08-03-Petroglyphs near Fruita in Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg
 BingWallPaper-2025-08-03-夏天田野里盛开的向日葵-4K.jpg&&https://cn.bing.com/th?id=OHR.HappySunflower_ZH-CN5840993161_UHD.jpg
 BingWallPaper-2025-08-04-Sunflowers in a field in summer-4K.jpg&&https://cn.bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg
+BingWallPaper-2025-08-04-巢中的乌林鸮, 芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg
+BingWallPaper-2025-08-05-Great gray owls in their nest, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg
