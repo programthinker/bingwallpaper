@@ -1559,3 +1559,5 @@ BingWallPaper-2025-08-03-夏天田野里盛开的向日葵-4K.jpg&&https://cn.bi
 BingWallPaper-2025-08-04-Sunflowers in a field in summer-4K.jpg&&https://cn.bing.com/th?id=OHR.HappySunflower_EN-US8791544241_UHD.jpg
 BingWallPaper-2025-08-04-巢中的乌林鸮, 芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg
 BingWallPaper-2025-08-05-Great gray owls in their nest, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg
+BingWallPaper-2025-08-05-拉霍亚的潮汐池‌, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_UHD.jpg
+BingWallPaper-2025-08-06-Tide pools in La Jolla, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg
