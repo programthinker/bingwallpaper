@@ -1565,3 +1565,5 @@ BingWallPaper-2025-08-06-环尾狐猴幼崽在玩自己的尾巴‌, 马达加�
 BingWallPaper-2025-08-07-Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg
 BingWallPaper-2025-08-07-加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg
 BingWallPaper-2025-08-08-Gasparilla Island Rear Range Light, Boca Grande, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg
+BingWallPaper-2025-08-08-伊瓜苏瀑布的三火枪瀑布, 阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg
+BingWallPaper-2025-08-09-Three Musketeers Falls at Iguazú Falls, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg
