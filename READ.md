@@ -1569,3 +1569,5 @@ BingWallPaper-2025-08-08-伊瓜苏瀑布的三火枪瀑布, 阿根廷-4K.jpg&&ht
 BingWallPaper-2025-08-09-Three Musketeers Falls at Iguazú Falls, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg
 BingWallPaper-2025-08-09-陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg
 BingWallPaper-2025-08-10-Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg
+BingWallPaper-2025-08-10-马赛马拉国家保护区的雌狮,肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg
+BingWallPaper-2025-08-11-Lioness in Maasai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg
