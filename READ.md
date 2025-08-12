@@ -1573,3 +1573,5 @@ BingWallPaper-2025-08-10-马赛马拉国家保护区的雌狮,肯尼亚-4K.jpg&&
 BingWallPaper-2025-08-11-Lioness in Maasai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg
 BingWallPaper-2025-08-11-圣玛格达莱娜, 多洛米蒂山, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg
 BingWallPaper-2025-08-12-Village of Santa Maddalena, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg
+BingWallPaper-2025-08-12-非洲象群, 安博塞利国家公园, 肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg
+BingWallPaper-2025-08-13-African elephant herd, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg
