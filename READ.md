@@ -1575,3 +1575,5 @@ BingWallPaper-2025-08-11-圣玛格达莱娜, 多洛米蒂山, 意大利-4K.jpg&&
 BingWallPaper-2025-08-12-Village of Santa Maddalena, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg
 BingWallPaper-2025-08-12-非洲象群, 安博塞利国家公园, 肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg
 BingWallPaper-2025-08-13-African elephant herd, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg
+BingWallPaper-2025-08-13-一名男子从摩押附近的科罗纳拱门索降, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg
+BingWallPaper-2025-08-14-A man rappels off Corona Arch near Moab, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CoronaArch_EN-US8928406175_UHD.jpg
