@@ -1581,3 +1581,5 @@ BingWallPaper-2025-08-14-皮兹奈尔山缆车站, 格劳宾登州, 瑞士-4K.jp
 BingWallPaper-2025-08-15-Cable car station on Piz Nair mountain, Graubünden, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.PizNairPeak_EN-US9097547756_UHD.jpg
 BingWallPaper-2025-08-15-斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg
 BingWallPaper-2025-08-16-Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg
+BingWallPaper-2025-08-16-色彩斑斓的蜂巢, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg
+BingWallPaper-2025-08-17-Colorful beehives in Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg
