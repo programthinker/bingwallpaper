@@ -1583,3 +1583,5 @@ BingWallPaper-2025-08-15-斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉�
 BingWallPaper-2025-08-16-Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg
 BingWallPaper-2025-08-16-色彩斑斓的蜂巢, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg
 BingWallPaper-2025-08-17-Colorful beehives in Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg
+BingWallPaper-2025-08-17-灵维格灯塔，维泽桑讷，丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg
+BingWallPaper-2025-08-18-Lyngvig Lighthouse, Hvide Sande, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg
