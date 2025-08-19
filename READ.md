@@ -1587,3 +1587,5 @@ BingWallPaper-2025-08-17-灵维格灯塔，维泽桑讷，丹麦-4K.jpg&&https:/
 BingWallPaper-2025-08-18-Lyngvig Lighthouse, Hvide Sande, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg
 BingWallPaper-2025-08-18-雪崩湖步道，阿迪朗达克高峰区，纽约州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg
 BingWallPaper-2025-08-19-Avalanche Lake Trail at Adirondack High Peaks, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg
+BingWallPaper-2025-08-19-祖马亚的复理层，巴斯克地区，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg
+BingWallPaper-2025-08-20-Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg
