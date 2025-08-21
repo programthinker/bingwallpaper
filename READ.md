@@ -1591,3 +1591,5 @@ BingWallPaper-2025-08-19-祖马亚的复理层，巴斯克地区，西班牙-4K.
 BingWallPaper-2025-08-20-Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg
 BingWallPaper-2025-08-20-博尼法乔城堡，科西嘉岛南部，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg
 BingWallPaper-2025-08-21-The citadel in Bonifacio, Southern Corsica, France-4K.jpg&&https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg
+BingWallPaper-2025-08-21-穗䳭和盛开的帚石楠，峰区国家公园，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN3286472001_UHD.jpg
+BingWallPaper-2025-08-22-Wheatear and flowering heather, Peak District National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg
