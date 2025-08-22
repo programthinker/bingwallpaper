@@ -1593,3 +1593,5 @@ BingWallPaper-2025-08-20-博尼法乔城堡，科西嘉岛南部，法国-4K.jpg
 BingWallPaper-2025-08-21-The citadel in Bonifacio, Southern Corsica, France-4K.jpg&&https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg
 BingWallPaper-2025-08-21-穗䳭和盛开的帚石楠，峰区国家公园，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WheatearBird_ZH-CN3286472001_UHD.jpg
 BingWallPaper-2025-08-22-Wheatear and flowering heather, Peak District National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WheatearBird_EN-US2132045619_UHD.jpg
+BingWallPaper-2025-08-22-帕卢斯连绵起伏的丘陵，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg
+BingWallPaper-2025-08-23-Rolling hills of the Palouse, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg
