@@ -1599,3 +1599,5 @@ BingWallPaper-2025-08-23-秋季九寨沟国家公园里的诺日朗瀑布, 四�
 BingWallPaper-2025-08-24-St. Barbara's Cathedral, Kutná Hora, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg
 BingWallPaper-2025-08-24-欧洲黇鹿‌，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg
 BingWallPaper-2025-08-25-European fallow deer, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg
+BingWallPaper-2025-08-25-方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg
+BingWallPaper-2025-08-26-Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg
