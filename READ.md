@@ -1601,3 +1601,5 @@ BingWallPaper-2025-08-24-欧洲黇鹿‌，英格兰-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-08-25-European fallow deer, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CervusDama_EN-US3217647015_UHD.jpg
 BingWallPaper-2025-08-25-方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg
 BingWallPaper-2025-08-26-Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg
+BingWallPaper-2025-08-26-阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_UHD.jpg
+BingWallPaper-2025-08-27-Trullo buildings in Alberobello, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg
