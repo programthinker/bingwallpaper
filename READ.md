@@ -1603,3 +1603,5 @@ BingWallPaper-2025-08-25-方解石温泉区和黄石河，黄石国家公园，�
 BingWallPaper-2025-08-26-Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg
 BingWallPaper-2025-08-26-阿尔贝罗贝洛的特鲁洛建筑，普利亚大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_UHD.jpg
 BingWallPaper-2025-08-27-Trullo buildings in Alberobello, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg
+BingWallPaper-2025-08-27-瑟沃格湖，瓦加尔岛，法罗群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg
+BingWallPaper-2025-08-28-Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg
