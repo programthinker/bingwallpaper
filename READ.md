@@ -1605,3 +1605,5 @@ BingWallPaper-2025-08-26-阿尔贝罗贝洛的特鲁洛建筑，普利亚大区�
 BingWallPaper-2025-08-27-Trullo buildings in Alberobello, Apulia, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg
 BingWallPaper-2025-08-27-瑟沃格湖，瓦加尔岛，法罗群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg
 BingWallPaper-2025-08-28-Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg
+BingWallPaper-2025-08-28-大白鹭，匈牙利-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg
+BingWallPaper-2025-08-29-Great white egret, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg
