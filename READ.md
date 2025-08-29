@@ -1607,3 +1607,5 @@ BingWallPaper-2025-08-27-瑟沃格湖，瓦加尔岛，法罗群岛-4K.jpg&&http
 BingWallPaper-2025-08-28-Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg
 BingWallPaper-2025-08-28-大白鹭，匈牙利-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg
 BingWallPaper-2025-08-29-Great white egret, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg
+BingWallPaper-2025-08-29-马约尔广场鸟瞰图, 马德里, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg
+BingWallPaper-2025-08-30-Aerial view of Plaza Mayor, Madrid, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg
