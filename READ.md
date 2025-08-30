@@ -1609,3 +1609,5 @@ BingWallPaper-2025-08-28-大白鹭，匈牙利-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2025-08-29-Great white egret, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg
 BingWallPaper-2025-08-29-马约尔广场鸟瞰图, 马德里, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg
 BingWallPaper-2025-08-30-Aerial view of Plaza Mayor, Madrid, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg
+BingWallPaper-2025-08-30-阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg
+BingWallPaper-2025-08-31-Whale shark off the coast of Alifu Dhaalu Atoll, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg
