@@ -1611,3 +1611,5 @@ BingWallPaper-2025-08-29-马约尔广场鸟瞰图, 马德里, 西班牙-4K.jpg&&
 BingWallPaper-2025-08-30-Aerial view of Plaza Mayor, Madrid, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg
 BingWallPaper-2025-08-30-阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg
 BingWallPaper-2025-08-31-Whale shark off the coast of Alifu Dhaalu Atoll, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg
+BingWallPaper-2025-08-31-杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_UHD.jpg
+BingWallPaper-2025-09-01-Scotts Bluff National Monument in Gering, Nebraska-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg
