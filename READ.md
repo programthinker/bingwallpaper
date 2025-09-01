@@ -1613,3 +1613,5 @@ BingWallPaper-2025-08-30-阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫-4K.j
 BingWallPaper-2025-08-31-Whale shark off the coast of Alifu Dhaalu Atoll, Maldives-4K.jpg&&https://cn.bing.com/th?id=OHR.MaldivesWhaleShark_EN-US3819740955_UHD.jpg
 BingWallPaper-2025-08-31-杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_UHD.jpg
 BingWallPaper-2025-09-01-Scotts Bluff National Monument in Gering, Nebraska-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg
+BingWallPaper-2025-09-01-凯撒施图尔，巴登-符腾堡，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg
+BingWallPaper-2025-09-02-Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago-4K.jpg&&https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg
