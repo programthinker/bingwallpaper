@@ -1615,3 +1615,5 @@ BingWallPaper-2025-08-31-杰灵的斯科茨布拉夫国家纪念碑‌, 内布�
 BingWallPaper-2025-09-01-Scotts Bluff National Monument in Gering, Nebraska-4K.jpg&&https://cn.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg
 BingWallPaper-2025-09-01-凯撒施图尔，巴登-符腾堡，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg
 BingWallPaper-2025-09-02-Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago-4K.jpg&&https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg
+BingWallPaper-2025-09-02-骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_UHD.jpg
+BingWallPaper-2025-09-03-Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg
