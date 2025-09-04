@@ -1619,3 +1619,5 @@ BingWallPaper-2025-09-02-骆驼刺树, 死亡谷, 纳米布-诺克卢福国家�
 BingWallPaper-2025-09-03-Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg
 BingWallPaper-2025-09-03-边界水域独木舟区荒野区, 明尼苏达州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg
 BingWallPaper-2025-09-04-Boundary Waters Canoe Area Wilderness, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg
+BingWallPaper-2025-09-04-灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_UHD.jpg
+BingWallPaper-2025-09-05-Grizzly bears wrestling, Katmai National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg
