@@ -1623,3 +1623,5 @@ BingWallPaper-2025-09-04-灰熊摔跤, 卡特迈国家公园及自然保护区, 
 BingWallPaper-2025-09-05-Grizzly bears wrestling, Katmai National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg
 BingWallPaper-2025-09-05-太平洋公园，圣莫妮卡州立海滩，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPier_ZH-CN1202083395_UHD.jpg
 BingWallPaper-2025-09-06-Pacific Park at Santa Monica State Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg
+BingWallPaper-2025-09-06-棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg
+BingWallPaper-2025-09-07-Rufous hummingbird, Golden Gate Park, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg
