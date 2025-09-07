@@ -1625,3 +1625,5 @@ BingWallPaper-2025-09-05-太平洋公园，圣莫妮卡州立海滩，加利福�
 BingWallPaper-2025-09-06-Pacific Park at Santa Monica State Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg
 BingWallPaper-2025-09-06-棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg
 BingWallPaper-2025-09-07-Rufous hummingbird, Golden Gate Park, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg
+BingWallPaper-2025-09-07-位于莫特拉瓦河河畔的格但斯克市，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg
+BingWallPaper-2025-09-08-Gdańsk on the banks of the Motława, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg
