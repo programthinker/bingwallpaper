@@ -1627,3 +1627,5 @@ BingWallPaper-2025-09-06-棕煌蜂鸟，旧金山金门公园，加利福尼亚�
 BingWallPaper-2025-09-07-Rufous hummingbird, Golden Gate Park, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg
 BingWallPaper-2025-09-07-位于莫特拉瓦河河畔的格但斯克市，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg
 BingWallPaper-2025-09-08-Gdańsk on the banks of the Motława, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg
+BingWallPaper-2025-09-08-乌节图书馆，新加坡-4K.jpg&&https://cn.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg
+BingWallPaper-2025-09-09-Library@orchard, Singapore-4K.jpg&&https://cn.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg
