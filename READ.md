@@ -1629,3 +1629,5 @@ BingWallPaper-2025-09-07-位于莫特拉瓦河河畔的格但斯克市，波兰-
 BingWallPaper-2025-09-08-Gdańsk on the banks of the Motława, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg
 BingWallPaper-2025-09-08-乌节图书馆，新加坡-4K.jpg&&https://cn.bing.com/th?id=OHR.OrchardLibrary_ZH-CN3578982798_UHD.jpg
 BingWallPaper-2025-09-09-Library@orchard, Singapore-4K.jpg&&https://cn.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg
+BingWallPaper-2025-09-09-一只雌性欧亚红松鼠正在搬运苔藓，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg
+BingWallPaper-2025-09-10-A female Eurasian red squirrel carrying moss, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg
