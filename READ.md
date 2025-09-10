@@ -1631,3 +1631,5 @@ BingWallPaper-2025-09-08-乌节图书馆，新加坡-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-09-09-Library@orchard, Singapore-4K.jpg&&https://cn.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg
 BingWallPaper-2025-09-09-一只雌性欧亚红松鼠正在搬运苔藓，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg
 BingWallPaper-2025-09-10-A female Eurasian red squirrel carrying moss, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg
+BingWallPaper-2025-09-10-干草捆，北约克郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg
+BingWallPaper-2025-09-11-Hay bales, North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg
