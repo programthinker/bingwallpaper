@@ -1633,3 +1633,5 @@ BingWallPaper-2025-09-09-一只雌性欧亚红松鼠正在搬运苔藓，瑞士-
 BingWallPaper-2025-09-10-A female Eurasian red squirrel carrying moss, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg
 BingWallPaper-2025-09-10-干草捆，北约克郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg
 BingWallPaper-2025-09-11-Hay bales, North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg
+BingWallPaper-2025-09-11-蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg
+BingWallPaper-2025-09-12-Statue of Liberty and Lower Manhattan, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg
