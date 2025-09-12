@@ -1635,3 +1635,5 @@ BingWallPaper-2025-09-10-干草捆，北约克郡，英格兰-4K.jpg&&https://cn
 BingWallPaper-2025-09-11-Hay bales, North Yorkshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg
 BingWallPaper-2025-09-11-蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_UHD.jpg
 BingWallPaper-2025-09-12-Statue of Liberty and Lower Manhattan, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg
+BingWallPaper-2025-09-12-红海中的飞旋海豚群, 阿拉姆港, 埃及-4K.jpg&&https://cn.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg
+BingWallPaper-2025-09-13-Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.SpinnerDolphins_EN-US8860882818_UHD.jpg
