@@ -1641,3 +1641,5 @@ BingWallPaper-2025-09-13-烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, �
 BingWallPaper-2025-09-14-Chimney Rock, Point Reyes National Seashore, California-4K.jpg&&https://cn.bing.com/th?id=OHR.PointReyesSeashore_EN-US8949381326_UHD.jpg
 BingWallPaper-2025-09-14-奥林匹克国家公园的瀑布, 华盛顿, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg
 BingWallPaper-2025-09-15-A waterfall in Olympic National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg
+BingWallPaper-2025-09-15-黑翅长脚鹬, 法国-4K.jpg&&https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg
+BingWallPaper-2025-09-16-Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg
