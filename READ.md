@@ -1643,3 +1643,5 @@ BingWallPaper-2025-09-14-奥林匹克国家公园的瀑布, 华盛顿, 美国-4K
 BingWallPaper-2025-09-15-A waterfall in Olympic National Park, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.HohWaterfall_EN-US9003533736_UHD.jpg
 BingWallPaper-2025-09-15-黑翅长脚鹬, 法国-4K.jpg&&https://cn.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg
 BingWallPaper-2025-09-16-Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg
+BingWallPaper-2025-09-16-从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象-4K.jpg&&https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg
+BingWallPaper-2025-09-17-Nighttime view of the Gulf Coast states from 225 miles above Earth-4K.jpg&&https://cn.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg
