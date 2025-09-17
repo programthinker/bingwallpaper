@@ -1645,3 +1645,5 @@ BingWallPaper-2025-09-15-黑翅长脚鹬, 法国-4K.jpg&&https://cn.bing.com/th?
 BingWallPaper-2025-09-16-Latino Cultural Center designed by Ricardo Legorreta, Dallas, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.DallasLegorreta_EN-US9050675226_UHD.jpg
 BingWallPaper-2025-09-16-从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象-4K.jpg&&https://cn.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_UHD.jpg
 BingWallPaper-2025-09-17-Nighttime view of the Gulf Coast states from 225 miles above Earth-4K.jpg&&https://cn.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg
+BingWallPaper-2025-09-17-迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg
+BingWallPaper-2025-09-18-Young bull moose in Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg
