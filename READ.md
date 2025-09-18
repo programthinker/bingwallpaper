@@ -1647,3 +1647,5 @@ BingWallPaper-2025-09-16-从地球上空225英里处俯瞰墨西哥湾沿岸各�
 BingWallPaper-2025-09-17-Nighttime view of the Gulf Coast states from 225 miles above Earth-4K.jpg&&https://cn.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg
 BingWallPaper-2025-09-17-迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg
 BingWallPaper-2025-09-18-Young bull moose in Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg
+BingWallPaper-2025-09-18-邓金码头的蛇形楼梯, 凯里郡, 爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg
+BingWallPaper-2025-09-19-Serpentine stairs of Dunquin Pier, County Kerry, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg
