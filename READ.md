@@ -1649,3 +1649,5 @@ BingWallPaper-2025-09-17-迪纳利国家公园中的一头年轻雄性驼鹿, �
 BingWallPaper-2025-09-18-Young bull moose in Denali National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg
 BingWallPaper-2025-09-18-邓金码头的蛇形楼梯, 凯里郡, 爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg
 BingWallPaper-2025-09-19-Serpentine stairs of Dunquin Pier, County Kerry, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg
+BingWallPaper-2025-09-19-千岛群岛地区，圣劳伦斯河，美加边境-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg
+BingWallPaper-2025-09-20-Thousand Islands region, St. Lawrence River, US-Canada border-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg
