@@ -1651,3 +1651,5 @@ BingWallPaper-2025-09-18-邓金码头的蛇形楼梯, 凯里郡, 爱尔兰-4K.jp
 BingWallPaper-2025-09-19-Serpentine stairs of Dunquin Pier, County Kerry, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg
 BingWallPaper-2025-09-19-千岛群岛地区，圣劳伦斯河，美加边境-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg
 BingWallPaper-2025-09-20-Thousand Islands region, St. Lawrence River, US-Canada border-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg
+BingWallPaper-2025-09-20-慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg
+BingWallPaper-2025-09-21-Swing carousel at Oktoberfest, Munich, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg
