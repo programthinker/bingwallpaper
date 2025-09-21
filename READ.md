@@ -1653,3 +1653,5 @@ BingWallPaper-2025-09-19-千岛群岛地区，圣劳伦斯河，美加边境-4K.
 BingWallPaper-2025-09-20-Thousand Islands region, St. Lawrence River, US-Canada border-4K.jpg&&https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg
 BingWallPaper-2025-09-20-慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg
 BingWallPaper-2025-09-21-Swing carousel at Oktoberfest, Munich, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg
+BingWallPaper-2025-09-21-海獭，威廉王子湾，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_UHD.jpg
+BingWallPaper-2025-09-22-Sea otters, Prince William Sound, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg
