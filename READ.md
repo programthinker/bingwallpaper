@@ -1657,3 +1657,5 @@ BingWallPaper-2025-09-21-海獭，威廉王子湾，阿拉斯加州，美国-4K.
 BingWallPaper-2025-09-22-Sea otters, Prince William Sound, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.IceOtters_EN-US7982442590_UHD.jpg
 BingWallPaper-2025-09-22-秋日的白杨树，鱼湖国家森林，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_UHD.jpg
 BingWallPaper-2025-09-23-Aspen trees during fall, Fishlake National Forest, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg
+BingWallPaper-2025-09-23-航拍中国江苏省常州翠竹公园-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg
+BingWallPaper-2025-09-24-Keel-billed toucan in Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg
