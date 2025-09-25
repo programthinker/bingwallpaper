@@ -1661,3 +1661,5 @@ BingWallPaper-2025-09-23-航拍中国江苏省常州翠竹公园-4K.jpg&&https:/
 BingWallPaper-2025-09-24-Keel-billed toucan in Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg
 BingWallPaper-2025-09-24-魔鬼塔国家纪念碑, 怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg
 BingWallPaper-2025-09-25-Devils Tower National Monument, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg
+BingWallPaper-2025-09-25-奇陶尔加尔堡, 拉贾斯坦邦, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg
+BingWallPaper-2025-09-26-Chittorgarh Fort, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg
