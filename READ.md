@@ -1663,3 +1663,5 @@ BingWallPaper-2025-09-24-魔鬼塔国家纪念碑, 怀俄明州，美国-4K.jpg&
 BingWallPaper-2025-09-25-Devils Tower National Monument, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg
 BingWallPaper-2025-09-25-奇陶尔加尔堡, 拉贾斯坦邦, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg
 BingWallPaper-2025-09-26-Chittorgarh Fort, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg
+BingWallPaper-2025-09-26-最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg
+BingWallPaper-2025-09-27-Least chipmunk, Kootenai National Forest, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg
