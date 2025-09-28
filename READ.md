@@ -1667,3 +1667,5 @@ BingWallPaper-2025-09-26-最小花栗鼠, 库特奈国家公园, 蒙大拿州, �
 BingWallPaper-2025-09-27-Least chipmunk, Kootenai National Forest, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg
 BingWallPaper-2025-09-27-坦克湖-4K.jpg&&https://cn.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg
 BingWallPaper-2025-09-28-Tank Lakes, Alpine Lakes Wilderness, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg
+BingWallPaper-2025-09-28-托斯卡纳的皮恩扎镇, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg
+BingWallPaper-2025-09-29-Town of Pienza in Tuscany, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg
