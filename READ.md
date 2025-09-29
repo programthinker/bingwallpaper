@@ -1669,3 +1669,5 @@ BingWallPaper-2025-09-27-坦克湖-4K.jpg&&https://cn.bing.com/th?id=OHR.TankLak
 BingWallPaper-2025-09-28-Tank Lakes, Alpine Lakes Wilderness, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg
 BingWallPaper-2025-09-28-托斯卡纳的皮恩扎镇, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg
 BingWallPaper-2025-09-29-Town of Pienza in Tuscany, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg
+BingWallPaper-2025-09-29-豪滕镇的彩虹屋, 荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg
+BingWallPaper-2025-09-30-The Rainbow Houses of Houten, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg
