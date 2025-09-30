@@ -1671,3 +1671,5 @@ BingWallPaper-2025-09-28-托斯卡纳的皮恩扎镇, 意大利-4K.jpg&&https://
 BingWallPaper-2025-09-29-Town of Pienza in Tuscany, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg
 BingWallPaper-2025-09-29-豪滕镇的彩虹屋, 荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg
 BingWallPaper-2025-09-30-The Rainbow Houses of Houten, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg
+BingWallPaper-2025-09-30-桉树上的考拉, 大奥特维国家公园, 澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg
+BingWallPaper-2025-10-01-Koala in a eucalyptus tree, Great Otway National Park, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg
