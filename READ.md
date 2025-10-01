@@ -1673,3 +1673,5 @@ BingWallPaper-2025-09-29-豪滕镇的彩虹屋, 荷兰-4K.jpg&&https://cn.bing.c
 BingWallPaper-2025-09-30-The Rainbow Houses of Houten, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg
 BingWallPaper-2025-09-30-桉树上的考拉, 大奥特维国家公园, 澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_UHD.jpg
 BingWallPaper-2025-10-01-Koala in a eucalyptus tree, Great Otway National Park, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg
+BingWallPaper-2025-10-01-克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg
+BingWallPaper-2025-10-02-Clark Range, Sierra Nevada, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg
