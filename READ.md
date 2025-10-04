@@ -1679,3 +1679,5 @@ BingWallPaper-2025-10-02-蛇河上的牛轭湖, 大提顿国家公园, 怀俄明
 BingWallPaper-2025-10-03-Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg
 BingWallPaper-2025-10-03-布里特尔峡谷里生长的帚石楠花, 斯凯岛, 苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SkyeHeather_ZH-CN2820283990_UHD.jpg
 BingWallPaper-2025-10-04-Heather growing in Glen Brittle, Isle of Skye, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg
+BingWallPaper-2025-10-04-从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonEndeavour_ZH-CN8160066040_UHD.jpg
+BingWallPaper-2025-10-05-ISS main solar arrays seen from SpaceX Crew Dragon Endeavour-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg
