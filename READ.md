@@ -1681,3 +1681,5 @@ BingWallPaper-2025-10-03-布里特尔峡谷里生长的帚石楠花, 斯凯岛, 
 BingWallPaper-2025-10-04-Heather growing in Glen Brittle, Isle of Skye, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg
 BingWallPaper-2025-10-04-从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonEndeavour_ZH-CN8160066040_UHD.jpg
 BingWallPaper-2025-10-05-ISS main solar arrays seen from SpaceX Crew Dragon Endeavour-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg
+BingWallPaper-2025-10-05-中欧森林里的鬼鸮-4K.jpg&&https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg
+BingWallPaper-2025-10-06-Boreal owl in a forest in Central Europe-4K.jpg&&https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg
