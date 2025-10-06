@@ -1683,3 +1683,5 @@ BingWallPaper-2025-10-04-从SpaceX载人龙飞船“奋进号”视角看到的�
 BingWallPaper-2025-10-05-ISS main solar arrays seen from SpaceX Crew Dragon Endeavour-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg
 BingWallPaper-2025-10-05-中欧森林里的鬼鸮-4K.jpg&&https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg
 BingWallPaper-2025-10-06-Boreal owl in a forest in Central Europe-4K.jpg&&https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg
+BingWallPaper-2025-10-06-安顺桥中秋灯展，成都，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg
+BingWallPaper-2025-10-07-Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China-4K.jpg&&https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg
