@@ -1685,3 +1685,5 @@ BingWallPaper-2025-10-05-中欧森林里的鬼鸮-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2025-10-06-Boreal owl in a forest in Central Europe-4K.jpg&&https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg
 BingWallPaper-2025-10-06-安顺桥中秋灯展，成都，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg
 BingWallPaper-2025-10-07-Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China-4K.jpg&&https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg
+BingWallPaper-2025-10-07-里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg
+BingWallPaper-2025-10-08-Fall colors below Mount Sneffels near Ridgway, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg
