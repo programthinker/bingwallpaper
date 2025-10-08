@@ -1687,3 +1687,5 @@ BingWallPaper-2025-10-06-安顺桥中秋灯展，成都，中国-4K.jpg&&https:/
 BingWallPaper-2025-10-07-Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China-4K.jpg&&https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg
 BingWallPaper-2025-10-07-里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg
 BingWallPaper-2025-10-08-Fall colors below Mount Sneffels near Ridgway, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg
+BingWallPaper-2025-10-08-白日章鱼, 毛伊岛, 夏威夷, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg
+BingWallPaper-2025-10-09-Day octopus in the waters off Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg
