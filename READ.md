@@ -1689,3 +1689,5 @@ BingWallPaper-2025-10-07-里奇韦附近斯内弗尔斯山脚下的秋色, 科�
 BingWallPaper-2025-10-08-Fall colors below Mount Sneffels near Ridgway, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg
 BingWallPaper-2025-10-08-白日章鱼, 毛伊岛, 夏威夷, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg
 BingWallPaper-2025-10-09-Day octopus in the waters off Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg
+BingWallPaper-2025-10-09-‌詹姆斯·韦伯太空望远镜观测的创生之柱-4K.jpg&&https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg
+BingWallPaper-2025-10-10-The Pillars of Creation viewed by the James Webb Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg
