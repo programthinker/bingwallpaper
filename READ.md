@@ -1691,3 +1691,5 @@ BingWallPaper-2025-10-08-白日章鱼, 毛伊岛, 夏威夷, 美国-4K.jpg&&http
 BingWallPaper-2025-10-09-Day octopus in the waters off Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg
 BingWallPaper-2025-10-09-‌詹姆斯·韦伯太空望远镜观测的创生之柱-4K.jpg&&https://cn.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg
 BingWallPaper-2025-10-10-The Pillars of Creation viewed by the James Webb Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg
+BingWallPaper-2025-10-10-莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济-4K.jpg&&https://cn.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg
+BingWallPaper-2025-10-11-Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji-4K.jpg&&https://cn.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg
