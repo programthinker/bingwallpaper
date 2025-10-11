@@ -1693,3 +1693,5 @@ BingWallPaper-2025-10-09-‌詹姆斯·韦伯太空望远镜观测的创生之�
 BingWallPaper-2025-10-10-The Pillars of Creation viewed by the James Webb Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg
 BingWallPaper-2025-10-10-莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济-4K.jpg&&https://cn.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg
 BingWallPaper-2025-10-11-Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji-4K.jpg&&https://cn.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg
+BingWallPaper-2025-10-11-林鸳鸯，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_UHD.jpg
+BingWallPaper-2025-10-12-Wood duck hen-4K.jpg&&https://cn.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg
