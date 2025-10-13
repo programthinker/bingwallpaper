@@ -1697,3 +1697,5 @@ BingWallPaper-2025-10-11-林鸳鸯，美国-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2025-10-12-Wood duck hen-4K.jpg&&https://cn.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg
 BingWallPaper-2025-10-12-萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_UHD.jpg
 BingWallPaper-2025-10-13-Village of Saranac Lake, Adirondack Mountains, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg
+BingWallPaper-2025-10-13-温巴赫峡谷瀑布，巴伐利亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg
+BingWallPaper-2025-10-14-House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg
