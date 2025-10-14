@@ -1699,3 +1699,5 @@ BingWallPaper-2025-10-12-萨拉纳克湖村，阿迪朗达克山脉，纽约州�
 BingWallPaper-2025-10-13-Village of Saranac Lake, Adirondack Mountains, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg
 BingWallPaper-2025-10-13-温巴赫峡谷瀑布，巴伐利亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg
 BingWallPaper-2025-10-14-House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg
+BingWallPaper-2025-10-14-伊亚镇，圣托里尼岛，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg
+BingWallPaper-2025-10-15-Village of Oia, Santorini, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg
