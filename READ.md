@@ -1701,3 +1701,5 @@ BingWallPaper-2025-10-13-温巴赫峡谷瀑布，巴伐利亚州，德国-4K.jpg
 BingWallPaper-2025-10-14-House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg
 BingWallPaper-2025-10-14-伊亚镇，圣托里尼岛，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg
 BingWallPaper-2025-10-15-Village of Oia, Santorini, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg
+BingWallPaper-2025-10-15-紫蜡蘑，西贝克，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg
+BingWallPaper-2025-10-16-Amethyst laccaria mushrooms, Seabeck, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg
