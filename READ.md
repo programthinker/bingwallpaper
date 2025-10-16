@@ -1703,3 +1703,5 @@ BingWallPaper-2025-10-14-伊亚镇，圣托里尼岛，希腊-4K.jpg&&https://cn
 BingWallPaper-2025-10-15-Village of Oia, Santorini, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg
 BingWallPaper-2025-10-15-紫蜡蘑，西贝克，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg
 BingWallPaper-2025-10-16-Amethyst laccaria mushrooms, Seabeck, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg
+BingWallPaper-2025-10-16-欧亚猞猁，西伯利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg
+BingWallPaper-2025-10-17-Eurasian lynx in Siberia-4K.jpg&&https://cn.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg
