@@ -1705,3 +1705,5 @@ BingWallPaper-2025-10-15-紫蜡蘑，西贝克，华盛顿州，美国-4K.jpg&&h
 BingWallPaper-2025-10-16-Amethyst laccaria mushrooms, Seabeck, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.AmethystLaccaria_EN-US0640413961_UHD.jpg
 BingWallPaper-2025-10-16-欧亚猞猁，西伯利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg
 BingWallPaper-2025-10-17-Eurasian lynx in Siberia-4K.jpg&&https://cn.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg
+BingWallPaper-2025-10-17-罗克河瀑布，上半岛，密歇根州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg
+BingWallPaper-2025-10-18-Rock River Falls, Upper Peninsula, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg
