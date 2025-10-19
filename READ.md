@@ -1709,3 +1709,5 @@ BingWallPaper-2025-10-17-罗克河瀑布，上半岛，密歇根州，美国-4K.
 BingWallPaper-2025-10-18-Rock River Falls, Upper Peninsula, Michigan-4K.jpg&&https://cn.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg
 BingWallPaper-2025-10-18-西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国-4K.jpg&&https://cn.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg
 BingWallPaper-2025-10-19-Neolithic site of Silbury Hill, Tilshead, Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg
+BingWallPaper-2025-10-19-即将收获的苹果，明尼苏达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg
+BingWallPaper-2025-10-20-Apples ready for harvest, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg
