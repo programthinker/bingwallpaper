@@ -1711,3 +1711,5 @@ BingWallPaper-2025-10-18-西尔布利山的新石器时代遗址，蒂尔斯黑�
 BingWallPaper-2025-10-19-Neolithic site of Silbury Hill, Tilshead, Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg
 BingWallPaper-2025-10-19-即将收获的苹果，明尼苏达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg
 BingWallPaper-2025-10-20-Apples ready for harvest, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg
+BingWallPaper-2025-10-20-霍氏树懒，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg
+BingWallPaper-2025-10-21-A Hoffmann's two-toed sloth in Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg
