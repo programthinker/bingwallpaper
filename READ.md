@@ -1713,3 +1713,5 @@ BingWallPaper-2025-10-19-即将收获的苹果，明尼苏达州，美国-4K.jpg
 BingWallPaper-2025-10-20-Apples ready for harvest, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg
 BingWallPaper-2025-10-20-霍氏树懒，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg
 BingWallPaper-2025-10-21-A Hoffmann's two-toed sloth in Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg
+BingWallPaper-2025-10-21-哥斯达黎加的厚嘴巨嘴鸟-4K.jpg&&https://cn.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg
+BingWallPaper-2025-10-22-A diya at the Golden Temple during Diwali, Amritsar, India-4K.jpg&&https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg
