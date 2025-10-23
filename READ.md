@@ -1717,3 +1717,5 @@ BingWallPaper-2025-10-21-哥斯达黎加的厚嘴巨嘴鸟-4K.jpg&&https://cn.bi
 BingWallPaper-2025-10-22-A diya at the Golden Temple during Diwali, Amritsar, India-4K.jpg&&https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg
 BingWallPaper-2025-10-22-贝洛格拉齐克石林，保加利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg
 BingWallPaper-2025-10-23-Belogradchik Rocks, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg
+BingWallPaper-2025-10-23-雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg
+BingWallPaper-2025-10-24-Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg
