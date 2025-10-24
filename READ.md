@@ -1719,3 +1719,5 @@ BingWallPaper-2025-10-22-贝洛格拉齐克石林，保加利亚-4K.jpg&&https:/
 BingWallPaper-2025-10-23-Belogradchik Rocks, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg
 BingWallPaper-2025-10-23-雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物圈保护区, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg
 BingWallPaper-2025-10-24-Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg
+BingWallPaper-2025-10-24-玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg
+BingWallPaper-2025-10-25-Night view of the RMS Queen Mary, Long Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg
