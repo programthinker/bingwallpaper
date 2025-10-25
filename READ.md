@@ -1721,3 +1721,5 @@ BingWallPaper-2025-10-23-雪豹和她的幼崽, 斯皮提谷, 寒冷沙漠生物
 BingWallPaper-2025-10-24-Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg
 BingWallPaper-2025-10-24-玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg
 BingWallPaper-2025-10-25-Night view of the RMS Queen Mary, Long Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg
+BingWallPaper-2025-10-25-马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg
+BingWallPaper-2025-10-26-Aerial view of peatland in Martimoaapa Mire Reserve, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg
