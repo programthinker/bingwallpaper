@@ -1723,3 +1723,5 @@ BingWallPaper-2025-10-24-玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚
 BingWallPaper-2025-10-25-Night view of the RMS Queen Mary, Long Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg
 BingWallPaper-2025-10-25-马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg
 BingWallPaper-2025-10-26-Aerial view of peatland in Martimoaapa Mire Reserve, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg
+BingWallPaper-2025-10-26-北卡罗来纳州的南瓜农场, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg
+BingWallPaper-2025-10-27-Pumpkin farm in North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg
