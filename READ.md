@@ -1725,3 +1725,5 @@ BingWallPaper-2025-10-25-马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬�
 BingWallPaper-2025-10-26-Aerial view of peatland in Martimoaapa Mire Reserve, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg
 BingWallPaper-2025-10-26-北卡罗来纳州的南瓜农场, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg
 BingWallPaper-2025-10-27-Pumpkin farm in North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg
+BingWallPaper-2025-10-27-被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg
+BingWallPaper-2025-10-28-Thick-billed raven, Simien Mountains, Ethiopia-4K.jpg&&https://cn.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg
