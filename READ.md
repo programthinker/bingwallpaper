@@ -1727,3 +1727,5 @@ BingWallPaper-2025-10-26-北卡罗来纳州的南瓜农场, 美国-4K.jpg&&https
 BingWallPaper-2025-10-27-Pumpkin farm in North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg
 BingWallPaper-2025-10-27-被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg
 BingWallPaper-2025-10-28-Thick-billed raven, Simien Mountains, Ethiopia-4K.jpg&&https://cn.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg
+BingWallPaper-2025-10-28-安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克-4K.jpg&&https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg
+BingWallPaper-2025-10-29-The Gothic Gate in the Adršpach-Teplice Rocks, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg
