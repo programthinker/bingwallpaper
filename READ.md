@@ -1729,3 +1729,5 @@ BingWallPaper-2025-10-27-被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃,
 BingWallPaper-2025-10-28-Thick-billed raven, Simien Mountains, Ethiopia-4K.jpg&&https://cn.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg
 BingWallPaper-2025-10-28-安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克-4K.jpg&&https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg
 BingWallPaper-2025-10-29-The Gothic Gate in the Adršpach-Teplice Rocks, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg
+BingWallPaper-2025-10-29-法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg
+BingWallPaper-2025-10-30-Ancient til trees in Fanal Forest, island of Madeira, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg
