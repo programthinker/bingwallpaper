@@ -1731,3 +1731,5 @@ BingWallPaper-2025-10-28-安德尔施帕赫-特普利采岩石林的哥特式拱
 BingWallPaper-2025-10-29-The Gothic Gate in the Adršpach-Teplice Rocks, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg
 BingWallPaper-2025-10-29-法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg
 BingWallPaper-2025-10-30-Ancient til trees in Fanal Forest, island of Madeira, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg
+BingWallPaper-2025-10-30-杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg
+BingWallPaper-2025-10-31-Camels at Jaisalmer, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg
