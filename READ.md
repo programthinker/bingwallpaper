@@ -1733,3 +1733,5 @@ BingWallPaper-2025-10-29-法纳尔森林里的古老月桂树，马德拉群岛�
 BingWallPaper-2025-10-30-Ancient til trees in Fanal Forest, island of Madeira, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg
 BingWallPaper-2025-10-30-杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg
 BingWallPaper-2025-10-31-Camels at Jaisalmer, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg
+BingWallPaper-2025-10-31-布兰城堡入口, 布拉索夫, 罗马尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg
+BingWallPaper-2025-11-01-Entrance of Bran Castle in Bran, Brașov, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg
