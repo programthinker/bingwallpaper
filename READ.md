@@ -1735,3 +1735,5 @@ BingWallPaper-2025-10-30-杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度-4K
 BingWallPaper-2025-10-31-Camels at Jaisalmer, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg
 BingWallPaper-2025-10-31-布兰城堡入口, 布拉索夫, 罗马尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg
 BingWallPaper-2025-11-01-Entrance of Bran Castle in Bran, Brașov, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg
+BingWallPaper-2025-11-01-野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg
+BingWallPaper-2025-11-02-Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg
