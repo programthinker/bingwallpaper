@@ -1737,3 +1737,5 @@ BingWallPaper-2025-10-31-布兰城堡入口, 布拉索夫, 罗马尼亚-4K.jpg&&
 BingWallPaper-2025-11-01-Entrance of Bran Castle in Bran, Brașov, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg
 BingWallPaper-2025-11-01-野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg
 BingWallPaper-2025-11-02-Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg
+BingWallPaper-2025-11-02-岚山缤纷的枫叶与竹林, 京都, 日本-4K.jpg&&https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg
+BingWallPaper-2025-11-03-Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg
