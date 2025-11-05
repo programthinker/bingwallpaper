@@ -1743,3 +1743,5 @@ BingWallPaper-2025-11-03-在太平洋中游泳的水母, 格雷罗, 墨西哥-4K
 BingWallPaper-2025-11-04-Jellyfish swimming in the Pacific, Guerrero, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg
 BingWallPaper-2025-11-04-塔桥, 伦敦, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg
 BingWallPaper-2025-11-05-Tower Bridge, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg
+BingWallPaper-2025-11-05-佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg
+BingWallPaper-2025-11-06-Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg
