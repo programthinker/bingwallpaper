@@ -1745,3 +1745,5 @@ BingWallPaper-2025-11-04-塔桥, 伦敦, 英格兰-4K.jpg&&https://cn.bing.com/t
 BingWallPaper-2025-11-05-Tower Bridge, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg
 BingWallPaper-2025-11-05-佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg
 BingWallPaper-2025-11-06-Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg
+BingWallPaper-2025-11-06-哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg
+BingWallPaper-2025-11-07-Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg
