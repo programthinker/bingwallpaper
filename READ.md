@@ -1749,3 +1749,5 @@ BingWallPaper-2025-11-06-哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国
 BingWallPaper-2025-11-07-Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg
 BingWallPaper-2025-11-07-丘吉尔的北极熊，曼尼托巴省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg
 BingWallPaper-2025-11-08-Polar bear in Churchill, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg
+BingWallPaper-2025-11-08-班登海滩的海蚀柱，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg
+BingWallPaper-2025-11-09-Sea stacks of Bandon Beach in Bandon, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg
