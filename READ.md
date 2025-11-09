@@ -1751,3 +1751,5 @@ BingWallPaper-2025-11-07-丘吉尔的北极熊，曼尼托巴省，加拿大-4K.
 BingWallPaper-2025-11-08-Polar bear in Churchill, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg
 BingWallPaper-2025-11-08-班登海滩的海蚀柱，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg
 BingWallPaper-2025-11-09-Sea stacks of Bandon Beach in Bandon, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg
+BingWallPaper-2025-11-09-礁湖星云中的星际云，由哈勃太空望远镜拍摄-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg
+BingWallPaper-2025-11-10-Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg
