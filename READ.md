@@ -1753,3 +1753,5 @@ BingWallPaper-2025-11-08-班登海滩的海蚀柱，俄勒冈州，美国-4K.jpg
 BingWallPaper-2025-11-09-Sea stacks of Bandon Beach in Bandon, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg
 BingWallPaper-2025-11-09-礁湖星云中的星际云，由哈勃太空望远镜拍摄-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg
 BingWallPaper-2025-11-10-Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg
+BingWallPaper-2025-11-10-土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg
+BingWallPaper-2025-11-11-Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg
