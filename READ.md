@@ -1755,3 +1755,5 @@ BingWallPaper-2025-11-09-礁湖星云中的星际云，由哈勃太空望远镜�
 BingWallPaper-2025-11-10-Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope-4K.jpg&&https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg
 BingWallPaper-2025-11-10-土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg
 BingWallPaper-2025-11-11-Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg
+BingWallPaper-2025-11-11-条顿堡森林的伊克斯坦岩石层，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg
+BingWallPaper-2025-11-12-Marine Corps War Memorial, Arlington, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg
