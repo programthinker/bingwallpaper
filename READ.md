@@ -1757,3 +1757,5 @@ BingWallPaper-2025-11-10-土拨鼠镇的黑尾土拨鼠，劣地国家公园，�
 BingWallPaper-2025-11-11-Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg
 BingWallPaper-2025-11-11-条顿堡森林的伊克斯坦岩石层，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg
 BingWallPaper-2025-11-12-Marine Corps War Memorial, Arlington, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg
+BingWallPaper-2025-11-12-斗兽场鸟瞰图，罗马，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg
+BingWallPaper-2025-11-13-Aerial view of the Colosseum, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg
