@@ -1759,3 +1759,5 @@ BingWallPaper-2025-11-11-条顿堡森林的伊克斯坦岩石层，德国-4K.jpg
 BingWallPaper-2025-11-12-Marine Corps War Memorial, Arlington, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg
 BingWallPaper-2025-11-12-斗兽场鸟瞰图，罗马，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg
 BingWallPaper-2025-11-13-Aerial view of the Colosseum, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg
+BingWallPaper-2025-11-13-夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg
+BingWallPaper-2025-11-14-Quiver trees under the Milky Way, Keetmanshoop, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg
