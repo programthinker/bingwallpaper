@@ -1761,3 +1761,5 @@ BingWallPaper-2025-11-12-斗兽场鸟瞰图，罗马，意大利-4K.jpg&&https:/
 BingWallPaper-2025-11-13-Aerial view of the Colosseum, Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg
 BingWallPaper-2025-11-13-夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg
 BingWallPaper-2025-11-14-Quiver trees under the Milky Way, Keetmanshoop, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.AloeDichotoma_EN-US6966316373_UHD.jpg
+BingWallPaper-2025-11-14-海牛妈妈和幼崽，水晶河，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg
+BingWallPaper-2025-11-15-Mother manatee and calf, Crystal River, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg
