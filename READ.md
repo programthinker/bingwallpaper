@@ -1765,3 +1765,5 @@ BingWallPaper-2025-11-14-海牛妈妈和幼崽，水晶河，佛罗里达州，�
 BingWallPaper-2025-11-15-Mother manatee and calf, Crystal River, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg
 BingWallPaper-2025-11-15-秋天的伊吕波坂，日光市，栃木县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg
 BingWallPaper-2025-11-16-Irohazaka Road in fall, Nikko, Tochigi, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg
+BingWallPaper-2025-11-16-里昂的一条穿廊，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg
+BingWallPaper-2025-11-17-A traboule in Lyon, France-4K.jpg&&https://cn.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg
