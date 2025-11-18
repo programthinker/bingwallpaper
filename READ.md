@@ -1769,3 +1769,5 @@ BingWallPaper-2025-11-16-里昂的一条穿廊，法国-4K.jpg&&https://cn.bing.
 BingWallPaper-2025-11-17-A traboule in Lyon, France-4K.jpg&&https://cn.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg
 BingWallPaper-2025-11-17-谢南多厄国家公园的秋色，弗吉尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg
 BingWallPaper-2025-11-18-Fall colors in Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg
+BingWallPaper-2025-11-18-雄性棕胁秋沙鸭，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg
+BingWallPaper-2025-11-19-Male hooded merganser, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg
