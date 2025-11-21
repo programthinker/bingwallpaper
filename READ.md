@@ -1775,3 +1775,5 @@ BingWallPaper-2025-11-19-匈牙利国会大厦，布达佩斯，匈牙利-4K.jpg
 BingWallPaper-2025-11-20-Hungarian Parliament Building, Budapest, Hungary-4K.jpg&&https://cn.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg
 BingWallPaper-2025-11-20-查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg
 BingWallPaper-2025-11-21-Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg
+BingWallPaper-2025-11-21-罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg
+BingWallPaper-2025-11-22-Harbor seals at Robert Moses State Park, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg
