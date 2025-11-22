@@ -1777,3 +1777,5 @@ BingWallPaper-2025-11-20-查帕达迪亚曼蒂纳国家公园，巴伊亚州，�
 BingWallPaper-2025-11-21-Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg
 BingWallPaper-2025-11-21-罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg
 BingWallPaper-2025-11-22-Harbor seals at Robert Moses State Park, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg
+BingWallPaper-2025-11-22-乐山大佛, 四川, 中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg
+BingWallPaper-2025-11-23-Leshan Giant Buddha, Sichuan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg
