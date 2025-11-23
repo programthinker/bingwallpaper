@@ -1779,3 +1779,5 @@ BingWallPaper-2025-11-21-罗伯特·摩西州立公园的港海豹, 长岛, 纽�
 BingWallPaper-2025-11-22-Harbor seals at Robert Moses State Park, Long Island, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg
 BingWallPaper-2025-11-22-乐山大佛, 四川, 中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg
 BingWallPaper-2025-11-23-Leshan Giant Buddha, Sichuan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg
+BingWallPaper-2025-11-23-马达加斯加菊石化石-4K.jpg&&https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg
+BingWallPaper-2025-11-24-Ammonite fossil from Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg
