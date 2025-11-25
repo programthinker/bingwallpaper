@@ -1783,3 +1783,5 @@ BingWallPaper-2025-11-23-马达加斯加菊石化石-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-11-24-Ammonite fossil from Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg
 BingWallPaper-2025-11-24-瓜廖尔堡, ‌中央邦, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg
 BingWallPaper-2025-11-25-Gwalior Fort, Madhya Pradesh, India-4K.jpg&&https://cn.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg
+BingWallPaper-2025-11-25-罗马的特雷维喷泉, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg
+BingWallPaper-2025-11-26-The Trevi Fountain in Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg
