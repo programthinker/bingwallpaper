@@ -1785,3 +1785,5 @@ BingWallPaper-2025-11-24-瓜廖尔堡, ‌中央邦, 印度-4K.jpg&&https://cn.b
 BingWallPaper-2025-11-25-Gwalior Fort, Madhya Pradesh, India-4K.jpg&&https://cn.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg
 BingWallPaper-2025-11-25-罗马的特雷维喷泉, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg
 BingWallPaper-2025-11-26-The Trevi Fountain in Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg
+BingWallPaper-2025-11-26-特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg
+BingWallPaper-2025-11-27-Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg
