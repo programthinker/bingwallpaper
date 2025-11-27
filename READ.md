@@ -1787,3 +1787,5 @@ BingWallPaper-2025-11-25-罗马的特雷维喷泉, 意大利-4K.jpg&&https://cn.
 BingWallPaper-2025-11-26-The Trevi Fountain in Rome, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.TreviFountain_EN-US6800145474_UHD.jpg
 BingWallPaper-2025-11-26-特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg
 BingWallPaper-2025-11-27-Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg
+BingWallPaper-2025-11-27-伊斯特本码头, 东萨塞克斯郡, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg
+BingWallPaper-2025-11-28-Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg
