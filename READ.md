@@ -1789,3 +1789,5 @@ BingWallPaper-2025-11-26-特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利
 BingWallPaper-2025-11-27-Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg
 BingWallPaper-2025-11-27-伊斯特本码头, 东萨塞克斯郡, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg
 BingWallPaper-2025-11-28-Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg
+BingWallPaper-2025-11-28-瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg
+BingWallPaper-2025-11-29-Collection of silver Native American concho belts, Santa Fe, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg
