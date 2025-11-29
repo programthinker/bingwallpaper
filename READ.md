@@ -1791,3 +1791,5 @@ BingWallPaper-2025-11-27-伊斯特本码头, 东萨塞克斯郡, 英格兰-4K.jp
 BingWallPaper-2025-11-28-Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas-4K.jpg&&https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg
 BingWallPaper-2025-11-28-瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg
 BingWallPaper-2025-11-29-Collection of silver Native American concho belts, Santa Fe, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg
+BingWallPaper-2025-11-29-荷兰梵高国家森林公园的马鹿雄鹿, 荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg
+BingWallPaper-2025-11-30-Red deer stag in De Hoge Veluwe National Park, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg
