@@ -1795,3 +1795,5 @@ BingWallPaper-2025-11-29-荷兰梵高国家森林公园的马鹿雄鹿, 荷兰-4
 BingWallPaper-2025-11-30-Red deer stag in De Hoge Veluwe National Park, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg
 BingWallPaper-2025-11-30-莱比锡圣诞集市, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg
 BingWallPaper-2025-12-01-Christmas market in Leipzig, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg
+BingWallPaper-2025-12-01-冰山上天然形成的拱门, 南极洲-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg
+BingWallPaper-2025-12-02-Natural arch carved in an iceberg, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg
