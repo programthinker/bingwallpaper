@@ -1797,3 +1797,5 @@ BingWallPaper-2025-11-30-莱比锡圣诞集市, 德国-4K.jpg&&https://cn.bing.c
 BingWallPaper-2025-12-01-Christmas market in Leipzig, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg
 BingWallPaper-2025-12-01-冰山上天然形成的拱门, 南极洲-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg
 BingWallPaper-2025-12-02-Natural arch carved in an iceberg, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg
+BingWallPaper-2025-12-02-柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg
+BingWallPaper-2025-12-03-Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg
