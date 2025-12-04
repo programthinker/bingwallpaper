@@ -1801,3 +1801,5 @@ BingWallPaper-2025-12-02-柳树湖与布莱克本山, 兰格尔－圣伊利亚�
 BingWallPaper-2025-12-03-Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg
 BingWallPaper-2025-12-03-日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg
 BingWallPaper-2025-12-04-Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.BosqueCranes_EN-US6752028797_UHD.jpg
+BingWallPaper-2025-12-04-马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg
+BingWallPaper-2025-12-05-Cheetah in Maasai Mara National Reserve, Narok, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg
