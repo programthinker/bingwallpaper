@@ -1805,3 +1805,5 @@ BingWallPaper-2025-12-04-马赛马拉国家保护区的猎豹, 纳罗克, 肯尼
 BingWallPaper-2025-12-05-Cheetah in Maasai Mara National Reserve, Narok, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg
 BingWallPaper-2025-12-05-科潘的玛雅遗址，洪都拉斯-4K.jpg&&https://cn.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg
 BingWallPaper-2025-12-06-Maya site of Copán, Honduras-4K.jpg&&https://cn.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg
+BingWallPaper-2025-12-06-大沼泽地国家公园的蜘蛛网，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg
+BingWallPaper-2025-12-07-Spider webs in Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg
