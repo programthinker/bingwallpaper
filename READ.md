@@ -1809,3 +1809,5 @@ BingWallPaper-2025-12-06-大沼泽地国家公园的蜘蛛网，佛罗里达州�
 BingWallPaper-2025-12-07-Spider webs in Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.EvergladesSunrise_EN-US5606230133_UHD.jpg
 BingWallPaper-2025-12-07-雪中的故宫，中国北京-4K.jpg&&https://cn.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg
 BingWallPaper-2025-12-08-USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg
+BingWallPaper-2025-12-08-多马索的建筑上的圣诞彩灯，科莫湖，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg
+BingWallPaper-2025-12-09-Christmas lights in Domaso, Lake Como, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg
