@@ -1811,3 +1811,5 @@ BingWallPaper-2025-12-07-雪中的故宫，中国北京-4K.jpg&&https://cn.bing.
 BingWallPaper-2025-12-08-USS Arizona Memorial, Pearl Harbor, Honolulu, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PearlHarborDay_EN-US5774515492_UHD.jpg
 BingWallPaper-2025-12-08-多马索的建筑上的圣诞彩灯，科莫湖，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg
 BingWallPaper-2025-12-09-Christmas lights in Domaso, Lake Como, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg
+BingWallPaper-2025-12-09-原驼，北角，瓦尔德斯半岛, 阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg
+BingWallPaper-2025-12-10-Guanaco in Punta Norte, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg
