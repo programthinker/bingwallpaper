@@ -1813,3 +1813,5 @@ BingWallPaper-2025-12-08-多马索的建筑上的圣诞彩灯，科莫湖，意�
 BingWallPaper-2025-12-09-Christmas lights in Domaso, Lake Como, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg
 BingWallPaper-2025-12-09-原驼，北角，瓦尔德斯半岛, 阿根廷-4K.jpg&&https://cn.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg
 BingWallPaper-2025-12-10-Guanaco in Punta Norte, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg
+BingWallPaper-2025-12-10-科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg
+BingWallPaper-2025-12-11-Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg
