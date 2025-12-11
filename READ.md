@@ -1815,3 +1815,5 @@ BingWallPaper-2025-12-09-原驼，北角，瓦尔德斯半岛, 阿根廷-4K.jpg&
 BingWallPaper-2025-12-10-Guanaco in Punta Norte, Argentina-4K.jpg&&https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg
 BingWallPaper-2025-12-10-科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg
 BingWallPaper-2025-12-11-Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg
+BingWallPaper-2025-12-11-从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔-4K.jpg&&https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg
+BingWallPaper-2025-12-12-Summit of Mount Everest at sunset, seen from Renjo La, Nepal-4K.jpg&&https://cn.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg
