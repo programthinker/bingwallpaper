@@ -1817,3 +1817,5 @@ BingWallPaper-2025-12-10-科尔多瓦清真寺大教堂的内部，安达卢西�
 BingWallPaper-2025-12-11-Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg
 BingWallPaper-2025-12-11-从伦佐拉山口眺望珠穆朗玛峰日落时分的峰顶，尼泊尔-4K.jpg&&https://cn.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_UHD.jpg
 BingWallPaper-2025-12-12-Summit of Mount Everest at sunset, seen from Renjo La, Nepal-4K.jpg&&https://cn.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg
+BingWallPaper-2025-12-12-有斑点的一品红-4K.jpg&&https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg
+BingWallPaper-2025-12-13-Spotted poinsettia-4K.jpg&&https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg
