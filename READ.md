@@ -1819,3 +1819,5 @@ BingWallPaper-2025-12-11-从伦佐拉山口眺望珠穆朗玛峰日落时分的�
 BingWallPaper-2025-12-12-Summit of Mount Everest at sunset, seen from Renjo La, Nepal-4K.jpg&&https://cn.bing.com/th?id=OHR.EverestGlow_EN-US6131667612_UHD.jpg
 BingWallPaper-2025-12-12-有斑点的一品红-4K.jpg&&https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg
 BingWallPaper-2025-12-13-Spotted poinsettia-4K.jpg&&https://cn.bing.com/th?id=OHR.SpeckledPoinsettia_EN-US4098165068_UHD.jpg
+BingWallPaper-2025-12-13-默塞德河, 优胜美地国家公园, 加利福尼亚, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg
+BingWallPaper-2025-12-14-Merced River, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg
