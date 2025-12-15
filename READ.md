@@ -1823,3 +1823,5 @@ BingWallPaper-2025-12-13-默塞德河, 优胜美地国家公园, 加利福尼亚
 BingWallPaper-2025-12-14-Merced River, Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.YosemiteWinter_EN-US4786605896_UHD.jpg
 BingWallPaper-2025-12-14-簇山雀栖息在松枝上, 马萨诸塞州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg
 BingWallPaper-2025-12-15-Tufted titmouse perched on pine boughs, Massachusetts-4K.jpg&&https://cn.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg
+BingWallPaper-2025-12-15-斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg
+BingWallPaper-2025-12-16-Lights on Spiegelgracht canal, Amsterdam, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg
