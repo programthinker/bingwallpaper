@@ -1825,3 +1825,5 @@ BingWallPaper-2025-12-14-簇山雀栖息在松枝上, 马萨诸塞州, 美国-4K
 BingWallPaper-2025-12-15-Tufted titmouse perched on pine boughs, Massachusetts-4K.jpg&&https://cn.bing.com/th?id=OHR.TuftedTitmouse_EN-US4835376471_UHD.jpg
 BingWallPaper-2025-12-15-斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg
 BingWallPaper-2025-12-16-Lights on Spiegelgracht canal, Amsterdam, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg
+BingWallPaper-2025-12-16-圣诞市场上的手工小矮人-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg
+BingWallPaper-2025-12-17-Handmade gnomes at a Christmas market-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg
