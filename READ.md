@@ -1827,3 +1827,5 @@ BingWallPaper-2025-12-15-斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 
 BingWallPaper-2025-12-16-Lights on Spiegelgracht canal, Amsterdam, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.AmsterdamLights_EN-US4980559514_UHD.jpg
 BingWallPaper-2025-12-16-圣诞市场上的手工小矮人-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg
 BingWallPaper-2025-12-17-Handmade gnomes at a Christmas market-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg
+BingWallPaper-2025-12-17-在诺森伯兰郡的欧亚红松鼠, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg
+BingWallPaper-2025-12-18-Eurasian red squirrel in Northumberland, England-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg
