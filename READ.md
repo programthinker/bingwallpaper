@@ -1829,3 +1829,5 @@ BingWallPaper-2025-12-16-圣诞市场上的手工小矮人-4K.jpg&&https://cn.bi
 BingWallPaper-2025-12-17-Handmade gnomes at a Christmas market-4K.jpg&&https://cn.bing.com/th?id=OHR.ChristmasGnomes_EN-US5094302697_UHD.jpg
 BingWallPaper-2025-12-17-在诺森伯兰郡的欧亚红松鼠, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg
 BingWallPaper-2025-12-18-Eurasian red squirrel in Northumberland, England-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg
+BingWallPaper-2025-12-18-太阳神庙，圆顶礁国家公园, 犹他州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg
+BingWallPaper-2025-12-19-Temple of the Sun, Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg
