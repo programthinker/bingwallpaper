@@ -1831,3 +1831,5 @@ BingWallPaper-2025-12-17-在诺森伯兰郡的欧亚红松鼠, 英格兰-4K.jpg&
 BingWallPaper-2025-12-18-Eurasian red squirrel in Northumberland, England-4K.jpg&&https://cn.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg
 BingWallPaper-2025-12-18-太阳神庙，圆顶礁国家公园, 犹他州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg
 BingWallPaper-2025-12-19-Temple of the Sun, Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg
+BingWallPaper-2025-12-19-博尔米奥的雪景，伦巴第大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg
+BingWallPaper-2025-12-20-Snow-covered landscape at Bormio, Lombardy, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg
