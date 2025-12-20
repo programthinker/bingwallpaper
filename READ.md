@@ -1833,3 +1833,5 @@ BingWallPaper-2025-12-18-太阳神庙，圆顶礁国家公园, 犹他州, 美国
 BingWallPaper-2025-12-19-Temple of the Sun, Capitol Reef National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg
 BingWallPaper-2025-12-19-博尔米奥的雪景，伦巴第大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg
 BingWallPaper-2025-12-20-Snow-covered landscape at Bormio, Lombardy, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg
+BingWallPaper-2025-12-20-圣诞星形灯笼，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg
+BingWallPaper-2025-12-21-Christmas star lanterns, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg
