@@ -1835,3 +1835,5 @@ BingWallPaper-2025-12-19-博尔米奥的雪景，伦巴第大区，意大利-4K.
 BingWallPaper-2025-12-20-Snow-covered landscape at Bormio, Lombardy, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg
 BingWallPaper-2025-12-20-圣诞星形灯笼，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg
 BingWallPaper-2025-12-21-Christmas star lanterns, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg
+BingWallPaper-2025-12-21-美丽的雾凇景色，大庆市，黑龙江省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg
+BingWallPaper-2025-12-22-Dawn light through frosty trees, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg
