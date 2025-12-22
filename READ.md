@@ -1837,3 +1837,5 @@ BingWallPaper-2025-12-20-圣诞星形灯笼，德国-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-12-21-Christmas star lanterns, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg
 BingWallPaper-2025-12-21-美丽的雾凇景色，大庆市，黑龙江省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg
 BingWallPaper-2025-12-22-Dawn light through frosty trees, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg
+BingWallPaper-2025-12-22-法兰克福老桥，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg
+BingWallPaper-2025-12-23-'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg
