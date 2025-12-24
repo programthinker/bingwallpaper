@@ -1841,3 +1841,5 @@ BingWallPaper-2025-12-22-法兰克福老桥，德国-4K.jpg&&https://cn.bing.com
 BingWallPaper-2025-12-23-'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg
 BingWallPaper-2025-12-23-冬雪中的驯鹿，拉普兰德，芬兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg
 BingWallPaper-2025-12-24-Reindeer during winter snowfall, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg
+BingWallPaper-2025-12-24-巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg
+BingWallPaper-2025-12-25-Snowy chapel with Christmas tree in the Bavarian Alps, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg
