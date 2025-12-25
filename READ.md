@@ -1843,3 +1843,5 @@ BingWallPaper-2025-12-23-冬雪中的驯鹿，拉普兰德，芬兰-4K.jpg&&http
 BingWallPaper-2025-12-24-Reindeer during winter snowfall, Lapland, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg
 BingWallPaper-2025-12-24-巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg
 BingWallPaper-2025-12-25-Snowy chapel with Christmas tree in the Bavarian Alps, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg
+BingWallPaper-2025-12-25-海德堡圣诞市场上的雪球，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg
+BingWallPaper-2025-12-26-Snow globes at a Christmas market in Heidelberg, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg
