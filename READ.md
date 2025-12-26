@@ -1845,3 +1845,5 @@ BingWallPaper-2025-12-24-巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞�
 BingWallPaper-2025-12-25-Snowy chapel with Christmas tree in the Bavarian Alps, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg
 BingWallPaper-2025-12-25-海德堡圣诞市场上的雪球，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg
 BingWallPaper-2025-12-26-Snow globes at a Christmas market in Heidelberg, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg
+BingWallPaper-2025-12-26-索尔兹伯里大教堂，威尔特郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg
+BingWallPaper-2025-12-27-Salisbury Cathedral, Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg
