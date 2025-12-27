@@ -1847,3 +1847,5 @@ BingWallPaper-2025-12-25-海德堡圣诞市场上的雪球，德国-4K.jpg&&http
 BingWallPaper-2025-12-26-Snow globes at a Christmas market in Heidelberg, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg
 BingWallPaper-2025-12-26-索尔兹伯里大教堂，威尔特郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg
 BingWallPaper-2025-12-27-Salisbury Cathedral, Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg
+BingWallPaper-2025-12-27-苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg
+BingWallPaper-2025-12-28-Plate ice along Lake Superior, Grand Marais, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg
