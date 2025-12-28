@@ -1849,3 +1849,5 @@ BingWallPaper-2025-12-26-索尔兹伯里大教堂，威尔特郡，英格兰-4K.
 BingWallPaper-2025-12-27-Salisbury Cathedral, Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg
 BingWallPaper-2025-12-27-苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg
 BingWallPaper-2025-12-28-Plate ice along Lake Superior, Grand Marais, Minnesota-4K.jpg&&https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg
+BingWallPaper-2025-12-28-马达加斯加的黑白环尾狐猴-4K.jpg&&https://cn.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg
+BingWallPaper-2025-12-29-Black-and-white ruffed lemur in Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg
