@@ -1853,3 +1853,5 @@ BingWallPaper-2025-12-28-马达加斯加的黑白环尾狐猴-4K.jpg&&https://cn
 BingWallPaper-2025-12-29-Black-and-white ruffed lemur in Madagascar-4K.jpg&&https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg
 BingWallPaper-2025-12-29-阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其-4K.jpg&&https://cn.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg
 BingWallPaper-2025-12-30-St. Gregory Church in Ani Ruins, Kars, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg
+BingWallPaper-2025-12-30-晨光透过结霜的树木洒下，瑞典-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg
+BingWallPaper-2025-12-31-Whooper swans, Kotoku Pond, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg
