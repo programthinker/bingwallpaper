@@ -1855,3 +1855,5 @@ BingWallPaper-2025-12-29-阿尼遗址的圣格雷戈里教堂，卡尔斯省，�
 BingWallPaper-2025-12-30-St. Gregory Church in Ani Ruins, Kars, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg
 BingWallPaper-2025-12-30-晨光透过结霜的树木洒下，瑞典-4K.jpg&&https://cn.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg
 BingWallPaper-2025-12-31-Whooper swans, Kotoku Pond, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg
+BingWallPaper-2025-12-31-除夕夜，奥伯鲍姆桥，柏林，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg
+BingWallPaper-2026-01-01-New Year's Eve, Oberbaum Bridge, Berlin, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg
