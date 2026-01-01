@@ -1857,3 +1857,5 @@ BingWallPaper-2025-12-30-晨光透过结霜的树木洒下，瑞典-4K.jpg&&http
 BingWallPaper-2025-12-31-Whooper swans, Kotoku Pond, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.JapanSwans_EN-US6228421340_UHD.jpg
 BingWallPaper-2025-12-31-除夕夜，奥伯鲍姆桥，柏林，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg
 BingWallPaper-2026-01-01-New Year's Eve, Oberbaum Bridge, Berlin, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg
+BingWallPaper-2026-01-01-正在睡觉的北极狐-4K.jpg&&https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg
+BingWallPaper-2026-01-02-Arctic fox sleeping-4K.jpg&&https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg
