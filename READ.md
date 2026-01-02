@@ -1859,3 +1859,5 @@ BingWallPaper-2025-12-31-除夕夜，奥伯鲍姆桥，柏林，德国-4K.jpg&&h
 BingWallPaper-2026-01-01-New Year's Eve, Oberbaum Bridge, Berlin, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.GermanyNewYear_EN-US6344260060_UHD.jpg
 BingWallPaper-2026-01-01-正在睡觉的北极狐-4K.jpg&&https://cn.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg
 BingWallPaper-2026-01-02-Arctic fox sleeping-4K.jpg&&https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg
+BingWallPaper-2026-01-02-威尼斯鸟瞰图, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg
+BingWallPaper-2026-01-03-Aerial view of Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg
