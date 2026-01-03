@@ -1861,3 +1861,5 @@ BingWallPaper-2026-01-01-正在睡觉的北极狐-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2026-01-02-Arctic fox sleeping-4K.jpg&&https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg
 BingWallPaper-2026-01-02-威尼斯鸟瞰图, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg
 BingWallPaper-2026-01-03-Aerial view of Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg
+BingWallPaper-2026-01-03-劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg
+BingWallPaper-2026-01-04-Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg
