@@ -1863,3 +1863,5 @@ BingWallPaper-2026-01-02-威尼斯鸟瞰图, 意大利-4K.jpg&&https://cn.bing.c
 BingWallPaper-2026-01-03-Aerial view of Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg
 BingWallPaper-2026-01-03-劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg
 BingWallPaper-2026-01-04-Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg
+BingWallPaper-2026-01-04-国王山, 楚加奇山脉, 阿拉斯加, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_UHD.jpg
+BingWallPaper-2026-01-05-Kings Mountain, Chugach Mountains, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg
