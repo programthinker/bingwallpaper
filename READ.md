@@ -1867,3 +1867,5 @@ BingWallPaper-2026-01-04-国王山, 楚加奇山脉, 阿拉斯加, 美国-4K.jpg
 BingWallPaper-2026-01-05-Kings Mountain, Chugach Mountains, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg
 BingWallPaper-2026-01-05-一群高角羚, 隆多洛齐野生动物保护区, 南非-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg
 BingWallPaper-2026-01-06-A herd of impalas, Londolozi Game Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg
+BingWallPaper-2026-01-07-拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg
+BingWallPaper-2026-01-08-Turret Arch framed by North Window in Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg
