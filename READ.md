@@ -1869,3 +1869,5 @@ BingWallPaper-2026-01-05-一群高角羚, 隆多洛齐野生动物保护区, 南
 BingWallPaper-2026-01-06-A herd of impalas, Londolozi Game Reserve, South Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg
 BingWallPaper-2026-01-07-拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg
 BingWallPaper-2026-01-08-Turret Arch framed by North Window in Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg
+BingWallPaper-2026-01-08-椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg
+BingWallPaper-2026-01-09-Starling murmuration over the ruins of Brighton's West Pier, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg
