@@ -1871,3 +1871,5 @@ BingWallPaper-2026-01-07-拱门国家公园的北窗框景中的炮塔拱门, �
 BingWallPaper-2026-01-08-Turret Arch framed by North Window in Arches National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.OldRockArch_EN-US2422589534_UHD.jpg
 BingWallPaper-2026-01-08-椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg
 BingWallPaper-2026-01-09-Starling murmuration over the ruins of Brighton's West Pier, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg
+BingWallPaper-2026-01-09-缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg
+BingWallPaper-2026-01-10-Giant redwood trees in Muir Woods National Monument, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg
