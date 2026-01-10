@@ -1873,3 +1873,5 @@ BingWallPaper-2026-01-08-椋鸟群在布莱顿西码头废墟上空盘旋, 英�
 BingWallPaper-2026-01-09-Starling murmuration over the ruins of Brighton's West Pier, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg
 BingWallPaper-2026-01-09-缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg
 BingWallPaper-2026-01-10-Giant redwood trees in Muir Woods National Monument, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MuirWoodsMonument_EN-US9831416144_UHD.jpg
+BingWallPaper-2026-01-10-日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg
+BingWallPaper-2026-01-11-The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg
