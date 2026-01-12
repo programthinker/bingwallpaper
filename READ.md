@@ -1877,3 +1877,5 @@ BingWallPaper-2026-01-10-日出时分，马特洪峰的倒影映照在斯特利�
 BingWallPaper-2026-01-11-The Matterhorn reflected in Lake Stellisee at sunrise, Zermatt, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg
 BingWallPaper-2026-01-11-舍夫沙万的蓝色墙壁, 摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg
 BingWallPaper-2026-01-12-Blue walls of Chefchaouen, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg
+BingWallPaper-2026-01-12-欧亚水獭和幼崽, 爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg
+BingWallPaper-2026-01-13-Eurasian otter and pup, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg
