@@ -1879,3 +1879,5 @@ BingWallPaper-2026-01-11-舍夫沙万的蓝色墙壁, 摩洛哥-4K.jpg&&https://
 BingWallPaper-2026-01-12-Blue walls of Chefchaouen, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg
 BingWallPaper-2026-01-12-欧亚水獭和幼崽, 爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg
 BingWallPaper-2026-01-13-Eurasian otter and pup, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg
+BingWallPaper-2026-01-13-克卢伊德谷, 威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg
+BingWallPaper-2026-01-14-Vale of Clwyd, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg
