@@ -1881,3 +1881,5 @@ BingWallPaper-2026-01-12-欧亚水獭和幼崽, 爱沙尼亚-4K.jpg&&https://cn.
 BingWallPaper-2026-01-13-Eurasian otter and pup, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg
 BingWallPaper-2026-01-13-克卢伊德谷, 威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg
 BingWallPaper-2026-01-14-Vale of Clwyd, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg
+BingWallPaper-2026-01-14-帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg
+BingWallPaper-2026-01-15-The staircase of the Fortress of Palamidi, Nafplio, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg
