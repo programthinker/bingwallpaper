@@ -1885,3 +1885,5 @@ BingWallPaper-2026-01-14-帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊-4K
 BingWallPaper-2026-01-15-The staircase of the Fortress of Palamidi, Nafplio, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg
 BingWallPaper-2026-01-15-雷讷渔村, 挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg
 BingWallPaper-2026-01-16-The fishing village of Reine, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg
+BingWallPaper-2026-01-16-埃托沙国家公园的豹子，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg
+BingWallPaper-2026-01-17-Leopard at Etosha National Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg
