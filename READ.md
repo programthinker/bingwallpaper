@@ -1887,3 +1887,5 @@ BingWallPaper-2026-01-15-雷讷渔村, 挪威-4K.jpg&&https://cn.bing.com/th?id=
 BingWallPaper-2026-01-16-The fishing village of Reine, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg
 BingWallPaper-2026-01-16-埃托沙国家公园的豹子，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg
 BingWallPaper-2026-01-17-Leopard at Etosha National Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg
+BingWallPaper-2026-01-17-保罗圣方济圣殿，那不勒斯，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg
+BingWallPaper-2026-01-18-Basilica of San Francesco di Paola, Naples, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg
