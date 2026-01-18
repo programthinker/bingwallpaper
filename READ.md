@@ -1889,3 +1889,5 @@ BingWallPaper-2026-01-16-埃托沙国家公园的豹子，纳米比亚-4K.jpg&&h
 BingWallPaper-2026-01-17-Leopard at Etosha National Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg
 BingWallPaper-2026-01-17-保罗圣方济圣殿，那不勒斯，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg
 BingWallPaper-2026-01-18-Basilica of San Francesco di Paola, Naples, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg
+BingWallPaper-2026-01-18-白沙国家公园，新墨西哥州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg
+BingWallPaper-2026-01-19-White Sands National Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg
