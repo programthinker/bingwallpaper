@@ -1891,3 +1891,5 @@ BingWallPaper-2026-01-17-保罗圣方济圣殿，那不勒斯，意大利-4K.jpg
 BingWallPaper-2026-01-18-Basilica of San Francesco di Paola, Naples, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.NaplesBasilica_EN-US0483177548_UHD.jpg
 BingWallPaper-2026-01-18-白沙国家公园，新墨西哥州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg
 BingWallPaper-2026-01-19-White Sands National Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg
+BingWallPaper-2026-01-19-亚伯拉罕湖冰封景象，艾伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg
+BingWallPaper-2026-01-20-Washington Monument seen from Lincoln Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg
