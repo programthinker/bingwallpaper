@@ -1893,3 +1893,5 @@ BingWallPaper-2026-01-18-白沙国家公园，新墨西哥州，美国-4K.jpg&&h
 BingWallPaper-2026-01-19-White Sands National Park, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteSandsNM_EN-US0565482616_UHD.jpg
 BingWallPaper-2026-01-19-亚伯拉罕湖冰封景象，艾伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg
 BingWallPaper-2026-01-20-Washington Monument seen from Lincoln Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg
+BingWallPaper-2026-01-20-栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省-4K.jpg&&https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg
+BingWallPaper-2026-01-21-Gentoo penguin, Petermann Island, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg
