@@ -1897,3 +1897,5 @@ BingWallPaper-2026-01-20-栖息在树枝上的北长尾山雀，大庆市，中�
 BingWallPaper-2026-01-21-Gentoo penguin, Petermann Island, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg
 BingWallPaper-2026-01-21-欧亚红松鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg
 BingWallPaper-2026-01-22-Eurasian red squirrel-4K.jpg&&https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg
+BingWallPaper-2026-01-22-卡罗维瓦利，波西米亚，捷克共和国-4K.jpg&&https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg
+BingWallPaper-2026-01-23-Karlovy Vary, Bohemia, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg
