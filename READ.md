@@ -1899,3 +1899,5 @@ BingWallPaper-2026-01-21-欧亚红松鼠-4K.jpg&&https://cn.bing.com/th?id=OHR.B
 BingWallPaper-2026-01-22-Eurasian red squirrel-4K.jpg&&https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg
 BingWallPaper-2026-01-22-卡罗维瓦利，波西米亚，捷克共和国-4K.jpg&&https://cn.bing.com/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg
 BingWallPaper-2026-01-23-Karlovy Vary, Bohemia, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg
+BingWallPaper-2026-01-23-绵羊在雪地里吃草，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg
+BingWallPaper-2026-01-24-Sheep grazing in snow, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg
