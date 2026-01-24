@@ -1901,3 +1901,5 @@ BingWallPaper-2026-01-22-卡罗维瓦利，波西米亚，捷克共和国-4K.jpg
 BingWallPaper-2026-01-23-Karlovy Vary, Bohemia, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg
 BingWallPaper-2026-01-23-绵羊在雪地里吃草，冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_UHD.jpg
 BingWallPaper-2026-01-24-Sheep grazing in snow, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg
+BingWallPaper-2026-01-24-阿尔卑斯山脉的安德马特小镇，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg
+BingWallPaper-2026-01-25-Andermatt village in the Alps, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg
