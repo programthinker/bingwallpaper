@@ -1907,3 +1907,5 @@ BingWallPaper-2026-01-25-伯恩斯国家遗产公园，艾尔，南艾尔郡，�
 BingWallPaper-2026-01-26-Burns National Heritage Park, Ayr, Ayrshire, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg
 BingWallPaper-2026-01-26-新天鹅堡，巴伐利亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg
 BingWallPaper-2026-01-27-Neuschwanstein Castle, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg
+BingWallPaper-2026-01-27-卷羽鹈鹕，凯尔基尼湖，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg
+BingWallPaper-2026-01-28-Dalmatian pelicans, Lake Kerkini, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg
