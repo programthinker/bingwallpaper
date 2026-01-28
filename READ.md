@@ -1909,3 +1909,5 @@ BingWallPaper-2026-01-26-新天鹅堡，巴伐利亚州，德国-4K.jpg&&https:/
 BingWallPaper-2026-01-27-Neuschwanstein Castle, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg
 BingWallPaper-2026-01-27-卷羽鹈鹕，凯尔基尼湖，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg
 BingWallPaper-2026-01-28-Dalmatian pelicans, Lake Kerkini, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg
+BingWallPaper-2026-01-28-旺格努伊国家公园，雷塔鲁克，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg
+BingWallPaper-2026-01-29-Whanganui National Park, Retaruke, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg
