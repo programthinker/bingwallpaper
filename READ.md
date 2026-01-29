@@ -1911,3 +1911,5 @@ BingWallPaper-2026-01-27-卷羽鹈鹕，凯尔基尼湖，希腊-4K.jpg&&https:/
 BingWallPaper-2026-01-28-Dalmatian pelicans, Lake Kerkini, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.DalmationPelicans_EN-US9458474756_UHD.jpg
 BingWallPaper-2026-01-28-旺格努伊国家公园，雷塔鲁克，新西兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg
 BingWallPaper-2026-01-29-Whanganui National Park, Retaruke, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg
+BingWallPaper-2026-01-29-密尔沃基市政厅的八层开放式中庭，威斯康星州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg
+BingWallPaper-2026-01-30-The eight-story open atrium of Milwaukee City Hall, Wisconsin-4K.jpg&&https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg
