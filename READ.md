@@ -1913,3 +1913,5 @@ BingWallPaper-2026-01-28-旺格努伊国家公园，雷塔鲁克，新西兰-4K.
 BingWallPaper-2026-01-29-Whanganui National Park, Retaruke, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg
 BingWallPaper-2026-01-29-密尔沃基市政厅的八层开放式中庭，威斯康星州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg
 BingWallPaper-2026-01-30-The eight-story open atrium of Milwaukee City Hall, Wisconsin-4K.jpg&&https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg
+BingWallPaper-2026-01-30-马拉齐翁的圣迈克尔山, 康沃尔郡, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StMichaelsCornwall_ZH-CN5878042411_UHD.jpg
+BingWallPaper-2026-01-31-St. Michael's Mount in Marazion, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg
