@@ -1917,3 +1917,5 @@ BingWallPaper-2026-01-30-马拉齐翁的圣迈克尔山, 康沃尔郡, 英格兰
 BingWallPaper-2026-01-31-St. Michael's Mount in Marazion, Cornwall, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg
 BingWallPaper-2026-01-31-平原斑马, 埃托沙国家公园, 纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaZebra_ZH-CN6068087794_UHD.jpg
 BingWallPaper-2026-02-01-Plains zebras, Etosha National Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg
+BingWallPaper-2026-02-01-奥林达的彩色房子, 巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg
+BingWallPaper-2026-02-02-US Army nurses arrive in Greenock, Scotland, 1944-4K.jpg&&https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg
