@@ -1919,3 +1919,5 @@ BingWallPaper-2026-01-31-平原斑马, 埃托沙国家公园, 纳米比亚-4K.jp
 BingWallPaper-2026-02-01-Plains zebras, Etosha National Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg
 BingWallPaper-2026-02-01-奥林达的彩色房子, 巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg
 BingWallPaper-2026-02-02-US Army nurses arrive in Greenock, Scotland, 1944-4K.jpg&&https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg
+BingWallPaper-2026-02-02-阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg
+BingWallPaper-2026-02-03-Alpine marmots, Hohe Tauern National Park, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg
