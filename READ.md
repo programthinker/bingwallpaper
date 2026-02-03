@@ -1921,3 +1921,5 @@ BingWallPaper-2026-02-01-奥林达的彩色房子, 巴西-4K.jpg&&https://cn.bin
 BingWallPaper-2026-02-02-US Army nurses arrive in Greenock, Scotland, 1944-4K.jpg&&https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg
 BingWallPaper-2026-02-02-阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmots_ZH-CN6323637910_UHD.jpg
 BingWallPaper-2026-02-03-Alpine marmots, Hohe Tauern National Park, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg
+BingWallPaper-2026-02-03-翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg
+BingWallPaper-2026-02-04-Emerald Bay and Fannette Island, Lake Tahoe, California-4K.jpg&&https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg
