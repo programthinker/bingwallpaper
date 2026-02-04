@@ -1923,3 +1923,5 @@ BingWallPaper-2026-02-02-阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥
 BingWallPaper-2026-02-03-Alpine marmots, Hohe Tauern National Park, Austria-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg
 BingWallPaper-2026-02-03-翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_UHD.jpg
 BingWallPaper-2026-02-04-Emerald Bay and Fannette Island, Lake Tahoe, California-4K.jpg&&https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg
+BingWallPaper-2026-02-04-雪中​​的红鸢-4K.jpg&&https://cn.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg
+BingWallPaper-2026-02-05-Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver-4K.jpg&&https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg
