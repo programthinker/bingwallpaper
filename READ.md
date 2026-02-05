@@ -1925,3 +1925,5 @@ BingWallPaper-2026-02-03-翡翠湾和范内特岛, 太浩湖, 加利福尼亚州
 BingWallPaper-2026-02-04-Emerald Bay and Fannette Island, Lake Tahoe, California-4K.jpg&&https://cn.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg
 BingWallPaper-2026-02-04-雪中​​的红鸢-4K.jpg&&https://cn.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg
 BingWallPaper-2026-02-05-Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver-4K.jpg&&https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg
+BingWallPaper-2026-02-05-戈佐岛上的盐田, 马耳他-4K.jpg&&https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg
+BingWallPaper-2026-02-06-Salt evaporation ponds on the island of Gozo, Malta-4K.jpg&&https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg
