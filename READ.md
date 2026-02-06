@@ -1927,3 +1927,5 @@ BingWallPaper-2026-02-04-雪中​​的红鸢-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2026-02-05-Rosa Parks in stained glass window, Shorter Community African Methodist Episcopal Church, Denver-4K.jpg&&https://cn.bing.com/th?id=OHR.ParksGlass_EN-US0280057691_UHD.jpg
 BingWallPaper-2026-02-05-戈佐岛上的盐田, 马耳他-4K.jpg&&https://cn.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg
 BingWallPaper-2026-02-06-Salt evaporation ponds on the island of Gozo, Malta-4K.jpg&&https://cn.bing.com/th?id=OHR.MaltaSalt_EN-US0310458987_UHD.jpg
+BingWallPaper-2026-02-06-贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg
+BingWallPaper-2026-02-07-Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg
