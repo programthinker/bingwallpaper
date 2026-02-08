@@ -1931,3 +1931,5 @@ BingWallPaper-2026-02-06-贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩�
 BingWallPaper-2026-02-07-Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg
 BingWallPaper-2026-02-07-玻利维亚乌尤尼盐湖-4K.jpg&&https://cn.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg
 BingWallPaper-2026-02-08-Salar de Uyuni salt flats in Bolivia-4K.jpg&&https://cn.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg
+BingWallPaper-2026-02-08-科孚岛的夜晚, 希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg
+BingWallPaper-2026-02-09-Corfu at night, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg
