@@ -1933,3 +1933,5 @@ BingWallPaper-2026-02-07-玻利维亚乌尤尼盐湖-4K.jpg&&https://cn.bing.com
 BingWallPaper-2026-02-08-Salar de Uyuni salt flats in Bolivia-4K.jpg&&https://cn.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg
 BingWallPaper-2026-02-08-科孚岛的夜晚, 希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg
 BingWallPaper-2026-02-09-Corfu at night, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg
+BingWallPaper-2026-02-09-阿穆尔豹猫，俄罗斯-4K.jpg&&https://cn.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg
+BingWallPaper-2026-02-10-Amur leopard cat, Russia-4K.jpg&&https://cn.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg
