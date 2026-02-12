@@ -1939,3 +1939,5 @@ BingWallPaper-2026-02-10-埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维�
 BingWallPaper-2026-02-11-Islets of Es Vedrà and Es Vedranell, Ibiza, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg
 BingWallPaper-2026-02-11-死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg
 BingWallPaper-2026-02-12-Salt flats in Badwater Basin, Death Valley National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg
+BingWallPaper-2026-02-12-蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_UHD.jpg
+BingWallPaper-2026-02-13-Blue-footed booby, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg
