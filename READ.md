@@ -1941,3 +1941,5 @@ BingWallPaper-2026-02-11-死亡谷国家公园恶水盆地的盐滩, 加利福�
 BingWallPaper-2026-02-12-Salt flats in Badwater Basin, Death Valley National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg
 BingWallPaper-2026-02-12-蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_UHD.jpg
 BingWallPaper-2026-02-13-Blue-footed booby, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg
+BingWallPaper-2026-02-13-连接老挝和泰国的第三座泰老友谊大桥-4K.jpg&&https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg
+BingWallPaper-2026-02-14-Third Thai-Lao Friendship Bridge connecting Laos and Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg
