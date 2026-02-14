@@ -1943,3 +1943,5 @@ BingWallPaper-2026-02-12-蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔-4K.j
 BingWallPaper-2026-02-13-Blue-footed booby, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.DarwinBooby_EN-US4839738451_UHD.jpg
 BingWallPaper-2026-02-13-连接老挝和泰国的第三座泰老友谊大桥-4K.jpg&&https://cn.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg
 BingWallPaper-2026-02-14-Third Thai-Lao Friendship Bridge connecting Laos and Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg
+BingWallPaper-2026-02-14-荷包牡丹-4K.jpg&&https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg
+BingWallPaper-2026-02-15-Bleeding hearts-4K.jpg&&https://cn.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg
