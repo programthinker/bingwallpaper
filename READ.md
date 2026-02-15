@@ -1945,3 +1945,5 @@ BingWallPaper-2026-02-13-连接老挝和泰国的第三座泰老友谊大桥-4K.
 BingWallPaper-2026-02-14-Third Thai-Lao Friendship Bridge connecting Laos and Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.FriendshipBridge_EN-US6136231298_UHD.jpg
 BingWallPaper-2026-02-14-荷包牡丹-4K.jpg&&https://cn.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg
 BingWallPaper-2026-02-15-Bleeding hearts-4K.jpg&&https://cn.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg
+BingWallPaper-2026-02-15-蒙特雷湾的大翅鲸-4K.jpg&&https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg
+BingWallPaper-2026-02-16-Humpback whales in Monterey Bay, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg
