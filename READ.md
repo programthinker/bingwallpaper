@@ -1947,3 +1947,5 @@ BingWallPaper-2026-02-14-荷包牡丹-4K.jpg&&https://cn.bing.com/th?id=OHR.Vale
 BingWallPaper-2026-02-15-Bleeding hearts-4K.jpg&&https://cn.bing.com/th?id=OHR.ValentineHearts_EN-US6208359150_UHD.jpg
 BingWallPaper-2026-02-15-蒙特雷湾的大翅鲸-4K.jpg&&https://cn.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_UHD.jpg
 BingWallPaper-2026-02-16-Humpback whales in Monterey Bay, California-4K.jpg&&https://cn.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg
+BingWallPaper-2026-02-16-庆祝春节的龙形灯笼，中国西安-4K.jpg&&https://cn.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg
+BingWallPaper-2026-02-17-Lincoln Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg
