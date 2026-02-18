@@ -1951,3 +1951,5 @@ BingWallPaper-2026-02-16-庆祝春节的龙形灯笼，中国西安-4K.jpg&&http
 BingWallPaper-2026-02-17-Lincoln Memorial, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg
 BingWallPaper-2026-02-17-中国春节传统汉字“福”-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg
 BingWallPaper-2026-02-18-Red lanterns celebrating Chinese New Year-4K.jpg&&https://cn.bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg
+BingWallPaper-2026-02-18-普氏野马-4K.jpg&&https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg
+BingWallPaper-2026-02-19-Przewalski's horses-4K.jpg&&https://cn.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg
