@@ -1953,3 +1953,5 @@ BingWallPaper-2026-02-17-中国春节传统汉字“福”-4K.jpg&&https://cn.bi
 BingWallPaper-2026-02-18-Red lanterns celebrating Chinese New Year-4K.jpg&&https://cn.bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg
 BingWallPaper-2026-02-18-普氏野马-4K.jpg&&https://cn.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg
 BingWallPaper-2026-02-19-Przewalski's horses-4K.jpg&&https://cn.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg
+BingWallPaper-2026-02-19-乌塔克莱夫海滩的“龙之眼”岩层，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg
+BingWallPaper-2026-02-20-The Dragon's Eye rock formation at Uttakleiv Beach, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg
