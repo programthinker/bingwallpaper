@@ -1955,3 +1955,5 @@ BingWallPaper-2026-02-18-普氏野马-4K.jpg&&https://cn.bing.com/th?id=OHR.Prze
 BingWallPaper-2026-02-19-Przewalski's horses-4K.jpg&&https://cn.bing.com/th?id=OHR.PrzewalskisHorse_EN-US6767229079_UHD.jpg
 BingWallPaper-2026-02-19-乌塔克莱夫海滩的“龙之眼”岩层，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg
 BingWallPaper-2026-02-20-The Dragon's Eye rock formation at Uttakleiv Beach, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonsEyeRock_EN-US6826796617_UHD.jpg
+BingWallPaper-2026-02-20-约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_UHD.jpg
+BingWallPaper-2026-02-21-Horsetail Fall in Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg
