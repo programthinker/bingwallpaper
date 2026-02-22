@@ -1959,3 +1959,5 @@ BingWallPaper-2026-02-20-约塞米蒂国家公园里的火瀑布，加利福尼�
 BingWallPaper-2026-02-21-Horsetail Fall in Yosemite National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AdamsFirefall_EN-US2580399078_UHD.jpg
 BingWallPaper-2026-02-21-一只红狐狸站在雪地里，大提顿国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonFox_ZH-CN9461948674_UHD.jpg
 BingWallPaper-2026-02-22-Red fox standing in snowfall, Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg
+BingWallPaper-2026-02-22-马姆托尔山，德比郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg
+BingWallPaper-2026-02-23-The hill of Mam Tor, Derbyshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg
