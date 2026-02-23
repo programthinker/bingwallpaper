@@ -1961,3 +1961,5 @@ BingWallPaper-2026-02-21-一只红狐狸站在雪地里，大提顿国家公园�
 BingWallPaper-2026-02-22-Red fox standing in snowfall, Grand Teton National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg
 BingWallPaper-2026-02-22-马姆托尔山，德比郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_UHD.jpg
 BingWallPaper-2026-02-23-The hill of Mam Tor, Derbyshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg
+BingWallPaper-2026-02-23-大白鹭，上巴伐利亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg
+BingWallPaper-2026-02-24-Great white egret, Upper Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg
