@@ -1963,3 +1963,5 @@ BingWallPaper-2026-02-22-马姆托尔山，德比郡，英格兰-4K.jpg&&https:/
 BingWallPaper-2026-02-23-The hill of Mam Tor, Derbyshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg
 BingWallPaper-2026-02-23-大白鹭，上巴伐利亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg
 BingWallPaper-2026-02-24-Great white egret, Upper Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg
+BingWallPaper-2026-02-24-大天坑里的睡莲，图卢姆，墨西哥-4K.jpg&&https://cn.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg
+BingWallPaper-2026-02-25-Water lilies at Grand Cenote, Tulum, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg
