@@ -1967,3 +1967,5 @@ BingWallPaper-2026-02-24-大天坑里的睡莲，图卢姆，墨西哥-4K.jpg&&h
 BingWallPaper-2026-02-25-Water lilies at Grand Cenote, Tulum, Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg
 BingWallPaper-2026-02-25-门登霍尔冰川的冰洞，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_UHD.jpg
 BingWallPaper-2026-02-26-Ice cave in the Mendenhall Glacier, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg
+BingWallPaper-2026-02-26-大峡谷和科罗拉多河，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg
+BingWallPaper-2026-02-27-Grand Canyon and the Colorado River, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg
