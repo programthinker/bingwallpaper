@@ -1969,3 +1969,5 @@ BingWallPaper-2026-02-25-门登霍尔冰川的冰洞，阿拉斯加州，美国-
 BingWallPaper-2026-02-26-Ice cave in the Mendenhall Glacier, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg
 BingWallPaper-2026-02-26-大峡谷和科罗拉多河，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg
 BingWallPaper-2026-02-27-Grand Canyon and the Colorado River, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg
+BingWallPaper-2026-02-27-北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg
+BingWallPaper-2026-02-28-Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg
