@@ -1971,3 +1971,5 @@ BingWallPaper-2026-02-26-大峡谷和科罗拉多河，亚利桑那州，美国-
 BingWallPaper-2026-02-27-Grand Canyon and the Colorado River, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg
 BingWallPaper-2026-02-27-北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg
 BingWallPaper-2026-02-28-Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg
+BingWallPaper-2026-02-28-奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg
+BingWallPaper-2026-03-01-Olo'upena Falls, island of Moloka'i, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg
