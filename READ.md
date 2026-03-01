@@ -1973,3 +1973,5 @@ BingWallPaper-2026-02-27-北极熊幼崽走过浮冰, 北极国家野生动物�
 BingWallPaper-2026-02-28-Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg
 BingWallPaper-2026-02-28-奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg
 BingWallPaper-2026-03-01-Olo'upena Falls, island of Moloka'i, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg
+BingWallPaper-2026-03-01-伊维萨岛, 巴利阿里群岛, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg
+BingWallPaper-2026-03-02-Suffragette celebrations, August 27, 1920, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg
