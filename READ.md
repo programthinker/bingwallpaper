@@ -1975,3 +1975,5 @@ BingWallPaper-2026-02-28-奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国-
 BingWallPaper-2026-03-01-Olo'upena Falls, island of Moloka'i, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg
 BingWallPaper-2026-03-01-伊维萨岛, 巴利阿里群岛, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg
 BingWallPaper-2026-03-02-Suffragette celebrations, August 27, 1920, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg
+BingWallPaper-2026-03-02-苏梅岛的港口和长尾船, 泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg
+BingWallPaper-2026-03-03-Harbor and longtail boats at Ko Samui, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg
