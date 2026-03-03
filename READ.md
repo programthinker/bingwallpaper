@@ -1977,3 +1977,5 @@ BingWallPaper-2026-03-01-伊维萨岛, 巴利阿里群岛, 西班牙-4K.jpg&&htt
 BingWallPaper-2026-03-02-Suffragette celebrations, August 27, 1920, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg
 BingWallPaper-2026-03-02-苏梅岛的港口和长尾船, 泰国-4K.jpg&&https://cn.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg
 BingWallPaper-2026-03-03-Harbor and longtail boats at Ko Samui, Thailand-4K.jpg&&https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg
+BingWallPaper-2026-03-03-元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg
+BingWallPaper-2026-03-04-African elephant calf playing with its mother, Masai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg
