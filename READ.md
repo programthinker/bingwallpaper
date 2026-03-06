@@ -1983,3 +1983,5 @@ BingWallPaper-2026-03-04-紫番红花, 里拉七湖, 保加利亚-4K.jpg&&https:
 BingWallPaper-2026-03-05-Purple crocus flowers, Seven Rila Lakes, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg
 BingWallPaper-2026-03-05-格雷梅的傍晚, 卡帕多西亚, 土耳其-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg
 BingWallPaper-2026-03-06-Evening over Göreme, Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg
+BingWallPaper-2026-03-06-波浪住宅楼, 瓦埃勒, 丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg
+BingWallPaper-2026-03-07-The Wave residential building, Vejle, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg
