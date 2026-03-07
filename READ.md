@@ -1985,3 +1985,5 @@ BingWallPaper-2026-03-05-格雷梅的傍晚, 卡帕多西亚, 土耳其-4K.jpg&&
 BingWallPaper-2026-03-06-Evening over Göreme, Cappadocia, Türkiye-4K.jpg&&https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg
 BingWallPaper-2026-03-06-波浪住宅楼, 瓦埃勒, 丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg
 BingWallPaper-2026-03-07-The Wave residential building, Vejle, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg
+BingWallPaper-2026-03-07-布罗肯峰的日出, 哈尔茨国家公园, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg
+BingWallPaper-2026-03-08-Sunrise on the Brocken, Harz National Park, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg
