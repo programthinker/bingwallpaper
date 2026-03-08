@@ -1987,3 +1987,5 @@ BingWallPaper-2026-03-06-波浪住宅楼, 瓦埃勒, 丹麦-4K.jpg&&https://cn.b
 BingWallPaper-2026-03-07-The Wave residential building, Vejle, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg
 BingWallPaper-2026-03-07-布罗肯峰的日出, 哈尔茨国家公园, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg
 BingWallPaper-2026-03-08-Sunrise on the Brocken, Harz National Park, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg
+BingWallPaper-2026-03-08-乌尔姆市政厅的天文钟, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg
+BingWallPaper-2026-03-09-Astronomical clock at Town Hall of the City of Ulm, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg
