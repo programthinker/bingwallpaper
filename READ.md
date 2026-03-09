@@ -1989,3 +1989,5 @@ BingWallPaper-2026-03-07-布罗肯峰的日出, 哈尔茨国家公园, 德国-4K
 BingWallPaper-2026-03-08-Sunrise on the Brocken, Harz National Park, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg
 BingWallPaper-2026-03-08-乌尔姆市政厅的天文钟, 德国-4K.jpg&&https://cn.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg
 BingWallPaper-2026-03-09-Astronomical clock at Town Hall of the City of Ulm, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg
+BingWallPaper-2026-03-09-在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg
+BingWallPaper-2026-03-10-Gray seal sleeping on the beach, Orkney Islands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg
