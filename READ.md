@@ -1991,3 +1991,5 @@ BingWallPaper-2026-03-08-乌尔姆市政厅的天文钟, 德国-4K.jpg&&https://
 BingWallPaper-2026-03-09-Astronomical clock at Town Hall of the City of Ulm, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg
 BingWallPaper-2026-03-09-在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg
 BingWallPaper-2026-03-10-Gray seal sleeping on the beach, Orkney Islands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg
+BingWallPaper-2026-03-10-赫韦拉韦利尔的布拉赫维尔地热池, 冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg
+BingWallPaper-2026-03-11-Geothermal blue pool Bláhver at Hveravellir, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg
