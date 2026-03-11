@@ -1993,3 +1993,5 @@ BingWallPaper-2026-03-09-在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格
 BingWallPaper-2026-03-10-Gray seal sleeping on the beach, Orkney Islands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg
 BingWallPaper-2026-03-10-赫韦拉韦利尔的布拉赫维尔地热池, 冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg
 BingWallPaper-2026-03-11-Geothermal blue pool Bláhver at Hveravellir, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg
+BingWallPaper-2026-03-11-盛开的桃树, 谢萨, 穆尔西亚, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg
+BingWallPaper-2026-03-12-Peach trees in bloom, Cieza, Murcia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg
