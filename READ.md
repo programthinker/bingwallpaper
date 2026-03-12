@@ -1995,3 +1995,5 @@ BingWallPaper-2026-03-10-赫韦拉韦利尔的布拉赫维尔地热池, 冰岛-4
 BingWallPaper-2026-03-11-Geothermal blue pool Bláhver at Hveravellir, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg
 BingWallPaper-2026-03-11-盛开的桃树, 谢萨, 穆尔西亚, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg
 BingWallPaper-2026-03-12-Peach trees in bloom, Cieza, Murcia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg
+BingWallPaper-2026-03-12-幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg
+BingWallPaper-2026-03-13-Juvenile sunbittern displaying at nest, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg
