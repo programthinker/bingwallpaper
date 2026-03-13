@@ -1997,3 +1997,5 @@ BingWallPaper-2026-03-11-盛开的桃树, 谢萨, 穆尔西亚, 西班牙-4K.jpg
 BingWallPaper-2026-03-12-Peach trees in bloom, Cieza, Murcia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg
 BingWallPaper-2026-03-12-幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg
 BingWallPaper-2026-03-13-Juvenile sunbittern displaying at nest, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg
+BingWallPaper-2026-03-13-邦港圣母教堂拱顶，莱萨布勒多洛讷，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg
+BingWallPaper-2026-03-14-Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg
