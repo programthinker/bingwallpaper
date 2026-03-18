@@ -2007,3 +2007,5 @@ BingWallPaper-2026-03-16-正在吃竹子的大熊猫，中国-4K.jpg&&https://cn
 BingWallPaper-2026-03-17-Giant panda eating bamboo, China-4K.jpg&&https://cn.bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg
 BingWallPaper-2026-03-17-艾利赫格里安南环形堡，多内加尔，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg
 BingWallPaper-2026-03-18-Grianan of Aileach ring fort, Donegal, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg
+BingWallPaper-2026-03-18-汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg
+BingWallPaper-2026-03-19-Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg
