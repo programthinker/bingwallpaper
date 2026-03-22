@@ -2015,3 +2015,5 @@ BingWallPaper-2026-03-20-春日樱花，上海，中国-4K.jpg&&https://cn.bing.
 BingWallPaper-2026-03-21-Snowdrops in spring-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg
 BingWallPaper-2026-03-21-莱泰亚森林，多瑙河三角洲，罗马尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg
 BingWallPaper-2026-03-22-Letea Forest, Danube Delta, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg
+BingWallPaper-2026-03-22-坦噶尼喀湖，非洲-4K.jpg&&https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg
+BingWallPaper-2026-03-23-Lake Tanganyika, Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg
