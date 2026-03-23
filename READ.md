@@ -2017,3 +2017,5 @@ BingWallPaper-2026-03-21-莱泰亚森林，多瑙河三角洲，罗马尼亚-4K.
 BingWallPaper-2026-03-22-Letea Forest, Danube Delta, Romania-4K.jpg&&https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg
 BingWallPaper-2026-03-22-坦噶尼喀湖，非洲-4K.jpg&&https://cn.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg
 BingWallPaper-2026-03-23-Lake Tanganyika, Africa-4K.jpg&&https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg
+BingWallPaper-2026-03-23-坦噶尼喀湖，非洲-4K.jpg&&https://cn.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg
+BingWallPaper-2026-03-24-Lightning storm over saguaro cacti, Sonoran Desert, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg
