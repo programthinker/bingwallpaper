@@ -2023,3 +2023,5 @@ BingWallPaper-2026-03-24-东湖樱花园的樱花，武汉，中国-4K.jpg&&http
 BingWallPaper-2026-03-25-Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China-4K.jpg&&https://cn.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg
 BingWallPaper-2026-03-25-淡水泉中的幼年海牛，水晶河，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg
 BingWallPaper-2026-03-26-Juvenile manatees in a freshwater spring, Crystal River, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg
+BingWallPaper-2026-03-26-洛根溪吊桥，西海岸步道，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg
+BingWallPaper-2026-03-27-Logan Creek Suspension Bridge, West Coast Trail, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg
