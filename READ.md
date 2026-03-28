@@ -2027,3 +2027,5 @@ BingWallPaper-2026-03-26-洛根溪吊桥，西海岸步道，加拿大-4K.jpg&&h
 BingWallPaper-2026-03-27-Logan Creek Suspension Bridge, West Coast Trail, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg
 BingWallPaper-2026-03-27-纽约市的无线电城音乐厅, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg
 BingWallPaper-2026-03-28-Radio City Music Hall in New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg
+BingWallPaper-2026-03-28-非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg
+BingWallPaper-2026-03-29-African buffalo, Ngorongoro Crater, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg
