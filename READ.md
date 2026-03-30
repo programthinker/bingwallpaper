@@ -2031,3 +2031,5 @@ BingWallPaper-2026-03-28-非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚
 BingWallPaper-2026-03-29-African buffalo, Ngorongoro Crater, Tanzania-4K.jpg&&https://cn.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg
 BingWallPaper-2026-03-29-佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg
 BingWallPaper-2026-03-30-Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg
+BingWallPaper-2026-03-30-蓑羽鹤, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg
+BingWallPaper-2026-03-31-Demoiselle cranes, India-4K.jpg&&https://cn.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg
