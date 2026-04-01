@@ -2035,3 +2035,5 @@ BingWallPaper-2026-03-30-蓑羽鹤, 印度-4K.jpg&&https://cn.bing.com/th?id=OHR
 BingWallPaper-2026-03-31-Demoiselle cranes, India-4K.jpg&&https://cn.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg
 BingWallPaper-2026-03-31-天堂洞, 峰牙-格邦国家公园, 越南-4K.jpg&&https://cn.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg
 BingWallPaper-2026-04-01-Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg
+BingWallPaper-2026-04-01-粉色牵牛花里的日本树蛙-4K.jpg&&https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg
+BingWallPaper-2026-04-02-Japanese tree frog in a pink morning glory-4K.jpg&&https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg
