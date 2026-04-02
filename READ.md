@@ -2037,3 +2037,5 @@ BingWallPaper-2026-03-31-天堂洞, 峰牙-格邦国家公园, 越南-4K.jpg&&ht
 BingWallPaper-2026-04-01-Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg
 BingWallPaper-2026-04-01-粉色牵牛花里的日本树蛙-4K.jpg&&https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg
 BingWallPaper-2026-04-02-Japanese tree frog in a pink morning glory-4K.jpg&&https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg
+BingWallPaper-2026-04-02-野花绽放, 中央谷地, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg
+BingWallPaper-2026-04-03-Wildflower bloom, Central Valley, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg
