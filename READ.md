@@ -2039,3 +2039,5 @@ BingWallPaper-2026-04-01-粉色牵牛花里的日本树蛙-4K.jpg&&https://cn.bi
 BingWallPaper-2026-04-02-Japanese tree frog in a pink morning glory-4K.jpg&&https://cn.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg
 BingWallPaper-2026-04-02-野花绽放, 中央谷地, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg
 BingWallPaper-2026-04-03-Wildflower bloom, Central Valley, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg
+BingWallPaper-2026-04-04-求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg
+BingWallPaper-2026-04-05-Black grouse males facing off on a lekking site, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg
