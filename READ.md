@@ -2041,3 +2041,5 @@ BingWallPaper-2026-04-02-野花绽放, 中央谷地, 加利福尼亚州, 美国-
 BingWallPaper-2026-04-03-Wildflower bloom, Central Valley, California-4K.jpg&&https://cn.bing.com/th?id=OHR.WildflowerValley_EN-US6579657743_UHD.jpg
 BingWallPaper-2026-04-04-求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg
 BingWallPaper-2026-04-05-Black grouse males facing off on a lekking site, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg
+BingWallPaper-2026-04-05-春天的雪钟花-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg
+BingWallPaper-2026-04-06-Colorful handmade wooden Easter eggs, Vilnius, Lithuania-4K.jpg&&https://cn.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg
