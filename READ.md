@@ -2047,3 +2047,5 @@ BingWallPaper-2026-04-06-樱花盛开的弘前城，弘前，日本-4K.jpg&&http
 BingWallPaper-2026-04-07-Hirosaki Castle with cherry blossoms, Hirosaki, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg
 BingWallPaper-2026-04-07-河狸，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg
 BingWallPaper-2026-04-08-Beaver, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg
+BingWallPaper-2026-04-08-西雅图，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg
+BingWallPaper-2026-04-09-Seattle, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg
