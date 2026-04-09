@@ -2049,3 +2049,5 @@ BingWallPaper-2026-04-07-河狸，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.B
 BingWallPaper-2026-04-08-Beaver, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.BeaverPortrait_EN-US6459336252_UHD.jpg
 BingWallPaper-2026-04-08-西雅图，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg
 BingWallPaper-2026-04-09-Seattle, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg
+BingWallPaper-2026-04-09-雪落瀑布，布雷肯比肯斯国家公园，威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg
+BingWallPaper-2026-04-10-Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg
