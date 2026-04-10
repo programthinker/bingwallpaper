@@ -2051,3 +2051,5 @@ BingWallPaper-2026-04-08-西雅图，华盛顿州，美国-4K.jpg&&https://cn.bi
 BingWallPaper-2026-04-09-Seattle, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg
 BingWallPaper-2026-04-09-雪落瀑布，布雷肯比肯斯国家公园，威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg
 BingWallPaper-2026-04-10-Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg
+BingWallPaper-2026-04-10-卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg
+BingWallPaper-2026-04-11-Two young red foxes at Karula National Park, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.FoxSiblings_EN-US7533678992_UHD.jpg
