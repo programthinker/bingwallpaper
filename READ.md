@@ -2059,3 +2059,5 @@ BingWallPaper-2026-04-12-城市灯光在下方划过, 拍摄于国际空间站-4
 BingWallPaper-2026-04-13-City lights streak below, taken from the International Space Station-4K.jpg&&https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg
 BingWallPaper-2026-04-13-安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg
 BingWallPaper-2026-04-14-Milky Way over Anza-Borrego Desert State Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg
+BingWallPaper-2026-04-14-海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg
+BingWallPaper-2026-04-15-Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg
