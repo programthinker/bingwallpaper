@@ -2063,3 +2063,5 @@ BingWallPaper-2026-04-14-海葵中的普通小丑鱼, 拉贾安帕特群岛, 印
 BingWallPaper-2026-04-15-Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg
 BingWallPaper-2026-04-15-光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国-4K.jpg&&https://cn.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg
 BingWallPaper-2026-04-16-The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg
+BingWallPaper-2026-04-16-斯卡吉特谷地郁金香花田, 华盛顿, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg
+BingWallPaper-2026-04-17-Skagit Valley Tulip Fields, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg
