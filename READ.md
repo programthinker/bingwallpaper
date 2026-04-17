@@ -2065,3 +2065,5 @@ BingWallPaper-2026-04-15-光之采石场的文森特·梵高展览, 莱博德普
 BingWallPaper-2026-04-16-The Carrières des Lumières exhibit of Vincent Van Gogh, Les Baux-de-Provence, France-4K.jpg&&https://cn.bing.com/th?id=OHR.VanGoghFields_EN-US8748933044_UHD.jpg
 BingWallPaper-2026-04-16-斯卡吉特谷地郁金香花田, 华盛顿, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg
 BingWallPaper-2026-04-17-Skagit Valley Tulip Fields, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg
+BingWallPaper-2026-04-17-灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg
+BingWallPaper-2026-04-18-Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg
