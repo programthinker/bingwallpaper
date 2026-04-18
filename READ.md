@@ -2067,3 +2067,5 @@ BingWallPaper-2026-04-16-斯卡吉特谷地郁金香花田, 华盛顿, 美国-4K
 BingWallPaper-2026-04-17-Skagit Valley Tulip Fields, Washington-4K.jpg&&https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg
 BingWallPaper-2026-04-17-灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg
 BingWallPaper-2026-04-18-Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg
+BingWallPaper-2026-04-18-摩艾石像采石场，拉诺拉拉库，复活节岛，智利-4K.jpg&&https://cn.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg
+BingWallPaper-2026-04-19-Moai statue quarry, Rano Raraku, Easter Island, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg
