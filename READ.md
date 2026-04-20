@@ -2071,3 +2071,5 @@ BingWallPaper-2026-04-18-摩艾石像采石场，拉诺拉拉库，复活节岛�
 BingWallPaper-2026-04-19-Moai statue quarry, Rano Raraku, Easter Island, Chile-4K.jpg&&https://cn.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg
 BingWallPaper-2026-04-19-镜面海滩，塞古罗港，巴伊亚州，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg
 BingWallPaper-2026-04-20-Books in the children's section of The New York Public Library, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg
+BingWallPaper-2026-04-20-夕阳下的峡谷地国家公园，莫阿布，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg
+BingWallPaper-2026-04-21-Sunset in Canyonlands National Park, Moab, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg
