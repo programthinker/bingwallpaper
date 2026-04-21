@@ -2073,3 +2073,5 @@ BingWallPaper-2026-04-19-镜面海滩，塞古罗港，巴伊亚州，巴西-4K.
 BingWallPaper-2026-04-20-Books in the children's section of The New York Public Library, New York-4K.jpg&&https://cn.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg
 BingWallPaper-2026-04-20-夕阳下的峡谷地国家公园，莫阿布，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg
 BingWallPaper-2026-04-21-Sunset in Canyonlands National Park, Moab, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg
+BingWallPaper-2026-04-21-西欧刺猬，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg
+BingWallPaper-2026-04-22-European hedgehog, France-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg
