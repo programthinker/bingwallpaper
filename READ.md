@@ -2077,3 +2077,5 @@ BingWallPaper-2026-04-21-西欧刺猬，法国-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2026-04-22-European hedgehog, France-4K.jpg&&https://cn.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg
 BingWallPaper-2026-04-22-阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg
 BingWallPaper-2026-04-23-Alam-Pedja Nature Reserve in Tartu County, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg
+BingWallPaper-2026-04-23-安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg
+BingWallPaper-2026-04-24-Anne Hathaway's cottage and garden, Stratford-upon-Avon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg
