@@ -2079,3 +2079,5 @@ BingWallPaper-2026-04-22-阿拉姆-佩德亚自然保护区，塔尔图县，爱
 BingWallPaper-2026-04-23-Alam-Pedja Nature Reserve in Tartu County, Estonia-4K.jpg&&https://cn.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg
 BingWallPaper-2026-04-23-安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg
 BingWallPaper-2026-04-24-Anne Hathaway's cottage and garden, Stratford-upon-Avon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg
+BingWallPaper-2026-04-24-湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg
+BingWallPaper-2026-04-25-Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida-4K.jpg&&https://cn.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg
