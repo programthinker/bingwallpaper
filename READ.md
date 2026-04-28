@@ -2087,3 +2087,5 @@ BingWallPaper-2026-04-26-粉红色的苹果花, 阿维拉海滩, 加利福尼亚
 BingWallPaper-2026-04-27-Pink apple blossoms, Avila Beach, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg
 BingWallPaper-2026-04-27-维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg
 BingWallPaper-2026-04-28-The glass dome of Galleria Vittorio Emanuele II, Milan, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg
+BingWallPaper-2026-04-28-眼镜熊在树上休息, 厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg
+BingWallPaper-2026-04-29-Spectacled bear resting in tree, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg
