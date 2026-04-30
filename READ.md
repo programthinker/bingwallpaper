@@ -2091,3 +2091,5 @@ BingWallPaper-2026-04-28-眼镜熊在树上休息, 厄瓜多尔-4K.jpg&&https://
 BingWallPaper-2026-04-29-Spectacled bear resting in tree, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg
 BingWallPaper-2026-04-29-塔霍河岸边的贝伦塔, 里斯本, 葡萄牙-4K.jpg&&https://cn.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg
 BingWallPaper-2026-04-30-Belém Tower on the bank of the Tagus River, Lisbon, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg
+BingWallPaper-2026-04-30-葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg
+BingWallPaper-2026-05-01-Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg
