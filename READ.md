@@ -2093,3 +2093,5 @@ BingWallPaper-2026-04-29-塔霍河岸边的贝伦塔, 里斯本, 葡萄牙-4K.jp
 BingWallPaper-2026-04-30-Belém Tower on the bank of the Tagus River, Lisbon, Portugal-4K.jpg&&https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg
 BingWallPaper-2026-04-30-葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg
 BingWallPaper-2026-05-01-Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg
+BingWallPaper-2026-05-01-中国的长城-4K.jpg&&https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg
+BingWallPaper-2026-05-02-Koi fish, Lan Su Chinese Garden, Portland, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg
