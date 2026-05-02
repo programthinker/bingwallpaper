@@ -2095,3 +2095,5 @@ BingWallPaper-2026-04-30-葡萄风信子和郁金香, 库肯霍夫花园, 利塞
 BingWallPaper-2026-05-01-Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands-4K.jpg&&https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg
 BingWallPaper-2026-05-01-中国的长城-4K.jpg&&https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg
 BingWallPaper-2026-05-02-Koi fish, Lan Su Chinese Garden, Portland, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg
+BingWallPaper-2026-05-02-阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg
+BingWallPaper-2026-05-03-Small lake and marsh in Jasper National Park in Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg
