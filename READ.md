@@ -2097,3 +2097,5 @@ BingWallPaper-2026-05-01-中国的长城-4K.jpg&&https://cn.bing.com/th?id=OHR.M
 BingWallPaper-2026-05-02-Koi fish, Lan Su Chinese Garden, Portland, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.KoiPond_EN-US0207799352_UHD.jpg
 BingWallPaper-2026-05-02-阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg
 BingWallPaper-2026-05-03-Small lake and marsh in Jasper National Park in Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg
+BingWallPaper-2026-05-03-萨瓦纳草原的树上睡觉的豹子，马赛马拉国家保护区，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg
+BingWallPaper-2026-05-04-Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg
