@@ -2107,3 +2107,5 @@ BingWallPaper-2026-05-06-平原上空的雷暴，保加利亚-4K.jpg&&https://cn
 BingWallPaper-2026-05-07-Thunderstorm above the plains, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg
 BingWallPaper-2026-05-07-科法国家野生动物保护区，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg
 BingWallPaper-2026-05-08-Kofa National Wildlife Refuge, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg
+BingWallPaper-2026-05-08-撒丁岛母驴和幼崽, 法国-4K.jpg&&https://cn.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg
+BingWallPaper-2026-05-09-Sardinian donkey mare and foal, France-4K.jpg&&https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg
