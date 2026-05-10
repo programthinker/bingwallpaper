@@ -2111,3 +2111,5 @@ BingWallPaper-2026-05-08-撒丁岛母驴和幼崽, 法国-4K.jpg&&https://cn.bin
 BingWallPaper-2026-05-09-Sardinian donkey mare and foal, France-4K.jpg&&https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg
 BingWallPaper-2026-05-09-克尔卡国家公园的斯克拉丁斯基布克瀑布, 克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg
 BingWallPaper-2026-05-10-Skradinski Buk Waterfall in Krka National Park, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg
+BingWallPaper-2026-05-10-北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg
+BingWallPaper-2026-05-11-Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg
