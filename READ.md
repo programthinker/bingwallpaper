@@ -2119,3 +2119,5 @@ BingWallPaper-2026-05-12-北极海鹦, 威尔士-4K.jpg&&https://cn.bing.com/th?
 BingWallPaper-2026-05-13-Atlantic puffins, Wales-4K.jpg&&https://cn.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg
 BingWallPaper-2026-05-13-拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg
 BingWallPaper-2026-05-14-Arch and Milky Way, Alabama Hills, Sierra Nevada, California-4K.jpg&&https://cn.bing.com/th?id=OHR.AlabamaHills_EN-US1154221052_UHD.jpg
+BingWallPaper-2026-05-14-中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg
+BingWallPaper-2026-05-15-Medieval town of Pitigliano, Tuscany, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.Pitigliano_EN-US1208308627_UHD.jpg
