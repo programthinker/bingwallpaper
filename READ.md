@@ -2125,3 +2125,5 @@ BingWallPaper-2026-05-15-一群抹香鲸, 印度洋-4K.jpg&&https://cn.bing.com/
 BingWallPaper-2026-05-16-A family of sperm whales, Indian Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.EndangeredWhales_EN-US0380100553_UHD.jpg
 BingWallPaper-2026-05-16-史密斯岩州立公园, 俄勒冈州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg
 BingWallPaper-2026-05-17-Smith Rock State Park, Oregon-4K.jpg&&https://cn.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg
+BingWallPaper-2026-05-17-仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg
+BingWallPaper-2026-05-18-Hawksbill Mountain in Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg
