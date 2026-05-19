@@ -2129,3 +2129,5 @@ BingWallPaper-2026-05-17-仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美
 BingWallPaper-2026-05-18-Hawksbill Mountain in Shenandoah National Park, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg
 BingWallPaper-2026-05-18-伦敦自然历史博物馆, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg
 BingWallPaper-2026-05-19-Natural History Museum, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg
+BingWallPaper-2026-05-19-福门托尔灯塔, 马略卡, 巴利阿里群岛, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg
+BingWallPaper-2026-05-20-Formentor Lighthouse, Mallorca, Balearic Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg
