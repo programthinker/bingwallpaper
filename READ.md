@@ -2131,3 +2131,5 @@ BingWallPaper-2026-05-18-伦敦自然历史博物馆, 英格兰-4K.jpg&&https://
 BingWallPaper-2026-05-19-Natural History Museum, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg
 BingWallPaper-2026-05-19-福门托尔灯塔, 马略卡, 巴利阿里群岛, 西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg
 BingWallPaper-2026-05-20-Formentor Lighthouse, Mallorca, Balearic Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg
+BingWallPaper-2026-05-20-熊蜂在授粉, 伍斯特, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg
+BingWallPaper-2026-05-21-Bumble bee pollinating, Worcester, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg
