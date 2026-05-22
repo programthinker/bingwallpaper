@@ -2135,3 +2135,5 @@ BingWallPaper-2026-05-20-熊蜂在授粉, 伍斯特, 英格兰-4K.jpg&&https://c
 BingWallPaper-2026-05-21-Bumble bee pollinating, Worcester, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg
 BingWallPaper-2026-05-21-四川省的茶梯田, 中国-4K.jpg&&https://cn.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg
 BingWallPaper-2026-05-22-Tea terraces in Sichuan Province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg
+BingWallPaper-2026-05-22-埃希环礁，土阿莫土群岛，法属波利尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg
+BingWallPaper-2026-05-23-Kauehi Atoll, Tuamotu Archipelago, French Polynesia-4K.jpg&&https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg
