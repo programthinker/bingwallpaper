@@ -2137,3 +2137,5 @@ BingWallPaper-2026-05-21-四川省的茶梯田, 中国-4K.jpg&&https://cn.bing.c
 BingWallPaper-2026-05-22-Tea terraces in Sichuan Province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg
 BingWallPaper-2026-05-22-埃希环礁，土阿莫土群岛，法属波利尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg
 BingWallPaper-2026-05-23-Kauehi Atoll, Tuamotu Archipelago, French Polynesia-4K.jpg&&https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg
+BingWallPaper-2026-05-23-与蝴蝶在一起的乌龟-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg
+BingWallPaper-2026-05-24-Turtles with butterflies-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg
