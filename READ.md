@@ -2141,3 +2141,5 @@ BingWallPaper-2026-05-23-与蝴蝶在一起的乌龟-4K.jpg&&https://cn.bing.com
 BingWallPaper-2026-05-24-Turtles with butterflies-4K.jpg&&https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg
 BingWallPaper-2026-05-24-三峰自然公园，南蒂罗尔，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg
 BingWallPaper-2026-05-25-Tre Cime Nature Park, South Tyrol, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg
+BingWallPaper-2026-05-25-从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg
+BingWallPaper-2026-05-26-Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg
