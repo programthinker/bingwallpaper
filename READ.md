@@ -2143,3 +2143,5 @@ BingWallPaper-2026-05-24-三峰自然公园，南蒂罗尔，意大利-4K.jpg&&h
 BingWallPaper-2026-05-25-Tre Cime Nature Park, South Tyrol, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg
 BingWallPaper-2026-05-25-从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg
 BingWallPaper-2026-05-26-Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg
+BingWallPaper-2026-05-28-华城堡的古城墙，水原，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg
+BingWallPaper-2026-05-29-Old city wall of Hwaseong Fortress, Suwon, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg
