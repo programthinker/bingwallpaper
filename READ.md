@@ -2147,3 +2147,5 @@ BingWallPaper-2026-05-28-华城堡的古城墙，水原，韩国-4K.jpg&&https:/
 BingWallPaper-2026-05-29-Old city wall of Hwaseong Fortress, Suwon, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg
 BingWallPaper-2026-05-29-珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔-4K.jpg&&https://cn.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg
 BingWallPaper-2026-05-30-Mount Everest summit, Sagarmatha National Park, Nepal-4K.jpg&&https://cn.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg
+BingWallPaper-2026-05-30-平原斑马幼崽，埃托沙国家公园，纳米比亚-4K.jpg&&https://cn.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg
+BingWallPaper-2026-05-31-Plains zebra foal in Etosha National Park, Namibia-4K.jpg&&https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg
