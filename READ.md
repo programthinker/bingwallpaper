@@ -2157,3 +2157,5 @@ BingWallPaper-2026-06-02-穿越西台吉乃尔湖的公路，青海省，中国-
 BingWallPaper-2026-06-03-Highway through Xitai Jinaier Lake, Qinghai Province, China-4K.jpg&&https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg
 BingWallPaper-2026-06-03-骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg
 BingWallPaper-2026-06-04-Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg
+BingWallPaper-2026-06-04-梳理羽毛的雪鹭，佛罗里达州中部，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg
+BingWallPaper-2026-06-05-Snowy egret preening, central Florida, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg
