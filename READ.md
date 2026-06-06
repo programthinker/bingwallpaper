@@ -2161,3 +2161,5 @@ BingWallPaper-2026-06-04-梳理羽毛的雪鹭，佛罗里达州中部，美国-
 BingWallPaper-2026-06-05-Snowy egret preening, central Florida, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg
 BingWallPaper-2026-06-05-从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg
 BingWallPaper-2026-06-06-View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden-4K.jpg&&https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg
+BingWallPaper-2026-06-06-纳奇兹小径公园大道, 图珀洛, 密西西比州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg
+BingWallPaper-2026-06-07-Natchez Trace Parkway, Tupelo, Mississippi, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg
