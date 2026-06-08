@@ -2165,3 +2165,5 @@ BingWallPaper-2026-06-06-纳奇兹小径公园大道, 图珀洛, 密西西比州
 BingWallPaper-2026-06-07-Natchez Trace Parkway, Tupelo, Mississippi, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg
 BingWallPaper-2026-06-07-邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg
 BingWallPaper-2026-06-08-Atlanta Botanical Garden, Atlanta, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg
+BingWallPaper-2026-06-08-在海洋中游动的狮鬃水母-4K.jpg&&https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg
+BingWallPaper-2026-06-09-Lion's mane jellyfish swimming in the ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg
