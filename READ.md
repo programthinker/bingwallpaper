@@ -2167,3 +2167,5 @@ BingWallPaper-2026-06-07-邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔
 BingWallPaper-2026-06-08-Atlanta Botanical Garden, Atlanta, Georgia-4K.jpg&&https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg
 BingWallPaper-2026-06-08-在海洋中游动的狮鬃水母-4K.jpg&&https://cn.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg
 BingWallPaper-2026-06-09-Lion's mane jellyfish swimming in the ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg
+BingWallPaper-2026-06-09-韦尔纳扎, 五渔村, 利古里亚, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg
+BingWallPaper-2026-06-10-Vernazza, Cinque Terre, Liguria, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg
