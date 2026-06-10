@@ -2169,3 +2169,5 @@ BingWallPaper-2026-06-08-在海洋中游动的狮鬃水母-4K.jpg&&https://cn.bi
 BingWallPaper-2026-06-09-Lion's mane jellyfish swimming in the ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg
 BingWallPaper-2026-06-09-韦尔纳扎, 五渔村, 利古里亚, 意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg
 BingWallPaper-2026-06-10-Vernazza, Cinque Terre, Liguria, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg
+BingWallPaper-2026-06-10-赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛-4K.jpg&&https://cn.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg
+BingWallPaper-2026-06-11-Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg
