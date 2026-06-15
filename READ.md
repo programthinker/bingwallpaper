@@ -2179,3 +2179,5 @@ BingWallPaper-2026-06-13-落日，恶地国家公园，南达科他州，美国-
 BingWallPaper-2026-06-14-Sunset in Badlands National Park, South Dakota, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg
 BingWallPaper-2026-06-14-绿头鸭-4K.jpg&&https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg
 BingWallPaper-2026-06-15-US flags surrounding the Washington Monument, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg
+BingWallPaper-2026-06-15-大烟山国家公园，田纳西州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg
+BingWallPaper-2026-06-16-Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg
