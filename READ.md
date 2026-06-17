@@ -2183,3 +2183,5 @@ BingWallPaper-2026-06-15-大烟山国家公园，田纳西州，美国-4K.jpg&&h
 BingWallPaper-2026-06-16-Great Smoky Mountains National Park, Tennessee-4K.jpg&&https://cn.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg
 BingWallPaper-2026-06-16-七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛-4K.jpg&&https://cn.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_UHD.jpg
 BingWallPaper-2026-06-17-Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg
+BingWallPaper-2026-06-17-特雷莫拉公路在圣哥达山口，艾罗洛，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg
+BingWallPaper-2026-06-18-Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg
