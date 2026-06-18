@@ -2185,3 +2185,5 @@ BingWallPaper-2026-06-16-七英里海滩附近的玳瑁海龟伴侣，大开曼�
 BingWallPaper-2026-06-17-Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands-4K.jpg&&https://cn.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg
 BingWallPaper-2026-06-17-特雷莫拉公路在圣哥达山口，艾罗洛，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg
 BingWallPaper-2026-06-18-Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg
+BingWallPaper-2026-06-18-萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg
+BingWallPaper-2026-06-19-Aerial view of the ruins of Sacsayhuamán, Cusco, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg
