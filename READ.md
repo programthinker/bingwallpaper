@@ -2187,3 +2187,5 @@ BingWallPaper-2026-06-17-特雷莫拉公路在圣哥达山口，艾罗洛，瑞�
 BingWallPaper-2026-06-18-Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg
 BingWallPaper-2026-06-18-萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁-4K.jpg&&https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg
 BingWallPaper-2026-06-19-Aerial view of the ruins of Sacsayhuamán, Cusco, Peru-4K.jpg&&https://cn.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg
+BingWallPaper-2026-06-19-湖中的龙舟，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_UHD.jpg
+BingWallPaper-2026-06-20-National Museum of African American History and Culture, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg
