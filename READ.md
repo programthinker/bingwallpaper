@@ -2191,3 +2191,5 @@ BingWallPaper-2026-06-19-湖中的龙舟，中国-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2026-06-20-National Museum of African American History and Culture, Washington, DC-4K.jpg&&https://cn.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg
 BingWallPaper-2026-06-20-漂浮在南极半岛西部海域的拱形冰山, 南大洋-4K.jpg&&https://cn.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg
 BingWallPaper-2026-06-21-Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg
+BingWallPaper-2026-06-21-企鹅爸爸正在检查蛋的情况-4K.jpg&&https://cn.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg
+BingWallPaper-2026-06-22-King penguin father checking egg-4K.jpg&&https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg
