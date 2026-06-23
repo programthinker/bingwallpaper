@@ -2195,3 +2195,5 @@ BingWallPaper-2026-06-21-企鹅爸爸正在检查蛋的情况-4K.jpg&&https://cn
 BingWallPaper-2026-06-22-King penguin father checking egg-4K.jpg&&https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg
 BingWallPaper-2026-06-22-奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg
 BingWallPaper-2026-06-23-Quinault rainforest, Olympic National Park, Washington state-4K.jpg&&https://cn.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg
+BingWallPaper-2026-06-23-本州岛上的富士山, 日本-4K.jpg&&https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg
+BingWallPaper-2026-06-24-Mount Fuji on Honshu Island, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg
