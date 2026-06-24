@@ -2197,3 +2197,5 @@ BingWallPaper-2026-06-22-奎诺尔特雨林, 奥林匹克国家公园, 华盛顿
 BingWallPaper-2026-06-23-Quinault rainforest, Olympic National Park, Washington state-4K.jpg&&https://cn.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg
 BingWallPaper-2026-06-23-本州岛上的富士山, 日本-4K.jpg&&https://cn.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg
 BingWallPaper-2026-06-24-Mount Fuji on Honshu Island, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg
+BingWallPaper-2026-06-24-蝴蝶正在黄花上授粉-4K.jpg&&https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg
+BingWallPaper-2026-06-25-Butterfly pollinating on yellow flower-4K.jpg&&https://cn.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg
