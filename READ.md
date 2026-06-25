@@ -2199,3 +2199,5 @@ BingWallPaper-2026-06-23-本州岛上的富士山, 日本-4K.jpg&&https://cn.bin
 BingWallPaper-2026-06-24-Mount Fuji on Honshu Island, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg
 BingWallPaper-2026-06-24-蝴蝶正在黄花上授粉-4K.jpg&&https://cn.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg
 BingWallPaper-2026-06-25-Butterfly pollinating on yellow flower-4K.jpg&&https://cn.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg
+BingWallPaper-2026-06-25-布鲁塞尔大广场上的建筑群, 比利时-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg
+BingWallPaper-2026-06-26-Buildings on Grand-Place Square in Brussels, Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg
