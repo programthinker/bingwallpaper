@@ -2201,3 +2201,5 @@ BingWallPaper-2026-06-24-蝴蝶正在黄花上授粉-4K.jpg&&https://cn.bing.com
 BingWallPaper-2026-06-25-Butterfly pollinating on yellow flower-4K.jpg&&https://cn.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg
 BingWallPaper-2026-06-25-布鲁塞尔大广场上的建筑群, 比利时-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg
 BingWallPaper-2026-06-26-Buildings on Grand-Place Square in Brussels, Belgium-4K.jpg&&https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg
+BingWallPaper-2026-06-26-泰晤士河, 伦敦, 英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg
+BingWallPaper-2026-06-27-The River Thames, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg
