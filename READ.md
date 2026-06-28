@@ -2205,3 +2205,5 @@ BingWallPaper-2026-06-26-泰晤士河, 伦敦, 英格兰-4K.jpg&&https://cn.bing
 BingWallPaper-2026-06-27-The River Thames, London, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg
 BingWallPaper-2026-06-27-博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg
 BingWallPaper-2026-06-28-Driftwood on Boneyard Beach, Hunting Island, South Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg
+BingWallPaper-2026-06-28-温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg
+BingWallPaper-2026-06-29-Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg
