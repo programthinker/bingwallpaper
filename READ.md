@@ -2207,3 +2207,5 @@ BingWallPaper-2026-06-27-博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗
 BingWallPaper-2026-06-28-Driftwood on Boneyard Beach, Hunting Island, South Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg
 BingWallPaper-2026-06-28-温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg
 BingWallPaper-2026-06-29-Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg
+BingWallPaper-2026-06-29-波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg
+BingWallPaper-2026-06-30-Bora Bora and its lagoon, South Pacific, French Polynesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg
