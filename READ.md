@@ -2211,3 +2211,5 @@ BingWallPaper-2026-06-29-波拉波拉岛及其泻湖, 南太平洋, 法属波利
 BingWallPaper-2026-06-30-Bora Bora and its lagoon, South Pacific, French Polynesia-4K.jpg&&https://cn.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg
 BingWallPaper-2026-06-30-马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg
 BingWallPaper-2026-07-01-Giraffes at sunset in the Masai Mara National Reserve, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg
+BingWallPaper-2026-07-01-地牢省立公园, 纽芬兰和拉布拉多省, 加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg
+BingWallPaper-2026-07-02-Dungeon Provincial Park, Newfoundland and Labrador, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg
