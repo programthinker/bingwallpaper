@@ -2215,3 +2215,5 @@ BingWallPaper-2026-07-01-地牢省立公园, 纽芬兰和拉布拉多省, 加拿
 BingWallPaper-2026-07-02-Dungeon Provincial Park, Newfoundland and Labrador, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg
 BingWallPaper-2026-07-02-埃斯纳神庙穹顶天花板, 埃及-4K.jpg&&https://cn.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg
 BingWallPaper-2026-07-03-Ceiling of the Temple of Esna, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg
+BingWallPaper-2026-07-03-小溪上方的萤火虫，冈山县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg
+BingWallPaper-2026-07-04-Fireflies glowing above a stream, Okayama Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg
