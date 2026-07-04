@@ -2217,3 +2217,5 @@ BingWallPaper-2026-07-02-埃斯纳神庙穹顶天花板, 埃及-4K.jpg&&https://
 BingWallPaper-2026-07-03-Ceiling of the Temple of Esna, Egypt-4K.jpg&&https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg
 BingWallPaper-2026-07-03-小溪上方的萤火虫，冈山县，日本-4K.jpg&&https://cn.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg
 BingWallPaper-2026-07-04-Fireflies glowing above a stream, Okayama Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg
+BingWallPaper-2026-07-04-凯泽斯堡，阿尔萨斯，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg
+BingWallPaper-2026-07-05-Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania-4K.jpg&&https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg
