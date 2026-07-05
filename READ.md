@@ -2219,3 +2219,5 @@ BingWallPaper-2026-07-03-小溪上方的萤火虫，冈山县，日本-4K.jpg&&h
 BingWallPaper-2026-07-04-Fireflies glowing above a stream, Okayama Prefecture, Japan-4K.jpg&&https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg
 BingWallPaper-2026-07-04-凯泽斯堡，阿尔萨斯，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg
 BingWallPaper-2026-07-05-Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania-4K.jpg&&https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg
+BingWallPaper-2026-07-05-瓦朗索勒高原的薰衣草行，普罗旺斯，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg
+BingWallPaper-2026-07-06-Lavender rows, Plateau de Valensole, Provence, France-4K.jpg&&https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg
