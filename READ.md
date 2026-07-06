@@ -2221,3 +2221,5 @@ BingWallPaper-2026-07-04-凯泽斯堡，阿尔萨斯，法国-4K.jpg&&https://cn
 BingWallPaper-2026-07-05-Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania-4K.jpg&&https://cn.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg
 BingWallPaper-2026-07-05-瓦朗索勒高原的薰衣草行，普罗旺斯，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg
 BingWallPaper-2026-07-06-Lavender rows, Plateau de Valensole, Provence, France-4K.jpg&&https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg
+BingWallPaper-2026-07-06-锡拉库萨的日落，西西里岛，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg
+BingWallPaper-2026-07-07-Syracuse at sunset, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg
