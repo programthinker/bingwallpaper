@@ -2225,3 +2225,5 @@ BingWallPaper-2026-07-06-锡拉库萨的日落，西西里岛，意大利-4K.jpg
 BingWallPaper-2026-07-07-Syracuse at sunset, Sicily, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg
 BingWallPaper-2026-07-07-板嘴山巨嘴鸟与兰花，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg
 BingWallPaper-2026-07-08-Plate-billed mountain toucan with orchids, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg
+BingWallPaper-2026-07-08-阿蒂特兰湖的日出，危地马拉-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg
+BingWallPaper-2026-07-09-Sunrise at Lake Atitlán, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg
