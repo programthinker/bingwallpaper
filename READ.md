@@ -2229,3 +2229,5 @@ BingWallPaper-2026-07-08-阿蒂特兰湖的日出，危地马拉-4K.jpg&&https:/
 BingWallPaper-2026-07-09-Sunrise at Lake Atitlán, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg
 BingWallPaper-2026-07-09-在沙巴的水稻田，老街，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg
 BingWallPaper-2026-07-10-Rice fields at Sapa, Lào Cai, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg
+BingWallPaper-2026-07-10-陆地与海洋的鸟瞰图，维多利亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg
+BingWallPaper-2026-07-11-Aerial view of land and ocean, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg
