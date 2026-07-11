@@ -2231,3 +2231,5 @@ BingWallPaper-2026-07-09-在沙巴的水稻田，老街，越南-4K.jpg&&https:/
 BingWallPaper-2026-07-10-Rice fields at Sapa, Lào Cai, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg
 BingWallPaper-2026-07-10-陆地与海洋的鸟瞰图，维多利亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg
 BingWallPaper-2026-07-11-Aerial view of land and ocean, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg
+BingWallPaper-2026-07-11-圣古斯坦港, 欧赖, 布列塔尼, 法国-4K.jpg&&https://cn.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg
+BingWallPaper-2026-07-12-Port de Saint-Goustan, Auray, Brittany, France-4K.jpg&&https://cn.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg
