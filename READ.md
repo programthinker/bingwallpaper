@@ -2235,3 +2235,5 @@ BingWallPaper-2026-07-11-圣古斯坦港, 欧赖, 布列塔尼, 法国-4K.jpg&&h
 BingWallPaper-2026-07-12-Port de Saint-Goustan, Auray, Brittany, France-4K.jpg&&https://cn.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg
 BingWallPaper-2026-07-12-卡塔丁森林和水域国家纪念地，缅因州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg
 BingWallPaper-2026-07-13-Katahdin Woods and Waters National Monument, Maine-4K.jpg&&https://cn.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg
+BingWallPaper-2026-07-13-羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg
+BingWallPaper-2026-07-14-Antelope Canyon on the Navajo Nation, east of Page, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg
