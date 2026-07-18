@@ -2245,3 +2245,5 @@ BingWallPaper-2026-07-16-海军码头，芝加哥，伊利诺伊州，美国-4K.
 BingWallPaper-2026-07-17-Navy Pier, Chicago, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg
 BingWallPaper-2026-07-17-瓦伊海滩上的日光浴躺椅，克里特岛，希腊-4K.jpg&&https://cn.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg
 BingWallPaper-2026-07-18-Sunbeds on the beach at Vai, Crete, Greece-4K.jpg&&https://cn.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg
+BingWallPaper-2026-07-18-恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg
+BingWallPaper-2026-07-19-Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg
