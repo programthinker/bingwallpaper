@@ -2251,3 +2251,5 @@ BingWallPaper-2026-07-19-不同亚种的家燕聚在一起休息-4K.jpg&&https:/
 BingWallPaper-2026-07-20-Barn swallows of different subspecies resting together-4K.jpg&&https://cn.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg
 BingWallPaper-2026-07-20-月球与地球由阿耳忒弥斯2号机组人员拍摄-4K.jpg&&https://cn.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg
 BingWallPaper-2026-07-21-Moon and Earth captured by the Artemis II crew-4K.jpg&&https://cn.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg
+BingWallPaper-2026-07-21-圣卡塔琳娜拱门，安提瓜，危地马拉-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg
+BingWallPaper-2026-07-22-Santa Catalina Arch, Antigua, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg
