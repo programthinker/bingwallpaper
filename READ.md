@@ -2253,3 +2253,5 @@ BingWallPaper-2026-07-20-月球与地球由阿耳忒弥斯2号机组人员拍摄
 BingWallPaper-2026-07-21-Moon and Earth captured by the Artemis II crew-4K.jpg&&https://cn.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg
 BingWallPaper-2026-07-21-圣卡塔琳娜拱门，安提瓜，危地马拉-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg
 BingWallPaper-2026-07-22-Santa Catalina Arch, Antigua, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg
+BingWallPaper-2026-07-22-珊瑚礁与海滩在拉贾安帕特，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg
+BingWallPaper-2026-07-23-Coral reef and beach in Raja Ampat, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg
