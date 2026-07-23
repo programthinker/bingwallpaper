@@ -2255,3 +2255,5 @@ BingWallPaper-2026-07-21-圣卡塔琳娜拱门，安提瓜，危地马拉-4K.jpg
 BingWallPaper-2026-07-22-Santa Catalina Arch, Antigua, Guatemala-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg
 BingWallPaper-2026-07-22-珊瑚礁与海滩在拉贾安帕特，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg
 BingWallPaper-2026-07-23-Coral reef and beach in Raja Ampat, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg
+BingWallPaper-2026-07-23-粉红色大丽花-4K.jpg&&https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg
+BingWallPaper-2026-07-24-Pink dahlia flower-4K.jpg&&https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg
