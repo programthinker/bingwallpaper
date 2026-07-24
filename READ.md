@@ -2257,3 +2257,5 @@ BingWallPaper-2026-07-22-珊瑚礁与海滩在拉贾安帕特，印度尼西亚-
 BingWallPaper-2026-07-23-Coral reef and beach in Raja Ampat, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg
 BingWallPaper-2026-07-23-粉红色大丽花-4K.jpg&&https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg
 BingWallPaper-2026-07-24-Pink dahlia flower-4K.jpg&&https://cn.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg
+BingWallPaper-2026-07-24-美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔-4K.jpg&&https://cn.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg
+BingWallPaper-2026-07-25-Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador-4K.jpg&&https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg
