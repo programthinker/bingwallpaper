@@ -2263,3 +2263,5 @@ BingWallPaper-2026-07-25-大教堂海滩，加利西亚，西班牙-4K.jpg&&http
 BingWallPaper-2026-07-26-Praia das Catedrais, Galicia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg
 BingWallPaper-2026-07-26-红树上的日出在小猪群岛，洪都拉斯-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg
 BingWallPaper-2026-07-27-Sunrise on a red mangrove in the Pig Keys, Honduras-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg
+BingWallPaper-2026-07-27-蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg
+BingWallPaper-2026-07-28-Tiffany Dome, Chicago Cultural Center, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg
