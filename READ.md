@@ -2265,3 +2265,5 @@ BingWallPaper-2026-07-26-红树上的日出在小猪群岛，洪都拉斯-4K.jpg
 BingWallPaper-2026-07-27-Sunrise on a red mangrove in the Pig Keys, Honduras-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg
 BingWallPaper-2026-07-27-蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg
 BingWallPaper-2026-07-28-Tiffany Dome, Chicago Cultural Center, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg
+BingWallPaper-2026-07-28-一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg
+BingWallPaper-2026-07-29-A kelp forest off Anacapa Island, Channel Islands National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg
