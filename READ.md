@@ -2267,3 +2267,5 @@ BingWallPaper-2026-07-27-蒂芙尼穹顶，芝加哥文化中心，伊利诺伊�
 BingWallPaper-2026-07-28-Tiffany Dome, Chicago Cultural Center, Illinois-4K.jpg&&https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg
 BingWallPaper-2026-07-28-一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg
 BingWallPaper-2026-07-29-A kelp forest off Anacapa Island, Channel Islands National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg
+BingWallPaper-2026-07-29-孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg
+BingWallPaper-2026-07-30-A family of Bengal tigers at Ranthambore National Park, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg
