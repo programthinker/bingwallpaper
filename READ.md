@@ -2275,3 +2275,5 @@ BingWallPaper-2026-07-31-鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，�
 BingWallPaper-2026-08-01-Aerial view of the Virginia Creeper Trail, Damascus, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg
 BingWallPaper-2026-08-01-大批熔岩流涌入大洋，大岛，夏威夷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg
 BingWallPaper-2026-08-02-A series of lava flows spill into the ocean, Big Island, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg
+BingWallPaper-2026-08-02-马尔萨什洛克港口五彩斑斓的渔船，马耳他-4K.jpg&&https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg
+BingWallPaper-2026-08-03-Helsinki's shoreline during blue hour, Uusimaa, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg
