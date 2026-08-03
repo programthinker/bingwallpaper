@@ -2277,3 +2277,5 @@ BingWallPaper-2026-08-01-大批熔岩流涌入大洋，大岛，夏威夷州，�
 BingWallPaper-2026-08-02-A series of lava flows spill into the ocean, Big Island, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg
 BingWallPaper-2026-08-02-马尔萨什洛克港口五彩斑斓的渔船，马耳他-4K.jpg&&https://cn.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg
 BingWallPaper-2026-08-03-Helsinki's shoreline during blue hour, Uusimaa, Finland-4K.jpg&&https://cn.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg
+BingWallPaper-2026-08-03-马尔萨什洛克港口五彩斑斓的渔船，马耳他-4K.jpg&&https://cn.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg
+BingWallPaper-2026-08-04-Colorful boats in Marsaxlokk Harbor, Malta-4K.jpg&&https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg
