@@ -2281,3 +2281,5 @@ BingWallPaper-2026-08-03-马尔萨什洛克港口五彩斑斓的渔船，马耳�
 BingWallPaper-2026-08-04-Colorful boats in Marsaxlokk Harbor, Malta-4K.jpg&&https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg
 BingWallPaper-2026-08-04-佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg
 BingWallPaper-2026-08-05-Florida burrowing owlet, Cape Coral, Florida, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg
+BingWallPaper-2026-08-05-非斯皇宫装饰华丽的大门，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg
+BingWallPaper-2026-08-06-Decorated gate of the Royal Palace of Fez, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg
