@@ -2283,3 +2283,5 @@ BingWallPaper-2026-08-04-佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里�
 BingWallPaper-2026-08-05-Florida burrowing owlet, Cape Coral, Florida, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg
 BingWallPaper-2026-08-05-非斯皇宫装饰华丽的大门，摩洛哥-4K.jpg&&https://cn.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg
 BingWallPaper-2026-08-06-Decorated gate of the Royal Palace of Fez, Morocco-4K.jpg&&https://cn.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg
+BingWallPaper-2026-08-06-马赛马拉迁徙的角马群横渡马拉河, 肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg
+BingWallPaper-2026-08-07-Migrating wildebeest crossing Mara River in Masai Mara, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg
