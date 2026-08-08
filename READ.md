@@ -2287,3 +2287,5 @@ BingWallPaper-2026-08-06-马赛马拉迁徙的角马群横渡马拉河, 肯尼�
 BingWallPaper-2026-08-07-Migrating wildebeest crossing Mara River in Masai Mara, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg
 BingWallPaper-2026-08-07-圣胡安岛石灰窑灯塔，华盛顿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg
 BingWallPaper-2026-08-08-Lime Kiln Lighthouse on San Juan Island, Washington State-4K.jpg&&https://cn.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg
+BingWallPaper-2026-08-08-蒂斯河畔斯托克顿无限桥，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg
+BingWallPaper-2026-08-09-Infinity Bridge in Stockton-on-Tees, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg
