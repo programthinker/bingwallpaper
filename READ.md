@@ -2289,3 +2289,5 @@ BingWallPaper-2026-08-07-圣胡安岛石灰窑灯塔，华盛顿州，美国-4K.
 BingWallPaper-2026-08-08-Lime Kiln Lighthouse on San Juan Island, Washington State-4K.jpg&&https://cn.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg
 BingWallPaper-2026-08-08-蒂斯河畔斯托克顿无限桥，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg
 BingWallPaper-2026-08-09-Infinity Bridge in Stockton-on-Tees, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg
+BingWallPaper-2026-08-09-让-马里·吉巴乌文化中心，新喀里多尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg
+BingWallPaper-2026-08-10-Jean-Marie Tjibaou Cultural Centre, New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg
