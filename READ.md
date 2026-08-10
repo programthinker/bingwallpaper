@@ -2291,3 +2291,5 @@ BingWallPaper-2026-08-08-蒂斯河畔斯托克顿无限桥，英格兰-4K.jpg&&h
 BingWallPaper-2026-08-09-Infinity Bridge in Stockton-on-Tees, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg
 BingWallPaper-2026-08-09-让-马里·吉巴乌文化中心，新喀里多尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg
 BingWallPaper-2026-08-10-Jean-Marie Tjibaou Cultural Centre, New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg
+BingWallPaper-2026-08-10-约书亚树国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg
+BingWallPaper-2026-08-11-Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg
