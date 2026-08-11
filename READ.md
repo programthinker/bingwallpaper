@@ -2293,3 +2293,5 @@ BingWallPaper-2026-08-09-让-马里·吉巴乌文化中心，新喀里多尼亚-
 BingWallPaper-2026-08-10-Jean-Marie Tjibaou Cultural Centre, New Caledonia-4K.jpg&&https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg
 BingWallPaper-2026-08-10-约书亚树国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg
 BingWallPaper-2026-08-11-Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg
+BingWallPaper-2026-08-11-哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg
+BingWallPaper-2026-08-12-Colorful homes line Nyhavn Canal, Copenhagen, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg
