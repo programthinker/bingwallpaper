@@ -2295,3 +2295,5 @@ BingWallPaper-2026-08-10-约书亚树国家公园，加利福尼亚州，美国-
 BingWallPaper-2026-08-11-Joshua Tree National Park, California-4K.jpg&&https://cn.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg
 BingWallPaper-2026-08-11-哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg
 BingWallPaper-2026-08-12-Colorful homes line Nyhavn Canal, Copenhagen, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg
+BingWallPaper-2026-08-12-安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg
+BingWallPaper-2026-08-13-A group of elephants, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg
