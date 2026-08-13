@@ -2297,3 +2297,5 @@ BingWallPaper-2026-08-11-哥本哈根新港运河沿岸的彩色房屋，首都�
 BingWallPaper-2026-08-12-Colorful homes line Nyhavn Canal, Copenhagen, Denmark-4K.jpg&&https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg
 BingWallPaper-2026-08-12-安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg
 BingWallPaper-2026-08-13-A group of elephants, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg
+BingWallPaper-2026-08-13-泰德天文台上空的英仙座流星，加那利群岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg
+BingWallPaper-2026-08-14-Perseid meteors over Teide Observatory, Tenerife, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg
