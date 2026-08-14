@@ -2299,3 +2299,5 @@ BingWallPaper-2026-08-12-安博塞利国家公园的非洲草原象群，卡贾�
 BingWallPaper-2026-08-13-A group of elephants, Amboseli National Park, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg
 BingWallPaper-2026-08-13-泰德天文台上空的英仙座流星，加那利群岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg
 BingWallPaper-2026-08-14-Perseid meteors over Teide Observatory, Tenerife, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg
+BingWallPaper-2026-08-14-扎克舒夫附近的野生动物通道，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg
+BingWallPaper-2026-08-15-Aerial view of a wildlife crossing near Zakrzów, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg
