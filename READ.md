@@ -2301,3 +2301,5 @@ BingWallPaper-2026-08-13-泰德天文台上空的英仙座流星，加那利群�
 BingWallPaper-2026-08-14-Perseid meteors over Teide Observatory, Tenerife, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg
 BingWallPaper-2026-08-14-扎克舒夫附近的野生动物通道，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg
 BingWallPaper-2026-08-15-Aerial view of a wildlife crossing near Zakrzów, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg
+BingWallPaper-2026-08-15-圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg
+BingWallPaper-2026-08-16-Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg
