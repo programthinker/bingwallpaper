@@ -2305,3 +2305,5 @@ BingWallPaper-2026-08-15-圣胡安县阿什斯利帕荒野地的奇岩柱，新�
 BingWallPaper-2026-08-16-Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg
 BingWallPaper-2026-08-16-戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰-4K.jpg&&https://cn.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg
 BingWallPaper-2026-08-17-Ruins of Ross Errilly Friary, County Galway, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg
+BingWallPaper-2026-08-17-海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾-4K.jpg&&https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg
+BingWallPaper-2026-08-18-Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines-4K.jpg&&https://cn.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg
