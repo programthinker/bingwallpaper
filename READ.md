@@ -2307,3 +2307,5 @@ BingWallPaper-2026-08-16-戈尔韦郡罗斯埃里利方济各会修道院遗址�
 BingWallPaper-2026-08-17-Ruins of Ross Errilly Friary, County Galway, Ireland-4K.jpg&&https://cn.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg
 BingWallPaper-2026-08-17-海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾-4K.jpg&&https://cn.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg
 BingWallPaper-2026-08-18-Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines-4K.jpg&&https://cn.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg
+BingWallPaper-2026-08-18-弗留利要塞城市帕尔马诺瓦航拍图，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg
+BingWallPaper-2026-08-19-Aerial view of Palmanova, a fortress city in Friuli, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg
