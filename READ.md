@@ -2309,3 +2309,5 @@ BingWallPaper-2026-08-17-海葵中的三条眼斑双锯鱼，卡比劳岛，薄�
 BingWallPaper-2026-08-18-Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines-4K.jpg&&https://cn.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg
 BingWallPaper-2026-08-18-弗留利要塞城市帕尔马诺瓦航拍图，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg
 BingWallPaper-2026-08-19-Aerial view of Palmanova, a fortress city in Friuli, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg
+BingWallPaper-2026-08-19-怀特克利夫公园，西温哥华，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg
+BingWallPaper-2026-08-20-NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg
