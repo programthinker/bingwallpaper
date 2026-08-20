@@ -2311,3 +2311,5 @@ BingWallPaper-2026-08-18-弗留利要塞城市帕尔马诺瓦航拍图，意大�
 BingWallPaper-2026-08-19-Aerial view of Palmanova, a fortress city in Friuli, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg
 BingWallPaper-2026-08-19-怀特克利夫公园，西温哥华，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg
 BingWallPaper-2026-08-20-NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg
+BingWallPaper-2026-08-20-林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg
+BingWallPaper-2026-08-21-An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg
