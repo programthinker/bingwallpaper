@@ -2315,3 +2315,5 @@ BingWallPaper-2026-08-20-林恩运河中浮出水面的虎鲸，奇尔卡特山�
 BingWallPaper-2026-08-21-An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg
 BingWallPaper-2026-08-21-尤利尔山口蜿蜒的公路，瑞士-4K.jpg&&https://cn.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg
 BingWallPaper-2026-08-22-Winding road of Julier Pass, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg
+BingWallPaper-2026-08-22-普通蓝灰蝶，德文郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg
+BingWallPaper-2026-08-23-Common blue butterfly, Devon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg
