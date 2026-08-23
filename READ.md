@@ -2317,3 +2317,5 @@ BingWallPaper-2026-08-21-尤利尔山口蜿蜒的公路，瑞士-4K.jpg&&https:/
 BingWallPaper-2026-08-22-Winding road of Julier Pass, Switzerland-4K.jpg&&https://cn.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg
 BingWallPaper-2026-08-22-普通蓝灰蝶，德文郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg
 BingWallPaper-2026-08-23-Common blue butterfly, Devon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg
+BingWallPaper-2026-08-23-在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg
+BingWallPaper-2026-08-24-Brown bear fishing in river, Katmai National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg
