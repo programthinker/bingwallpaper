@@ -2319,3 +2319,5 @@ BingWallPaper-2026-08-22-普通蓝灰蝶，德文郡，英格兰-4K.jpg&&https:/
 BingWallPaper-2026-08-23-Common blue butterfly, Devon, England-4K.jpg&&https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg
 BingWallPaper-2026-08-23-在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg
 BingWallPaper-2026-08-24-Brown bear fishing in river, Katmai National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg
+BingWallPaper-2026-08-24-布鲁克林大桥，纽约市，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg
+BingWallPaper-2026-08-25-Brooklyn Bridge, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg
