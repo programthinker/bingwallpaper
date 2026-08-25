@@ -2321,3 +2321,5 @@ BingWallPaper-2026-08-23-在处暑时节的村庄田野与寺庙佛塔，江阴�
 BingWallPaper-2026-08-24-Brown bear fishing in river, Katmai National Park, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg
 BingWallPaper-2026-08-24-布鲁克林大桥，纽约市，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg
 BingWallPaper-2026-08-25-Brooklyn Bridge, New York City-4K.jpg&&https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg
+BingWallPaper-2026-08-25-红木国家与州立公园的日出，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg
+BingWallPaper-2026-08-26-Sunrise in Redwood National and State Parks, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg
