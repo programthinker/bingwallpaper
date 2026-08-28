@@ -2327,3 +2327,5 @@ BingWallPaper-2026-08-26-基尔丘山上空的极光，冰岛-4K.jpg&&https://cn
 BingWallPaper-2026-08-27-Auroras over Kirkjufell, Iceland-4K.jpg&&https://cn.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg
 BingWallPaper-2026-08-28-涨潮时的圣米歇尔山，芒什省，诺曼底，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg
 BingWallPaper-2026-08-28-Lesser flamingo flock at sunrise, Lake Magadi, Kenya-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg
+BingWallPaper-2026-08-29-冲浪者航拍图，圣卡塔琳娜州，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg
+BingWallPaper-2026-08-29-Mont-Saint-Michel during high tide, Manche, Normandy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg
