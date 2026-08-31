@@ -2333,3 +2333,5 @@ BingWallPaper-2026-08-29-冲浪者航拍图，圣卡塔琳娜州，巴西-4K.jpg
 BingWallPaper-2026-08-30-Aerial view of surfers, Santa Catarina, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg
 BingWallPaper-2026-08-30-鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg
 BingWallPaper-2026-08-31-Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg
+BingWallPaper-2026-09-01-马鬃小皮伞，白俄罗斯-4K.jpg&&https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg
+BingWallPaper-2026-09-01-Building detail of Registan Square, Samarkand, Uzbekistan-4K.jpg&&https://cn.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg
