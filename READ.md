@@ -2337,3 +2337,5 @@ BingWallPaper-2026-09-01-马鬃小皮伞，白俄罗斯-4K.jpg&&https://cn.bing.
 BingWallPaper-2026-09-01-Building detail of Registan Square, Samarkand, Uzbekistan-4K.jpg&&https://cn.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg
 BingWallPaper-2026-09-01-马鬃小皮伞，白俄罗斯-4K.jpg&&https://cn.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg
 BingWallPaper-2026-09-02-Horsehair parachute fungus, Belarus-4K.jpg&&https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg
+BingWallPaper-2026-09-02-传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg
+BingWallPaper-2026-09-03-Traditional beach huts, Southwold, Suffolk Heritage Coast, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg
