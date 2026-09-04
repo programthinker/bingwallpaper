@@ -2341,3 +2341,5 @@ BingWallPaper-2026-09-02-传统海滩小屋，索思沃尔德，萨福克遗产�
 BingWallPaper-2026-09-03-Traditional beach huts, Southwold, Suffolk Heritage Coast, England-4K.jpg&&https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg
 BingWallPaper-2026-09-03-郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg
 BingWallPaper-2026-09-04-Coyote Buttes, Vermilion Cliffs National Monument, Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg
+BingWallPaper-2026-09-04-韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg
+BingWallPaper-2026-09-05-Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg
