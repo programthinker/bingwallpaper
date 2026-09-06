@@ -2345,3 +2345,5 @@ BingWallPaper-2026-09-04-韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒�
 BingWallPaper-2026-09-05-Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg
 BingWallPaper-2026-09-05-龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg
 BingWallPaper-2026-09-06-Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg
+BingWallPaper-2026-09-06-菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg
+BingWallPaper-2026-09-07-Lake Fyans, Grampians National Park, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg
