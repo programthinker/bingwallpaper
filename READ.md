@@ -2347,3 +2347,5 @@ BingWallPaper-2026-09-05-龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎�
 BingWallPaper-2026-09-06-Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg
 BingWallPaper-2026-09-06-菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg
 BingWallPaper-2026-09-07-Lake Fyans, Grampians National Park, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg
+BingWallPaper-2026-09-07-老市政厅，班贝格，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg
+BingWallPaper-2026-09-08-'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg
