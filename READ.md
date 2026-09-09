@@ -2351,3 +2351,5 @@ BingWallPaper-2026-09-07-老市政厅，班贝格，德国-4K.jpg&&https://cn.bi
 BingWallPaper-2026-09-08-'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California-4K.jpg&&https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg
 BingWallPaper-2026-09-08-东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg
 BingWallPaper-2026-09-09-Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg
+BingWallPaper-2026-09-09-安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg
+BingWallPaper-2026-09-10-Gabit Keni Beach near Ankola, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg
