@@ -2353,3 +2353,5 @@ BingWallPaper-2026-09-08-东米恩南唐斯国家公园谷物田中的山毛榉�
 BingWallPaper-2026-09-09-Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg
 BingWallPaper-2026-09-09-安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度-4K.jpg&&https://cn.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg
 BingWallPaper-2026-09-10-Gabit Keni Beach near Ankola, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg
+BingWallPaper-2026-09-10-奥尔韦拉航拍图，安达卢西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg
+BingWallPaper-2026-09-11-Aerial view of Olvera, Andalusia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg
