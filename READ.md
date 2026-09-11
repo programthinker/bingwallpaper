@@ -2355,3 +2355,5 @@ BingWallPaper-2026-09-09-安科拉附近的加比特凯尼海滩，卡纳塔克�
 BingWallPaper-2026-09-10-Gabit Keni Beach near Ankola, Karnataka, India-4K.jpg&&https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg
 BingWallPaper-2026-09-10-奥尔韦拉航拍图，安达卢西亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg
 BingWallPaper-2026-09-11-Aerial view of Olvera, Andalusia, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg
+BingWallPaper-2026-09-11-滨海自由城，法国里维埃拉，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg
+BingWallPaper-2026-09-12-The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania-4K.jpg&&https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg
