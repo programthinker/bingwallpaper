@@ -2361,3 +2361,5 @@ BingWallPaper-2026-09-12-墨西哥近海围猎沙丁鱼饵球的加州海狮，�
 BingWallPaper-2026-09-13-California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg
 BingWallPaper-2026-09-13-米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg
 BingWallPaper-2026-09-14-Cadini di Misurina, Dolomites, Veneto, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg
+BingWallPaper-2026-09-15-红绿金刚鹦鹉-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg
+BingWallPaper-2026-09-15-Field of kochia plants, China-4K.jpg&&https://cn.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg
