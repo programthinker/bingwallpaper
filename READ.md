@@ -2363,3 +2363,5 @@ BingWallPaper-2026-09-13-米苏里纳群峰，多洛米蒂山脉，威尼托大�
 BingWallPaper-2026-09-14-Cadini di Misurina, Dolomites, Veneto, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg
 BingWallPaper-2026-09-15-红绿金刚鹦鹉-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg
 BingWallPaper-2026-09-15-Field of kochia plants, China-4K.jpg&&https://cn.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg
+BingWallPaper-2026-09-15-红绿金刚鹦鹉-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg
+BingWallPaper-2026-09-16-Fort Union National Monument, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg
