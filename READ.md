@@ -2365,3 +2365,5 @@ BingWallPaper-2026-09-15-红绿金刚鹦鹉-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2026-09-15-Field of kochia plants, China-4K.jpg&&https://cn.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg
 BingWallPaper-2026-09-15-红绿金刚鹦鹉-4K.jpg&&https://cn.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg
 BingWallPaper-2026-09-16-Fort Union National Monument, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg
+BingWallPaper-2026-09-16-斯瓦尔巴群岛玩耍的北极熊幼崽，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg
+BingWallPaper-2026-09-17-Polar bear cubs playing in Svalbard, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg
