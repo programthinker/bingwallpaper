@@ -2367,3 +2367,5 @@ BingWallPaper-2026-09-15-红绿金刚鹦鹉-4K.jpg&&https://cn.bing.com/th?id=OH
 BingWallPaper-2026-09-16-Fort Union National Monument, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg
 BingWallPaper-2026-09-16-斯瓦尔巴群岛玩耍的北极熊幼崽，挪威-4K.jpg&&https://cn.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg
 BingWallPaper-2026-09-17-Polar bear cubs playing in Svalbard, Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg
+BingWallPaper-2026-09-17-桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg
+BingWallPaper-2026-09-18-Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France-4K.jpg&&https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg
