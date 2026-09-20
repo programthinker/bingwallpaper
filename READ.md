@@ -2373,3 +2373,5 @@ BingWallPaper-2026-09-18-温纳茨山口，峰区国家公园，英格兰-4K.jpg
 BingWallPaper-2026-09-19-Winnats Pass, Peak District National Park, England-4K.jpg&&https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg
 BingWallPaper-2026-09-19-阿尔卑斯长号演奏者，巴伐利亚州，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg
 BingWallPaper-2026-09-20-Alphorn players, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg
+BingWallPaper-2026-09-20-日落时分的埃菲尔铁塔，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg
+BingWallPaper-2026-09-21-Eiffel Tower at sunset, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg
