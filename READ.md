@@ -2375,3 +2375,5 @@ BingWallPaper-2026-09-19-阿尔卑斯长号演奏者，巴伐利亚州，德国-
 BingWallPaper-2026-09-20-Alphorn players, Bavaria, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg
 BingWallPaper-2026-09-20-日落时分的埃菲尔铁塔，巴黎，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg
 BingWallPaper-2026-09-21-Eiffel Tower at sunset, Paris, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg
+BingWallPaper-2026-09-22-瓜兹曼山口附近的秋日山杨林，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg
+BingWallPaper-2026-09-22-Sea otter grooming fur, Monterey Bay, California-4K.jpg&&https://cn.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg
