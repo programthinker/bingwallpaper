@@ -2379,3 +2379,5 @@ BingWallPaper-2026-09-22-瓜兹曼山口附近的秋日山杨林，犹他州，�
 BingWallPaper-2026-09-22-Sea otter grooming fur, Monterey Bay, California-4K.jpg&&https://cn.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg
 BingWallPaper-2026-09-22-瓜兹曼山口附近的秋日山杨林，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg
 BingWallPaper-2026-09-23-Fall aspen trees near Guardsman Pass, Utah, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg
+BingWallPaper-2026-09-23-地坛公园秋日美景，北京，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg
+BingWallPaper-2026-09-24-Hobbit house at Hobbiton Movie Set, Matamata, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg
