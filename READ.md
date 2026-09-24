@@ -2381,3 +2381,5 @@ BingWallPaper-2026-09-22-瓜兹曼山口附近的秋日山杨林，犹他州，�
 BingWallPaper-2026-09-23-Fall aspen trees near Guardsman Pass, Utah, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg
 BingWallPaper-2026-09-23-地坛公园秋日美景，北京，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg
 BingWallPaper-2026-09-24-Hobbit house at Hobbiton Movie Set, Matamata, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg
+BingWallPaper-2026-09-24-黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg
+BingWallPaper-2026-09-25-Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg
