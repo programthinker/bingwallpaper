@@ -2383,3 +2383,5 @@ BingWallPaper-2026-09-23-地坛公园秋日美景，北京，中国-4K.jpg&&http
 BingWallPaper-2026-09-24-Hobbit house at Hobbiton Movie Set, Matamata, New Zealand-4K.jpg&&https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg
 BingWallPaper-2026-09-24-黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg
 BingWallPaper-2026-09-25-Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg
+BingWallPaper-2026-09-25-庆祝中秋节的中国灯笼-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg
+BingWallPaper-2026-09-26-Chinese lanterns for Mid-Autumn Festival celebration-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg
