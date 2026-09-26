@@ -2385,3 +2385,5 @@ BingWallPaper-2026-09-24-黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨�
 BingWallPaper-2026-09-25-Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg
 BingWallPaper-2026-09-25-庆祝中秋节的中国灯笼-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg
 BingWallPaper-2026-09-26-Chinese lanterns for Mid-Autumn Festival celebration-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg
+BingWallPaper-2026-09-26-熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg
+BingWallPaper-2026-09-27-Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg
