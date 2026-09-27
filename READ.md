@@ -2387,3 +2387,5 @@ BingWallPaper-2026-09-25-庆祝中秋节的中国灯笼-4K.jpg&&https://cn.bing.
 BingWallPaper-2026-09-26-Chinese lanterns for Mid-Autumn Festival celebration-4K.jpg&&https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg
 BingWallPaper-2026-09-26-熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg
 BingWallPaper-2026-09-27-Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg
+BingWallPaper-2026-09-27-海笔上的装饰蟹，科莫多国家公园，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg
+BingWallPaper-2026-09-28-Decorator crab on a sea pen, Komodo National Park, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg
