@@ -2389,3 +2389,5 @@ BingWallPaper-2026-09-26-熊耳国家纪念区附近的雪松台地和骡子角�
 BingWallPaper-2026-09-27-Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg
 BingWallPaper-2026-09-27-海笔上的装饰蟹，科莫多国家公园，印度尼西亚-4K.jpg&&https://cn.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg
 BingWallPaper-2026-09-28-Decorator crab on a sea pen, Komodo National Park, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg
+BingWallPaper-2026-09-29-卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg
+BingWallPaper-2026-09-29-Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg
