@@ -2391,3 +2391,5 @@ BingWallPaper-2026-09-27-海笔上的装饰蟹，科莫多国家公园，印度�
 BingWallPaper-2026-09-28-Decorator crab on a sea pen, Komodo National Park, Indonesia-4K.jpg&&https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg
 BingWallPaper-2026-09-29-卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg
 BingWallPaper-2026-09-29-Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg
+BingWallPaper-2026-09-30-雄性文须雀，诺福克郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg
+BingWallPaper-2026-09-30-The blue, glacier-fed waters of the Kasilof River, Alaska, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg
