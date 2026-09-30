@@ -2393,3 +2393,5 @@ BingWallPaper-2026-09-29-卡西洛夫河冰川融水滋养的湛蓝河水，阿�
 BingWallPaper-2026-09-29-Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India-4K.jpg&&https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg
 BingWallPaper-2026-09-30-雄性文须雀，诺福克郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg
 BingWallPaper-2026-09-30-The blue, glacier-fed waters of the Kasilof River, Alaska, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg
+BingWallPaper-2026-10-01-奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg
+BingWallPaper-2026-10-01-Male bearded reedling, Norfolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg
