@@ -2395,3 +2395,5 @@ BingWallPaper-2026-09-30-雄性文须雀，诺福克郡，英格兰-4K.jpg&&http
 BingWallPaper-2026-09-30-The blue, glacier-fed waters of the Kasilof River, Alaska, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg
 BingWallPaper-2026-10-01-奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg
 BingWallPaper-2026-10-01-Male bearded reedling, Norfolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg
+BingWallPaper-2026-10-02-查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg
+BingWallPaper-2026-10-02-Sunset from Olmsted Point, Yosemite National Park, California, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg
