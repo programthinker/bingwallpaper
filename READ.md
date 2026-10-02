@@ -2397,3 +2397,5 @@ BingWallPaper-2026-10-01-奥姆斯特德观景点的日落，优胜美地国家�
 BingWallPaper-2026-10-01-Male bearded reedling, Norfolk, England-4K.jpg&&https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg
 BingWallPaper-2026-10-02-查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg
 BingWallPaper-2026-10-02-Sunset from Olmsted Point, Yosemite National Park, California, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg
+BingWallPaper-2026-10-02-查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg
+BingWallPaper-2026-10-03-Chattooga River in the Appalachian Mountains, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg
