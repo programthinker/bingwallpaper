@@ -2399,3 +2399,5 @@ BingWallPaper-2026-10-02-查图加河，阿巴拉契亚山脉，北卡罗来纳�
 BingWallPaper-2026-10-02-Sunset from Olmsted Point, Yosemite National Park, California, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg
 BingWallPaper-2026-10-02-查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg
 BingWallPaper-2026-10-03-Chattooga River in the Appalachian Mountains, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg
+BingWallPaper-2026-10-03-美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊-4K.jpg&&https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg
+BingWallPaper-2026-10-04-Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg
