@@ -2401,3 +2401,5 @@ BingWallPaper-2026-10-02-查图加河，阿巴拉契亚山脉，北卡罗来纳�
 BingWallPaper-2026-10-03-Chattooga River in the Appalachian Mountains, North Carolina-4K.jpg&&https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg
 BingWallPaper-2026-10-03-美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊-4K.jpg&&https://cn.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg
 BingWallPaper-2026-10-04-Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska-4K.jpg&&https://cn.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg
+BingWallPaper-2026-10-04-阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日-4K.jpg&&https://cn.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg
+BingWallPaper-2026-10-05-Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, June 15, 2022-4K.jpg&&https://cn.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg
