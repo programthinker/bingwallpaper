@@ -2407,3 +2407,5 @@ BingWallPaper-2026-10-06-丹霞地貌，张掖国家地质公园，甘肃省，�
 BingWallPaper-2026-10-06-Adélie penguins, Antarctica-4K.jpg&&https://cn.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg
 BingWallPaper-2026-10-07-覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg
 BingWallPaper-2026-10-07-Danxia landform, Zhangye National Geopark, Gansu, China-4K.jpg&&https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg
+BingWallPaper-2026-10-08-印度洋马约特岛，一只呈防御姿态的章鱼-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg
+BingWallPaper-2026-10-08-Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg
