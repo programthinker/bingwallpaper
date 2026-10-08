@@ -2409,3 +2409,5 @@ BingWallPaper-2026-10-07-覆满苔藓的岩石，英国格洛斯特郡谜林，�
 BingWallPaper-2026-10-07-Danxia landform, Zhangye National Geopark, Gansu, China-4K.jpg&&https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg
 BingWallPaper-2026-10-08-印度洋马约特岛，一只呈防御姿态的章鱼-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg
 BingWallPaper-2026-10-08-Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg
+BingWallPaper-2026-10-09-桑吉奈尔群岛景观，摄自科西嘉岛，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg
+BingWallPaper-2026-10-09-Octopus in defensive posture, Mayotte, Indian Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg
