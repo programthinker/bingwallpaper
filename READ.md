@@ -2411,3 +2411,5 @@ BingWallPaper-2026-10-08-印度洋马约特岛，一只呈防御姿态的章鱼-
 BingWallPaper-2026-10-08-Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg
 BingWallPaper-2026-10-09-桑吉奈尔群岛景观，摄自科西嘉岛，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg
 BingWallPaper-2026-10-09-Octopus in defensive posture, Mayotte, Indian Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg
+BingWallPaper-2026-10-10-蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg
+BingWallPaper-2026-10-10-View of the Sanguinaires Islands from Corsica, France-4K.jpg&&https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg
