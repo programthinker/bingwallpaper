@@ -2413,3 +2413,5 @@ BingWallPaper-2026-10-09-桑吉奈尔群岛景观，摄自科西嘉岛，法国-
 BingWallPaper-2026-10-09-Octopus in defensive posture, Mayotte, Indian Ocean-4K.jpg&&https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg
 BingWallPaper-2026-10-10-蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg
 BingWallPaper-2026-10-10-View of the Sanguinaires Islands from Corsica, France-4K.jpg&&https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg
+BingWallPaper-2026-10-10-蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg
+BingWallPaper-2026-10-11-Double-crested cormorants over Monterey Bay, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg
