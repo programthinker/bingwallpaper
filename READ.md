@@ -2415,3 +2415,5 @@ BingWallPaper-2026-10-10-蒙特雷湾上空的双冠鸬鹚，加利福尼亚州�
 BingWallPaper-2026-10-10-View of the Sanguinaires Islands from Corsica, France-4K.jpg&&https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg
 BingWallPaper-2026-10-10-蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg
 BingWallPaper-2026-10-11-Double-crested cormorants over Monterey Bay, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg
+BingWallPaper-2026-10-11-格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg
+BingWallPaper-2026-10-12-Glade Creek Grist Mill, Babcock State Park, West Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg
