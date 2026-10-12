@@ -2417,3 +2417,5 @@ BingWallPaper-2026-10-10-蒙特雷湾上空的双冠鸬鹚，加利福尼亚州�
 BingWallPaper-2026-10-11-Double-crested cormorants over Monterey Bay, California-4K.jpg&&https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg
 BingWallPaper-2026-10-11-格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg
 BingWallPaper-2026-10-12-Glade Creek Grist Mill, Babcock State Park, West Virginia-4K.jpg&&https://cn.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg
+BingWallPaper-2026-10-13-普利特维采湖群国家公园，克罗地亚-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg
+BingWallPaper-2026-10-13-White House Ruin at Canyon de Chelly National Monument in Arizona-4K.jpg&&https://cn.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg
