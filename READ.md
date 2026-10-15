@@ -2423,3 +2423,5 @@ BingWallPaper-2026-10-14-侏罗纪时期的菊石化石-4K.jpg&&https://cn.bing.
 BingWallPaper-2026-10-14-Plitvice Lakes National Park, Croatia-4K.jpg&&https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg
 BingWallPaper-2026-10-14-侏罗纪时期的菊石化石-4K.jpg&&https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg
 BingWallPaper-2026-10-15-Ammonite fossils from the Jurassic Period-4K.jpg&&https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg
+BingWallPaper-2026-10-15-弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg
+BingWallPaper-2026-10-16-View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg
