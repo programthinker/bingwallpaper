@@ -2425,3 +2425,5 @@ BingWallPaper-2026-10-14-侏罗纪时期的菊石化石-4K.jpg&&https://cn.bing.
 BingWallPaper-2026-10-15-Ammonite fossils from the Jurassic Period-4K.jpg&&https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg
 BingWallPaper-2026-10-15-弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰-4K.jpg&&https://cn.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg
 BingWallPaper-2026-10-16-View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg
+BingWallPaper-2026-10-16-斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg
+BingWallPaper-2026-10-17-Mount Sneffels in the San Juan Mountains near Ridgway, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg
