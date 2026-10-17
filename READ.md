@@ -2427,3 +2427,5 @@ BingWallPaper-2026-10-15-弗罗茨瓦夫集市广场景观，摄自女巫桥，�
 BingWallPaper-2026-10-16-View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland-4K.jpg&&https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg
 BingWallPaper-2026-10-16-斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg
 BingWallPaper-2026-10-17-Mount Sneffels in the San Juan Mountains near Ridgway, Colorado-4K.jpg&&https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg
+BingWallPaper-2026-10-17-肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国-4K.jpg&&https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg
+BingWallPaper-2026-10-18-Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg
