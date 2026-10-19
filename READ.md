@@ -2431,3 +2431,5 @@ BingWallPaper-2026-10-17-肖维岩洞艺术作品等比例复制品，瓦隆蓬�
 BingWallPaper-2026-10-18-Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France-4K.jpg&&https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg
 BingWallPaper-2026-10-18-多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士-4K.jpg&&https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg
 BingWallPaper-2026-10-19-Dolbadarn Castle, Llanberis, Eryri National Park-4K.jpg&&https://cn.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg
+BingWallPaper-2026-10-20-褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg
+BingWallPaper-2026-10-20-Grand Canal in Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg
