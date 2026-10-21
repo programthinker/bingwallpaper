@@ -2435,3 +2435,5 @@ BingWallPaper-2026-10-20-褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎�
 BingWallPaper-2026-10-20-Grand Canal in Venice, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg
 BingWallPaper-2026-10-20-褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加-4K.jpg&&https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg
 BingWallPaper-2026-10-21-Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg
+BingWallPaper-2026-10-21-香江上的阮潢桥，顺化，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg
+BingWallPaper-2026-10-22-Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg
