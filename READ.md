@@ -2437,3 +2437,5 @@ BingWallPaper-2026-10-20-褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎�
 BingWallPaper-2026-10-21-Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica-4K.jpg&&https://cn.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg
 BingWallPaper-2026-10-21-香江上的阮潢桥，顺化，越南-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg
 BingWallPaper-2026-10-22-Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg
+BingWallPaper-2026-10-22-内藏山国立公园的秋景，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg
+BingWallPaper-2026-10-23-Autumn in Naejangsan National Park, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg
