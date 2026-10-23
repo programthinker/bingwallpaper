@@ -2439,3 +2439,5 @@ BingWallPaper-2026-10-21-香江上的阮潢桥，顺化，越南-4K.jpg&&https:/
 BingWallPaper-2026-10-22-Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam-4K.jpg&&https://cn.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg
 BingWallPaper-2026-10-22-内藏山国立公园的秋景，韩国-4K.jpg&&https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg
 BingWallPaper-2026-10-23-Autumn in Naejangsan National Park, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg
+BingWallPaper-2026-10-23-两只灰狼，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg
+BingWallPaper-2026-10-24-Two gray wolves, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg
