@@ -2441,3 +2441,5 @@ BingWallPaper-2026-10-22-内藏山国立公园的秋景，韩国-4K.jpg&&https:/
 BingWallPaper-2026-10-23-Autumn in Naejangsan National Park, South Korea-4K.jpg&&https://cn.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg
 BingWallPaper-2026-10-23-两只灰狼，黄石国家公园，怀俄明州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg
 BingWallPaper-2026-10-24-Two gray wolves, Yellowstone National Park, Wyoming-4K.jpg&&https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg
+BingWallPaper-2026-10-24-皇家葡萄牙语阅览室，里约热内卢，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg
+BingWallPaper-2026-10-25-Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg
