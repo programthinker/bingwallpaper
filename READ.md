@@ -2445,3 +2445,5 @@ BingWallPaper-2026-10-24-皇家葡萄牙语阅览室，里约热内卢，巴西-
 BingWallPaper-2026-10-25-Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil-4K.jpg&&https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg
 BingWallPaper-2026-10-25-玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg
 BingWallPaper-2026-10-26-Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria-4K.jpg&&https://cn.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg
+BingWallPaper-2026-10-27-秋叶缤纷的池杉林，乔治亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg
+BingWallPaper-2026-10-27-Gray-headed flying fox, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg
