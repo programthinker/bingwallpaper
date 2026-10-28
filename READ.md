@@ -2449,3 +2449,5 @@ BingWallPaper-2026-10-27-秋叶缤纷的池杉林，乔治亚州，美国-4K.jpg
 BingWallPaper-2026-10-27-Gray-headed flying fox, Victoria, Australia-4K.jpg&&https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg
 BingWallPaper-2026-10-27-秋叶缤纷的池杉林，乔治亚州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg
 BingWallPaper-2026-10-28-A grove of pond cypress trees with fall foliage, Georgia, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg
+BingWallPaper-2026-10-29-立石，埃夫伯里，威尔特郡，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg
+BingWallPaper-2026-10-29-Kunětická hora Castle, Bohemia, Czechia-4K.jpg&&https://cn.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg
