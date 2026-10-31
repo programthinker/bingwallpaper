@@ -2455,3 +2455,5 @@ BingWallPaper-2026-10-30-沙丘鹤，博斯克德尔阿帕奇国家野生动物�
 BingWallPaper-2026-10-30-Standing stones at Avebury in Wiltshire, England-4K.jpg&&https://cn.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg
 BingWallPaper-2026-10-31-圣巴尔多禄茂教堂，法兰克福，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg
 BingWallPaper-2026-10-31-Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg
+BingWallPaper-2026-10-31-圣巴尔多禄茂教堂，法兰克福，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg
+BingWallPaper-2026-11-01-St. Bartholomew's Cathedral in Frankfurt, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg
