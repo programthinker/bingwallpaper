@@ -2457,3 +2457,5 @@ BingWallPaper-2026-10-31-圣巴尔多禄茂教堂，法兰克福，德国-4K.jpg
 BingWallPaper-2026-10-31-Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg
 BingWallPaper-2026-10-31-圣巴尔多禄茂教堂，法兰克福，德国-4K.jpg&&https://cn.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg
 BingWallPaper-2026-11-01-St. Bartholomew's Cathedral in Frankfurt, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg
+BingWallPaper-2026-11-02-北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg
+BingWallPaper-2026-11-02-Handmade baskets, Santa Fe, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg
