@@ -2459,3 +2459,5 @@ BingWallPaper-2026-10-31-圣巴尔多禄茂教堂，法兰克福，德国-4K.jpg
 BingWallPaper-2026-11-01-St. Bartholomew's Cathedral in Frankfurt, Germany-4K.jpg&&https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg
 BingWallPaper-2026-11-02-北极熊和幼崽，哈得孙湾畔，马尼托巴省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg
 BingWallPaper-2026-11-02-Handmade baskets, Santa Fe, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg
+BingWallPaper-2026-11-03-布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg
+BingWallPaper-2026-11-03-Polar bear and cubs by Hudson Bay, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg
