@@ -2461,3 +2461,5 @@ BingWallPaper-2026-11-02-北极熊和幼崽，哈得孙湾畔，马尼托巴省�
 BingWallPaper-2026-11-02-Handmade baskets, Santa Fe, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg
 BingWallPaper-2026-11-03-布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg
 BingWallPaper-2026-11-03-Polar bear and cubs by Hudson Bay, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg
+BingWallPaper-2026-11-04-五彩落羽杉间划船的人们，宣城，安徽省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg
+BingWallPaper-2026-11-04-Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg
