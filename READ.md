@@ -2463,3 +2463,5 @@ BingWallPaper-2026-11-03-布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖�
 BingWallPaper-2026-11-03-Polar bear and cubs by Hudson Bay, Manitoba, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg
 BingWallPaper-2026-11-04-五彩落羽杉间划船的人们，宣城，安徽省，中国-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg
 BingWallPaper-2026-11-04-Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy-4K.jpg&&https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg
+BingWallPaper-2026-11-05-石墙边的木制翻越梯，黑岩，湖区，英格兰-4K.jpg&&https://cn.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg
+BingWallPaper-2026-11-05-People rowing among colorful bald cypress, Xuancheng, Anhui, China-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg
