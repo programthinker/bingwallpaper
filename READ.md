@@ -2467,3 +2467,5 @@ BingWallPaper-2026-11-05-石墙边的木制翻越梯，黑岩，湖区，英格�
 BingWallPaper-2026-11-05-People rowing among colorful bald cypress, Xuancheng, Anhui, China-4K.jpg&&https://cn.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg
 BingWallPaper-2026-11-06-竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg
 BingWallPaper-2026-11-06-Wooden stile at a stone wall, Black Crag, Lake District, England-4K.jpg&&https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg
+BingWallPaper-2026-11-07-草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg
+BingWallPaper-2026-11-07-Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg
