@@ -2471,3 +2471,5 @@ BingWallPaper-2026-11-07-草原上的一头野牛，西奥多·罗斯福国家�
 BingWallPaper-2026-11-07-Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii-4K.jpg&&https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg
 BingWallPaper-2026-11-07-草原上的一头野牛，西奥多·罗斯福国家公园，北达科他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg
 BingWallPaper-2026-11-08-A bison in the grasslands of Theodore Roosevelt National Park, North Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg
+BingWallPaper-2026-11-09-特里亚纳历史街区，塞维利亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg
+BingWallPaper-2026-11-09-Lanterns for Diwali, Mumbai, Maharashtra, India-4K.jpg&&https://cn.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg
