@@ -2473,3 +2473,5 @@ BingWallPaper-2026-11-07-草原上的一头野牛，西奥多·罗斯福国家�
 BingWallPaper-2026-11-08-A bison in the grasslands of Theodore Roosevelt National Park, North Dakota-4K.jpg&&https://cn.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg
 BingWallPaper-2026-11-09-特里亚纳历史街区，塞维利亚，西班牙-4K.jpg&&https://cn.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg
 BingWallPaper-2026-11-09-Lanterns for Diwali, Mumbai, Maharashtra, India-4K.jpg&&https://cn.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg
+BingWallPaper-2026-11-10-玫瑰岛航拍图，巴哈马-4K.jpg&&https://cn.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg
+BingWallPaper-2026-11-10-Historic district of Triana, Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg
