@@ -2477,3 +2477,5 @@ BingWallPaper-2026-11-10-玫瑰岛航拍图，巴哈马-4K.jpg&&https://cn.bing.
 BingWallPaper-2026-11-10-Historic district of Triana, Seville, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg
 BingWallPaper-2026-11-11-大西洋森林，巴西-4K.jpg&&https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg
 BingWallPaper-2026-11-11-Aerial view of Rose Island, The Bahamas-4K.jpg&&https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg
+BingWallPaper-2026-11-12-北窗，拱门国家公园，莫阿布，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg
+BingWallPaper-2026-11-12-American flags in a public park in upstate New York-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg
