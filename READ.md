@@ -2479,3 +2479,5 @@ BingWallPaper-2026-11-11-大西洋森林，巴西-4K.jpg&&https://cn.bing.com/th
 BingWallPaper-2026-11-11-Aerial view of Rose Island, The Bahamas-4K.jpg&&https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg
 BingWallPaper-2026-11-12-北窗，拱门国家公园，莫阿布，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg
 BingWallPaper-2026-11-12-American flags in a public park in upstate New York-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg
+BingWallPaper-2026-11-13-亚伯拉罕湖，艾伯塔省，加拿大-4K.jpg&&https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg
+BingWallPaper-2026-11-13-North Window, Arches National Park, Moab, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg
