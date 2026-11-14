@@ -2483,3 +2483,5 @@ BingWallPaper-2026-11-13-亚伯拉罕湖，艾伯塔省，加拿大-4K.jpg&&http
 BingWallPaper-2026-11-13-North Window, Arches National Park, Moab, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg
 BingWallPaper-2026-11-14-中国香港维多利亚港-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg
 BingWallPaper-2026-11-14-Abraham Lake in Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg
+BingWallPaper-2026-11-15-覆霜的红叶杜鹃-4K.jpg&&https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg
+BingWallPaper-2026-11-15-Victoria Harbour, Hong Kong, China-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg
