@@ -2485,3 +2485,5 @@ BingWallPaper-2026-11-14-中国香港维多利亚港-4K.jpg&&https://cn.bing.com
 BingWallPaper-2026-11-14-Abraham Lake in Alberta, Canada-4K.jpg&&https://cn.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg
 BingWallPaper-2026-11-15-覆霜的红叶杜鹃-4K.jpg&&https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg
 BingWallPaper-2026-11-15-Victoria Harbour, Hong Kong, China-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg
+BingWallPaper-2026-11-16-美国新墨西哥州吉拉悬崖民居国家纪念地-4K.jpg&&https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg
+BingWallPaper-2026-11-16-Frozen azalea with red leaves-4K.jpg&&https://cn.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg
