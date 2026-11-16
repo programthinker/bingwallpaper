@@ -2487,3 +2487,5 @@ BingWallPaper-2026-11-15-覆霜的红叶杜鹃-4K.jpg&&https://cn.bing.com/th?id
 BingWallPaper-2026-11-15-Victoria Harbour, Hong Kong, China-4K.jpg&&https://cn.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg
 BingWallPaper-2026-11-16-美国新墨西哥州吉拉悬崖民居国家纪念地-4K.jpg&&https://cn.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg
 BingWallPaper-2026-11-16-Frozen azalea with red leaves-4K.jpg&&https://cn.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg
+BingWallPaper-2026-11-17-雪松林步道，冰川国家公园，蒙大拿州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg
+BingWallPaper-2026-11-17-Gila Cliff Dwellings National Monument, New Mexico-4K.jpg&&https://cn.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg
