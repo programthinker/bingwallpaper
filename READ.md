@@ -2493,3 +2493,5 @@ BingWallPaper-2026-11-18-一对仓鸮-4K.jpg&&https://cn.bing.com/th?id=OHR.Barn
 BingWallPaper-2026-11-18-Trail of the Cedars, Glacier National Park, Montana-4K.jpg&&https://cn.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg
 BingWallPaper-2026-11-19-雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学-4K.jpg&&https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg
 BingWallPaper-2026-11-19-Pair of barn owls-4K.jpg&&https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg
+BingWallPaper-2026-11-21-法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯-4K.jpg&&https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg
+BingWallPaper-2026-11-21-Diving humpback whale, Kvaloya, Troms, Northern Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg
