@@ -2495,3 +2495,5 @@ BingWallPaper-2026-11-19-雕塑《知识之躯》，由豪梅·普兰萨创作�
 BingWallPaper-2026-11-19-Pair of barn owls-4K.jpg&&https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg
 BingWallPaper-2026-11-21-法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯-4K.jpg&&https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg
 BingWallPaper-2026-11-21-Diving humpback whale, Kvaloya, Troms, Northern Norway-4K.jpg&&https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg
+BingWallPaper-2026-11-22-西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂-4K.jpg&&https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg
+BingWallPaper-2026-11-22-Nice, Provence-Alpes-Côte d'Azur, France-4K.jpg&&https://cn.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg
