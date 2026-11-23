@@ -2499,3 +2499,5 @@ BingWallPaper-2026-11-22-西班牙坎塔布里亚自治区的圣胡斯塔隐修�
 BingWallPaper-2026-11-22-Nice, Provence-Alpes-Côte d'Azur, France-4K.jpg&&https://cn.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg
 BingWallPaper-2026-11-23-蕨类植物的卷曲嫩叶-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg
 BingWallPaper-2026-11-23-The chapel and hermitage of Santa Justa in Cantabria, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg
+BingWallPaper-2026-11-24-红松鼠，凯恩戈姆斯国家公园，苏格兰高地-4K.jpg&&https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg
+BingWallPaper-2026-11-24-Fiddlehead fern-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg
