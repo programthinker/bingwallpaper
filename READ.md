@@ -2501,3 +2501,5 @@ BingWallPaper-2026-11-23-蕨类植物的卷曲嫩叶-4K.jpg&&https://cn.bing.com
 BingWallPaper-2026-11-23-The chapel and hermitage of Santa Justa in Cantabria, Spain-4K.jpg&&https://cn.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg
 BingWallPaper-2026-11-24-红松鼠，凯恩戈姆斯国家公园，苏格兰高地-4K.jpg&&https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg
 BingWallPaper-2026-11-24-Fiddlehead fern-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg
+BingWallPaper-2026-11-25-日落观景点，布莱斯峡谷国家公园，犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg
+BingWallPaper-2026-11-25-Red squirrel in Cairngorms National Park, Highlands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg
