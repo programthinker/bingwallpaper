@@ -2503,3 +2503,5 @@ BingWallPaper-2026-11-24-红松鼠，凯恩戈姆斯国家公园，苏格兰高�
 BingWallPaper-2026-11-24-Fiddlehead fern-4K.jpg&&https://cn.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg
 BingWallPaper-2026-11-25-日落观景点，布莱斯峡谷国家公园，犹他州-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg
 BingWallPaper-2026-11-25-Red squirrel in Cairngorms National Park, Highlands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg
+BingWallPaper-2026-11-26-怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg
+BingWallPaper-2026-11-26-Sunset Point, Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg
