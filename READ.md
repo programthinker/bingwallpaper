@@ -2505,3 +2505,5 @@ BingWallPaper-2026-11-25-日落观景点，布莱斯峡谷国家公园，犹他�
 BingWallPaper-2026-11-25-Red squirrel in Cairngorms National Park, Highlands, Scotland-4K.jpg&&https://cn.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg
 BingWallPaper-2026-11-26-怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg
 BingWallPaper-2026-11-26-Sunset Point, Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg
+BingWallPaper-2026-11-27-夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg
+BingWallPaper-2026-11-27-Two wild tom turkeys-4K.jpg&&https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg
