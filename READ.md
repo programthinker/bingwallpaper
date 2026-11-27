@@ -2507,3 +2507,5 @@ BingWallPaper-2026-11-26-怀卢库河上的彩虹瀑布，希洛市，夏威夷�
 BingWallPaper-2026-11-26-Sunset Point, Bryce Canyon National Park, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg
 BingWallPaper-2026-11-27-夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国-4K.jpg&&https://cn.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg
 BingWallPaper-2026-11-27-Two wild tom turkeys-4K.jpg&&https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg
+BingWallPaper-2026-11-28-捷克布拉格老城区与伏尔塔瓦河-4K.jpg&&https://cn.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg
+BingWallPaper-2026-11-28-Butte at sunset, Face Canyon, Lake Powell, Utah-4K.jpg&&https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg
